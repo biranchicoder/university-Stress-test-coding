@@ -1,0 +1,888 @@
+{
+  "university": "Notre_Dame",
+  "case_id": "Notre_Dame-S13",
+  "scenario_id": "S13",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 1,
+      "reason": "Policy: Privacy (N042, 2.3, 4.1.2, 4.2.5, 4.3.1) and Policy: Records Management Framework (N185, 4.5.1.1) cover personal information and University records generally, but no policy covers course-scoped persistent AI tutoring memory, misconception retention, or semester-end memory disposal.",
+      "search_terms_used": [
+        "personal information purpose",
+        "retention disposal records",
+        "student data performance"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 158,
+          "viewer_page": 158,
+          "line_start": "L020",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "2.3.1 The kind of personal information collected by the University;\n2.3.2 The way in which personal information is collected and held;\n2.3.3 The purposes for which personal information is collected, held, used and disclosed;\n2.3.4 How an individual may access their personal information and request any correction in\nthe information;\n2.3.5 How an individual may make a complaint relating to the handling of personal\ninformation or a potential breach of the APPs and the process that will be adopted in\nhandling a complaint;",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 351,
+          "viewer_page": 351,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 158,
+          "viewer_page": 158,
+          "line_start": "L020",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "2.3.1 The kind of personal information collected by the University;\n2.3.2 The way in which personal information is collected and held;\n2.3.3 The purposes for which personal information is collected, held, used and disclosed;\n2.3.4 How an individual may access their personal information and request any correction in\nthe information;\n2.3.5 How an individual may make a complaint relating to the handling of personal\ninformation or a potential breach of the APPs and the process that will be adopted in\nhandling a complaint;",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 351,
+          "viewer_page": 351,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "N042 assigns personal-information access/correction to the Campus Registrar (4.4.2) and privacy complaints to General Counsel or nominee (5.1) with OAIC referral (4.5.4), and N185 (5.1-5.2) assigns records oversight to the University Secretary and Records and Information Manager, though no role is assigned to govern course-level AI memory lifecycles.",
+      "search_terms_used": [
+        "privacy complaint",
+        "student record access"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L019",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "4.4.2 A request for access to an individual’s personal information can only be made by the\nindividual to whom the personal information relates and should be made in writing\nto the Campus Registrar if the request relates to a student’s personal information or to\nthe Legal Office of the relevant Campus if the request relates to a staff member or\ncontractor. If the request is to seek a correction of personal information the individual\nseeking the correction must provide evidence to support the correction.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 162,
+          "viewer_page": 162,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 General Counsel or nominee is responsible for resolving internal complaints about the\nUniversity’s handling of personal information.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 352,
+          "viewer_page": 352,
+          "line_start": "L004",
+          "line_end": "L006",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 University Secretary is responsible for the oversight of the Records Management Framework.\n5.2 Records and Information Manager is responsible for managing the implementation of the\nRecords Management Framework. This includes any records management technology and",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Visually checked PDF page 352; L004-L006 are clean single-column prose above the version table.",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L019",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "4.4.2 A request for access to an individual’s personal information can only be made by the\nindividual to whom the personal information relates and should be made in writing\nto the Campus Registrar if the request relates to a student’s personal information or to\nthe Legal Office of the relevant Campus if the request relates to a staff member or\ncontractor. If the request is to seek a correction of personal information the individual\nseeking the correction must provide evidence to support the correction.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 162,
+          "viewer_page": 162,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 General Counsel or nominee is responsible for resolving internal complaints about the\nUniversity’s handling of personal information.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N042, N043, and N185 are compatible on privacy, security, and records retention, without explicit coordination for course-scoped AI tutoring memory.",
+      "search_terms_used": [
+        "privacy procedure",
+        "retention disposal records"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "4.2.5 The University stores and holds personal information in a secure and restricted manner.\nPersonal information is stored both electronically and in hard form. Personal\ninformation may be a r c h i v e d or destroyed once no longer needed in accordance",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 351,
+          "viewer_page": 351,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "4.2.5 The University stores and holds personal information in a secure and restricted manner.\nPersonal information is stored both electronically and in hard form. Personal\ninformation may be a r c h i v e d or destroyed once no longer needed in accordance",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 351,
+          "viewer_page": 351,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N042 (4.4-4.5) provides general access/correction and privacy complaint procedures (30 business days), but course-end AI memory restriction/disposal and student visibility into stored AI context are not procedurally defined and the Retention and Disposal Schedule (N185 6.3) is absent from the bundle.",
+      "search_terms_used": [
+        "privacy procedure",
+        "student record access",
+        "retention disposal records"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L025",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 352,
+          "viewer_page": 352,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Guideline: Retention and Disposal of University Records (RDS)",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Visually checked PDF page 352; L014 is clean single-column prose above the version table.",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L025",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 352,
+          "viewer_page": 352,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Guideline: Retention and Disposal of University Records (RDS)",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 1/10/2025",
+          "version_evidence_location": {
+            "source_id": "N185",
+            "document_title": "Policy: Records Management Framework",
+            "printed_bundle_page": 347,
+            "viewer_page": 347,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Visually checked PDF page 352; L014 is clean single-column prose above the version table.",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "Guideline: Retention and Disposal of University Records (RDS) referenced in N185 6.3 is not in the bundle."
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "General privacy, secure storage (N042 4.2.5), purpose limitation (4.3.1), and data-breach management (N043 11.4) protections exist, leaving a material gap on informed notice and lawful course-end restriction/disposal of persistent AI tutoring memory.",
+      "search_terms_used": [
+        "privacy security data",
+        "consent information collection"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "4.2.5 The University stores and holds personal information in a secure and restricted manner.\nPersonal information is stored both electronically and in hard form. Personal\ninformation may be a r c h i v e d or destroyed once no longer needed in accordance",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L018",
+          "line_end": "L023",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Purpose of Collecting, Using, Storing and Disclosing Personal Information\n4.3.1 Personal information provided by you to the University will only be used by the\nUniversity for the administrative or educational purposes of the University, or for\nanother purpose for which consent has been specifically provided.\n4.3.2 Examples of the administrative or educational purposes which the University will collect,\nuse, store or disclose personal information are to provide a means of:",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "4.2.5 The University stores and holds personal information in a secure and restricted manner.\nPersonal information is stored both electronically and in hard form. Personal\ninformation may be a r c h i v e d or destroyed once no longer needed in accordance",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 160,
+          "viewer_page": 160,
+          "line_start": "L018",
+          "line_end": "L023",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Purpose of Collecting, Using, Storing and Disclosing Personal Information\n4.3.1 Personal information provided by you to the University will only be used by the\nUniversity for the administrative or educational purposes of the University, or for\nanother purpose for which consent has been specifically provided.\n4.3.2 Examples of the administrative or educational purposes which the University will collect,\nuse, store or disclose personal information are to provide a means of:",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 1,
+      "reason": "General institutional policy review applies under Policy: Institutional Review Framework (N192), with no AI-memory monitoring mechanism.",
+      "search_terms_used": [
+        "privacy procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Students may request access/correction of personal information via the Campus Registrar (N042, 4.4.2) and lodge privacy complaints with General Counsel within 30 business days, with external referral to OAIC (N042, 4.5).",
+    "review_route_evidence": {
+      "source_id": "N042",
+      "document_title": "Policy: Privacy",
+      "printed_bundle_page": 161,
+      "viewer_page": 161,
+      "line_start": "L025",
+      "line_end": "L036",
+      "evidence_type": "Exact quotation",
+      "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Effective Date: 05/08/2019",
+      "version_evidence_location": {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 157,
+        "viewer_page": 157,
+        "line_start": "L010",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": []
+    },
+    "critical_gap": "Yes",
+    "critical_risk_criterion": "Informed, purpose-limited collection and lawful course-end memory restriction/disposal, with access and security protections.",
+    "critical_gap_explanation": "While N042 provides general privacy principles and access/complaint routes, no policy establishes informed course-end memory restriction or disposal rules for persistent AI tutoring conversation histories, and the Retention and Disposal Schedule (N185 6.3) is absent from the bundle.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Policy: Privacy (N042) and Policy: Records Management Framework (N185) establish general personal-information security, access, and complaint routes, but do not address persistent AI tutoring memory or course-end deletion/restriction. Because students lack clear course-end memory disposal rules and the linked Retention and Disposal Schedule is absent, a critical gap remains; Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 158,
+        "viewer_page": 158,
+        "line_start": "L020",
+        "line_end": "L027",
+        "evidence_type": "Exact quotation",
+        "text": "2.3.1 The kind of personal information collected by the University;\n2.3.2 The way in which personal information is collected and held;\n2.3.3 The purposes for which personal information is collected, held, used and disclosed;\n2.3.4 How an individual may access their personal information and request any correction in\nthe information;\n2.3.5 How an individual may make a complaint relating to the handling of personal\ninformation or a potential breach of the APPs and the process that will be adopted in\nhandling a complaint;",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 05/08/2019",
+        "version_evidence_location": {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 157,
+          "viewer_page": 157,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N185",
+        "document_title": "Policy: Records Management Framework",
+        "printed_bundle_page": 351,
+        "viewer_page": 351,
+        "line_start": "L025",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 1/10/2025",
+        "version_evidence_location": {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 347,
+          "viewer_page": 347,
+          "line_start": "L009",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "search_terms_used": [
+      "collect use disclose data",
+      "consent information collection",
+      "personal information purpose",
+      "privacy complaint",
+      "privacy procedure",
+      "privacy security data",
+      "retention disposal records",
+      "student data performance",
+      "student performance",
+      "student record access"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 158,
+        "viewer_page": 158,
+        "line_start": "L020",
+        "line_end": "L027",
+        "evidence_type": "Exact quotation",
+        "text": "2.3.1 The kind of personal information collected by the University;\n2.3.2 The way in which personal information is collected and held;\n2.3.3 The purposes for which personal information is collected, held, used and disclosed;\n2.3.4 How an individual may access their personal information and request any correction in\nthe information;\n2.3.5 How an individual may make a complaint relating to the handling of personal\ninformation or a potential breach of the APPs and the process that will be adopted in\nhandling a complaint;",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 05/08/2019",
+        "version_evidence_location": {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 157,
+          "viewer_page": 157,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 161,
+        "viewer_page": 161,
+        "line_start": "L019",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "4.4.2 A request for access to an individual’s personal information can only be made by the\nindividual to whom the personal information relates and should be made in writing\nto the Campus Registrar if the request relates to a student’s personal information or to\nthe Legal Office of the relevant Campus if the request relates to a staff member or\ncontractor. If the request is to seek a correction of personal information the individual\nseeking the correction must provide evidence to support the correction.\n4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 05/08/2019",
+        "version_evidence_location": {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 157,
+          "viewer_page": 157,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N185",
+        "document_title": "Policy: Records Management Framework",
+        "printed_bundle_page": 351,
+        "viewer_page": 351,
+        "line_start": "L025",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "4.5.1.1 Retention and Disposal Schedule (RDS) – this outlines the retention period\nand disposal actions for the various types of University records. It ensures\nthat records of continuing value are preserved, and those records no longer\nneeded are disposed of in a timely and compliant manner.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 1/10/2025",
+        "version_evidence_location": {
+          "source_id": "N185",
+          "document_title": "Policy: Records Management Framework",
+          "printed_bundle_page": 347,
+          "viewer_page": 347,
+          "line_start": "L009",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Records Management Framework Page 2 of 7\nEffective Date: 1/10/2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": "N185 6.3 references Guideline: Retention and Disposal of University Records (RDS), which is not in the bundle."
+  },
+  "additional_search_requests": []
+}

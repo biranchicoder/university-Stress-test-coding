@@ -1,0 +1,910 @@
+{
+  "university": "Notre_Dame",
+  "case_id": "Notre_Dame-S2",
+  "scenario_id": "S2",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 3,
+      "reason": "Policy: Academic Integrity (N028, 4.5.2.3 and 4.5.2.4) explicitly prohibits submitting assessment work produced or modified using generative AI (unless expressly allowed), including as contract cheating.",
+      "search_terms_used": [
+        "AI assignment",
+        "academic misconduct",
+        "student assessment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 93,
+          "viewer_page": 93,
+          "line_start": "L005",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.2.3 unauthorised use of generative artificial intelligence – submitting work that has\nbeen produced or modified using artificial intelligence tools including Large\nLanguage Models, content generators, Chatbots and other forms of generative\nartificial intelligence (writing assistance tools, including grammar checkers,\ntranslation and paraphrasing tools, and reference generators) (unless expressly\nallowed).\n4.5.2.4 contract cheating – submission of work for assessment that has been\ncompleted by a third party; this includes submitting work that has been\nproduced by\n a commercial provider, a current or former student, a family member or a\nfriend\n work that has been produced or modified using software including\ngenerative artificial intelligence (unless expressly allowed), or\n organising another person to complete an examination",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 93,
+          "viewer_page": 93,
+          "line_start": "L005",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "4.5.2.3 unauthorised use of generative artificial intelligence – submitting work that has\nbeen produced or modified using artificial intelligence tools including Large\nLanguage Models, content generators, Chatbots and other forms of generative\nartificial intelligence (writing assistance tools, including grammar checkers,\ntranslation and paraphrasing tools, and reference generators) (unless expressly\nallowed).\n4.5.2.4 contract cheating – submission of work for assessment that has been\ncompleted by a third party; this includes submitting work that has been\nproduced by\n a commercial provider, a current or former student, a family member or a\nfriend\n work that has been produced or modified using software including\ngenerative artificial intelligence (unless expressly allowed), or\n organising another person to complete an examination",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D2",
+      "score": 3,
+      "reason": "Procedure: Academic Integrity (N027, 5.4 and 5.6) assigns investigation and decision authority to the Course Coordinator, Academic Integrity Officer, Head of School/Director, and Discipline Committees, explicitly linked to Policy: Student Appeals (N034, 23-24).",
+      "search_terms_used": [
+        "academic misconduct",
+        "appeal assessment",
+        "assessment procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 81,
+          "viewer_page": 81,
+          "line_start": "L024",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 212,
+          "viewer_page": 212,
+          "line_start": "L001",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "23.1 A Student may appeal the determination of the National Head of School, relevant Executive\nDirector or School Discipline Committee to the University Discipline Committee, except where\nthe decision of the University Discipline Committee is final and there is no further internal right\nof appeal.\n23.2 Grounds for appeal: The Student may appeal on the grounds that show that the National Head\nof School, relevant Executive Director or School Discipline Committee failed to follow due\nprocess in accordance with the General Regulations, when determining the outcome of\nmisconduct.\n23.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the National Head of School, relevant Executive Director or",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 81,
+          "viewer_page": 81,
+          "line_start": "L024",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 212,
+          "viewer_page": 212,
+          "line_start": "L001",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "23.1 A Student may appeal the determination of the National Head of School, relevant Executive\nDirector or School Discipline Committee to the University Discipline Committee, except where\nthe decision of the University Discipline Committee is final and there is no further internal right\nof appeal.\n23.2 Grounds for appeal: The Student may appeal on the grounds that show that the National Head\nof School, relevant Executive Director or School Discipline Committee failed to follow due\nprocess in accordance with the General Regulations, when determining the outcome of\nmisconduct.\n23.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the National Head of School, relevant Executive Director or",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 3,
+      "reason": "N028, N027, and N034 explicitly coordinate: N028 4.6.1 invokes N027, N028 6.2.7 cites N034, and N027 4.4.1.1 / 5.4 align with N028 4.5.2.4 on contract cheating.",
+      "search_terms_used": [
+        "academic misconduct",
+        "assessment procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 93,
+          "viewer_page": 93,
+          "line_start": "L036",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "4.6 Responding to suspected breaches\n4.6.1 The University will respond to all suspected breaches of academic integrity in\naccordance with the requirements of the Procedure: Academic Integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 80,
+          "viewer_page": 80,
+          "line_start": "L004",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "4.4 Level three breach\n4.4.1 A level three breach of academic integrity may involve any of the following:\n4.4.1.1 any form of cheating, including contract cheating\n4.4.1.2 fabrication or falsification of data or other information, or\n4.4.1.3 an intentional breach which has the effect that a substantial or central\nportion of an assessment task designed to assess program learning outcome/s\nlacks integrity; but which\n4.4.1.4 is unlikely to have included committing an offence that might lead to legal\nproceedings.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 93,
+          "viewer_page": 93,
+          "line_start": "L036",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "4.6 Responding to suspected breaches\n4.6.1 The University will respond to all suspected breaches of academic integrity in\naccordance with the requirements of the Procedure: Academic Integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 80,
+          "viewer_page": 80,
+          "line_start": "L004",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "4.4 Level three breach\n4.4.1 A level three breach of academic integrity may involve any of the following:\n4.4.1.1 any form of cheating, including contract cheating\n4.4.1.2 fabrication or falsification of data or other information, or\n4.4.1.3 an intentional breach which has the effect that a substantial or central\nportion of an assessment task designed to assess program learning outcome/s\nlacks integrity; but which\n4.4.1.4 is unlikely to have included committing an offence that might lead to legal\nproceedings.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 3,
+      "reason": "N027 (5.1, 5.4, 5.6) and N034 (23-24) provide a complete, actionable sequence from notification to Course Coordinator, referral to Academic Integrity Officer, Head of School/Discipline Committee determination, and appeal within 10 Working Days (determined within 20 Working Days).",
+      "search_terms_used": [
+        "assessment procedure",
+        "appeal assessment",
+        "academic misconduct"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 81,
+          "viewer_page": 81,
+          "line_start": "L024",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 212,
+          "viewer_page": 212,
+          "line_start": "L011",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "School Discipline Committee decision the Chair, University Discipline Committee. The Chair,\nUniversity Discipline Committee may extend the time for lodging the appeal in exceptional\ncircumstances.\n23.4 Timing for University review of appeal: The Chair of the University Discipline Committee must\nconvene a hearing of the University Discipline Committee and determine the matter within 20\nWorking Days of receipt of the appeal.\n23.5 Notification: The Chair of the University Discipline Committee will advise the Student, National\nHead of School, Student Administration and other staff as required in writing of the\ndetermination, in accordance with the requirements for notification set out in section 6.5 of\nthis policy.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 81,
+          "viewer_page": 81,
+          "line_start": "L024",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 212,
+          "viewer_page": 212,
+          "line_start": "L011",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "School Discipline Committee decision the Chair, University Discipline Committee. The Chair,\nUniversity Discipline Committee may extend the time for lodging the appeal in exceptional\ncircumstances.\n23.4 Timing for University review of appeal: The Chair of the University Discipline Committee must\nconvene a hearing of the University Discipline Committee and determine the matter within 20\nWorking Days of receipt of the appeal.\n23.5 Notification: The Chair of the University Discipline Committee will advise the Student, National\nHead of School, Student Administration and other staff as required in writing of the\ndetermination, in accordance with the requirements for notification set out in section 6.5 of\nthis policy.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 3,
+      "reason": "Specific protections address unverified AI submissions: prohibition as unauthorised Gen-AI and Level 3 contract cheating (N028 4.5.2.3-4.5.2.4, N027 4.4.1.1), blocking contract cheating sites (N028 4.4.3), secure/invigilated assessment assurance (N026 3.5.6), procedural fairness (N027 5.1.1), and central breach register (N027 7.1).",
+      "search_terms_used": [
+        "academic misconduct",
+        "AI assignment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 92,
+          "viewer_page": 92,
+          "line_start": "L037",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "4.4.3 The University will monitor and block access to websites that are suspected of\nfacilitating breaches of academic integrity, including websites offering illegal contract\ncheating services and file-sharing websites.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 80,
+          "viewer_page": 80,
+          "line_start": "L031",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.1.1 Suspected breaches of academic integrity by students will be investigated in a way\nthat ensures:\n5.1.1.1 the student is provided enough details of the allegation to enable them to\nunderstand and properly consider it\n5.1.1.2 the student has an opportunity to respond to the allegation, either verbally or\nin writing, and is allowed enough time to do so\n5.1.1.3 the confidentiality of all parties is respected, and\n5.1.1.4 a decision is made promptly and without bias.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L024",
+          "line_end": "L025",
+          "evidence_type": "Exact quotation",
+          "text": "3.5.6 ensuring sufficient coverage of the course and program learning outcomes in secure or\ninvigilated assessments.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 46,
+            "viewer_page": 46,
+            "line_start": "L048",
+            "line_end": "L049",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 5 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 92,
+          "viewer_page": 92,
+          "line_start": "L037",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "4.4.3 The University will monitor and block access to websites that are suspected of\nfacilitating breaches of academic integrity, including websites offering illegal contract\ncheating services and file-sharing websites.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 8/11/2023",
+          "version_evidence_location": {
+            "source_id": "N028",
+            "document_title": "Policy: Academic Integrity",
+            "printed_bundle_page": 90,
+            "viewer_page": 90,
+            "line_start": "L009",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 80,
+          "viewer_page": 80,
+          "line_start": "L031",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "5.1.1 Suspected breaches of academic integrity by students will be investigated in a way\nthat ensures:\n5.1.1.1 the student is provided enough details of the allegation to enable them to\nunderstand and properly consider it\n5.1.1.2 the student has an opportunity to respond to the allegation, either verbally or\nin writing, and is allowed enough time to do so\n5.1.1.3 the confidentiality of all parties is respected, and\n5.1.1.4 a decision is made promptly and without bias.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L024",
+          "line_end": "L025",
+          "evidence_type": "Exact quotation",
+          "text": "3.5.6 ensuring sufficient coverage of the course and program learning outcomes in secure or\ninvigilated assessments.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 46,
+            "viewer_page": 46,
+            "line_start": "L048",
+            "line_end": "L049",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 5 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N027 (8.3-8.4.2.3) provides Study Period trend reporting and annual reporting to Academic Council to recommend policy and practice improvements.",
+      "search_terms_used": [
+        "academic misconduct"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 83,
+          "viewer_page": 83,
+          "line_start": "L030",
+          "line_end": "L034",
+          "evidence_type": "Exact quotation",
+          "text": "8.3 The Manager, Academic Integrity and Misconduct will use the central academic integrity\nregister to report on trends for the occurrence and outcomes of student academic integrity\nbreaches to the Academic Standards and Policy Committee for each Study Period.\n8.4 The Deputy Vice-Chancellor, Academic will report annually on student academic integrity to\nAcademic Council.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 84,
+          "viewer_page": 84,
+          "line_start": "L001",
+          "line_end": "L003",
+          "evidence_type": "Exact quotation",
+          "text": "8.4.2.2 detecting and responding to breaches of academic integrity when they occur,\nand\n8.4.2.3 to recommend changes to improve policy and practice.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 83,
+          "viewer_page": 83,
+          "line_start": "L030",
+          "line_end": "L034",
+          "evidence_type": "Exact quotation",
+          "text": "8.3 The Manager, Academic Integrity and Misconduct will use the central academic integrity\nregister to report on trends for the occurrence and outcomes of student academic integrity\nbreaches to the Academic Standards and Policy Committee for each Study Period.\n8.4 The Deputy Vice-Chancellor, Academic will report annually on student academic integrity to\nAcademic Council.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 84,
+          "viewer_page": 84,
+          "line_start": "L001",
+          "line_end": "L003",
+          "evidence_type": "Exact quotation",
+          "text": "8.4.2.2 detecting and responding to breaches of academic integrity when they occur,\nand\n8.4.2.3 to recommend changes to improve policy and practice.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/2/2026",
+          "version_evidence_location": {
+            "source_id": "N027",
+            "document_title": "Procedure: Academic Integrity",
+            "printed_bundle_page": 77,
+            "viewer_page": 77,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Students may appeal misconduct determinations of a National Head of School, Executive Director, or School Discipline Committee to the University Discipline Committee, and then to the Student Misconduct Appeals Committee (N034, clauses 23-24).",
+    "review_route_evidence": {
+      "source_id": "N034",
+      "document_title": "Policy: Student Appeals",
+      "printed_bundle_page": 212,
+      "viewer_page": 212,
+      "line_start": "L023",
+      "line_end": "L030",
+      "evidence_type": "Exact quotation",
+      "text": "24 MISCONDUCT - UNIVERSITY DISCIPLINE COMMITTEE\n24.1 A Student may appeal the decision of the University Discipline Committee to the Student\nMisconduct Appeals Committee in accordance with the General Regulations\n24.2 Grounds for appeal: The Student may only appeal on the following grounds:\n24.2.1 the University Discipline Committee failed to comply with Procedural Fairness;\n24.2.2 the Student has evidence relating to the allegation that was not reasonably available at\nthe time of the University Discipline Committee hearing and that, if available, may have\nreasonably affected the decision of the University Discipline Committee or the penalty",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Effective Date: 4/11/2026",
+      "version_evidence_location": {
+        "source_id": "N034",
+        "document_title": "Policy: Student Appeals",
+        "printed_bundle_page": 201,
+        "viewer_page": 201,
+        "line_start": "L035",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": []
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "Prevention or enforceable refusal of unverified AI-produced assessment being claimed as the student's own.",
+    "critical_gap_explanation": "Policy: Academic Integrity (N028, 4.5.2.3-4.5.2.4) and Procedure: Academic Integrity (N027, 4.4.1.1, 5.4) prohibit and enforce against unverified AI-produced assessment submissions as unauthorised Gen-AI and contract cheating.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Prohibition",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Notre Dame explicitly prohibits submitting unverified AI-generated work under Policy: Academic Integrity (N028, 4.5.2.3-4.5.2.4), classifying it as unauthorised Gen-AI use or contract cheating. Procedure: Academic Integrity (N027) and Policy: Student Appeals (N034) provide a complete investigation, penalty, and appeal pathway; Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N028",
+        "document_title": "Policy: Academic Integrity",
+        "printed_bundle_page": 93,
+        "viewer_page": 93,
+        "line_start": "L005",
+        "line_end": "L018",
+        "evidence_type": "Exact quotation",
+        "text": "4.5.2.3 unauthorised use of generative artificial intelligence – submitting work that has\nbeen produced or modified using artificial intelligence tools including Large\nLanguage Models, content generators, Chatbots and other forms of generative\nartificial intelligence (writing assistance tools, including grammar checkers,\ntranslation and paraphrasing tools, and reference generators) (unless expressly\nallowed).\n4.5.2.4 contract cheating – submission of work for assessment that has been\ncompleted by a third party; this includes submitting work that has been\nproduced by\n a commercial provider, a current or former student, a family member or a\nfriend\n work that has been produced or modified using software including\ngenerative artificial intelligence (unless expressly allowed), or\n organising another person to complete an examination",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 8/11/2023",
+        "version_evidence_location": {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 90,
+          "viewer_page": 90,
+          "line_start": "L009",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N027",
+        "document_title": "Procedure: Academic Integrity",
+        "printed_bundle_page": 81,
+        "viewer_page": 81,
+        "line_start": "L024",
+        "line_end": "L038",
+        "evidence_type": "Exact quotation",
+        "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/2/2026",
+        "version_evidence_location": {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 77,
+          "viewer_page": 77,
+          "line_start": "L013",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "search_terms_used": [
+      "AI assignment",
+      "academic misconduct",
+      "appeal assessment",
+      "assessment procedure",
+      "student assessment"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N028",
+        "document_title": "Policy: Academic Integrity",
+        "printed_bundle_page": 93,
+        "viewer_page": 93,
+        "line_start": "L005",
+        "line_end": "L018",
+        "evidence_type": "Exact quotation",
+        "text": "4.5.2.3 unauthorised use of generative artificial intelligence – submitting work that has\nbeen produced or modified using artificial intelligence tools including Large\nLanguage Models, content generators, Chatbots and other forms of generative\nartificial intelligence (writing assistance tools, including grammar checkers,\ntranslation and paraphrasing tools, and reference generators) (unless expressly\nallowed).\n4.5.2.4 contract cheating – submission of work for assessment that has been\ncompleted by a third party; this includes submitting work that has been\nproduced by\n a commercial provider, a current or former student, a family member or a\nfriend\n work that has been produced or modified using software including\ngenerative artificial intelligence (unless expressly allowed), or\n organising another person to complete an examination",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 8/11/2023",
+        "version_evidence_location": {
+          "source_id": "N028",
+          "document_title": "Policy: Academic Integrity",
+          "printed_bundle_page": 90,
+          "viewer_page": 90,
+          "line_start": "L009",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Academic Integrity Page 2 of 7\nEffective Date: 8/11/2023"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N027",
+        "document_title": "Procedure: Academic Integrity",
+        "printed_bundle_page": 81,
+        "viewer_page": 81,
+        "line_start": "L024",
+        "line_end": "L038",
+        "evidence_type": "Exact quotation",
+        "text": "5.4 Contract cheating\n5.4.1 All breaches of academic integrity involving contract cheating are considered to be\nstudent misconduct.\n5.4.2 If the suspected breach of academic integrity involves an allegation of contract\ncheating, the course coordinator will refer it to the Academic Integrity Officer for\ninvestigation to decide if it can be substantiated.\n5.4.3 If the Academic Integrity Officer decides it is likely that contract cheating has occurred,\nthey will notify the course coordinator who will report the matter to the appropriate\nhead of school or director. (refer to clause 5.2.2 of this procedure)\n5.4.3.1 If the incident of contract cheating involves multiple students, the Academic\nIntegrity Officer will also notify the Pro Vice Chancellor, Education and the\nDeputy Vice-Chancellor, Academic.\n5.4.4 If the Academic Integrity Officer decides that contract cheating cannot be\nsubstantiated, they will notify the course coordinator and provide the reason for their\ndecision.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/2/2026",
+        "version_evidence_location": {
+          "source_id": "N027",
+          "document_title": "Procedure: Academic Integrity",
+          "printed_bundle_page": 77,
+          "viewer_page": 77,
+          "line_start": "L013",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "Procedure: Academic Integrity Page 2 of 13\nEffective Date: 13/2/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N034",
+        "document_title": "Policy: Student Appeals",
+        "printed_bundle_page": 212,
+        "viewer_page": 212,
+        "line_start": "L023",
+        "line_end": "L030",
+        "evidence_type": "Exact quotation",
+        "text": "24 MISCONDUCT - UNIVERSITY DISCIPLINE COMMITTEE\n24.1 A Student may appeal the decision of the University Discipline Committee to the Student\nMisconduct Appeals Committee in accordance with the General Regulations\n24.2 Grounds for appeal: The Student may only appeal on the following grounds:\n24.2.1 the University Discipline Committee failed to comply with Procedural Fairness;\n24.2.2 the Student has evidence relating to the allegation that was not reasonably available at\nthe time of the University Discipline Committee hearing and that, if available, may have\nreasonably affected the decision of the University Discipline Committee or the penalty",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 4/11/2026",
+        "version_evidence_location": {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 201,
+          "viewer_page": 201,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": ""
+  },
+  "additional_search_requests": []
+}

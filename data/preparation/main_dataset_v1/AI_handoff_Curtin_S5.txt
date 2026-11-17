@@ -1,0 +1,391 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Curtin
+Case ID: Curtin-S5
+Scenario: S5 — Delegated Attendance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S5 Delegated Attendance
+A disclosed AI avatar attends an online lecture in the student's absence, asks questions on the student's behalf through the platform's chat or voice channel, and reports the lecture's content back to the student afterward. The proxy is disclosed to the platform, not concealed.
+Boundary: Disclosed as an AI proxy at the point of use, not concealed
+Risks to check: Proxy identity and authorisation; attendance requirements; recording and privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S5-Q01 [actor_and_activity]: attendance proxy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S5-Q02 [related_roles]: online attendance — 8 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q03 [permission_authority]: authorised proxy — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q04 [restriction_boundary]: false attendance — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S5-Q05 [procedure]: attendance procedure — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q06 [review_route]: attendance appeal — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q07 [related_risk]: proxy identity — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N002 | Assessment and Student Progression Policy and Procedures March 2026 administrative version | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N149 | Disclosure of Personal Information Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N143 | Standard 10 - Complaints and appeals (ESOS National Code) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N150 | Course Quality Assurance Manual | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N230 | Curtin Access Plan process for reasonable adjustments | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N232 | Class registration lecture recordings and attendance requirements | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-7cc7aae25bf5bf
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L002–L002
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: 2.5.2 The format of a Confirmation Check is generally a brief, informal face-to-face or
+Candidate passage: online discussion to verify a student’s understanding of their submitted work.
+Context after: 2.5.3 The Unit Coordinator (or authorised officer) may initiate a Confirmation Check on
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a7fcaa881e4d1c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L043–L043
+Search query IDs: S5-Q02, S5-Q05
+Search terms: online attendance | attendance procedure
+Extraction/review flags: none recorded
+Context before: held or due during tuition free or study weeks.
+Candidate passage: 2.11 Attendance will not in itself count towards a mark for an Assessment Task or an outcome for
+Context after: a unit.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cfef3289b561c7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L052–L052
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: none recorded
+Context before: Will be responsible for:
+Candidate passage: a) Determining the correct or intended interpretation and scope of this procedure; and
+Context after: b) Deciding cases where an issue is not clearly dealt with in these procedures.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a05ac9d4c27b35
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L007–L007
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: none recorded
+Context before: Application
+Candidate passage: 2.1 This procedure will apply to face-to-face Examinations.
+Context after: 2.2 This procedure will apply to online invigilated examinations to the extent that it does not conflict
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2ed893734ef549
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L008–L008
+Search query IDs: S5-Q02, S5-Q05
+Search terms: online attendance | attendance procedure
+Extraction/review flags: none recorded
+Context before: 2.1 This procedure will apply to face-to-face Examinations.
+Candidate passage: 2.2 This procedure will apply to online invigilated examinations to the extent that it does not conflict
+Context after: with the terms of the Online Invigilation: Examinations and Invigilated eTests Procedure.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-27ca82e40ba6b7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L009–L009
+Search query IDs: S5-Q02, S5-Q05
+Search terms: online attendance | attendance procedure
+Extraction/review flags: none recorded
+Context before: 2.2 This procedure will apply to online invigilated examinations to the extent that it does not conflict
+Candidate passage: with the terms of the Online Invigilation: Examinations and Invigilated eTests Procedure.
+Context after: Requirement to have a Valid Curtin Student Identification
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c14c9adc2377ef
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L019–L019
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: and Awards to enable appropriate action as required.
+Candidate passage: Examination Attendance
+Context after: 2.6 Students are responsible for sitting their examination as advised in any finalised timetable.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0f12bd5e973a38
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L014–L014
+Search query IDs: S5-Q07
+Search terms: proxy identity
+Extraction/review flags: none recorded
+Context before: prayer times).
+Candidate passage: 2.16.2 Requirements for cultural or religious attire that may impact identity verification or
+Context after: Assessment completion.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2b35820ed44e86
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L035–L035
+Search query IDs: S5-Q03, S5-Q07
+Search terms: authorised proxy | proxy identity
+Extraction/review flags: none recorded
+Context before: appropriate reasonable adjustments.
+Candidate passage: 2.22 The Elite Athlete Coordinator will act as a proxy on behalf of Elite Athletes to request
+Context after: Alternative Arrangements.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-daae321c292558
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L038–L038
+Search query IDs: S5-Q03
+Search terms: authorised proxy
+Extraction/review flags: none recorded
+Context before: 2.23 In assessing an application for an Alternative Arrangement, the Elite Athlete Coordinator (or
+Candidate passage: authorised officer) will interview the student and consider the following:
+Context after: 2.23.1 Formal recognition of the student as an “Elite Athlete”; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d9c0457af43767
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L003–L003
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: Registered providers’ internal complaints and appeals must:
+Candidate passage:  have a process for overseas students to lodge a formal complaint or appeal if a matter
+Context after: cannot be resolved informally;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-366be83bcb84ad
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L005–L005
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: cannot be resolved informally;
+Candidate passage:  respond to any complaint or appeal an overseas student makes about the registered
+Context after: provider or any agent or related party the registered provider engages;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5ed8f2edc1180b
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L007–L007
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: provider or any agent or related party the registered provider engages;
+Candidate passage:  begin assessing a complaint or appeal within 10 working days of the overseas student
+Context after: lodging it, and finalise the outcome as soon as practicable;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-caea9e7ad21705
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L009–L009
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: lodging it, and finalise the outcome as soon as practicable;
+Candidate passage:  conduct the assessment of the complaint or appeal in a professional, fair and transparent
+Context after: manner;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-19d9c3cdd144f6
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L013–L013
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: and be accompanied and assisted by a support person if necessary; and
+Candidate passage:  give the overseas student a written statement of the outcome of the appeal, including the
+Context after: reasons for the outcome, and keep a written record of complaints or appeals on the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5b2d53742621c9
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L012–L012
+Search query IDs: S5-Q07
+Search terms: proxy identity
+Extraction/review flags: none recorded
+Context before: (c) clarify circumstances where personal information may be disclosed.
+Candidate passage: 2.2 Verification of identity and authority
+Context after: Before any personal information is disclosed, staff receiving any request for the release of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f5c644a549bcf3
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L016–L016
+Search query IDs: S5-Q07
+Search terms: proxy identity
+Extraction/review flags: none recorded
+Context before: (a) undertake a verification process with the requestor and assure themselves of the
+Candidate passage: requestor’s identity. This will be done at the discretion of the staff member to a
+Context after: reasonable level and may be completed by sighting and confirming identifying
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9ac99084e9dc1a
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L021–L021
+Search query IDs: S5-Q03
+Search terms: authorised proxy
+Extraction/review flags: none recorded
+Context before: who owns the personal information), obtain evidence of the requestor’s authority to
+Candidate passage: seek information, unless otherwise authorised pursuant to these procedures.
+Context after: 2.3 Requests will be made in writing and through appropriate channels
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a99bb622688a6a
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L039–L039
+Search query IDs: S5-Q03, S5-Q07
+Search terms: authorised proxy | proxy identity
+Extraction/review flags: none recorded
+Context before: information to a third party, the request should be accompanied by either the
+Candidate passage: Disclosure of Information and Proxy Authorisation Form or Communication
+Context after: Authorisation.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,115 @@
+{
+  "pilot_id": "Curtin_pilot_S1_S6_S13_v3",
+  "validated_at": "2026-11-15T21:50:33.434479+11:00",
+  "protocol_version": "1.1",
+  "protocol_file": "data/preparation/protocol_v1.1_critical_risk_amendment.json",
+  "policy_cutoff_date": "2026-11-12",
+  "outputs": {
+    "pilot_text_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals_v3.txt",
+    "pilot_json_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals_v3.json",
+    "v1_and_v2_preserved": true,
+    "sqlite_untouched": true,
+    "exports_untouched": true
+  },
+  "mechanical_validation": {
+    "status": "PASS",
+    "expected_cases": 3,
+    "actual_cases": 3,
+    "expected_dimensions": 18,
+    "actual_dimensions": 18,
+    "citations_checked": 81,
+    "citations_valid": 81,
+    "errors": [],
+    "warnings": []
+  },
+  "interpretation_requiring_human_review": {
+    "note": "Passing mechanical validation does NOT confirm substantive policy coding. Human review is required for all AI proposals below.",
+    "items": [
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D5=3 (vs 2) after excluding Turnitin detection disablement and external paid-tool differences as standalone safeguard gaps."
+      },
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D2=2 grounded in authorship/integrity verification and assessment appeal authorities (N002, N141) alongside undocumented Unit Coordinator permission criteria (N133, N136)."
+      },
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D3=2 (distinguishing N133/N136 approved-assessment 'must' from N134/A005 general 'recommended' scopes)."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Obtain 'Information and Communication Technology (ICT) Appropriate Use Procedures' (referenced by operative N005 p.218 L010-L011) and 'Disclosure of Information and Proxy Authorisation Form' (N149) to resolve Critical gap: Uncertain vs Yes or No (additional evidence may demonstrate adequate protection)."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm Mode=Prescribing (vs None) since N149/N002/N141 supply prescriptive third-party disclosure and advocacy rules without delegating AI-agent SSO recognition to a named role."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Obtain WAUSDA / Retention and Disposal Authorities, Disposal of Information guide (N011 3.8(c)), N001 Section 6 AI supporting procedures, PIA Checklist, and Student Privacy Collection Notice to resolve Critical gap: Uncertain vs Yes or No (additional evidence may demonstrate adequate protection)."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm whether N150 PC12 (2.6.1 prior consent for learning analytics) or N016 Appendix A (general educational service collection) controls when an AI learning assistant is voluntary within a unit."
+      }
+    ]
+  },
+  "case_outcomes_preview": {
+    "Curtin-S1": {
+      "scores": {
+        "D1": 3,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 3,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "No",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Indeterminate"
+    },
+    "Curtin-S6": {
+      "scores": {
+        "D1": 1,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "Uncertain",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Unassessable"
+    },
+    "Curtin-S13": {
+      "scores": {
+        "D1": 2,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "Uncertain",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Unassessable"
+    }
+  }
+}

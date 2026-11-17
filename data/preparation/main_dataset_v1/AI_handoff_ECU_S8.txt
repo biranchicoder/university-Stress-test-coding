@@ -1,0 +1,373 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: ECU
+Case ID: ECU-S8
+Scenario: S8 — AI Group Participant
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S8 AI Group Participant
+An AI agent joins the group's shared digital workspace as a member. It remembers past discussions across sessions, completes tasks allocated by human members, and contributes identifiable content directly to the submission — under its own presence, not impersonating a human.
+Boundary: The AI's contribution is identifiable/separable within the submission, not fully merged or undetectable
+Risks to check: Attribution of AI contributions; group responsibility; workspace privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Authorised AI assessment contributions, accountable human group responsibility and protection of group personal information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S8-Q01 [actor_and_activity]: group workspace — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q02 [related_roles]: AI contribution — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q03 [permission_authority]: member authorisation — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q04 [restriction_boundary]: workspace privacy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q05 [procedure]: group procedure — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q06 [review_route]: peer review — 16 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q07 [related_risk]: data retention — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N097 | Guideline for the Responsible use of Generative AI in Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N101 | Artificial Intelligence Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N098 | Data Management Guidelines | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- A014 | ECU Developing AI Literacy Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N221 | Authorship Agreement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N222 | Authorship Publication and Peer Review Guidelines | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N094 | Privacy Policy PL090 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N096 | Conducting Research with Integrity Policy PL415 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N154 | Assessment Procedure including Attachment 1 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N156 | Complaints Policy PL207 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-e8409d7f690bcf
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L002–L002
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: none recorded
+Context before: Guideline for the Responsible
+Candidate passage: use of Generative AI in Research
+Context after: 4.2 Higher Degree by Research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-44fe995eae5864
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L010–L010
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: none recorded
+Context before: regarding the transparent use of GenAI in their research, thereby ensuring alignment and
+Candidate passage: maintaining research integrity. It is a requirement that the AI Technology and Review Plan is
+Context after: completed at Milestone 1 with the candidate-supervisor panel agreement, and Milestone 4
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b888a9765e4041
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L016–L016
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: none recorded
+Context before: disagreements and disruptions later in the research journey.
+Candidate passage: The required acknowledgement for any contribution by GenAI to a candidate’s HDR is
+Context after: outlined in the ECU Thesis Preparation Guidelines. Candidates should be aware that their
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c17cb852d9975e
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L018–L018
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: none recorded
+Context before: outlined in the ECU Thesis Preparation Guidelines. Candidates should be aware that their
+Candidate passage: own original contribution to the thesis or exegesis will be assessed. Therefore, the Candidate
+Context after: must ensure that any use of GenAI supports their learning and development rather than
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9f3aaaaafc2e6d
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L028–L028
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: none recorded
+Context before: Researchers should be vigilant towards the possible bias and inaccuracy of content
+Candidate passage: generated using AI tools. This is critically important in the scoping and conduct of literature
+Context after: reviews. Researchers should also carefully consider the role and value of human-centered
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d3259ac6b8d9d9
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 9
+PDF viewer page (navigation only): 9
+Line numbers: L008–L008
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: organisation.
+Candidate passage: 4.6 Peer review
+Context after: The benefits and risks of AI within the peer review process are not yet clearly understood.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ce0feb14b735fe
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 9
+PDF viewer page (navigation only): 9
+Line numbers: L009–L009
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: 4.6 Peer review
+Candidate passage: The benefits and risks of AI within the peer review process are not yet clearly understood.
+Context after: However, among journals, AI is beginning to play an increasing role in areas of plagiarism
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e057221befec1e
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 9
+PDF viewer page (navigation only): 9
+Line numbers: L012–L012
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: prevention, formatting and compliance checks, and identifying potential reviewers.
+Candidate passage: Regarding the peer review process for journals and funding bodies, reviewers must treat
+Context after: submissions in-confidence and must not disclose any information in submissions under
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b301c749dac482
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 9
+PDF viewer page (navigation only): 9
+Line numbers: L015–L015
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: review. That includes disclosure to GenAI tools. The Australian Code for the Responsible
+Candidate passage: Conduct of Research indicates that researchers are required to conduct the peer review
+Context after: process in a manner that is fair, rigorous, timely and adheres to relevant confidentiality
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9df1052502cbcc
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 9
+PDF viewer page (navigation only): 9
+Line numbers: L017–L017
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: process in a manner that is fair, rigorous, timely and adheres to relevant confidentiality
+Candidate passage: requirements. As such, the guidelines for peer review of research outputs are even more
+Context after: strict that those outlined above in Applying for Funding & Grant Writing. When peer-reviewing,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-91fe0ef98f8ec5
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L004–L004
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: the privacy of any individual who may be identifiable through any usage of personal
+Candidate passage: information or personal data. Use caution and undertake due diligence before personal
+Context after: information or personal data is input into GenAI tools.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f605f8ab479acb
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L005–L005
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: information or personal data. Use caution and undertake due diligence before personal
+Candidate passage: information or personal data is input into GenAI tools.
+Context after: Publicly available GenAI tools (including commercially purchased/subscribed) may rely
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9c6bcc79de6a17
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L007–L007
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: Publicly available GenAI tools (including commercially purchased/subscribed) may rely
+Candidate passage: upon data entered for further training and improvement of the underlying generative model.
+Context after: GenAI tools may also extract sensitive information from provided data and chat histories, and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4d9e9519df017d
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L022–L022
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: application process which considers aspects of data characteristics, storage and security,
+Candidate passage: retention, access and reuse. More details on the data management responsibilities of
+Context after: researchers can be found here.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0b7e83bca4b3d2
+Source ID: N098
+Document title: Data Management Guidelines
+Printed bundle page: 27
+PDF viewer page (navigation only): 27
+Line numbers: L018–L018
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: Disposal Authority (WAUSDA).
+Candidate passage: 3.6 Data retention outlines the archiving requirements after the project has been
+Context after: completed to ensure both federal and state compliance. The DMP allows you to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-433efeaa8a1b43
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L033–L033
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: ECU’s Integrated Risk Management Framework.
+Candidate passage: Over time, this will guide any necessary updates to policy and procedure (e.g. procurement). This
+Context after: will be published prior to the end of 2023.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fc864fd94c0f2f
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L050–L050
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: Research Ethics committees
+Candidate passage: The Learning Technologies Advisory Group
+Context after: IT Governance Committee
+This may be complemented by a reporting process for managing complaints and breaches[4].
+Advisors
+Decisions regarding the adoption of AI, based on the Ethical Principles and Guide for Understanding
+Risk, will be supported by a community of Advisors. These may be members of the Working Groups,
+relevant Committee members and/or identified members of staff with accountability in relevant
+functional areas (e.g. DCS, CLT).
+Knowledge Base
+The guidelines will be supported by a c
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,202 @@
+[
+  {
+    "university": "Curtin",
+    "source_id": "N002",
+    "viewer_page": 50,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 78,
+    "cited_in_count": 4,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Curtin",
+    "source_id": "N002",
+    "viewer_page": 126,
+    "flags": "ambiguous_table",
+    "pdf_block_count": 79,
+    "cited_in_count": 2,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Curtin",
+    "source_id": "N005",
+    "viewer_page": 218,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 71,
+    "cited_in_count": 7,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Curtin",
+    "source_id": "N136",
+    "viewer_page": 150,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 61,
+    "cited_in_count": 20,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Curtin",
+    "source_id": "N136",
+    "viewer_page": 171,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 40,
+    "cited_in_count": 2,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "ECU",
+    "source_id": "N097",
+    "viewer_page": 6,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 49,
+    "cited_in_count": 8,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Murdoch",
+    "source_id": "N077",
+    "viewer_page": 131,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 59,
+    "cited_in_count": 3,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Murdoch",
+    "source_id": "N087",
+    "viewer_page": 13,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 63,
+    "cited_in_count": 36,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Murdoch",
+    "source_id": "N169",
+    "viewer_page": 208,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 60,
+    "cited_in_count": 13,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Murdoch",
+    "source_id": "N179",
+    "viewer_page": 346,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 51,
+    "cited_in_count": 7,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "Notre_Dame",
+    "source_id": "N185",
+    "viewer_page": 352,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 55,
+    "cited_in_count": 3,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N044",
+    "viewer_page": 35,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 96,
+    "cited_in_count": 13,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N046",
+    "viewer_page": 356,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 58,
+    "cited_in_count": 2,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N047",
+    "viewer_page": 361,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 63,
+    "cited_in_count": 12,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N047",
+    "viewer_page": 362,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 61,
+    "cited_in_count": 8,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N048",
+    "viewer_page": 368,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 69,
+    "cited_in_count": 3,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N067",
+    "viewer_page": 341,
+    "flags": "ambiguous_table",
+    "pdf_block_count": 86,
+    "cited_in_count": 6,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N071",
+    "viewer_page": 481,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 62,
+    "cited_in_count": 17,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N071",
+    "viewer_page": 483,
+    "flags": "ambiguous_table",
+    "pdf_block_count": 51,
+    "cited_in_count": 12,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  },
+  {
+    "university": "UWA",
+    "source_id": "N197",
+    "viewer_page": 337,
+    "flags": "ambiguous_table; scrambled_reading_order",
+    "pdf_block_count": 67,
+    "cited_in_count": 4,
+    "pdf_text_order_verified": true,
+    "status": "VERIFIED_AGAINST_PDF_LAYOUT"
+  }
+]

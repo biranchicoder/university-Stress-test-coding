@@ -1,0 +1,532 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: UWA
+Case ID: UWA-S4
+Scenario: S4 — Lecture Assistance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S4 Lecture Assistance
+An AI assistant attends a live lecture alongside the enrolled student — recording audio/video, producing structured notes, and privately answering the student's follow-up questions in real time. The AI is not disclosed to or visible to the instructor or other students; it functions purely as a personal aid.
+Boundary: AI does not communicate with the instructor or other students
+Risks to check: Recording and consent; third-party privacy; copyright; accessibility.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+An operational permission/consent boundary for undisclosed capture or processing of identifiable lecture participants.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S4-Q01 [actor_and_activity]: lecture recording — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q02 [related_roles]: student recording — 20 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q03 [permission_authority]: consent recording — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q04 [restriction_boundary]: recording permission — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q05 [procedure]: lecture procedure — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q06 [review_route]: privacy complaint — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q07 [related_risk]: copyright recording — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N044 | Academic Integrity Policy and Schedules (pdf, 423 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N045 | Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N049 | Assessment Policy (doc, 280 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N050 | Assessment Model Guide 2024 (pdf, 4 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N051 | Appendix 1 Assessment Policy Expectations of Unit Coordinator (docx, 82 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N067 | Information Privacy Policy (pdf, 220 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N195 | University Policy on: Academic Conduct | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N068 | Intellectual Property Policy (doc, 266 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N069 | Intellectual Property Commercialisation Guidelines (docx, 260 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N216 | Lecture Capture Policy and Schedule (pdf, 221 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N218 | Policy Governance Framework (pdf, 294 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N220 | Disability and Medical Conditions Policy (doc, 252 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-feee649bd5043b
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L005–L005
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: incidents to reach a finding.
+Candidate passage: (i) Established protocols for recording academic misconduct must be adhered to in all schools and
+Context after: teaching/supervision units in accordance with Part 1 of Schedule 3.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ca03f0ef19e6a4
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L011–L011
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: (NAC). Where academic misconduct is proven to have occurred in the first instance and
+Candidate passage: in the first 48 points of a student’s study at UWA, a NAC is formally issued, but no
+Context after: grading penalty is applied. In such an event, the NAC, which is strictly confidential, is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-42eb983a7a9c58
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L013–L013
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: grading penalty is applied. In such an event, the NAC, which is strictly confidential, is
+Candidate passage: placed on the student’s record but not registered on the official transcript. The NAC
+Context after: record enables the University to track and monitor any recurrence of misconduct and the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dd44c7afdffbdb
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 51
+PDF viewer page (navigation only): 51
+Line numbers: L007–L007
+Search query IDs: S4-Q05
+Search terms: lecture procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: symptom or manifestation of the disability”
+Candidate passage: EVA Submission is a procedure that requires students to conduct a self-check for determining the
+Context after: Eligibility check point at which they are not permitted to submit an EVA. See Section B of Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-88618cda1ee0c1
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 51
+PDF viewer page (navigation only): 51
+Line numbers: L009–L009
+Search query IDs: S4-Q05
+Search terms: lecture procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Eligibility check point at which they are not permitted to submit an EVA. See Section B of Policy
+Candidate passage: Procedure for more details.
+Context after: exceptional mean circumstances not ordinarily encountered or anticipated, which are beyond
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-700d74b3892a2d
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 151
+PDF viewer page (navigation only): 151
+Line numbers: L010–L010
+Search query IDs: S4-Q03
+Search terms: consent recording
+Extraction/review flags: none recorded
+Context before: for applied research and discourages plagiarism or fabrication of data.
+Candidate passage: • Audio recording of interviews: To maintain transparency and ensure the authenticity of
+Context after: the interview, students must audio record their conversations and upload them to the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1cdf1779c973c1
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 151
+PDF viewer page (navigation only): 151
+Line numbers: L013–L013
+Search query IDs: S4-Q03
+Search terms: consent recording
+Extraction/review flags: none recorded
+Context before: Learning Management System (LMS). This requirement helps verify the legitimacy of the
+Candidate passage: primary data collected. Critically, any recording must be explicitly discussed and agreed
+Context after: to between all parties, as instructors and students must first be aware of appropriate
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-44735bff182926
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 151
+PDF viewer page (navigation only): 151
+Line numbers: L015–L015
+Search query IDs: S4-Q03
+Search terms: consent recording
+Extraction/review flags: none recorded
+Context before: to between all parties, as instructors and students must first be aware of appropriate
+Candidate passage: governing regulation (e.g., whether single- or multi-party recording consent is required in
+Context after: any jurisdictions involved).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-435ac1242d8ce3
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 168
+PDF viewer page (navigation only): 168
+Line numbers: L003–L003
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: professional entries/uses within the software. In the specific case of an accounting
+Candidate passage: student, this involves recording business transactions (students must accurately record
+Context after: various financial transactions, including sales, purchases, and payments), managing
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-51c00a0ce3c6dd
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L003–L003
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: 4.5 Monitoring and Continual Improvement
+Candidate passage: (a) A Privacy Impact Assessment (PIA) to identify privacy risks and measures to mitigate them must
+Context after: be undertaken by the University where a new process or system involving personal information is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fe7132b4968e0d
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L006–L006
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: implemented or existing process changed that could reasonably have a significant impact on the
+Candidate passage: privacy of individuals.
+Context after: (b) The University monitors, measures, analyses and evaluates information privacy compliance
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-35d681714bbdb9
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L007–L007
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: privacy of individuals.
+Candidate passage: (b) The University monitors, measures, analyses and evaluates information privacy compliance
+Context after: performance, controls and processes to ensure they are and remain appropriate and effective.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4f60afc585a23d
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L012–L012
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Breach Policy.
+Candidate passage: (d) The University must continuously improve its information privacy practices in response to
+Context after: monitoring outcomes, including results of reviews, audits, incidents, breaches, reported concerns,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1a0aee3f04c582
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L028–L028
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Freedom of Information Act 1992 (WA) or other applicable legislation.
+Candidate passage: (f) Individuals may make a complaint to the UWA Privacy Office in accordance with 5.2, and where
+Context after: applicable may seek external review or lodge a complaint with the Office of the Information
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a6163974c2a1ea
+Source ID: N068
+Document title: Intellectual Property Policy (doc, 266 KB)
+Printed bundle page: 470
+PDF viewer page (navigation only): 470
+Line numbers: L018–L018
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: of IP.
+Candidate passage: Computer Program means a computer program as defined by the Copyright Act, 1968 (Cth).
+Context after: Copyright means any work or thing in which Copyright may subsist including, but not limited to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-39998303834876
+Source ID: N068
+Document title: Intellectual Property Policy (doc, 266 KB)
+Printed bundle page: 470
+PDF viewer page (navigation only): 470
+Line numbers: L019–L019
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: Computer Program means a computer program as defined by the Copyright Act, 1968 (Cth).
+Candidate passage: Copyright means any work or thing in which Copyright may subsist including, but not limited to
+Context after: —
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7a4bba97220bc4
+Source ID: N068
+Document title: Intellectual Property Policy (doc, 266 KB)
+Printed bundle page: 470
+PDF viewer page (navigation only): 470
+Line numbers: L026–L026
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: (5). musical work;
+Candidate passage: (6). sound recording;
+Context after: (7). cinematograph film;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ce10197e65670f
+Source ID: N069
+Document title: Intellectual Property Commercialisation Guidelines (docx, 260 KB)
+Printed bundle page: 476
+PDF viewer page (navigation only): 476
+Line numbers: L012–L012
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: of IP.
+Candidate passage: Computer Program means a computer program as defined by the Copyright Act, 1968 (Cth).
+Context after: Copyright means any work or thing in which Copyright may subsist including, but not limited to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e479a4b25bf9e9
+Source ID: N069
+Document title: Intellectual Property Commercialisation Guidelines (docx, 260 KB)
+Printed bundle page: 476
+PDF viewer page (navigation only): 476
+Line numbers: L013–L013
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: Computer Program means a computer program as defined by the Copyright Act, 1968 (Cth).
+Candidate passage: Copyright means any work or thing in which Copyright may subsist including, but not limited to:
+Context after: (1). artistic work;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b4005020d6b534
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 554
+PDF viewer page (navigation only): 554
+Line numbers: L002–L002
+Search query IDs: S4-Q01
+Search terms: lecture recording
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Approval Date: 18 June 2025
+Candidate passage: Lecture Capture and Student Access
+Context after: Policy UP10/9 (F22828)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b51257b939c343
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 554
+PDF viewer page (navigation only): 554
+Line numbers: L045–L045
+Search query IDs: S4-Q01
+Search terms: lecture recording
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: analysis of key academic content.
+Candidate passage: Lecture Capture means the recording of a lecture.
+Context after: Record(ing) means audio and/or visual recording of teaching using University-approved technologies unless a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0de743293e5a1b
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 555
+PDF viewer page (navigation only): 555
+Line numbers: L006–L006
+Search query IDs: S4-Q01, S4-Q02
+Search terms: lecture recording | student recording
+Extraction/review flags: none recorded
+Context before: 4.1 The University is committed to making teaching resources available to all students.
+Candidate passage: 4.2 Lecture recording serves as a learning object to supplement and enhance the student learning
+Context after: experience, and not as a replacement for student contact hours or as a means of evaluating teaching.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-67eabc37bcb2a0
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 555
+PDF viewer page (navigation only): 555
+Line numbers: L012–L012
+Search query IDs: S4-Q01
+Search terms: lecture recording
+Extraction/review flags: none recorded
+Context before: the end of the Supplementary and Deferred Examinations period for that particular unit.
+Candidate passage: 4.4 Teaching staff may request an opt-out of recording lecture(s) in a unit under one or more of the
+Context after: following exceptional grounds with approval of the Pro Vice-Chancellor (Academic) or nominee on the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bda1c30182113f
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 556
+PDF viewer page (navigation only): 556
+Line numbers: L004–L004
+Search query IDs: S4-Q03
+Search terms: consent recording
+Extraction/review flags: none recorded
+Context before: (b) record lectures, or any other teaching activities using their own electronic devices, including
+Candidate passage: mobile phones, unless consent has been provided by the instructor;
+Context after: (c) capture images of any kind during a lecture, tutorial or teaching session without the explicit
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ca4ab7a8fc8601
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 556
+PDF viewer page (navigation only): 556
+Line numbers: L006–L006
+Search query IDs: S4-Q03, S4-Q04
+Search terms: consent recording | recording permission
+Extraction/review flags: none recorded
+Context before: (c) capture images of any kind during a lecture, tutorial or teaching session without the explicit
+Candidate passage: permission of the lecturer/tutor, unless consent has been provided by the instructor.
+Context after: (d) publish (this includes, but is not limited to, publishing on the internet and hard copy publication),
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-60ffa966c096f9
+Source ID: N216
+Document title: Lecture Capture Policy and Schedule (pdf, 221 KB)
+Printed bundle page: 556
+PDF viewer page (navigation only): 556
+Line numbers: L013–L013
+Search query IDs: S4-Q01, S4-Q04
+Search terms: lecture recording | recording permission
+Extraction/review flags: none recorded
+Context before: constitutes misconduct in accordance with Regulations for student conduct and discipline.
+Candidate passage: 5.3 The University retains the right to withdraw a lecture recording at any time if concern is raised due to
+Context after: potential infringement of copyright, data protection or public exposure of commercially sensitive
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-66b63c08f26902
+Source ID: N220
+Document title: Disability and Medical Conditions Policy (doc, 252 KB)
+Printed bundle page: 588
+PDF viewer page (navigation only): 588
+Line numbers: L018–L018
+Search query IDs: S4-Q05
+Search terms: lecture procedure
+Extraction/review flags: none recorded
+Context before: conditions in keeping with the Inherent Requirements of the studies being undertaken.
+Candidate passage: Procedure —
+Context after: A. University appointed course advisers, in consultation with a Disability Officer can provide
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4a5b5c61190a50
+Source ID: N220
+Document title: Disability and Medical Conditions Policy (doc, 252 KB)
+Printed bundle page: 588
+PDF viewer page (navigation only): 588
+Line numbers: L030–L030
+Search query IDs: S4-Q05
+Search terms: lecture procedure
+Extraction/review flags: none recorded
+Context before: (in the context of meeting inherent requirements).
+Candidate passage: D. Where lectures are not routinely recorded special access to lecture recordings should be
+Context after: The University of Western uwa.edu.au/policy 6
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

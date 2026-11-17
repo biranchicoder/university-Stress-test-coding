@@ -1,0 +1,19 @@
+{
+  "coder_label": "HCoder 1",
+  "human_confirmed": true,
+  "policy_cutoff_date": "2026-11-12",
+  "protocol_version": "1.1",
+  "counts": {
+    "universities": 5,
+    "cases": 75,
+    "dimensions": 450,
+    "case_summaries": 75
+  },
+  "undated_sources_resolved_by_researcher_rule": 22,
+  "external_unavailable_documents": "Excluded per policy repository boundary (2026-11-17).",
+  "outcome_distribution": {
+    "Resolved": 4,
+    "Structured discretion": 5,
+    "Indeterminate": 66
+  }
+}

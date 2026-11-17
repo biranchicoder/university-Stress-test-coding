@@ -1,0 +1,69 @@
+PREPARATION VALIDATION REPORT
+Run started: 2026-11-15T09:39:01+00:00
+Finalized: 2026-11-15T09:44:42+00:00
+Policy cut-off: 2026-11-12
+Overall status: complete
+
+TASK COUNTS:
+Completed: 2397
+Failed after 3 retries: 0
+Pending: 0
+Running at finalization: 0
+Total recorded task attempts: 2398
+
+INPUT PRESERVATION:
+All five original ZIP hashes and extracted-file hashes were verified against data/derived/file_hashes.json.
+The indexed SQLite database was opened read-only; no coding records were changed.
+Original data/exports hashes: UNCHANGED
+Original package/extracted-file hashes: UNCHANGED
+The preparation process does not write to original package ZIPs or data/exports.
+
+INDEX VERIFICATION:
+PDF page tasks represented in policy_index.csv: 2143
+PDF-to-index mappings verified with visible line labels: 2112
+Mappings verified but PDF has no visible L-labels: 31
+Page mappings/extraction tasks failed or mismatched: 0
+Pages flagged as ambiguous tables: 492
+Pages with extraction-related flags: 0
+Every row retains its own viewer page; printed Bundle page is taken only from the PDF footer.
+Visible L-labels are not synthesized. Pages without them cannot become line-located candidates.
+Pages flagged ambiguous_table or with extraction/index issues remain flagged for human review.
+
+SOURCE AUDIT:
+Register rows represented: 221
+Rows with unknown effective date: 221
+Rows with unknown operative version: 221
+Rows with unknown supersession status: 221
+Register blanks are reported as unknown/unreviewed; retrieval dates were not converted to effective dates.
+Exact duplicate candidates are not treated as confirmed duplicates. Unmatched linked IDs require manual checking.
+
+SEARCH AND CANDIDATES:
+Scenario query tasks planned: 21
+Search result rows (including zero-hit query rows): 357
+Candidate passages: 960
+All candidate ratings are blank and human_verified is No.
+Searches are AND-token searches through the existing complete SQLite FTS index for Curtin.
+Zero-hit queries:
+- S13 S13-Q04: collect use disclose data
+
+PROTOCOL STATUS:
+No scores or final policy judgments were created.
+Critical-risk criteria remain unadopted/unset; this run only indexes and retrieves evidence.
+Scenario text, codebook, and original package files were not edited.
+
+PERSISTENT FAILURES:
+- None recorded.
+
+PERSISTENT PROGRESS-REPORT WRITE FAILURES:
+- WinError 5 while atomically replacing preparation_validation_report.txt during the first full run; checkpointed task state was retained and run stopped. Retried under the updated bounded safe-write handling.
+
+PENDING TASKS:
+- None.
+
+DELIVERABLES:
+- policy_index.csv
+- source_audit.csv
+- search_log.csv
+- evidence_candidates.csv
+- AI_handoff_Curtin_S1.txt, AI_handoff_Curtin_S6.txt, AI_handoff_Curtin_S13.txt
+- .preparation_checkpoint.sqlite3 (restart-safe task/checkpoint history)

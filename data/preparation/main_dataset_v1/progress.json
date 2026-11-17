@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-11-15T21:18:06+00:00",
+  "run_started_at": "2026-11-15T11:53:43+00:00",
+  "status": "complete",
+  "bar": "[##############################]",
+  "finished_percent": 100.0,
+  "successful_percent": 100.0,
+  "completed": 1121,
+  "failed": 0,
+  "pending": 0,
+  "running": 0,
+  "total": 1121,
+  "eta_seconds": null
+}

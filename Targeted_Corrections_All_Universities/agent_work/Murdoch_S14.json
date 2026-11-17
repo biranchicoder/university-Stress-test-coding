@@ -1,0 +1,1320 @@
+{
+  "university": "Murdoch",
+  "case_id": "Murdoch-S14",
+  "scenario_id": "S14",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "Privacy Procedure (N084, 6.1-6.4) explicitly covers automated systems analysing personal information to support educational and service-related functions, alongside purpose limitation (5.1) and access/correction (4.3-4.4). However, it does not explicitly address persistent cross-course AI learner profiles or whether instructors must be notified of their scope.",
+      "search_terms_used": [
+        "consent purpose",
+        "course data",
+        "access correction"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L034",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L033",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 The general rule is that the University will not use or disclose personal\ninformation other than for the primary purposes for which it was collected.\n5.2 The information may be used/disclosed for reasons other than the primary\npurpose of collection where the provider of the information has consented;\nand/or there is a reasonable expectation of disclosure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q03"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L009",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Upon request, and subject to applicable exceptions, the University will\nprovide access to the personal information it holds about an individual\nwithin 30 days, at no cost. Personal information may be reviewed and\ndepending on its nature, may be updated or corrected in accordance with\nrelevant procedures. This applies, for example, to information held on\nCallista (MyInfo) for students and Workday for staff. Access may be denied",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q06",
+            "S14-Q05"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L034",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L033",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 The general rule is that the University will not use or disclose personal\ninformation other than for the primary purposes for which it was collected.\n5.2 The information may be used/disclosed for reasons other than the primary\npurpose of collection where the provider of the information has consented;\nand/or there is a reasonable expectation of disclosure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q03"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "Emerging Digital Technologies Policy (referenced in N083/N084) is absent from the Murdoch bundle."
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "N084 (12.2-12.4, 13.1, 14.1) assigns Information Stewards, Custodians, Users, and the Privacy Officer, and N084 (6.2.4) guarantees meaningful human review upon request for automated processes, though lifecycle ownership for cross-course AI profiles is not explicitly assigned.",
+      "search_terms_used": [
+        "privacy complaint",
+        "access correction"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L020",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "12.2 Information Stewards must ensure reasonable steps are taken to manage\nthe University’s information assets, regardless of media format.\n12.3 Information Custodians are responsible for implementing and monitoring all\nreasonable measures to manage the University’s information assets in\naccordance with this Policy.\n12.4 Information Users must ensure that the collection, use, storage, disclosure,\nand correction of personal information is carried out in compliance with this\nPolicy.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L029",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "13.1 The University’s Privacy Officer oversees compliance with the Privacy\nPolicy.\n13.2 Staff are trained in privacy and responsible information sharing obligations.\n13.3 Regular audits and reviews ensure ongoing compliance with the PRIS Act.\n14. Privacy inquiries and complaints\n14.1 Contact:\nPrivacy Officer\nUniversity Secretary’s Office\n90 South Street, Murdoch, Western Australia, 6150\n+61 (8) 93607647\nuniversitysecretary@murdoch.edu.au",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q10",
+            "S14-Q06"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L020",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "12.2 Information Stewards must ensure reasonable steps are taken to manage\nthe University’s information assets, regardless of media format.\n12.3 Information Custodians are responsible for implementing and monitoring all\nreasonable measures to manage the University’s information assets in\naccordance with this Policy.\n12.4 Information Users must ensure that the collection, use, storage, disclosure,\nand correction of personal information is carried out in compliance with this\nPolicy.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N083, N084, and N075 are compatible without contradiction, though lack explicit coordination between automated decision-making rules (N084, 6) and unit-level assessment/advising governance.",
+      "search_terms_used": [
+        "consent purpose",
+        "data sharing"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L033",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 The general rule is that the University will not use or disclose personal\ninformation other than for the primary purposes for which it was collected.\n5.2 The information may be used/disclosed for reasons other than the primary\npurpose of collection where the provider of the information has consented;\nand/or there is a reasonable expectation of disclosure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q03"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L029",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 The University will not use or disclose personal information other than for\nthe primary purpose for which it was collected.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q02"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L033",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 The general rule is that the University will not use or disclose personal\ninformation other than for the primary purposes for which it was collected.\n5.2 The information may be used/disclosed for reasons other than the primary\npurpose of collection where the provider of the information has consented;\nand/or there is a reasonable expectation of disclosure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q03"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N084 provides usable procedures for 30-day free access and correction with dispute-statement attachment (4.3-4.4), notice and human review upon request for automated decision-making (6.2.3-6.2.4), and privacy complaints (14.1). Operational steps for cross-course profile lifecycle management and instructor transparency are unclear.",
+      "search_terms_used": [
+        "access correction",
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L009",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Upon request, and subject to applicable exceptions, the University will\nprovide access to the personal information it holds about an individual\nwithin 30 days, at no cost. Personal information may be reviewed and\ndepending on its nature, may be updated or corrected in accordance with\nrelevant procedures. This applies, for example, to information held on\nCallista (MyInfo) for students and Workday for staff. Access may be denied",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q06",
+            "S14-Q05"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L020",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "4.4 If any personal information held by the University is inaccurate, out of date,\nincomplete, irrelevant, or misleading, the University will take reasonable\nsteps to correct it. If a correction is refused, an individual will receive a\nwritten explanation, and upon request, a statement disputing the\ninformation will be attached to the record.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q05"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L029",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "13.1 The University’s Privacy Officer oversees compliance with the Privacy\nPolicy.\n13.2 Staff are trained in privacy and responsible information sharing obligations.\n13.3 Regular audits and reviews ensure ongoing compliance with the PRIS Act.\n14. Privacy inquiries and complaints\n14.1 Contact:\nPrivacy Officer\nUniversity Secretary’s Office\n90 South Street, Murdoch, Western Australia, 6150\n+61 (8) 93607647\nuniversitysecretary@murdoch.edu.au",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q10",
+            "S14-Q06"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L009",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Upon request, and subject to applicable exceptions, the University will\nprovide access to the personal information it holds about an individual\nwithin 30 days, at no cost. Personal information may be reviewed and\ndepending on its nature, may be updated or corrected in accordance with\nrelevant procedures. This applies, for example, to information held on\nCallista (MyInfo) for students and Workday for staff. Access may be denied",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q06",
+            "S14-Q05"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "N084 (6.2.3-6.4, 4.3-4.4) provides substantive safeguards: notice of substantial automated decision-making, meaningful human review upon request, bias/discrimination auditability, a bar on sole automated consequential decisions, and free access/correction. A material gap remains for cross-course profile lifecycle ownership and instructor visibility.",
+      "search_terms_used": [
+        "consent purpose",
+        "access correction",
+        "data sharing"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L034",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L009",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "4.3 Upon request, and subject to applicable exceptions, the University will\nprovide access to the personal information it holds about an individual\nwithin 30 days, at no cost. Personal information may be reviewed and\ndepending on its nature, may be updated or corrected in accordance with\nrelevant procedures. This applies, for example, to information held on\nCallista (MyInfo) for students and Workday for staff. Access may be denied",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q06",
+            "S14-Q05"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 42,
+          "viewer_page": 42,
+          "line_start": "L020",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "4.4 If any personal information held by the University is inaccurate, out of date,\nincomplete, irrelevant, or misleading, the University will take reasonable\nsteps to correct it. If a correction is refused, an individual will receive a\nwritten explanation, and upon request, a statement disputing the\ninformation will be attached to the record.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S14-Q05"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L034",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N108 (5-6) mandates three-yearly policy review, N084 (13.3) requires regular privacy audits, and N084 (6.2.5) requires ongoing auditability of automated processes.",
+      "search_terms_used": [
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 46,
+          "viewer_page": 46,
+          "line_start": "L029",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "13.1 The University’s Privacy Officer oversees compliance with the Privacy\nPolicy.\n13.2 Staff are trained in privacy and responsible information sharing obligations.\n13.3 Regular audits and reviews ensure ongoing compliance with the PRIS Act.\n14. Privacy inquiries and complaints\n14.1 Contact:\nPrivacy Officer\nUniversity Secretary’s Office\n90 South Street, Murdoch, Western Australia, 6150\n+61 (8) 93607647\nuniversitysecretary@murdoch.edu.au",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S13-Q10",
+            "S14-Q06"
+          ]
+        },
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L013",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N084",
+            "document_title": "Privacy Procedure (pdf) 274 KB",
+            "printed_bundle_page": 47,
+            "viewer_page": 47,
+            "line_start": "L020",
+            "line_end": "L020",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "N084 (6.2.4) guarantees meaningful human review upon request where an automated process materially influenced an outcome, alongside N084 (4.4) dispute statements and (14.1) Privacy Officer complaints.",
+    "review_route_evidence": {
+      "source_id": "N084",
+      "document_title": "Privacy Procedure (pdf) 274 KB",
+      "printed_bundle_page": 43,
+      "viewer_page": 43,
+      "line_start": "L013",
+      "line_end": "L030",
+      "evidence_type": "Exact quotation",
+      "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Date effective 27/01/2026",
+      "version_evidence_location": {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 47,
+        "viewer_page": 47,
+        "line_start": "L020",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "Date effective 27/01/2026"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": ""
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "Informed purpose and cross-course use, accountable lifecycle ownership, access/correction and contestability of consequential profiling.",
+    "critical_gap_explanation": "N084 establishes general protections for informed purpose and secondary-use consent (3.1, 5.1, 5.3), accountable information lifecycle ownership (Information Stewards, Custodians, Users, and Privacy Officer; 12.2-12.4, 13.1), 30-day free access/correction (4.3-4.4), and automated decision-making notice, human review upon request, bias auditability, and a bar on sole automated consequential decisions (6.1-6.4), although an operational detail gap remains (D5=2) regarding instructor visibility of cross-course profiles.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Murdoch's Privacy Procedure (N084) regulates automated decision-making (6.1-6.4) with notice, bias auditability, meaningful human review upon request, and a bar on sole automated consequential decisions, alongside 30-day free access and correction (4.3-4.4) and Information Steward/Custodian/Privacy Officer ownership (12-13). While these general protections address S14's critical risk, instructor visibility when persistent profiles span units remains unspecified (D5=2) and the Emerging Digital Technologies Policy is absent from the bundle. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "supporting_passages": [
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 43,
+        "viewer_page": 43,
+        "line_start": "L034",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 42,
+        "viewer_page": 42,
+        "line_start": "L020",
+        "line_end": "L024",
+        "evidence_type": "Exact quotation",
+        "text": "4.4 If any personal information held by the University is inaccurate, out of date,\nincomplete, irrelevant, or misleading, the University will take reasonable\nsteps to correct it. If a correction is refused, an individual will receive a\nwritten explanation, and upon request, a statement disputing the\ninformation will be attached to the record.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S14-Q05"
+        ]
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 46,
+        "viewer_page": 46,
+        "line_start": "L020",
+        "line_end": "L027",
+        "evidence_type": "Exact quotation",
+        "text": "12.2 Information Stewards must ensure reasonable steps are taken to manage\nthe University’s information assets, regardless of media format.\n12.3 Information Custodians are responsible for implementing and monitoring all\nreasonable measures to manage the University’s information assets in\naccordance with this Policy.\n12.4 Information Users must ensure that the collection, use, storage, disclosure,\nand correction of personal information is carried out in compliance with this\nPolicy.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      }
+    ],
+    "search_terms_used": [
+      "consent purpose",
+      "course data",
+      "access correction",
+      "privacy complaint",
+      "data sharing"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 43,
+        "viewer_page": 43,
+        "line_start": "L013",
+        "line_end": "L030",
+        "evidence_type": "Exact quotation",
+        "text": "6. Automated Decision-Making\n6.1 The University may use automated systems or tools to assist in decision\nmaking processes. These may include analysing personal information to\nsupport administrative, educational, research, or service-related functions.\n6.2 Where an automated decision-making process is used, the University will:\n6.2.1 ensure the use of personal information complies with the PRIS Act,\nincluding the IPPs;\n6.2.2 take reasonable steps to ensure that any automated decision is fair,\naccurate, and based on reliable and up to date information;\n6.2.3 provide individuals with information about the use of automated\ndecision making where it forms a substantial part of a decision that\naffects them;\n6.2.4 ensure that a meaningful human review is available upon request\nwhere an automated process has materially influenced an\noutcome; and\n6.2.5 maintain appropriate oversight, auditability, and safeguards to\nprevent unlawful discrimination, bias, or adverse impacts arising\nfrom automated processes.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 43,
+        "viewer_page": 43,
+        "line_start": "L034",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "6.4 Automated decision making will not be used as the sole basis for decisions\nthat may significantly affect an individual’s rights, access to services, or\nopportunities without appropriate human involvement.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 42,
+        "viewer_page": 42,
+        "line_start": "L009",
+        "line_end": "L014",
+        "evidence_type": "Exact quotation",
+        "text": "4.3 Upon request, and subject to applicable exceptions, the University will\nprovide access to the personal information it holds about an individual\nwithin 30 days, at no cost. Personal information may be reviewed and\ndepending on its nature, may be updated or corrected in accordance with\nrelevant procedures. This applies, for example, to information held on\nCallista (MyInfo) for students and Workday for staff. Access may be denied",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S13-Q06",
+          "S14-Q05"
+        ]
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 42,
+        "viewer_page": 42,
+        "line_start": "L020",
+        "line_end": "L024",
+        "evidence_type": "Exact quotation",
+        "text": "4.4 If any personal information held by the University is inaccurate, out of date,\nincomplete, irrelevant, or misleading, the University will take reasonable\nsteps to correct it. If a correction is refused, an individual will receive a\nwritten explanation, and upon request, a statement disputing the\ninformation will be attached to the record.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S14-Q05"
+        ]
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 46,
+        "viewer_page": 46,
+        "line_start": "L020",
+        "line_end": "L027",
+        "evidence_type": "Exact quotation",
+        "text": "12.2 Information Stewards must ensure reasonable steps are taken to manage\nthe University’s information assets, regardless of media format.\n12.3 Information Custodians are responsible for implementing and monitoring all\nreasonable measures to manage the University’s information assets in\naccordance with this Policy.\n12.4 Information Users must ensure that the collection, use, storage, disclosure,\nand correction of personal information is carried out in compliance with this\nPolicy.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N084",
+        "document_title": "Privacy Procedure (pdf) 274 KB",
+        "printed_bundle_page": 46,
+        "viewer_page": 46,
+        "line_start": "L029",
+        "line_end": "L039",
+        "evidence_type": "Exact quotation",
+        "text": "13.1 The University’s Privacy Officer oversees compliance with the Privacy\nPolicy.\n13.2 Staff are trained in privacy and responsible information sharing obligations.\n13.3 Regular audits and reviews ensure ongoing compliance with the PRIS Act.\n14. Privacy inquiries and complaints\n14.1 Contact:\nPrivacy Officer\nUniversity Secretary’s Office\n90 South Street, Murdoch, Western Australia, 6150\n+61 (8) 93607647\nuniversitysecretary@murdoch.edu.au",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N084",
+          "document_title": "Privacy Procedure (pdf) 274 KB",
+          "printed_bundle_page": 47,
+          "viewer_page": 47,
+          "line_start": "L020",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S13-Q10",
+          "S14-Q06"
+        ]
+      },
+      {
+        "source_id": "N083",
+        "document_title": "Privacy Policy (pdf) 288 KB",
+        "printed_bundle_page": 35,
+        "viewer_page": 35,
+        "line_start": "L033",
+        "line_end": "L037",
+        "evidence_type": "Exact quotation",
+        "text": "5.1 The general rule is that the University will not use or disclose personal\ninformation other than for the primary purposes for which it was collected.\n5.2 The information may be used/disclosed for reasons other than the primary\npurpose of collection where the provider of the information has consented;\nand/or there is a reasonable expectation of disclosure.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 38,
+          "viewer_page": 38,
+          "line_start": "L036",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S14-Q03"
+        ]
+      }
+    ],
+    "uncertainty_notes": "Emerging Digital Technologies Policy (referenced in N083/N084) is absent from the Murdoch bundle."
+  },
+  "additional_search_requests": []
+}

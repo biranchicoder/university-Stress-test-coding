@@ -1,0 +1,254 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: ECU
+Case ID: ECU-S4
+Scenario: S4 — Lecture Assistance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S4 Lecture Assistance
+An AI assistant attends a live lecture alongside the enrolled student — recording audio/video, producing structured notes, and privately answering the student's follow-up questions in real time. The AI is not disclosed to or visible to the instructor or other students; it functions purely as a personal aid.
+Boundary: AI does not communicate with the instructor or other students
+Risks to check: Recording and consent; third-party privacy; copyright; accessibility.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+An operational permission/consent boundary for undisclosed capture or processing of identifiable lecture participants.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S4-Q01 [actor_and_activity]: lecture recording — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S4-Q02 [related_roles]: student recording — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q03 [permission_authority]: consent recording — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S4-Q04 [restriction_boundary]: recording permission — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S4-Q05 [procedure]: lecture procedure — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S4-Q06 [review_route]: privacy complaint — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q07 [related_risk]: copyright recording — 0 result(s); no_index_hits; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N102 | Privacy statement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N094 | Privacy Policy PL090 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N154 | Assessment Procedure including Attachment 1 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N156 | Complaints Policy PL207 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-8e19f6f3200cf1
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L005–L005
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Respect
+Candidate passage: We treat everyone's privacy with respect. Our information handling and sharing processes are
+Context after: illustrated in our privacy policy.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a2d6dc2d3ae099
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L006–L006
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: We treat everyone's privacy with respect. Our information handling and sharing processes are
+Candidate passage: illustrated in our privacy policy.
+Context after: Rational Inquiry
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2e7bcc33119817
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L011–L011
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Personal Excellence
+Candidate passage: We have implemented privacy procedures and policies to demonstrate the highest personal and
+Context after: professional standards.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fdc59691acecf3
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L016–L016
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: accordance with legal obligations.
+Candidate passage: Privacy policy
+Context after: ECU's Privacy Policy and related procedures cover the following:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cf8ad8ce4836ce
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L041–L041
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: please refer to the Freedom of Information page.
+Candidate passage: If you would like to make a formal privacy complaint, you can lodge this via the ECU’s Complaints
+Context after: Resolution process.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0d5b4ba0fc8b1d
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L008–L008
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: The processes and outcomes from Moderation within each Unit must be presented to the next
+Candidate passage: meeting of the Unit Review Committee, and documented in the Marks Recording System.
+Context after: Grading Schema
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b74246ee6154d2
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L010–L010
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: Grading Schema
+Candidate passage: For all Units, Unit Coordinators will submit proposed results via the Marks Recording System by
+Context after: the nominated submission deadline. Proposed results must reflect the level of Student
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9205b44b773c5b
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L011–L011
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: For all Units, Unit Coordinators will submit proposed results via the Marks Recording System by
+Candidate passage: the nominated submission deadline. Proposed results must reflect the level of Student
+Context after: attainment in relation to Benchmarked Standards.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-73b6aac61bdb23
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L013–L013
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: attainment in relation to Benchmarked Standards.
+Candidate passage: The Progression Panel will, for each Student approve a final Grade consistent with the following
+Context after: Grading Schema:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2af5653875a2eb
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L022–L022
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: High Distinction
+Candidate passage: The Student has passed the Unit with a mark in the prescribed range.
+Context after: 80-100
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

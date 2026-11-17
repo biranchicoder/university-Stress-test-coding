@@ -1,0 +1,467 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: ECU
+Case ID: ECU-S7
+Scenario: S7 — Group Assistance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S7 Group Assistance
+A student group uses general-purpose AI for brainstorming, organisation, and language improvement, but access and use vary between members — some paid, some free-tier, some none — and the submission does not indicate which sections drew on AI, or from whom.
+Boundary: AI used individually at each member's discretion; no group-level mechanism tracks who used it, how much, or for what
+Risks to check: Attribution of contributions; equitable access; group responsibility.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Attributable human/group responsibility and traceable disclosure of relevant AI assistance. Access differences become critical where a required tool blocks participation without a workable alternative.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S7-Q01 [actor_and_activity]: group assessment — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S7-Q02 [related_roles]: student group — 7 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S7-Q03 [permission_authority]: equitable access — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S7-Q04 [restriction_boundary]: group contribution — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S7-Q05 [procedure]: assessment procedure — 16 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S7-Q06 [review_route]: group appeal — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S7-Q07 [related_risk]: academic integrity — 23 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N097 | Guideline for the Responsible use of Generative AI in Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N101 | Artificial Intelligence Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N104 | Lodge a Complaint Grievance Misconduct or Safety Incident | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N102 | Privacy statement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- A014 | ECU Developing AI Literacy Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N224 | Student rights disability academic adjustments and responsibilities | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N225 | Generative AI in Learning student guidance current endpoint | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N090 | Academic Integrity Policy PL276 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N093 | Acceptable Use of Information Systems Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N094 | Privacy Policy PL090 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N095 | Privacy Impact Assessment Procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N096 | Conducting Research with Integrity Policy PL415 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N154 | Assessment Procedure including Attachment 1 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N156 | Complaints Policy PL207 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-5ce641382bcb8f
+Source ID: A014
+Document title: ECU Developing AI Literacy Framework
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L012–L012
+Search query IDs: S7-Q07
+Search terms: academic integrity
+Extraction/review flags: none recorded
+Context before: Accounting student
+Candidate passage: Why AI-integrated learning matters to academic integrity
+Context after: When students use AI repeatedly and authentically in learning tasks, they build their ability to judge when AI is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-136e8f672916e6
+Source ID: A014
+Document title: ECU Developing AI Literacy Framework
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L016–L016
+Search query IDs: S7-Q07
+Search terms: academic integrity
+Extraction/review flags: none recorded
+Context before: coupled with learning and assessment designs that ask students to explain how and why they used AI, and to clarify
+Candidate passage: their own contribution to AI-augmented work, AI-integrated learning can nurture academic integrity behaviours by
+Context after: rewarding transparency, honesty and accountability. Making these behaviours more visible also means educators
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-303c4dac3fd4af
+Source ID: A014
+Document title: ECU Developing AI Literacy Framework
+Printed bundle page: 45
+PDF viewer page (navigation only): 45
+Line numbers: L039–L039
+Search query IDs: S7-Q07
+Search terms: academic integrity
+Extraction/review flags: none recorded
+Context before: https://doi.org/10.37074/jalt.2024.7.2.7
+Candidate passage: Susanto, S. (2026). Generative AI literacy, mindful learning engagement, and academic integrity: An explanatory
+Context after: sequential mixed-methods study on critical thinking development. Journal of Educational Management and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a1fa68c3461353
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 93
+PDF viewer page (navigation only): 93
+Line numbers: L036–L036
+Search query IDs: S7-Q05
+Search terms: assessment procedure
+Extraction/review flags: none recorded
+Context before: Information Breach Response Procedure
+Candidate passage: Privacy Impact Assessment Procedure
+Context after: Research Data Management Guidelines
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4c97ac6cd5caf7
+Source ID: N095
+Document title: Privacy Impact Assessment Procedure
+Printed bundle page: 95
+PDF viewer page (navigation only): 95
+Line numbers: L001–L001
+Search query IDs: S7-Q05
+Search terms: assessment procedure
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Privacy Impact Assessment Procedure
+Context after: Public Word viewer text reading copy. Retrieved 12 November 2026 without signing in. Automatic numbering, original
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bfd92aa0b7da00
+Source ID: N095
+Document title: Privacy Impact Assessment Procedure
+Printed bundle page: 95
+PDF viewer page (navigation only): 95
+Line numbers: L004–L004
+Search query IDs: S7-Q05
+Search terms: assessment procedure
+Extraction/review flags: none recorded
+Context before: page breaks and table layout are not preserved. Use bundle lines and verify original numbered clauses online.
+Candidate passage: Title: Privacy Impact Assessment Procedure
+Context after: Procedure Owner: Director, Strategic and Governance Services
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ffaeb82cee1452
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L033–L033
+Search query IDs: S7-Q07
+Search terms: academic integrity
+Extraction/review flags: none recorded
+Context before: Integrity is a core value of ECU and integral to research conducted at the university. ECU has
+Candidate passage: established processes for the management of academic and research integrity.
+Context after: The ECU Framework for the Productive and Ethical Use of Artificial Intelligence provides
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-661b85294c2be4
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L039–L039
+Search query IDs: S7-Q02
+Search terms: student group
+Extraction/review flags: none recorded
+Context before: are:
+Candidate passage: Learning, Teaching and Student Support
+Context after: Research and Research Training
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c5771ec4692228
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L043–L043
+Search query IDs: S7-Q01
+Search terms: group assessment
+Extraction/review flags: none recorded
+Context before: Feedback from the Working Groups established under the AI Steering Committee has been essential
+Candidate passage: to informing the development of the Guidelines for Curriculum, Teaching and Assessment.
+Context after: For Guidelines for Responsible Use of Generative AI in Research, please see the Guidelines Section
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c24440bee86dfd
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L050–L050
+Search query IDs: S7-Q02
+Search terms: student group
+Extraction/review flags: none recorded
+Context before: Research Ethics committees
+Candidate passage: The Learning Technologies Advisory Group
+Context after: IT Governance Committee
+This may be complemented by a reporting process for managing complaints and breaches[4].
+Advisors
+Decisions regarding the adoption of AI, based on the Ethical Principles and Guide for Understanding
+Risk, will be supported by a community of Advisors. These may be members of the Working Groups,
+relevant Committee members and/or identified members of staff with accountability in relevant
+functional areas (e.g. DCS, CLT).
+Knowledge Base
+The guidelines will be supported by a c
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-de5a6b581066a6
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L023–L023
+Search query IDs: S7-Q05
+Search terms: assessment procedure
+Extraction/review flags: none recorded
+Context before: Access to Personal Information for Research Purposes Procedure
+Candidate passage: Privacy Impact Assessment Procedure
+Context after: https://edithcowanuni.sharepoint.com/:w:/s/SGS-CorpKB/IQAXo2cmMc1ZR4pRJyqjCkCfAUMzryRpeY090C8mBlMfm
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f87a59fa93d0bc
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L025–L025
+Search query IDs: S7-Q05
+Search terms: assessment procedure
+Extraction/review flags: none recorded
+Context before: https://edithcowanuni.sharepoint.com/:w:/s/SGS-CorpKB/IQAXo2cmMc1ZR4pRJyqjCkCfAUMzryRpeY090C8mBlMfm
+Candidate passage: Privacy Impact Assessment Procedure
+Context after: Downloads
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a25786d58e966e
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L027–L027
+Search query IDs: S7-Q07
+Search terms: academic integrity
+Extraction/review flags: none recorded
+Context before: Please e-mail academicintegrity@ecu.edu.au including information you feel is relevant. The
+Candidate passage: Academic Integrity Team will contact you if more information is required, unless you wish to remain
+Context after: anonymous.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ac0d733d701fe4
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 110
+PDF viewer page (navigation only): 110
+Line numbers: L019–L019
+Search query IDs: S7-Q03
+Search terms: equitable access
+Extraction/review flags: none recorded
+Context before: Fair Assessment
+Candidate passage: Assessment that is equitable, unbiased, and just for all participants. It ensures that every
+Context after: Student is given an equivalent opportunity to demonstrate their capabilities without being
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0a735d0b091f1d
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 110
+PDF viewer page (navigation only): 110
+Line numbers: L022–L022
+Search query IDs: S7-Q03
+Search terms: equitable access
+Extraction/review flags: none recorded
+Context before: disadvantaged by factors unrelated to what is being assessed.
+Candidate passage: Learning Access Plan
+Context after: A written plan, designed to assist a Student to achieve their Unit and Course Learning
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b31b22df6dbe5b
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L007–L007
+Search query IDs: S7-Q01, S7-Q02
+Search terms: group assessment | student group
+Extraction/review flags: none recorded
+Context before: the relevant CLOs;
+Candidate passage: not adversely impact on the performance or assessment of other Students (such as in group
+Context after: work situations);
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-21e5b45650bc35
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 120
+PDF viewer page (navigation only): 120
+Line numbers: L045–L045
+Search query IDs: S7-Q01
+Search terms: group assessment
+Extraction/review flags: none recorded
+Context before: appropriately weighted (typically at least 20% of the final Unit mark). Any Mandatory
+Candidate passage: Assessment Task must not be a group task unless approved by the relevant Associate Dean
+Context after: (Teaching and Learning) and unless individual achievement can be ascertained.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9404554c2aca2b
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 121
+PDF viewer page (navigation only): 121
+Line numbers: L007–L007
+Search query IDs: S7-Q01
+Search terms: group assessment
+Extraction/review flags: none recorded
+Context before: opportunities throughout the Unit.
+Candidate passage: For group Assessment Tasks weighted at more than 30%, additional assessment must be
+Context after: undertaken of an individual’s achievement of the Learning Outcomes related to the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-730b1d6cac5a85
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 125
+PDF viewer page (navigation only): 125
+Line numbers: L026–L026
+Search query IDs: S7-Q01
+Search terms: group assessment
+Extraction/review flags: none recorded
+Context before: assess, including the relevant Learning Outcome(s);
+Candidate passage: not adversely impact on the performance or assessment of other Students (such as in group
+Context after: work situations); and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3c8092d50877af
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L003–L003
+Search query IDs: S7-Q02
+Search terms: student group
+Extraction/review flags: none recorded
+Context before: Learning) where required) regarding an extension is final.
+Candidate passage: The Director, Student Life may grant a global extension of time to a distinctive group of
+Context after: Students where there has been a significant system failure (e.g. in relation to the electronic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2b5ae248888be0
+Source ID: N156
+Document title: Complaints Policy PL207
+Printed bundle page: 147
+PDF viewer page (navigation only): 147
+Line numbers: L005–L005
+Search query IDs: S7-Q02
+Search terms: student group
+Extraction/review flags: none recorded
+Context before: August 2009: revised (major)
+Candidate passage: September 2012: revised (addition of the Student Complaint Reference Group)
+Context after: 2016: revised (major)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8706dd5920a9da
+Source ID: N224
+Document title: Student rights disability academic adjustments and responsibilities
+Printed bundle page: 62
+PDF viewer page (navigation only): 62
+Line numbers: L020–L020
+Search query IDs: S7-Q03
+Search terms: equitable access
+Extraction/review flags: none recorded
+Context before: Services for students with disabilities or medical conditions
+Candidate passage: Students with disabilities have the right to:Equitable access to courses, programs, services,
+Context after: activities and facilities at the University
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-93c0bc735db644
+Source ID: N224
+Document title: Student rights disability academic adjustments and responsibilities
+Printed bundle page: 62
+PDF viewer page (navigation only): 62
+Line numbers: L031–L031
+Search query IDs: S7-Q03
+Search terms: equitable access
+Extraction/review flags: none recorded
+Context before: Provide documentation from an acceptable professional source that verifies the nature of the
+Candidate passage: disability and impact on access to the learning environment and/or experiences
+Context after: Follow the procedures for obtaining reasonable accommodations and services as outlined in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

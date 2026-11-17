@@ -1,0 +1,416 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Murdoch
+Case ID: Murdoch-S12
+Scenario: S12 — Autonomous Research Agent
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S12 Autonomous Research Agent
+A multi-agent AI system develops hypotheses, designs procedures, analyses evidence, and conducts connected lab or computational actions with limited human intervention — potentially producing outputs attributed to a PI who did not review each step.
+Boundary: No human verification step between AI-generated hypothesis/procedure and physical or computational execution
+Risks to check: Research validity; authorised execution; safety; oversight and accountability.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Authorised, safe execution, meaningful human intervention and accountable research responsibility.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S12-Q01 [actor_and_activity]: research agent — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q02 [related_roles]: laboratory actions — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S12-Q03 [permission_authority]: research oversight — 15 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q04 [restriction_boundary]: safety procedure — 12 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q05 [procedure]: research governance — 22 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q06 [review_route]: ethics review — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q07 [related_risk]: computational execution — 0 result(s); no_index_hits; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N170 | Murdoch University Integrity Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N084 | Privacy Procedure (pdf) 274 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N171 | Graduate Research Degrees Regulations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N172 | Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N075 | Complaints Policy (pdf) 224 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N076 | Complaints Procedure (pdf) 363 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N085 | Staff Code of Conduct (pdf) 201 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N088 | Student Appeals Procedure (pdf) 290 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N082 | Murdoch University Recordkeeping Plan 2024 (pdf) 707 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N168 | Grades Procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N174 | College and School Regulations - Effective 1 January 2026 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N175 | Work Integrated Learning Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N176 | Academic Council Statement of Governance Principles | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N177 | Senate Statement of Governance Principles | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N179 | ICT Security Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N242 | Human research ethics institutional approval process | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-9e9274cb5bbb8e
+Source ID: N075
+Document title: Complaints Policy (pdf) 224 KB
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L004–L004
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 3.2. obtain legal advice
+Candidate passage: 3.3. seek external review of the matter by a government body
+Context after: 3.4. comply with law, including those related to safety.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a62506de815a3b
+Source ID: N075
+Document title: Complaints Policy (pdf) 224 KB
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L017–L017
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Privacy Policy
+Candidate passage: Psychological Safety and Wellbeing Procedure
+Context after: Public Interest Disclosure Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f5458a4654118b
+Source ID: N076
+Document title: Complaints Procedure (pdf) 363 KB
+Printed bundle page: 96
+PDF viewer page (navigation only): 96
+Line numbers: L042–L042
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Privacy Procedure
+Candidate passage: Psychological Safety and Wellbeing Procedure
+Context after: Public Interest Disclosure Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-30da0ae6dd4290
+Source ID: N082
+Document title: Murdoch University Recordkeeping Plan 2024 (pdf) 707 KB
+Printed bundle page: 177
+PDF viewer page (navigation only): 177
+Line numbers: L008–L008
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: State organisations may enter into contracts or other arrangements whereby an individual or an organisation
+Candidate passage: is to perform a function or service for the State organisation, or act as the State organisation’s agent to deliver
+Context after: services to clients, or for the State organisation’s own use. The general term ‘outsourcing’ is used for such
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0524d947f5235d
+Source ID: N082
+Document title: Murdoch University Recordkeeping Plan 2024 (pdf) 707 KB
+Printed bundle page: 177
+PDF viewer page (navigation only): 177
+Line numbers: L031–L031
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: • Audio and visual event management services
+Candidate passage: • Market research and strategic campaign services
+Context after: • Insurance broking services
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-98a8c9ae63892e
+Source ID: N084
+Document title: Privacy Procedure (pdf) 274 KB
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L024–L024
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: 8.1.2 Sharing is permitted only when it improves community outcomes
+Candidate passage: (e.g., health, education, research) and aligns with privacy
+Context after: protections.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-88f335014049a4
+Source ID: N088
+Document title: Student Appeals Procedure (pdf) 290 KB
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L032–L032
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Privacy Procedure
+Candidate passage: Psychological Safety and Wellbeing Procedure
+Context after: Staff Code of Conduct
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-54a7a1d816af3e
+Source ID: N170
+Document title: Murdoch University Integrity Framework
+Printed bundle page: 23
+PDF viewer page (navigation only): 23
+Line numbers: L002–L002
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: Murdoch University Integrity Framework
+Candidate passage: Key Legislation / Regulation External Oversight Audits and Reviews
+Context after: • Corruption, Crime and Misconduct Act 2003 (WA) • Corruption and Crime Commission • Internal Audit Plan
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3c461f20c7e340
+Source ID: N170
+Document title: Murdoch University Integrity Framework
+Printed bundle page: 23
+PDF viewer page (navigation only): 23
+Line numbers: L009–L009
+Search query IDs: S12-Q03, S12-Q05
+Search terms: research oversight | research governance
+Extraction/review flags: none recorded
+Context before: • Murdoch University Enterprise Agreement 2023
+Candidate passage: • Australian Code for the Responsible Conduct of Research
+Context after: Integrity Governance and Oversight Murdoch University is committed to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6cf6f4f573fc0b
+Source ID: N170
+Document title: Murdoch University Integrity Framework
+Printed bundle page: 23
+PDF viewer page (navigation only): 23
+Line numbers: L010–L010
+Search query IDs: S12-Q03, S12-Q05
+Search terms: research oversight | research governance
+Extraction/review flags: none recorded
+Context before: • Australian Code for the Responsible Conduct of Research
+Candidate passage: Integrity Governance and Oversight Murdoch University is committed to
+Context after: • Senate promoting Integrity through:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ebdb6eb2dcf5d2
+Source ID: N170
+Document title: Murdoch University Integrity Framework
+Printed bundle page: 23
+PDF viewer page (navigation only): 23
+Line numbers: L028–L028
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: • Student Integrity Regulations • Staff training (online and in-person)
+Candidate passage: • Research Integrity Policy and Procedure • Staff announcements
+Context after: Inclusivity Openness Leadership
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4c33595ccd93d3
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 69
+PDF viewer page (navigation only): 69
+Line numbers: L016–L016
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: induction and training on applicable legislation, codes and the University’s
+Candidate passage: research policies on research ethics and safety and discipline-related
+Context after: matters.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4443a507df91ba
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 69
+PDF viewer page (navigation only): 69
+Line numbers: L021–L021
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: 2.1 Supervisors are required to attend approved training at Murdoch University
+Candidate passage: as specified in the Graduate Research Degrees Procedure and continue to
+Context after: meet the criteria required to maintain their listing on the Supervisor
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2d4b4e5779279d
+Source ID: N172
+Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
+Printed bundle page: 78
+PDF viewer page (navigation only): 78
+Line numbers: L009–L009
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: R16 Undertake and promote education and training in responsible research conduct.
+Candidate passage: R17 Comply with the relevant laws, regulations, disciplinary standards, ethics guidelines and
+Context after: institutional policies related to responsible research conduct. Ensure that appropriate approvals
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-871e68bc033059
+Source ID: N172
+Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
+Printed bundle page: 78
+PDF viewer page (navigation only): 78
+Line numbers: L013–L013
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: adhered to during the course of research.
+Candidate passage: R18 Ensure that the ethics principles of research merit and integrity, justice, beneficence and respect
+Context after: are applied to human research.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-adfabd771bc47a
+Source ID: N172
+Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
+Printed bundle page: 78
+PDF viewer page (navigation only): 78
+Line numbers: L033–L033
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: R27 Cite and acknowledge other relevant work appropriately and accurately.
+Candidate passage: R28 Participate in peer review in a way that is fair, rigorous and timely and maintains the
+Context after: confidentiality of the content.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-58e5efdfeefada
+Source ID: N172
+Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
+Printed bundle page: 80
+PDF viewer page (navigation only): 80
+Line numbers: L018–L018
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Western Sydney University
+Candidate passage: Dr Paul Taylor Director, Research Integrity, Governance and Systems, February 2016–December 2017
+Context after: RMIT University
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-db347f6ba54bf3
+Source ID: N176
+Document title: Academic Council Statement of Governance Principles
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L035–L035
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: assures compliance with relevant regulatory requirements. It provides
+Candidate passage: oversight of quality and standards related to education and research,
+Context after: oversight of University review processes and related improvements in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-18392b5da7961a
+Source ID: N176
+Document title: Academic Council Statement of Governance Principles
+Printed bundle page: 243
+PDF viewer page (navigation only): 243
+Line numbers: L014–L014
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: student performance, course quality and student integrity; and maintain
+Candidate passage: oversight of research and research training activities in the school.
+Context after: For any of these activities, the Boards identify and allocate actions and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d6696be237d716
+Source ID: N242
+Document title: Human research ethics institutional approval process
+Printed bundle page: 363
+PDF viewer page (navigation only): 363
+Line numbers: L027–L027
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: It is your responsibility to ensure that this National Statement is used in your research
+Candidate passage: proposals, application for ethics approval and ethics review
+Context after: Commencing research without ethics approval is a breach of both the National Statement and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

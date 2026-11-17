@@ -1,0 +1,1140 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Human-unconfirmed policy coding proposals",
+  "description": "AI proposals only. Python must validate citations and fields. Never treat this data as human-confirmed coding.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "proposals"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "proposals": {
+      "type": "array",
+      "minItems": 75,
+      "maxItems": 75,
+      "items": {
+        "type": "object",
+        "required": [
+          "university",
+          "case_id",
+          "scenario_id",
+          "coding_date",
+          "protocol_version",
+          "coder_id",
+          "human_confirmed",
+          "dimensions",
+          "case_summary",
+          "additional_search_requests"
+        ],
+        "properties": {
+          "university": {
+            "enum": [
+              "Curtin",
+              "ECU",
+              "Murdoch",
+              "Notre_Dame",
+              "UWA"
+            ]
+          },
+          "case_id": {
+            "type": "string"
+          },
+          "scenario_id": {
+            "enum": [
+              "S1",
+              "S2",
+              "S3",
+              "S4",
+              "S5",
+              "S6",
+              "S7",
+              "S8",
+              "S9",
+              "S10",
+              "S11",
+              "S12",
+              "S13",
+              "S14",
+              "S15"
+            ]
+          },
+          "coding_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "protocol_version": {
+            "const": "1.1"
+          },
+          "coder_id": {
+            "const": "Antigravity AI proposal — awaiting human verification"
+          },
+          "human_confirmed": {
+            "const": false
+          },
+          "dimensions": {
+            "type": "array",
+            "minItems": 6,
+            "maxItems": 6,
+            "items": {
+              "type": "object",
+              "required": [
+                "dimension",
+                "score",
+                "reason",
+                "search_terms_used",
+                "documents_checked",
+                "evidence",
+                "zero_score_basis",
+                "uncertainty_notes"
+              ],
+              "properties": {
+                "dimension": {
+                  "enum": [
+                    "D1",
+                    "D2",
+                    "D3",
+                    "D4",
+                    "D5",
+                    "D6"
+                  ]
+                },
+                "score": {
+                  "oneOf": [
+                    {
+                      "type": "integer",
+                      "minimum": 0,
+                      "maximum": 3
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "reason": {
+                  "type": "string"
+                },
+                "search_terms_used": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "documents_checked": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "source_id",
+                      "document_title",
+                      "printed_bundle_page",
+                      "viewer_page",
+                      "line_start",
+                      "line_end",
+                      "evidence_type",
+                      "text",
+                      "evidence_role",
+                      "operative_at_cutoff",
+                      "version_evidence",
+                      "version_evidence_location",
+                      "visual_reading_order_checked",
+                      "visual_review_note"
+                    ],
+                    "properties": {
+                      "source_id": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "document_title": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "printed_bundle_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "viewer_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "line_start": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "line_end": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "evidence_type": {
+                        "enum": [
+                          "Exact quotation",
+                          "Paraphrase"
+                        ]
+                      },
+                      "text": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "evidence_role": {
+                        "enum": [
+                          "MAIN",
+                          "SUPPORTING"
+                        ]
+                      },
+                      "candidate_id": {
+                        "type": "string"
+                      },
+                      "query_ids": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      },
+                      "operative_at_cutoff": {
+                        "type": "boolean"
+                      },
+                      "version_evidence": {
+                        "type": "string"
+                      },
+                      "version_evidence_location": {
+                        "oneOf": [
+                          {
+                            "type": "object",
+                            "required": [
+                              "source_id",
+                              "document_title",
+                              "printed_bundle_page",
+                              "viewer_page",
+                              "line_start",
+                              "line_end",
+                              "evidence_type",
+                              "text"
+                            ],
+                            "properties": {
+                              "source_id": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "document_title": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "printed_bundle_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "viewer_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "line_start": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "line_end": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "evidence_type": {
+                                "enum": [
+                                  "Exact quotation",
+                                  "Paraphrase"
+                                ]
+                              },
+                              "text": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "visual_reading_order_checked": {
+                        "type": "boolean"
+                      },
+                      "visual_review_note": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "source_id",
+                      "document_title",
+                      "printed_bundle_page",
+                      "viewer_page",
+                      "line_start",
+                      "line_end",
+                      "evidence_type",
+                      "text",
+                      "evidence_role",
+                      "operative_at_cutoff",
+                      "version_evidence",
+                      "version_evidence_location",
+                      "visual_reading_order_checked",
+                      "visual_review_note"
+                    ],
+                    "properties": {
+                      "source_id": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "document_title": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "printed_bundle_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "viewer_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "line_start": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "line_end": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "evidence_type": {
+                        "enum": [
+                          "Exact quotation",
+                          "Paraphrase"
+                        ]
+                      },
+                      "text": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "evidence_role": {
+                        "enum": [
+                          "MAIN",
+                          "SUPPORTING"
+                        ]
+                      },
+                      "candidate_id": {
+                        "type": "string"
+                      },
+                      "query_ids": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      },
+                      "operative_at_cutoff": {
+                        "type": "boolean"
+                      },
+                      "version_evidence": {
+                        "type": "string"
+                      },
+                      "version_evidence_location": {
+                        "oneOf": [
+                          {
+                            "type": "object",
+                            "required": [
+                              "source_id",
+                              "document_title",
+                              "printed_bundle_page",
+                              "viewer_page",
+                              "line_start",
+                              "line_end",
+                              "evidence_type",
+                              "text"
+                            ],
+                            "properties": {
+                              "source_id": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "document_title": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "printed_bundle_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "viewer_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "line_start": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "line_end": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "evidence_type": {
+                                "enum": [
+                                  "Exact quotation",
+                                  "Paraphrase"
+                                ]
+                              },
+                              "text": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "visual_reading_order_checked": {
+                        "type": "boolean"
+                      },
+                      "visual_review_note": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  }
+                },
+                "zero_score_basis": {
+                  "enum": [
+                    "not_applicable",
+                    "no_applicable_provision_found",
+                    "no_decision_maker_identified",
+                    "direct_unresolved_contradiction",
+                    "no_actionable_route",
+                    "no_relevant_safeguards",
+                    "no_relevant_mechanism"
+                  ]
+                },
+                "uncertainty_notes": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "case_summary": {
+            "type": "object",
+            "required": [
+              "mode",
+              "review_route",
+              "review_route_explanation",
+              "critical_gap",
+              "critical_risk_criterion",
+              "critical_gap_explanation",
+              "evidence_status",
+              "insufficient_evidence_reason",
+              "rule_direction",
+              "conflict_confirmed",
+              "conflict_basis",
+              "case_note",
+              "supporting_passages",
+              "review_route_evidence"
+            ],
+            "properties": {
+              "mode": {
+                "enum": [
+                  "Prescribing",
+                  "Delegating",
+                  "None"
+                ]
+              },
+              "review_route": {
+                "enum": [
+                  "Yes",
+                  "No",
+                  "Uncertain"
+                ]
+              },
+              "review_route_explanation": {
+                "type": "string"
+              },
+              "critical_gap": {
+                "enum": [
+                  "Yes",
+                  "No",
+                  "Uncertain"
+                ]
+              },
+              "critical_risk_criterion": {
+                "type": "string"
+              },
+              "critical_gap_explanation": {
+                "type": "string"
+              },
+              "evidence_status": {
+                "enum": [
+                  "Sufficient",
+                  "Insufficient"
+                ]
+              },
+              "insufficient_evidence_reason": {
+                "type": "string"
+              },
+              "rule_direction": {
+                "enum": [
+                  "Permission",
+                  "Prohibition",
+                  "Conditional",
+                  "Unclear"
+                ]
+              },
+              "conflict_confirmed": {
+                "type": "boolean"
+              },
+              "conflict_basis": {
+                "type": "string"
+              },
+              "case_note": {
+                "type": "string"
+              },
+              "supporting_passages": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "source_id",
+                    "document_title",
+                    "printed_bundle_page",
+                    "viewer_page",
+                    "line_start",
+                    "line_end",
+                    "evidence_type",
+                    "text",
+                    "evidence_role",
+                    "operative_at_cutoff",
+                    "version_evidence",
+                    "version_evidence_location",
+                    "visual_reading_order_checked",
+                    "visual_review_note"
+                  ],
+                  "properties": {
+                    "source_id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "document_title": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "printed_bundle_page": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "viewer_page": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "line_start": {
+                      "type": "string",
+                      "pattern": "^L[0-9]{3}$"
+                    },
+                    "line_end": {
+                      "type": "string",
+                      "pattern": "^L[0-9]{3}$"
+                    },
+                    "evidence_type": {
+                      "enum": [
+                        "Exact quotation",
+                        "Paraphrase"
+                      ]
+                    },
+                    "text": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "evidence_role": {
+                      "enum": [
+                        "MAIN",
+                        "SUPPORTING"
+                      ]
+                    },
+                    "candidate_id": {
+                      "type": "string"
+                    },
+                    "query_ids": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "operative_at_cutoff": {
+                      "type": "boolean"
+                    },
+                    "version_evidence": {
+                      "type": "string"
+                    },
+                    "version_evidence_location": {
+                      "oneOf": [
+                        {
+                          "type": "object",
+                          "required": [
+                            "source_id",
+                            "document_title",
+                            "printed_bundle_page",
+                            "viewer_page",
+                            "line_start",
+                            "line_end",
+                            "evidence_type",
+                            "text"
+                          ],
+                          "properties": {
+                            "source_id": {
+                              "type": "string",
+                              "minLength": 1
+                            },
+                            "document_title": {
+                              "type": "string",
+                              "minLength": 1
+                            },
+                            "printed_bundle_page": {
+                              "type": "integer",
+                              "minimum": 1
+                            },
+                            "viewer_page": {
+                              "type": "integer",
+                              "minimum": 1
+                            },
+                            "line_start": {
+                              "type": "string",
+                              "pattern": "^L[0-9]{3}$"
+                            },
+                            "line_end": {
+                              "type": "string",
+                              "pattern": "^L[0-9]{3}$"
+                            },
+                            "evidence_type": {
+                              "enum": [
+                                "Exact quotation",
+                                "Paraphrase"
+                              ]
+                            },
+                            "text": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          },
+                          "additionalProperties": false
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "visual_reading_order_checked": {
+                      "type": "boolean"
+                    },
+                    "visual_review_note": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "review_route_evidence": {
+                "oneOf": [
+                  {
+                    "type": "object",
+                    "required": [
+                      "source_id",
+                      "document_title",
+                      "printed_bundle_page",
+                      "viewer_page",
+                      "line_start",
+                      "line_end",
+                      "evidence_type",
+                      "text",
+                      "evidence_role",
+                      "operative_at_cutoff",
+                      "version_evidence",
+                      "version_evidence_location",
+                      "visual_reading_order_checked",
+                      "visual_review_note"
+                    ],
+                    "properties": {
+                      "source_id": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "document_title": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "printed_bundle_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "viewer_page": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "line_start": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "line_end": {
+                        "type": "string",
+                        "pattern": "^L[0-9]{3}$"
+                      },
+                      "evidence_type": {
+                        "enum": [
+                          "Exact quotation",
+                          "Paraphrase"
+                        ]
+                      },
+                      "text": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "evidence_role": {
+                        "enum": [
+                          "MAIN",
+                          "SUPPORTING"
+                        ]
+                      },
+                      "candidate_id": {
+                        "type": "string"
+                      },
+                      "query_ids": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      },
+                      "operative_at_cutoff": {
+                        "type": "boolean"
+                      },
+                      "version_evidence": {
+                        "type": "string"
+                      },
+                      "version_evidence_location": {
+                        "oneOf": [
+                          {
+                            "type": "object",
+                            "required": [
+                              "source_id",
+                              "document_title",
+                              "printed_bundle_page",
+                              "viewer_page",
+                              "line_start",
+                              "line_end",
+                              "evidence_type",
+                              "text"
+                            ],
+                            "properties": {
+                              "source_id": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "document_title": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "printed_bundle_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "viewer_page": {
+                                "type": "integer",
+                                "minimum": 1
+                              },
+                              "line_start": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "line_end": {
+                                "type": "string",
+                                "pattern": "^L[0-9]{3}$"
+                              },
+                              "evidence_type": {
+                                "enum": [
+                                  "Exact quotation",
+                                  "Paraphrase"
+                                ]
+                              },
+                              "text": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "visual_reading_order_checked": {
+                        "type": "boolean"
+                      },
+                      "visual_review_note": {
+                        "type": "string"
+                      }
+                    },
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "search_terms_used": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "documents_checked": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "source_id",
+                    "document_title",
+                    "printed_bundle_page",
+                    "viewer_page",
+                    "line_start",
+                    "line_end",
+                    "evidence_type",
+                    "text",
+                    "evidence_role",
+                    "operative_at_cutoff",
+                    "version_evidence",
+                    "version_evidence_location",
+                    "visual_reading_order_checked",
+                    "visual_review_note"
+                  ],
+                  "properties": {
+                    "source_id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "document_title": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "printed_bundle_page": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "viewer_page": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "line_start": {
+                      "type": "string",
+                      "pattern": "^L[0-9]{3}$"
+                    },
+                    "line_end": {
+                      "type": "string",
+                      "pattern": "^L[0-9]{3}$"
+                    },
+                    "evidence_type": {
+                      "enum": [
+                        "Exact quotation",
+                        "Paraphrase"
+                      ]
+                    },
+                    "text": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "evidence_role": {
+                      "enum": [
+                        "MAIN",
+                        "SUPPORTING"
+                      ]
+                    },
+                    "candidate_id": {
+                      "type": "string"
+                    },
+                    "query_ids": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    "operative_at_cutoff": {
+                      "type": "boolean"
+                    },
+                    "version_evidence": {
+                      "type": "string"
+                    },
+                    "version_evidence_location": {
+                      "oneOf": [
+                        {
+                          "type": "object",
+                          "required": [
+                            "source_id",
+                            "document_title",
+                            "printed_bundle_page",
+                            "viewer_page",
+                            "line_start",
+                            "line_end",
+                            "evidence_type",
+                            "text"
+                          ],
+                          "properties": {
+                            "source_id": {
+                              "type": "string",
+                              "minLength": 1
+                            },
+                            "document_title": {
+                              "type": "string",
+                              "minLength": 1
+                            },
+                            "printed_bundle_page": {
+                              "type": "integer",
+                              "minimum": 1
+                            },
+                            "viewer_page": {
+                              "type": "integer",
+                              "minimum": 1
+                            },
+                            "line_start": {
+                              "type": "string",
+                              "pattern": "^L[0-9]{3}$"
+                            },
+                            "line_end": {
+                              "type": "string",
+                              "pattern": "^L[0-9]{3}$"
+                            },
+                            "evidence_type": {
+                              "enum": [
+                                "Exact quotation",
+                                "Paraphrase"
+                              ]
+                            },
+                            "text": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          },
+                          "additionalProperties": false
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "visual_reading_order_checked": {
+                      "type": "boolean"
+                    },
+                    "visual_review_note": {
+                      "type": "string"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "uncertainty_notes": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": false
+          },
+          "additional_search_requests": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "request_id",
+                "university",
+                "case_id",
+                "scenario_id",
+                "query",
+                "category",
+                "rationale"
+              ],
+              "properties": {
+                "request_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "university": {
+                  "enum": [
+                    "Curtin",
+                    "ECU",
+                    "Murdoch",
+                    "Notre_Dame",
+                    "UWA"
+                  ]
+                },
+                "case_id": {
+                  "type": "string"
+                },
+                "scenario_id": {
+                  "enum": [
+                    "S1",
+                    "S2",
+                    "S3",
+                    "S4",
+                    "S5",
+                    "S6",
+                    "S7",
+                    "S8",
+                    "S9",
+                    "S10",
+                    "S11",
+                    "S12",
+                    "S13",
+                    "S14",
+                    "S15"
+                  ]
+                },
+                "query": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "category": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "rationale": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "requested_by": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "additional_search_request": {
+      "type": "object",
+      "required": [
+        "request_id",
+        "university",
+        "case_id",
+        "scenario_id",
+        "query",
+        "category",
+        "rationale"
+      ],
+      "properties": {
+        "request_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "university": {
+          "enum": [
+            "Curtin",
+            "ECU",
+            "Murdoch",
+            "Notre_Dame",
+            "UWA"
+          ]
+        },
+        "case_id": {
+          "type": "string"
+        },
+        "scenario_id": {
+          "enum": [
+            "S1",
+            "S2",
+            "S3",
+            "S4",
+            "S5",
+            "S6",
+            "S7",
+            "S8",
+            "S9",
+            "S10",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15"
+          ]
+        },
+        "query": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 1
+        },
+        "requested_by": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "version_evidence_location": {
+      "type": "object",
+      "required": [
+        "source_id",
+        "document_title",
+        "printed_bundle_page",
+        "viewer_page",
+        "line_start",
+        "line_end",
+        "evidence_type",
+        "text"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "document_title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "printed_bundle_page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "viewer_page": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "line_start": {
+          "type": "string",
+          "pattern": "^L[0-9]{3}$"
+        },
+        "line_end": {
+          "type": "string",
+          "pattern": "^L[0-9]{3}$"
+        },
+        "evidence_type": {
+          "enum": [
+            "Exact quotation",
+            "Paraphrase"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,185 @@
+{
+  "created_at": "2026-11-15T08:02:10+00:00",
+  "packages": {
+    "Curtin": {
+      "archive": "Curtin_One_Coder_Package.zip",
+      "archive_sha256": "1fe622e4f0d41285f3e9ffb6465c802d46c07fa3ab3c6d0ccef26806629ec31b",
+      "files": {
+        "Curtin_Merged_Policies.pdf": {
+          "path": "data\\raw\\Curtin\\Curtin_Merged_Policies.pdf",
+          "sha256": "e82fa1ba1a90b332677878610c0358fbc64e131b3b49be86b5be5e7b0a75c9ce",
+          "size": 20717541
+        },
+        "Human_Codebook.docx": {
+          "path": "data\\raw\\Curtin\\Human_Codebook.docx",
+          "sha256": "a120bb54e80746380a3bf3e4d6f1cb8d506f4d6065ccb7f09991e595f2174dcd",
+          "size": 40680
+        },
+        "Human_Coder_1_Curtin.xlsx": {
+          "path": "data\\raw\\Curtin\\Human_Coder_1_Curtin.xlsx",
+          "sha256": "31bf070da16101ab4d349b7badafdb2ccf37167634df0e891565fbf4ba18dd56",
+          "size": 12175
+        },
+        "START_HERE.txt": {
+          "path": "data\\raw\\Curtin\\START_HERE.txt",
+          "sha256": "f1593e85fbc3f8a5df0cfc68de443eaa3ded15ca8fafec595f4dab0edbf4228e",
+          "size": 1144
+        },
+        "Scenarios.docx": {
+          "path": "data\\raw\\Curtin\\Scenarios.docx",
+          "sha256": "4ffcf6f78dccfae98e38327454169fbe459f299dd33e0d9300f71140755693e5",
+          "size": 40533
+        },
+        "Source_Register_Curtin.csv": {
+          "path": "data\\raw\\Curtin\\Source_Register_Curtin.csv",
+          "sha256": "458f9996bc1d757e36d6b4ffe7e722c1e085d750c6576e7b6226a2878b3fd585",
+          "size": 9732
+        }
+      }
+    },
+    "ECU": {
+      "archive": "ECU_One_Coder_Package.zip",
+      "archive_sha256": "92906bb4c400deead282575fe03a030ba63c306b72b49cfd85b10afd112f33dc",
+      "files": {
+        "ECU_Merged_Policies.pdf": {
+          "path": "data\\raw\\ECU\\ECU_Merged_Policies.pdf",
+          "sha256": "f9ad1e82b46e74ea17b9efddecc8e6fb985947089c354df24632980344893da9",
+          "size": 3929341
+        },
+        "Human_Codebook.docx": {
+          "path": "data\\raw\\ECU\\Human_Codebook.docx",
+          "sha256": "a120bb54e80746380a3bf3e4d6f1cb8d506f4d6065ccb7f09991e595f2174dcd",
+          "size": 40680
+        },
+        "Human_Coder_1_ECU.xlsx": {
+          "path": "data\\raw\\ECU\\Human_Coder_1_ECU.xlsx",
+          "sha256": "f7497afb354bd7429a764f683522657ed8a8a62a820464d55be6ee09d8ad2c1c",
+          "size": 12175
+        },
+        "START_HERE.txt": {
+          "path": "data\\raw\\ECU\\START_HERE.txt",
+          "sha256": "280f6fc471c16702401839c464bbd2f9f72d559c2a9c51a6cc333295018acca9",
+          "size": 1140
+        },
+        "Scenarios.docx": {
+          "path": "data\\raw\\ECU\\Scenarios.docx",
+          "sha256": "4ffcf6f78dccfae98e38327454169fbe459f299dd33e0d9300f71140755693e5",
+          "size": 40533
+        },
+        "Source_Register_ECU.csv": {
+          "path": "data\\raw\\ECU\\Source_Register_ECU.csv",
+          "sha256": "2f5a1c5ca4f0000f3c026fd5d686ed91da748722301ced449da7805ee34d9d66",
+          "size": 4814
+        }
+      }
+    },
+    "Murdoch": {
+      "archive": "Murdoch_One_Coder_Package.zip",
+      "archive_sha256": "6d7fef98c450f8ce67998ff01d910fd2cba42cff0021b5ee27cedf9cfe8a8dc9",
+      "files": {
+        "Human_Codebook.docx": {
+          "path": "data\\raw\\Murdoch\\Human_Codebook.docx",
+          "sha256": "a120bb54e80746380a3bf3e4d6f1cb8d506f4d6065ccb7f09991e595f2174dcd",
+          "size": 40680
+        },
+        "Human_Coder_1_Murdoch.xlsx": {
+          "path": "data\\raw\\Murdoch\\Human_Coder_1_Murdoch.xlsx",
+          "sha256": "1fd690538bbdd259af21ba3fb08909f586f8be8ae9ecfef6d688e759dc112808",
+          "size": 12191
+        },
+        "Murdoch_Merged_Policies.pdf": {
+          "path": "data\\raw\\Murdoch\\Murdoch_Merged_Policies.pdf",
+          "sha256": "729ac4462ecfa31330c5d91d81179147f007340dab088cdbb410e21d4a9dfcf1",
+          "size": 9230798
+        },
+        "START_HERE.txt": {
+          "path": "data\\raw\\Murdoch\\START_HERE.txt",
+          "sha256": "a15c81c7ab5b4a95a46ffd79abe2779a94c0268f4096d25bdfb84c24ee6918fd",
+          "size": 1148
+        },
+        "Scenarios.docx": {
+          "path": "data\\raw\\Murdoch\\Scenarios.docx",
+          "sha256": "4ffcf6f78dccfae98e38327454169fbe459f299dd33e0d9300f71140755693e5",
+          "size": 40533
+        },
+        "Source_Register_Murdoch.csv": {
+          "path": "data\\raw\\Murdoch\\Source_Register_Murdoch.csv",
+          "sha256": "7ff5879fb87f4e0eb8e1c7083d91e0d4611b81f20b213b6b81641560f06041af",
+          "size": 8518
+        }
+      }
+    },
+    "Notre_Dame": {
+      "archive": "Notre_Dame_One_Coder_Package.zip",
+      "archive_sha256": "01be7c13962a5f670a11b1553ece3b9622271aaec37946b2b7a56b165144cc22",
+      "files": {
+        "Human_Codebook.docx": {
+          "path": "data\\raw\\Notre_Dame\\Human_Codebook.docx",
+          "sha256": "a120bb54e80746380a3bf3e4d6f1cb8d506f4d6065ccb7f09991e595f2174dcd",
+          "size": 40680
+        },
+        "Human_Coder_1_Notre_Dame.xlsx": {
+          "path": "data\\raw\\Notre_Dame\\Human_Coder_1_Notre_Dame.xlsx",
+          "sha256": "6e737031659856e7a8bbb15f9cc9202ce844b4f8b207d95b9a3324d9a7757475",
+          "size": 12239
+        },
+        "Notre_Dame_Merged_Policies.pdf": {
+          "path": "data\\raw\\Notre_Dame\\Notre_Dame_Merged_Policies.pdf",
+          "sha256": "df5bbc9ff79666d022c57a98bc8df7e52aa34589b98c21fae1873d874226e864",
+          "size": 16277899
+        },
+        "START_HERE.txt": {
+          "path": "data\\raw\\Notre_Dame\\START_HERE.txt",
+          "sha256": "2430bb0b7c8e385a5d7ede4d08beb1440dc00c16f0fc3fc632b4c5ab085cb5f8",
+          "size": 1173
+        },
+        "Scenarios.docx": {
+          "path": "data\\raw\\Notre_Dame\\Scenarios.docx",
+          "sha256": "4ffcf6f78dccfae98e38327454169fbe459f299dd33e0d9300f71140755693e5",
+          "size": 40533
+        },
+        "Source_Register_Notre_Dame.csv": {
+          "path": "data\\raw\\Notre_Dame\\Source_Register_Notre_Dame.csv",
+          "sha256": "97056cd17ffced4ca88ad069add2f6ece49e8c005cff27c86705d705c78303ff",
+          "size": 7177
+        }
+      }
+    },
+    "UWA": {
+      "archive": "UWA_One_Coder_Package.zip",
+      "archive_sha256": "e6e17a619b419cf5dbd7c6fdaafa9548dc4cdcd9aebdf1538ac5e763f5140725",
+      "files": {
+        "Human_Codebook.docx": {
+          "path": "data\\raw\\UWA\\Human_Codebook.docx",
+          "sha256": "a120bb54e80746380a3bf3e4d6f1cb8d506f4d6065ccb7f09991e595f2174dcd",
+          "size": 40680
+        },
+        "Human_Coder_1_UWA.xlsx": {
+          "path": "data\\raw\\UWA\\Human_Coder_1_UWA.xlsx",
+          "sha256": "8728dffdffe4ee751baf073d05f20d3e71d5b526ff20aace50ac03bf458e0ccf",
+          "size": 12187
+        },
+        "START_HERE.txt": {
+          "path": "data\\raw\\UWA\\START_HERE.txt",
+          "sha256": "cb5596c9872ed1383c804d3aae10115753d1f089cb48f312f5b5258a96586ea0",
+          "size": 1149
+        },
+        "Scenarios.docx": {
+          "path": "data\\raw\\UWA\\Scenarios.docx",
+          "sha256": "4ffcf6f78dccfae98e38327454169fbe459f299dd33e0d9300f71140755693e5",
+          "size": 40533
+        },
+        "Source_Register_UWA.csv": {
+          "path": "data\\raw\\UWA\\Source_Register_UWA.csv",
+          "sha256": "50069f4d0e77edb6f27758d94c94e8fc2aaebae7c9b4d079586f06435b0e9f70",
+          "size": 11439
+        },
+        "UWA_Merged_Policies.pdf": {
+          "path": "data\\raw\\UWA\\UWA_Merged_Policies.pdf",
+          "sha256": "2236cb6ce55bf28d78021884411d27356f619d1d03afb0d02015574ab5ffde6f",
+          "size": 16103784
+        }
+      }
+    }
+  }
+}

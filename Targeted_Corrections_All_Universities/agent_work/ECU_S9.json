@@ -1,0 +1,1179 @@
+{
+  "university": "ECU",
+  "case_id": "ECU-S9",
+  "scenario_id": "S9",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "additional_search_requests": [],
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "N154 explicitly covers peer assessment, grading responsibility, group assessment, and moderation, prohibiting peer assessment from determining summative grades, though AI group coordinators are not specifically named.",
+      "search_terms_used": [
+        "peer marks",
+        "group contribution",
+        "peer assessment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 121,
+          "viewer_page": 121,
+          "line_start": "L007",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "For group Assessment Tasks weighted at more than 30%, additional assessment must be\nundertaken of an individual’s achievement of the Learning Outcomes related to the\nAssessment Task. Individual contributions may be evidenced, for example, through short\ninvigilated tasks or examination-styled questions, or online tasks that include some means of\nStudent Identity Verification (SIV).",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q02"
+          ]
+        },
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q02"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 121,
+          "viewer_page": 121,
+          "line_start": "L007",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "For group Assessment Tasks weighted at more than 30%, additional assessment must be\nundertaken of an individual’s achievement of the Learning Outcomes related to the\nAssessment Task. Individual contributions may be evidenced, for example, through short\ninvigilated tasks or examination-styled questions, or online tasks that include some means of\nStudent Identity Verification (SIV).",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q02"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D2",
+      "score": 3,
+      "reason": "N154 explicitly assigns grading of Student work to the Unit Coordinator, requires Assessment Panel approval and consensus moderation of final grades against Benchmarked Standards, and explicitly connects student appeal rights under the Admission, Enrolment and Academic Progress Rules.",
+      "search_terms_used": [
+        "decision authority",
+        "evaluation criteria",
+        "appeal marks"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L022",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "For all Units, Unit Coordinators must submit proposed results via the University approved\nsystem by the nominated submission deadline. Proposed results must reflect the level of\nStudent attainment in relation to Benchmarked Standards.\nThe Assessment Panel will, for each Student, approve a final Grade consistent with Grading\nSchema 1 or Grading Schema 2, as set out in the Admission, Enrolment and Academic Progress\nRules.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N154's formative-only peer assessment rule, Unit Coordinator grading responsibility, and Assessment Panel moderation are compatible with N090's academic integrity framework, without an explicit coordination rule cited between them in the verified passages.",
+      "search_terms_used": [
+        "peer assessment",
+        "evaluation criteria"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        },
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q02"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N154 sets out clear requirements for formative-only peer review, Unit Coordinator grading, Assessment Panel moderation, and appeal rights, though operational steps for AI-mediated task allocation within student groups are not detailed.",
+      "search_terms_used": [
+        "peer assessment",
+        "appeal marks",
+        "fairness review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 3,
+      "reason": "N154 directly protects against unreviewed AI/peer evaluations determining binding marks by restricting peer assessment to formative use only, requiring Unit Coordinator grading, Assessment Panel consensus moderation, and providing formal appeal rights.",
+      "search_terms_used": [
+        "peer marks",
+        "fairness review",
+        "appeal marks"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L019",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q01",
+            "S9-Q04",
+            "S9-Q05"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L028",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q03",
+            "S9-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q06",
+            "S9-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N090 mandates annual consolidated reporting to Unit Review Committees and Academic Board, and N154 undergoes periodic revision (amended December 2025, next December 2028).",
+      "search_terms_used": [
+        "fairness review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 75,
+          "viewer_page": 75,
+          "line_start": "L024",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "provide an annual consolidated report on academic integrity within the University, to each Unit\nReview Committee and to the Academic Board; and\nmaintain and secure confidential records of academic integrity allegations, breaches,\ninvestigations and outcomes, in accordance with the University’s Privacy Policy, Records\nManagement Policy and any other applicable law.\nEach School will respond to the Deputy Vice-Chancellor (Students and Education)’s annual\nreport, for submission to Academic Board, addressing the following in relation to their School\nor Teaching Area:\ndata and trends relating to concerns, allegations and findings of Academic Breach and\nAcademic Misconduct for Students;\nthe manner in which allegations were dealt with;\nthe steps taken to promote academic integrity and to minimise Academic Breach and\nAcademic Misconduct; and\naction plans to continuously improve academic integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 75,
+          "viewer_page": 75,
+          "line_start": "L024",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "provide an annual consolidated report on academic integrity within the University, to each Unit\nReview Committee and to the Academic Board; and\nmaintain and secure confidential records of academic integrity allegations, breaches,\ninvestigations and outcomes, in accordance with the University’s Privacy Policy, Records\nManagement Policy and any other applicable law.\nEach School will respond to the Deputy Vice-Chancellor (Students and Education)’s annual\nreport, for submission to Academic Board, addressing the following in relation to their School\nor Teaching Area:\ndata and trends relating to concerns, allegations and findings of Academic Breach and\nAcademic Misconduct for Students;\nthe manner in which allegations were dealt with;\nthe steps taken to promote academic integrity and to minimise Academic Breach and\nAcademic Misconduct; and\naction plans to continuously improve academic integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S9-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Students have a right of appeal under the Admission, Enrolment and Academic Progress Rules (N154) and complaint rights under N156 (Complaints Policy PL207).",
+    "review_route_evidence": {
+      "source_id": "N154",
+      "document_title": "Assessment Procedure including Attachment 1",
+      "printed_bundle_page": 118,
+      "viewer_page": 118,
+      "line_start": "L018",
+      "line_end": "L020",
+      "evidence_type": "Exact quotation",
+      "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "December 2025",
+      "version_evidence_location": {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L002",
+        "line_end": "L008",
+        "evidence_type": "Exact quotation",
+        "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": [
+        "S9-Q06",
+        "S9-Q07"
+      ]
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.",
+    "critical_gap_explanation": "N154 restricts peer assessment to formative purposes only, makes the Unit Coordinator the accountable grader, requires Assessment Panel moderation, and provides formal appeal rights, preventing unreviewed AI evaluations from determining binding marks.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Prohibition",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "ECU prohibits unreviewed peer or AI evaluations from determining binding academic marks under N154, which restricts peer assessment to formative use only and assigns grading responsibility to the Unit Coordinator. Final grades must undergo Assessment Panel consensus moderation and are subject to student appeal rights. Protocol v1.1 was adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N156",
+        "document_title": "Complaints Policy PL207",
+        "printed_bundle_page": 140,
+        "viewer_page": 140,
+        "line_start": "L024",
+        "line_end": "L037",
+        "evidence_type": "Exact quotation",
+        "text": "This policy applies to:\nComplaints made by prospective, current and former Students or members of the public about\nthe University or University-related conduct, whether occurring in Australia or overseas; and\nall persons involved in making, responding to, managing or resolving those Complaints.\nWhere legislation or another University or external framework provides a specific process for\ndealing with all or part of a matter, the University may refer or manage that matter under the\napplicable process. This includes matters concerning academic review or appeal, public\ninterest disclosures, misconduct, staff performance, privacy, employment or workplace\ngrievances, the ECU Student Guild, and third-party organisations.\nThis does not prevent the University from considering a distinct Complaint about its\nadministration of, or response to, the matter.\nWhere a matter engages more than one framework, the University will determine whether the\nrelevant issues are to be managed separately, sequentially, concurrently or in a coordinated\nmanner and will inform the Complainant of the applicable pathway.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).",
+        "version_evidence_location": {
+          "source_id": "N156",
+          "document_title": "Complaints Policy PL207",
+          "printed_bundle_page": 147,
+          "viewer_page": 147,
+          "line_start": "L016",
+          "line_end": "L016",
+          "evidence_type": "Exact quotation",
+          "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051)."
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q06",
+          "S9-Q07"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 118,
+        "viewer_page": 118,
+        "line_start": "L022",
+        "line_end": "L027",
+        "evidence_type": "Exact quotation",
+        "text": "For all Units, Unit Coordinators must submit proposed results via the University approved\nsystem by the nominated submission deadline. Proposed results must reflect the level of\nStudent attainment in relation to Benchmarked Standards.\nThe Assessment Panel will, for each Student, approve a final Grade consistent with Grading\nSchema 1 or Grading Schema 2, as set out in the Admission, Enrolment and Academic Progress\nRules.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q03"
+        ]
+      }
+    ],
+    "search_terms_used": [
+      "peer marks",
+      "group contribution",
+      "decision authority",
+      "evaluation criteria",
+      "peer assessment",
+      "appeal marks",
+      "fairness review"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 122,
+        "viewer_page": 122,
+        "line_start": "L019",
+        "line_end": "L030",
+        "evidence_type": "Exact quotation",
+        "text": "Feedback on Student work may be generated through self and peer review and assessment so\nthat Students have an opportunity to practise applying criteria and standards to their own\nwork and that of others. The following must be met:\npeer review and peer assessment processes must be designed to ensure that Students can be\ntreated with respect by other Students, and must be supported by clear guidelines and criteria\nfor the review;\nStudents must always receive Feedback on their self and peer reviews and assessments to\nassist them in calibrating their judgement to match discipline standards;\nSelf and peer assessment is to be used for Formative Assessment purposes only – the grading\nof Student work is the Unit Coordinator’s responsibility; and\nif Students are required to generate constructive Feedback for a peer, the quality of such\nFeedback may be a component of Summative Assessment.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q01",
+          "S9-Q04",
+          "S9-Q05"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 111,
+        "viewer_page": 111,
+        "line_start": "L028",
+        "line_end": "L047",
+        "evidence_type": "Exact quotation",
+        "text": "Assessment Panels\nEach School must have an Assessment Panel comprising Teaching Staff from the Course Stage,\nand other Staff as determined by the Executive Dean of the School (e.g. Course Coordinator)\nand have oversight by the Associate Dean (Teaching and Learning). The Assessment Panel will\nhave sufficient subject matter expertise relevant to the Course.\nWhere Student performance is assessed across different locations, Schools, providers or\nCourses, the Course Coordinator(s) must be included in the Assessment Panel.\nThe Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.\nThe Assessment Panel will provide each Student with feedback on Assessments, describing\ntheir progression towards achievement of the CLOs and providing advice about how to best\napproach their learning throughout the remainder of their Course.\nConsistent with a criterion and standards referenced approach, where grades are provided, the\nallocation of a grade must reflect the level of Student attainment in relation to Benchmarked\nStandards. Any scaling of marks must be justifiable by reference to Benchmarked Standards\nand endorsed by the Deputy Vice-Chancellor (Education).\nConsensus moderation must be employed by Assessment Panels to ensure reliable judgements\nin relation to Benchmarked Standards during all phases of the Assessment cycle.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q03",
+          "S9-Q04"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 118,
+        "viewer_page": 118,
+        "line_start": "L018",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q06",
+          "S9-Q07"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 121,
+        "viewer_page": 121,
+        "line_start": "L007",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "For group Assessment Tasks weighted at more than 30%, additional assessment must be\nundertaken of an individual’s achievement of the Learning Outcomes related to the\nAssessment Task. Individual contributions may be evidenced, for example, through short\ninvigilated tasks or examination-styled questions, or online tasks that include some means of\nStudent Identity Verification (SIV).",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S9-Q02"
+        ]
+      }
+    ],
+    "uncertainty_notes": ""
+  }
+}

@@ -1,0 +1,80 @@
+SCENARIOS S1–S15 (VERBATIM EXTRACTED TEXT)
+==========================================
+
+Scenarios
+These same 15 scenarios apply to every university. Find the applicable policies yourself. The listed risks are a checklist for review, not predetermined institutional findings.
+S1 Augmented Assessment
+A student uses a persistent AI assistant for planning, feedback and revision across an assignment. The AI drafts nothing that is submitted directly; it scaffolds the student's own thinking through iterative Q&A and editing suggestions. The student personally writes and submits the final work under their own authenticated account, with no AI-authored text retained verbatim.
+Boundary: No AI-authored text is retained in the final submission; no autonomous submission occurs
+Risks to check: Attribution and disclosure; student authorship; equitable access.
+Critical risks agreed before main coding: __________________________________
+S2 Delegated Assessment
+An AI agent completes multiple parts of an assignment on the student's behalf: drafting sections, requesting clarification on ambiguous rubric items, and revising the work after the student's feedback. The agent presents a completed product for the student's approval, and the student submits it as their own without substantially rewriting it.
+Boundary: A human approval gate exists before submission but is not substantively verified against the AI's actual contribution
+Risks to check: Attribution and disclosure; assessment validity; human verification.
+Critical risks agreed before main coding: __________________________________
+S3 Autonomous Assessment
+A persistent AI agent manages a student's coursework across an entire semester: interacting with learning-management and submission platforms, and submitting work through the student's authenticated account without per-item human review. The student has delegated standing authority, not one-off approval.
+Boundary: No meaningful human review before submission for the full semester
+Risks to check: Account security; student identity; assessment validity; human oversight.
+Critical risks agreed before main coding: __________________________________
+S4 Lecture Assistance
+An AI assistant attends a live lecture alongside the enrolled student — recording audio/video, producing structured notes, and privately answering the student's follow-up questions in real time. The AI is not disclosed to or visible to the instructor or other students; it functions purely as a personal aid.
+Boundary: AI does not communicate with the instructor or other students
+Risks to check: Recording and consent; third-party privacy; copyright; accessibility.
+Critical risks agreed before main coding: __________________________________
+S5 Delegated Attendance
+A disclosed AI avatar attends an online lecture in the student's absence, asks questions on the student's behalf through the platform's chat or voice channel, and reports the lecture's content back to the student afterward. The proxy is disclosed to the platform, not concealed.
+Boundary: Disclosed as an AI proxy at the point of use, not concealed
+Risks to check: Proxy identity and authorisation; attendance requirements; recording and privacy.
+Critical risks agreed before main coding: __________________________________
+S6 Institutional Representation
+An AI agent represents the student in discussions about feedback, extensions, or an appeal, communicating autonomously with staff without the student present. It acts under the student's name and authority but is the actual communicating party.
+Boundary: The agent uses the student's email/SSO credentials via delegated access set up in the identity platform; no human present; staff cannot independently confirm authorisation
+Risks to check: Representation and authorisation; procedural fairness; confidentiality; appeal rights.
+Critical risks agreed before main coding: __________________________________
+S7 Group Assistance
+A student group uses general-purpose AI for brainstorming, organisation, and language improvement, but access and use vary between members — some paid, some free-tier, some none — and the submission does not indicate which sections drew on AI, or from whom.
+Boundary: AI used individually at each member's discretion; no group-level mechanism tracks who used it, how much, or for what
+Risks to check: Attribution of contributions; equitable access; group responsibility.
+Critical risks agreed before main coding: __________________________________
+S8 AI Group Participant
+An AI agent joins the group's shared digital workspace as a member. It remembers past discussions across sessions, completes tasks allocated by human members, and contributes identifiable content directly to the submission — under its own presence, not impersonating a human.
+Boundary: The AI's contribution is identifiable/separable within the submission, not fully merged or undetectable
+Risks to check: Attribution of AI contributions; group responsibility; workspace privacy.
+Critical risks agreed before main coding: __________________________________
+S9 AI Group Coordinator
+The AI agent allocates tasks among human members, evaluates their contributions, resolves disagreements, and assembles the final submission — exercising managerial authority over the humans in the group, not merely executing tasks assigned to it.
+Boundary: AI's evaluative decisions about human contributions are not reviewed by a human before affecting the submission or peer marks
+Risks to check: Fair allocation and evaluation; human review; contestability; attribution.
+Critical risks agreed before main coding: __________________________________
+S10 AI Literature Synthesis
+A researcher (student or staff) uses an AI system to search the literature, screen studies for relevance, and produce a referenced synthesis. The researcher discloses the tool's use and personally verifies every citation and claim before relying on the synthesis in their own work.
+Boundary: Researcher personally verifies citations and claims before use
+Risks to check: Citation and claim accuracy; attribution; confidentiality; human verification.
+Critical risks agreed before main coding: __________________________________
+S11 AI-Generated Research Evidence
+A researcher delegates a substantial share of a study to AI: an agent generates simulated participant responses in place of human subjects, then runs the statistical analysis and drafts the results. The researcher designed the study and reviews the output, but did not personally generate, analyse, or draft it.
+Boundary: Ethics review assumed human participants and researcher-led analysis; untested here
+Risks to check: Research validity; simulation disclosure; ethics scope; consent and privacy.
+Critical risks agreed before main coding: __________________________________
+S12 Autonomous Research Agent
+A multi-agent AI system develops hypotheses, designs procedures, analyses evidence, and conducts connected lab or computational actions with limited human intervention — potentially producing outputs attributed to a PI who did not review each step.
+Boundary: No human verification step between AI-generated hypothesis/procedure and physical or computational execution
+Risks to check: Research validity; authorised execution; safety; oversight and accountability.
+Critical risks agreed before main coding: __________________________________
+S13 Course-Level Memory
+An AI learning assistant retains a student's performance, weaknesses and preferences throughout one course, using this to tailor support within that unit. Use is voluntary, and the memory is scoped to a single course, with retention nominally ending when the course concludes.
+Boundary: Memory is scoped to one course and nominally deleted or inaccessible after the course ends
+Risks to check: Purpose and consent; minimisation; retention and deletion; access and security.
+Critical risks agreed before main coding: __________________________________
+S14 Cross-Course Learner Profile
+An AI assistant maintains a persistent profile across several courses and semesters, using it to influence learning, assessment, and academic advice. The student consented, but individual instructors may not know the profile exists or spans their unit.
+Boundary: The profile spans multiple courses and semesters; individual instructors may not know its full scope. Whether a policy owner exists is a coding question.
+Risks to check: Purpose and consent; cross-course data sharing; profiling; access and correction.
+Critical risks agreed before main coding: __________________________________
+S15 Institutionally Connected Agent
+An AI agent accesses the LMS, student support, enrolment, advising and assessment systems, and independently acts for the student across all of them. It has standing authority to act, rather than merely advise, without per-action human review.
+Boundary: Standing access spans systems governed by separate policies. Whether institutional ownership and oversight are connected is a coding question.
+Risks to check: Authorised system access; purpose limitation; security; oversight and contestability.
+Critical risks agreed before main coding: __________________________________

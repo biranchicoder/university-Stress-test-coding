@@ -1,0 +1,456 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Murdoch
+Case ID: Murdoch-S14
+Scenario: S14 — Cross-Course Learner Profile
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S14 Cross-Course Learner Profile
+An AI assistant maintains a persistent profile across several courses and semesters, using it to influence learning, assessment, and academic advice. The student consented, but individual instructors may not know the profile exists or spans their unit.
+Boundary: The profile spans multiple courses and semesters; individual instructors may not know its full scope. Whether a policy owner exists is a coding question.
+Risks to check: Purpose and consent; cross-course data sharing; profiling; access and correction.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Informed purpose and cross-course use, accountable lifecycle ownership, access/correction and contestability of consequential profiling.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S14-Q01 [actor_and_activity]: learner profile — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S14-Q02 [related_roles]: student profiling — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S14-Q03 [permission_authority]: consent purpose — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S14-Q04 [restriction_boundary]: course data — 14 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S14-Q05 [procedure]: access correction — 5 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S14-Q06 [review_route]: privacy complaint — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S14-Q07 [related_risk]: data sharing — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N163 | Generative AI and the Library (Library Guide) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N164 | Student Integrity Regulations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N078 | Information Management Policy (pdf) 216 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N083 | Privacy Policy (pdf) 288 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N084 | Privacy Procedure (pdf) 274 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N172 | Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N075 | Complaints Policy (pdf) 224 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N082 | Murdoch University Recordkeeping Plan 2024 (pdf) 707 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N176 | Academic Council Statement of Governance Principles | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N177 | Senate Statement of Governance Principles | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N233 | Accessibility services myAccess plans and procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-b881233aabda81
+Source ID: N075
+Document title: Complaints Policy (pdf) 224 KB
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L009–L009
+Search query IDs: S14-Q06
+Search terms: privacy complaint
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: undertaken to minimise or remove them.
+Candidate passage: 6. Roles responsible for managing or resolving a complaint, will:
+Context after: 6.1. be at the appropriate level
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-072d1173544755
+Source ID: N075
+Document title: Complaints Policy (pdf) 224 KB
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L016–L016
+Search query IDs: S14-Q06
+Search terms: privacy complaint
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 8. Accurate and relevant information will be provided in plain English.
+Candidate passage: 9. Information about complaint processes will be advertised and publicly available.
+Context after: Governance
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f8828226173601
+Source ID: N075
+Document title: Complaints Policy (pdf) 224 KB
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L033–L033
+Search query IDs: S14-Q06
+Search terms: privacy complaint
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Freedom of Information Act 1992
+Candidate passage: Privacy and Responsible Information Sharing Act 2024
+Context after: Work Health and Safety Act 2020
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ac95ad0da4c8f7
+Source ID: N078
+Document title: Information Management Policy (pdf) 216 KB
+Printed bundle page: 24
+PDF viewer page (navigation only): 24
+Line numbers: L004–L004
+Search query IDs: S14-Q04
+Search terms: course data
+Extraction/review flags: none recorded
+Context before: This policy states the University principles for management of University’s information.
+Candidate passage: This policy applies to all formats of Information created or received in the course of
+Context after: University activities.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e8312571aa4f7a
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L015–L015
+Search query IDs: S14-Q05
+Search terms: access correction
+Extraction/review flags: none recorded
+Context before: Principles (RSPs) and core Information Privacy Principles (IPPs) governing collection,
+Candidate passage: use, integrity, storage, security, and access to information as set out in the PRIS Act.
+Context after: Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fb3492c7b1c4e5
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L026–L026
+Search query IDs: S14-Q05
+Search terms: access correction
+Extraction/review flags: none recorded
+Context before: 1.4 Security: Personal information is protected against loss, misuse, and
+Candidate passage: unauthorised access.
+Context after: 1.5 Access and correction: Individuals have the right to access and correct their
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d9f58ed1d57eb5
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L027–L027
+Search query IDs: S14-Q05
+Search terms: access correction
+Extraction/review flags: none recorded
+Context before: unauthorised access.
+Candidate passage: 1.5 Access and correction: Individuals have the right to access and correct their
+Context after: personal information.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cc620558b4dd15
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L005–L005
+Search query IDs: S14-Q03
+Search terms: consent purpose
+Extraction/review flags: none recorded
+Context before: 5.3.1 If required or authorised by law or court/tribunal order;
+Candidate passage: 5.3.2 When it is unreasonable or impracticable to obtain consent and the
+Context after: University reasonably believes it is necessary to prevent or lessen
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0d31680b50c048
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L024–L024
+Search query IDs: S14-Q03
+Search terms: consent purpose
+Extraction/review flags: none recorded
+Context before: 5.4 There may also be use/disclosure for health-related situations -. Health
+Candidate passage: information may be disclosed for purposes other than the primary purpose
+Context after: of collection as outlined in clauses 5.2 and 5.3, and in the following
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-32e02a6dec383b
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L030–L030
+Search query IDs: S14-Q03
+Search terms: consent purpose
+Extraction/review flags: none recorded
+Context before: analysing statistics relevant to public health or safety;
+Candidate passage: 5.4.1.2 It is impracticable to obtain consent;
+Context after: 5.4.1.3 The research is conducted in accordance with all
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4f03513b6a88a9
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L036–L036
+Search query IDs: S14-Q03
+Search terms: consent purpose
+Extraction/review flags: none recorded
+Context before: derived from health information.
+Candidate passage: 5.4.2 Incapacity to give consent
+Context after: 5.4.2.1 If a health service has been provided; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1943a6d21065f4
+Source ID: N083
+Document title: Privacy Policy (pdf) 288 KB
+Printed bundle page: 37
+PDF viewer page (navigation only): 37
+Line numbers: L017–L017
+Search query IDs: S14-Q05
+Search terms: access correction
+Extraction/review flags: none recorded
+Context before: 5.6.1 Names and email addresses are accessible via the University’s
+Candidate passage: Microsoft 365 Global Address List. A staff member may access
+Context after: student contact details in this manner only for purposes related to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b844be2145a65c
+Source ID: N084
+Document title: Privacy Procedure (pdf) 274 KB
+Printed bundle page: 41
+PDF viewer page (navigation only): 41
+Line numbers: L034–L034
+Search query IDs: S14-Q05
+Search terms: access correction
+Extraction/review flags: none recorded
+Context before: disks or computer tape.
+Candidate passage: 4. Access to and correction of personal information
+Context after: 4.1 All efforts will be taken to ensure that the information collected and held is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c1e29897dc341a
+Source ID: N163
+Document title: Generative AI and the Library (Library Guide)
+Printed bundle page: 10
+PDF viewer page (navigation only): 10
+Line numbers: L003–L003
+Search query IDs: S14-Q07
+Search terms: data sharing
+Extraction/review flags: none recorded
+Context before: Some databases allow Murdoch's Institutional Copilot to be used for Research and Study, Education
+Candidate passage: Instruction, and Text and Data Mining of providers' content. For a list of databases that allow such
+Context after: use, see the list linked below. Please check the Conditions of Use to determine what use each
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0debb31288f86b
+Source ID: N163
+Document title: Generative AI and the Library (Library Guide)
+Printed bundle page: 10
+PDF viewer page (navigation only): 10
+Line numbers: L006–L006
+Search query IDs: S14-Q07
+Search terms: data sharing
+Extraction/review flags: none recorded
+Context before: database allows.
+Candidate passage: Databases - Text and Data Mining and Institutional AI Permitted
+Context after: In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0ff3cf4ccef94a
+Source ID: N163
+Document title: Generative AI and the Library (Library Guide)
+Printed bundle page: 10
+PDF viewer page (navigation only): 10
+Line numbers: L007–L007
+Search query IDs: S14-Q07
+Search terms: data sharing
+Extraction/review flags: none recorded
+Context before: Databases - Text and Data Mining and Institutional AI Permitted
+Candidate passage: In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
+Context after: images, etc., or Murdoch intellectual property to third-party AI (ChatGPT, Gemini, Claude, Copilot) is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2dda9a51da33c1
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 20
+PDF viewer page (navigation only): 20
+Line numbers: L007–L007
+Search query IDs: S14-Q04
+Search terms: course data
+Extraction/review flags: none recorded
+Context before: 1.1.1 require the student to take part in specified support activities.
+Candidate passage: 1.1.2 require the student to take a course of corrective action or specified
+Context after: training.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b82f1529e4f254
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 20
+PDF viewer page (navigation only): 20
+Line numbers: L023–L023
+Search query IDs: S14-Q04
+Search terms: course data
+Extraction/review flags: none recorded
+Context before: performance.
+Candidate passage: 1.4.2 require the student to transfer to another course if the student
+Context after: wishes to remain enrolled at the University.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-09ca657b1682e1
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 20
+PDF viewer page (navigation only): 20
+Line numbers: L030–L030
+Search query IDs: S14-Q04
+Search terms: course data
+Extraction/review flags: none recorded
+Context before: lost property or facilities.
+Candidate passage: 1.5.2 require restitution of data.
+Context after: 1.6 Require a retraction or apology
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-84a62e50201d8f
+Source ID: N176
+Document title: Academic Council Statement of Governance Principles
+Printed bundle page: 249
+PDF viewer page (navigation only): 249
+Line numbers: L012–L012
+Search query IDs: S14-Q04
+Search terms: course data
+Extraction/review flags: none recorded
+Context before: Procedure; and provides academic quality assurance by considering
+Candidate passage: relevant data related to student experience, student performance, course
+Context after: quality and student integrity.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9a6a835195a25f
+Source ID: N177
+Document title: Senate Statement of Governance Principles
+Printed bundle page: 266
+PDF viewer page (navigation only): 266
+Line numbers: L006–L006
+Search query IDs: S14-Q07
+Search terms: data sharing
+Extraction/review flags: none recorded
+Context before: This Act governs the protection of personal information held by the WA public sector
+Candidate passage: and universities and provides a framework for responsible data sharing. Key aspects
+Context after: include establishing clear principles for how personal data is handled, creating
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2938930b9ba916
+Source ID: N177
+Document title: Senate Statement of Governance Principles
+Printed bundle page: 266
+PDF viewer page (navigation only): 266
+Line numbers: L009–L009
+Search query IDs: S14-Q07
+Search terms: data sharing
+Extraction/review flags: none recorded
+Context before: pathways for privacy complaints, establishing the roles of an Information Commissioner
+Candidate passage: and Chief Data Officer, and implementing a framework for assessing and sharing
+Context after: government information with safeguards.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4877aed2303249
+Source ID: N233
+Document title: Accessibility services myAccess plans and procedures
+Printed bundle page: 350
+PDF viewer page (navigation only): 350
+Line numbers: L041–L041
+Search query IDs: S14-Q03
+Search terms: consent purpose
+Extraction/review flags: none recorded
+Context before: The information you provide helps us create an access plan and won’t be used for any other
+Candidate passage: purpose. It will not be shared or discussed with anyone unless you provide consent. If you have
+Context after: any concerns about this please do not hesitate to ask us for more information.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,513 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: UWA
+Case ID: UWA-S10
+Scenario: S10 — AI Literature Synthesis
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S10 AI Literature Synthesis
+A researcher (student or staff) uses an AI system to search the literature, screen studies for relevance, and produce a referenced synthesis. The researcher discloses the tool's use and personally verifies every citation and claim before relying on the synthesis in their own work.
+Boundary: Researcher personally verifies citations and claims before use
+Risks to check: Citation and claim accuracy; attribution; confidentiality; human verification.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Human verification of citations and claims, accurate attribution and protection of confidential research information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S10-Q01 [actor_and_activity]: literature synthesis — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S10-Q02 [related_roles]: researcher citations — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S10-Q03 [permission_authority]: research integrity — 98 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S10-Q04 [restriction_boundary]: citation accuracy — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S10-Q05 [procedure]: research procedure — 16 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S10-Q06 [review_route]: research ethics — 17 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S10-Q07 [related_risk]: privacy research — 11 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N128 | Using Artificial Intelligence Tools at UWA A Guide for Students updated August 2026 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N044 | Academic Integrity Policy and Schedules (pdf, 423 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N045 | Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N049 | Assessment Policy (doc, 280 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N050 | Assessment Model Guide 2024 (pdf, 4 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N051 | Appendix 1 Assessment Policy Expectations of Unit Coordinator (docx, 82 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N055 | Research Integrity Policy (doc, 272 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N056 | Research Integrity Guideline (docx, 1 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N057 | Research Integrity Advisors Guideline (docx, 254 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N067 | Information Privacy Policy (pdf, 220 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N046 | Review and Appeal of HDR Decisions Policy and Schedule (pdf, 219 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N047 | Review and Appeal of Academic Decisions Policy and Appendix (pdf, 216 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N058 | UP26 2 Code of Conduct (pdf, 160 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N059 | UP26 2 Code of Conduct - Annexure A (pdf, 212 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N060 | UP26 2 Code of Conduct - Annexure B (pdf, 145 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N064 | Risk Management Guideline (docx, 489 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N195 | University Policy on: Academic Conduct | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N200 | Regulations for Student Conduct and Discipline | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N071 | UP19 1 Acceptable Use of IT (pdf, 218 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N072 | UP19 2 Cyber Security (pdf, 226 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N203 | University Policy on Coursework Units | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N217 | Authoriship and Authorship Disputes Procedure (doc, 537 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N218 | Policy Governance Framework (pdf, 294 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-82ea23adb2803f
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 25
+PDF viewer page (navigation only): 25
+Line numbers: L059–L059
+Search query IDs: S10-Q03
+Search terms: research integrity
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 3.1 The scope of this policy applies to:
+Candidate passage: (a) all teaching staff, HDR supervisors, school Academic Integrity Officers, Dean of Graduate Research
+Context after: School, and Heads of School
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3aaa3d8ebb3946
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L005–L005
+Search query IDs: S10-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: courses, and other entities of the University; and
+Candidate passage: iii. Higher Degree by Research students.
+Context after: 3.2 This policy applies to students and staff involved in units, courses, research training or other
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0df3b318eb8492
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L006–L006
+Search query IDs: S10-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: iii. Higher Degree by Research students.
+Candidate passage: 3.2 This policy applies to students and staff involved in units, courses, research training or other
+Context after: educational activities delivered through an approved offshore or transnational education arrangement
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ff389d42a8d4c0
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L018–L018
+Search query IDs: S10-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: maintaining a culture of Academic Integrity in which the values of honesty, fairness, respect
+Candidate passage: trustworthiness and responsibility in learning, teaching, and research, scholarship and practice prevail
+Context after: (see Part 2 of this policy).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6b6bb38fb33aae
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L025–L025
+Search query IDs: S10-Q03, S10-Q05
+Search terms: research integrity | research procedure
+Extraction/review flags: none recorded
+Context before: the University’s Learning Management System (LMS), learning modules such as, Academic
+Candidate passage: Conduct Essentials (ACE), Academic Conduct and Research Integrity (ACRI 9000) and
+Context after: Communication and Research Skills (CARS), and support units such as Study Smarter;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-26e8def7c060c1
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L030–L030
+Search query IDs: S10-Q03
+Search terms: research integrity
+Extraction/review flags: none recorded
+Context before: associated with the production of thesis
+Candidate passage: (a) All higher degree by research (HDR) students are subject to this policy on academic integrity and
+Context after: the standards of research conduct as set out in the Australian Code for the Responsible Conduct
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-04a32c644f8959
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L032–L032
+Search query IDs: S10-Q03
+Search terms: research integrity
+Extraction/review flags: none recorded
+Context before: the standards of research conduct as set out in the Australian Code for the Responsible Conduct
+Candidate passage: of Research (2018) (Australian Code 2018) and the University Policy on Research Integrity. It is
+Context after: important for HDR students to follow the principles of research conduct set out in the Australian
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-18142ae5b976d9
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 40
+PDF viewer page (navigation only): 40
+Line numbers: L018–L018
+Search query IDs: S10-Q06
+Search terms: research ethics
+Extraction/review flags: none recorded
+Context before: (d) where there are serious consequences arising from the misconduct such as adverse effects on research participants.
+Candidate passage: 2.2. This may include, for example, conducting research without the required ethics clearance; claiming results when none have been obtained; incorrectly interpreting
+Context after: research data resulting in research that is not accurately represented in a thesis that has been submitted for examination; or extensive word-for-word copying of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-eec9ac6756490b
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L004–L004
+Search query IDs: S10-Q07
+Search terms: privacy research
+Extraction/review flags: none recorded
+Context before: 1.1 This Schedule supports the application of the Academic Integrity Policy to students and staff
+Candidate passage: involved in units, courses, research training or other educational activities delivered through
+Context after: UWA India.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ed4e89fd4e2b66
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 237
+PDF viewer page (navigation only): 237
+Line numbers: L008–L008
+Search query IDs: S10-Q01
+Search terms: literature synthesis
+Extraction/review flags: none recorded
+Context before: and Relevance relevance, some relevant relevant significant exceptional
+Candidate passage: (20%) missing key literature is literature that depth and depth and
+Context after: literature. included. supports the highly relevant breadth, with
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2cd5db7b8d9c86
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 237
+PDF viewer page (navigation only): 237
+Line numbers: L009–L009
+Search query IDs: S10-Q01
+Search terms: literature synthesis
+Extraction/review flags: none recorded
+Context before: (20%) missing key literature is literature that depth and depth and
+Candidate passage: literature. included. supports the highly relevant breadth, with
+Context after: argument. literature. highly pertinent
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ed2841fd533ef8
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 237
+PDF viewer page (navigation only): 237
+Line numbers: L010–L010
+Search query IDs: S10-Q01
+Search terms: literature synthesis
+Extraction/review flags: none recorded
+Context before: literature. included. supports the highly relevant breadth, with
+Candidate passage: argument. literature. highly pertinent
+Context after: literature.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ab0dda351bc3b2
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 237
+PDF viewer page (navigation only): 237
+Line numbers: L011–L011
+Search query IDs: S10-Q01
+Search terms: literature synthesis
+Extraction/review flags: none recorded
+Context before: argument. literature. highly pertinent
+Candidate passage: literature.
+Context after: Argument is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-39a5c027b17cba
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 237
+PDF viewer page (navigation only): 237
+Line numbers: L022–L022
+Search query IDs: S10-Q01
+Search terms: literature synthesis
+Extraction/review flags: none recorded
+Context before: Critical Analysis critical analysis critical thinking analysis and critical analysis critical analysis,
+Candidate passage: and Synthesis and superficial synthesis, and
+Context after: (20%) or synthesis of synthesis of adequate and synthesis of original insight
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-00a6249c70ab4f
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 256
+PDF viewer page (navigation only): 256
+Line numbers: L036–L036
+Search query IDs: S10-Q04
+Search terms: citation accuracy
+Extraction/review flags: none recorded
+Context before: sources to inform their findings, including textbooks, journal articles, and other relevant
+Candidate passage: resources. Students will be assessed on the depth and accuracy of their findings, the
+Context after: quality of their research, and the correct use of citation and referencing conventions.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1c2f57160217d2
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 256
+PDF viewer page (navigation only): 256
+Line numbers: L037–L037
+Search query IDs: S10-Q04
+Search terms: citation accuracy
+Extraction/review flags: none recorded
+Context before: resources. Students will be assessed on the depth and accuracy of their findings, the
+Candidate passage: quality of their research, and the correct use of citation and referencing conventions.
+Context after: • Task 3: Draft Report (20% weight) Students will use their preliminary findings to develop a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5f4c97c3bc1f04
+Source ID: N055
+Document title: Research Integrity Policy (doc, 272 KB)
+Printed bundle page: 306
+PDF viewer page (navigation only): 306
+Line numbers: L006–L006
+Search query IDs: S10-Q06
+Search terms: research ethics
+Extraction/review flags: none recorded
+Context before: Research 2018 and its supporting guidance; and
+Candidate passage: (9). AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research.
+Context after: 2 Scope
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9dc1e8005d0d74
+Source ID: N055
+Document title: Research Integrity Policy (doc, 272 KB)
+Printed bundle page: 307
+PDF viewer page (navigation only): 307
+Line numbers: L017–L017
+Search query IDs: S10-Q06
+Search terms: research ethics
+Extraction/review flags: none recorded
+Context before: (A). Researchers must apply the Australian Institute of Aboriginal and Torres Strait Islander
+Candidate passage: Studies Code of Ethics for Aboriginal and Torres Strait Islander Research (AIATSIS Code) to all
+Context after: Aboriginal and Torres Strait Islander People Research. This includes the planning, collection,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f025893d952431
+Source ID: N055
+Document title: Research Integrity Policy (doc, 272 KB)
+Printed bundle page: 307
+PDF viewer page (navigation only): 307
+Line numbers: L026–L026
+Search query IDs: S10-Q07
+Search terms: privacy research
+Extraction/review flags: none recorded
+Context before: 3.5 Professional Responsibility in Research
+Candidate passage: (A). Research must be designed to respect the welfare, safety, privacy and dignity of human
+Context after: subjects and to avoid unnecessary pain and suffering to animal subjects.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1c4573cb831729
+Source ID: N055
+Document title: Research Integrity Policy (doc, 272 KB)
+Printed bundle page: 308
+PDF viewer page (navigation only): 308
+Line numbers: L011–L011
+Search query IDs: S10-Q06
+Search terms: research ethics
+Extraction/review flags: none recorded
+Context before: (1). Research Code; and
+Candidate passage: (2). Research protocols as approved by a relevant Ethics Committee.
+Context after: (B). All Research funding agreements will be provided to the Office of Research in accordance with
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-032c07900346e9
+Source ID: N055
+Document title: Research Integrity Policy (doc, 272 KB)
+Printed bundle page: 314
+PDF viewer page (navigation only): 314
+Line numbers: L023–L023
+Search query IDs: S10-Q06
+Search terms: research ethics
+Extraction/review flags: none recorded
+Context before: be included in the publication;
+Candidate passage: (4). include information about ethics review and approval given to the research where
+Context after: relevant;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f1ab7e48673307
+Source ID: N058
+Document title: UP26 2 Code of Conduct (pdf, 160 KB)
+Printed bundle page: 375
+PDF viewer page (navigation only): 375
+Line numbers: L003–L003
+Search query IDs: S10-Q07
+Search terms: privacy research
+Extraction/review flags: none recorded
+Context before: The Code of Conduct Framework operates alongside relevant policies and procedures, including academic
+Candidate passage: integrity, research ethics, work health and safety, acceptable use of information technology, privacy and
+Context after: records, complaints and misconduct. Where overlap arises, the Framework sets overarching principles, while
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6e76cd4bf599b0
+Source ID: N128
+Document title: Using Artificial Intelligence Tools at UWA A Guide for Students updated August 2026
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L015–L015
+Search query IDs: S10-Q07
+Search terms: privacy research
+Extraction/review flags: none recorded
+Context before: Example 1 – AI use permitted for idea generation and brainstorming .......... 6
+Candidate passage: Example 2 – AI use permitted for research assistance ........................................... 7
+Context after: Example 3 – AI use permitted for structuring and editing assistance .............. 8
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3ac00fbc55d04e
+Source ID: N128
+Document title: Using Artificial Intelligence Tools at UWA A Guide for Students updated August 2026
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L024–L024
+Search query IDs: S10-Q07
+Search terms: privacy research
+Extraction/review flags: none recorded
+Context before: Academic misconduct ................................................................................................. 14
+Candidate passage: Privacy, copyright, and AI ............................................................................................ 14
+Context after: Who can I talk to if I’m not sure? ................................................................................. 15
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-86485c074d2361
+Source ID: N128
+Document title: Using Artificial Intelligence Tools at UWA A Guide for Students updated August 2026
+Printed bundle page: 21
+PDF viewer page (navigation only): 21
+Line numbers: L021–L021
+Search query IDs: S10-Q03
+Search terms: research integrity
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: can help you to understand academic understand academic integrity principles
+Candidate passage: integrity principles and develop the and develop the writing, research and
+Context after: writing, research, English language, English language skills you need to excel
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4cb5449e433309
+Source ID: N217
+Document title: Authoriship and Authorship Disputes Procedure (doc, 537 KB)
+Printed bundle page: 558
+PDF viewer page (navigation only): 558
+Line numbers: L015–L015
+Search query IDs: S10-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: (2). Process 2 – Resolving Disputes Between Authors
+Candidate passage: (C). This Procedure should be read in conjunction with the Research Integrity Policy, Research
+Context after: Integrity Guideline and Research Integrity Advisors Guideline.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

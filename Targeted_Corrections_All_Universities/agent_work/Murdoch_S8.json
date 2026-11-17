@@ -1,0 +1,1235 @@
+{
+  "university": "Murdoch",
+  "case_id": "Murdoch-S8",
+  "scenario_id": "S8",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "N087 (6.3.1, 2.1) covers AI-produced assessment contributions and collective groupwork honesty, and N077 (1.6, 1.12) covers authorised account access and PII protection. No relevant provision was identified in the documents and searches checked addressing an AI agent as a persistent participant in a shared group digital workspace.",
+      "search_terms_used": [
+        "group workspace",
+        "AI contribution",
+        "workspace privacy"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 12,
+          "viewer_page": 12,
+          "line_start": "L015",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "2. The University expects that students will:\n2.1 individually and collectively engage in learning activities honestly and\nresponsibly, and act with respect and fairness in all forms of assessment,\ngroupwork and placement",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle."
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "N164 (5.2, 7.1) assigns misconduct decisions to relevant decision-makers with appeal to N088, and N077 (1.14) empowers the Chief Experience Officer over IT access, though no relevant provision was identified in the documents and searches checked specifying a role to authorise AI agent membership in student workspaces.",
+      "search_terms_used": [
+        "member authorisation",
+        "group procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L009",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "5.2. The relevant decision-makers will review allegations of Misconduct,\nexcept those related to Gender-based Violence, and:\n5.2.1. dismiss the allegation if it does not constitute Misconduct\n5.2.2. determine that it be resolved through an educative process\n5.2.3. impose an outcome if there is clear evidence that Misconduct has\noccurred\n5.2.4. refer the matter for formal investigation.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L031",
+          "line_end": "L033",
+          "evidence_type": "Exact quotation",
+          "text": "7. Appeal\n7.1. A student can appeal a decision in accordance with the Student Appeals\nProcedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L009",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "5.2. The relevant decision-makers will review allegations of Misconduct,\nexcept those related to Gender-based Violence, and:\n5.2.1. dismiss the allegation if it does not constitute Misconduct\n5.2.2. determine that it be resolved through an educative process\n5.2.3. impose an outcome if there is clear evidence that Misconduct has\noccurred\n5.2.4. refer the matter for formal investigation.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L031",
+          "line_end": "L033",
+          "evidence_type": "Exact quotation",
+          "text": "7. Appeal\n7.1. A student can appeal a decision in accordance with the Student Appeals\nProcedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N087, N164, N077, and N179 are compatible without contradiction, but lack explicit coordination between academic AI-authorisation rules and workspace/PII security rules for persistent AI agents.",
+      "search_terms_used": [
+        "group procedure",
+        "data retention"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L034",
+          "line_end": "L041",
+          "evidence_type": "Exact quotation",
+          "text": "4. User Access\n4.1. The level of access to IT systems must be:\n4.1.1. No higher that required to perform the work applying the principle\nof least privileged in all cases\n4.1.2. Authorised in accordance with the delegations of authority\n4.1.3. Applied for and submitted through the Murdoch Support Service\nManagement Portal;\n4.1.4. Revoked immediately when access is no longer required.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 1,
+      "reason": "N179 (4.1.3) specifies portal requests for University IT access and N164 outlines misconduct review, but no relevant provision was identified in the documents and searches checked governing admitting an AI agent to a student group workspace, attributing its separable outputs, or purging shared group data.",
+      "search_terms_used": [
+        "group procedure",
+        "data retention"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L034",
+          "line_end": "L041",
+          "evidence_type": "Exact quotation",
+          "text": "4. User Access\n4.1. The level of access to IT systems must be:\n4.1.1. No higher that required to perform the work applying the principle\nof least privileged in all cases\n4.1.2. Authorised in accordance with the delegations of authority\n4.1.3. Applied for and submitted through the Murdoch Support Service\nManagement Portal;\n4.1.4. Revoked immediately when access is no longer required.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L009",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "5.2. The relevant decision-makers will review allegations of Misconduct,\nexcept those related to Gender-based Violence, and:\n5.2.1. dismiss the allegation if it does not constitute Misconduct\n5.2.2. determine that it be resolved through an educative process\n5.2.3. impose an outcome if there is clear evidence that Misconduct has\noccurred\n5.2.4. refer the matter for formal investigation.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L034",
+          "line_end": "L041",
+          "evidence_type": "Exact quotation",
+          "text": "4. User Access\n4.1. The level of access to IT systems must be:\n4.1.1. No higher that required to perform the work applying the principle\nof least privileged in all cases\n4.1.2. Authorised in accordance with the delegations of authority\n4.1.3. Applied for and submitted through the Murdoch Support Service\nManagement Portal;\n4.1.4. Revoked immediately when access is no longer required.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 17,
+          "viewer_page": 17,
+          "line_start": "L009",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "5.2. The relevant decision-makers will review allegations of Misconduct,\nexcept those related to Gender-based Violence, and:\n5.2.1. dismiss the allegation if it does not constitute Misconduct\n5.2.2. determine that it be resolved through an educative process\n5.2.3. impose an outcome if there is clear evidence that Misconduct has\noccurred\n5.2.4. refer the matter for formal investigation.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "N087 (6.3.1) and N077 (1.6, 1.12) provide substantive rules against unauthorised AI submissions and unprotected PII handling. A material gap remains for persistent cross-session AI memory of group discussions and accountable human responsibility for an AI participant.",
+      "search_terms_used": [
+        "workspace privacy",
+        "data retention"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L034",
+          "line_end": "L041",
+          "evidence_type": "Exact quotation",
+          "text": "4. User Access\n4.1. The level of access to IT systems must be:\n4.1.1. No higher that required to perform the work applying the principle\nof least privileged in all cases\n4.1.2. Authorised in accordance with the delegations of authority\n4.1.3. Applied for and submitted through the Murdoch Support Service\nManagement Portal;\n4.1.4. Revoked immediately when access is no longer required.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L033",
+          "line_end": "L039",
+          "evidence_type": "Exact quotation",
+          "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 13,
+          "viewer_page": 13,
+          "line_start": "L008",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": true,
+          "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+          "query_ids": [
+            "S7-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N108 (5-6) mandates three-yearly policy review, N179 (2.15) requires annual independent IT security reviews, and N087 (1.3) requires periodic assessment design review.",
+      "search_terms_used": [
+        "peer review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L011",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "2.15. Annual, independent, IT security reviews must be undertaken to ensure\nrisks and issues are identified, management and documented.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 12,
+          "viewer_page": 12,
+          "line_start": "L009",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.3 ensures that student academic integrity is supported through curriculum\nand assessment design and their periodic review",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 08/08/2023",
+          "version_evidence_location": {
+            "source_id": "N087",
+            "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+            "printed_bundle_page": 14,
+            "viewer_page": 14,
+            "line_start": "L008",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 08/08/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 344,
+          "viewer_page": 344,
+          "line_start": "L011",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "2.15. Annual, independent, IT security reviews must be undertaken to ensure\nrisks and issues are identified, management and documented.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 13/09/2023",
+          "version_evidence_location": {
+            "source_id": "N179",
+            "document_title": "ICT Security Policy",
+            "printed_bundle_page": 346,
+            "viewer_page": 346,
+            "line_start": "L025",
+            "line_end": "L025",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 13/09/2023"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        },
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "N164 clause 7.1 provides an appeal route under the Student Appeals Procedure (N088) for academic integrity findings.",
+    "review_route_evidence": {
+      "source_id": "N164",
+      "document_title": "Student Integrity Regulations",
+      "printed_bundle_page": 17,
+      "viewer_page": 17,
+      "line_start": "L031",
+      "line_end": "L033",
+      "evidence_type": "Exact quotation",
+      "text": "7. Appeal\n7.1. A student can appeal a decision in accordance with the Student Appeals\nProcedure.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Date effective 27/07/2026",
+      "version_evidence_location": {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 18,
+        "viewer_page": 18,
+        "line_start": "L015",
+        "line_end": "L015",
+        "evidence_type": "Exact quotation",
+        "text": "Date effective 27/07/2026"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": ""
+    },
+    "critical_gap": "Yes",
+    "critical_risk_criterion": "Authorised AI assessment contributions, accountable human group responsibility and protection of group personal information.",
+    "critical_gap_explanation": "While N087 (6.3.1) and N077 (1.6, 1.12) provide general integrity and PII safeguards, no relevant provision was identified in the documents and searches checked governing admitting a persistent AI agent into a student group workspace, assigning accountable human group responsibility for its identifiable contributions, or protecting group personal information retained across sessions.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Murdoch's Student Academic Integrity Policy (N087, 6.3.1) prohibits submitting AI-produced work without specific assessment authorisation, and Digital and Technology Conditions of Use (N077, 1.12) require reasonable safeguards for personally identifiable information. However, Murdoch policies do not regulate persistent AI agents participating in shared group workspaces, leaving human group accountability and cross-session group data protection as a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "supporting_passages": [
+      {
+        "source_id": "N087",
+        "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+        "printed_bundle_page": 12,
+        "viewer_page": 12,
+        "line_start": "L015",
+        "line_end": "L018",
+        "evidence_type": "Exact quotation",
+        "text": "2. The University expects that students will:\n2.1 individually and collectively engage in learning activities honestly and\nresponsibly, and act with respect and fairness in all forms of assessment,\ngroupwork and placement",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 08/08/2023",
+        "version_evidence_location": {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 14,
+          "viewer_page": 14,
+          "line_start": "L008",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 08/08/2023"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S7-Q07"
+        ]
+      },
+      {
+        "source_id": "N077",
+        "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+        "printed_bundle_page": 128,
+        "viewer_page": 128,
+        "line_start": "L007",
+        "line_end": "L010",
+        "evidence_type": "Exact quotation",
+        "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 09/02/2026",
+        "version_evidence_location": {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 131,
+          "viewer_page": 131,
+          "line_start": "L021",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 09/02/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N088",
+        "document_title": "Student Appeals Procedure (pdf) 290 KB",
+        "printed_bundle_page": 106,
+        "viewer_page": 106,
+        "line_start": "L007",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "2. Decisions may be appealed on the grounds that there is evidence that the\nstudent was disadvantaged through:\n2.1. relevant University Legislation or Policy Documents not being followed, or\n2.2. incorrect information being provided by the University in relation to the\ndecision.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N088",
+          "document_title": "Student Appeals Procedure (pdf) 290 KB",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L036",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      }
+    ],
+    "search_terms_used": [
+      "group workspace",
+      "AI contribution",
+      "member authorisation",
+      "workspace privacy",
+      "group procedure",
+      "peer review",
+      "data retention"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N087",
+        "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+        "printed_bundle_page": 13,
+        "viewer_page": 13,
+        "line_start": "L008",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "6.3 Using artificial intelligence without authorisation\n6.3.1. submitting work that has been produced either in part or whole\nusing artificial intelligence where not specifically authorised in the\nassessment requirements",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 08/08/2023",
+        "version_evidence_location": {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 14,
+          "viewer_page": 14,
+          "line_start": "L008",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 08/08/2023"
+        },
+        "visual_reading_order_checked": true,
+        "visual_review_note": "Checked Murdoch_Merged_Policies.pdf VP 13: single-column numbered list 6.3-6.3.1 reads cleanly in order.",
+        "query_ids": [
+          "S7-Q07"
+        ]
+      },
+      {
+        "source_id": "N087",
+        "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+        "printed_bundle_page": 12,
+        "viewer_page": 12,
+        "line_start": "L015",
+        "line_end": "L018",
+        "evidence_type": "Exact quotation",
+        "text": "2. The University expects that students will:\n2.1 individually and collectively engage in learning activities honestly and\nresponsibly, and act with respect and fairness in all forms of assessment,\ngroupwork and placement",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 08/08/2023",
+        "version_evidence_location": {
+          "source_id": "N087",
+          "document_title": "Student Academic Integrity Policy (pdf) 240 KB",
+          "printed_bundle_page": 14,
+          "viewer_page": 14,
+          "line_start": "L008",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 08/08/2023"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S7-Q07"
+        ]
+      },
+      {
+        "source_id": "N077",
+        "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+        "printed_bundle_page": 128,
+        "viewer_page": 128,
+        "line_start": "L007",
+        "line_end": "L010",
+        "evidence_type": "Exact quotation",
+        "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 09/02/2026",
+        "version_evidence_location": {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 131,
+          "viewer_page": 131,
+          "line_start": "L021",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 09/02/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N077",
+        "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+        "printed_bundle_page": 128,
+        "viewer_page": 128,
+        "line_start": "L033",
+        "line_end": "L039",
+        "evidence_type": "Exact quotation",
+        "text": "1.12 Murdoch University has the responsibility of safeguarding any sensitive\ninformation, including the PII (Personal Identifiable Information) of an\nindividual such as but not limited to Staff, Student, Alumni, Contractors,\npublic that use our facilities etc. Therefore, all Murdoch users that handle\nPII data must ensure personal data should be protected by reasonable\nsecurity safeguards against such risks as loss or unauthorized access,\ndestruction, use, modification or disclosure of data.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 09/02/2026",
+        "version_evidence_location": {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 131,
+          "viewer_page": 131,
+          "line_start": "L021",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 09/02/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N179",
+        "document_title": "ICT Security Policy",
+        "printed_bundle_page": 344,
+        "viewer_page": 344,
+        "line_start": "L034",
+        "line_end": "L041",
+        "evidence_type": "Exact quotation",
+        "text": "4. User Access\n4.1. The level of access to IT systems must be:\n4.1.1. No higher that required to perform the work applying the principle\nof least privileged in all cases\n4.1.2. Authorised in accordance with the delegations of authority\n4.1.3. Applied for and submitted through the Murdoch Support Service\nManagement Portal;\n4.1.4. Revoked immediately when access is no longer required.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 13/09/2023",
+        "version_evidence_location": {
+          "source_id": "N179",
+          "document_title": "ICT Security Policy",
+          "printed_bundle_page": 346,
+          "viewer_page": 346,
+          "line_start": "L025",
+          "line_end": "L025",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 13/09/2023"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 17,
+        "viewer_page": 17,
+        "line_start": "L009",
+        "line_end": "L015",
+        "evidence_type": "Exact quotation",
+        "text": "5.2. The relevant decision-makers will review allegations of Misconduct,\nexcept those related to Gender-based Violence, and:\n5.2.1. dismiss the allegation if it does not constitute Misconduct\n5.2.2. determine that it be resolved through an educative process\n5.2.3. impose an outcome if there is clear evidence that Misconduct has\noccurred\n5.2.4. refer the matter for formal investigation.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 18,
+          "viewer_page": 18,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 17,
+        "viewer_page": 17,
+        "line_start": "L031",
+        "line_end": "L033",
+        "evidence_type": "Exact quotation",
+        "text": "7. Appeal\n7.1. A student can appeal a decision in accordance with the Student Appeals\nProcedure.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 18,
+          "viewer_page": 18,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      }
+    ],
+    "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle."
+  },
+  "additional_search_requests": []
+}

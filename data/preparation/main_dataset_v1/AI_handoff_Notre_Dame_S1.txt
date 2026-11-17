@@ -1,0 +1,621 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S1
+Scenario: S1 — Augmented Assessment
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S1 Augmented Assessment
+A student uses a persistent AI assistant for planning, feedback and revision across an assignment. The AI drafts nothing that is submitted directly; it scaffolds the student's own thinking through iterative Q&A and editing suggestions. The student personally writes and submits the final work under their own authenticated account, with no AI-authored text retained verbatim.
+Boundary: No AI-authored text is retained in the final submission; no autonomous submission occurs
+Risks to check: Attribution and disclosure; student authorship; equitable access.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Attributable student authorship and transparent, authorised AI assessment assistance.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S1-Q01 [actor_and_activity]: generative AI assessment — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q02 [permission]: written permission — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q03 [restriction]: not permitted assessment — 12 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q04 [procedure]: assessment procedure student — 98 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q05 [disclosure]: student disclosure — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q06 [review_route]: appeal review decision — 17 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q07 [related_integrity_rules]: academic integrity student — 65 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S1-Q08 [related_roles]: student assessment — 128 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N024 | Policy: Assessment in Higher Education and Enabling Coursework Programs | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N025 | Procedure: Assessment and Learning Flexibility | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N027 | Procedure: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N028 | Policy: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N116 | Academic integrity student guidance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N182 | Guideline: Use of Text-Matching Applications for Fostering Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N029 | Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N032 | Policy: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N033 | Procedure: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N042 | Policy: Privacy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N115 | Guideline Presentation and Submission of Research Theses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N034 | Policy: Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N035 | Code of Conduct: Students | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N037 | Policy: Risk Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N038 | Procedure: Risk Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N041 | Employee Code of Conduct and Ethical Behaviour: Staff | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N117 | Raise a concern or appeal | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N187 | Procedure: (VET) Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N031 | Policy: Intellectual Property | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N188 | Policy: Programs and Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N189 | Procedure: Program and Course Design | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N191 | Guideline: Peer Review of Teaching | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N192 | Policy: Institutional Review Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N193 | Policy: Academic Governance Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N215 | Guideline: Authorship, Peer Review and Dissemination | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N236 | Additional Student Information copyright recording and access support | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N238 | Access and inclusion Learning Access Plan procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-eaad8d299cd059
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 13
+PDF viewer page (navigation only): 13
+Line numbers: L012–L012
+Search query IDs: S1-Q04, S1-Q08
+Search terms: assessment procedure student | student assessment
+Extraction/review flags: none recorded
+Context before: (the University). Assessment is underpinned by best practice principles to engage students in
+Candidate passage: assessment and assure student learning and to maintain standards of student achievement
+Context after: and uphold standards of academic integrity.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-49281e03b5ebcd
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 13
+PDF viewer page (navigation only): 13
+Line numbers: L022–L022
+Search query IDs: S1-Q04
+Search terms: assessment procedure student
+Extraction/review flags: none recorded
+Context before: requirements for ensuring academic integrity of students’ assessment work.
+Candidate passage: 3.4 The Procedure: Assessment and Examinations states the University’s requirements for
+Context after: assessment in higher education coursework and enabling programs and courses, including
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1b9c5f86a62238
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 13
+PDF viewer page (navigation only): 13
+Line numbers: L025–L025
+Search query IDs: S1-Q04
+Search terms: assessment procedure student
+Extraction/review flags: none recorded
+Context before: research component courses of bachelor (honours), and masters by coursework programs.
+Candidate passage: 3.5 The Procedure: Assessment and Learning Flexibility states the University’s requirements for
+Context after: the provision of reasonable adjustments and other types of flexibility (including special
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-20c84af5a82ef2
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 14
+PDF viewer page (navigation only): 14
+Line numbers: L032–L032
+Search query IDs: S1-Q08
+Search terms: student assessment
+Extraction/review flags: none recorded
+Context before: for students to flourish.
+Candidate passage: 4.6.1 Authenticity in assessment improves student engagement and helps students to
+Context after: contextualise their learning and demonstrate the integration of knowledge, skills, and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-17774624b0f551
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L007–L007
+Search query IDs: S1-Q04, S1-Q08
+Search terms: assessment procedure student | student assessment
+Extraction/review flags: none recorded
+Context before: standards, and builds student capability for independent and lifelong learning.
+Candidate passage: 4.8.2 Embedding feedback loops into assessment builds student confidence and enables
+Context after: scaffolded reflection on performance for growth, reflexivity and development.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-72a961588aed25
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L011–L011
+Search query IDs: S1-Q08
+Search terms: student assessment
+Extraction/review flags: none recorded
+Context before: support students at risk.
+Candidate passage: 4.9 Principle 7: Assessment enables valid and reliable evidence of student achievement of course
+Context after: and program learning outcomes to assure student learning.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2783be92287b09
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L042–L042
+Search query IDs: S1-Q08
+Search terms: student assessment
+Extraction/review flags: none recorded
+Context before: indicator, that is used to define a level of academic performance or achievement.
+Candidate passage: 7.2.3 Assessment is the systematic process for facilitating and evaluating student learning. It
+Context after: includes the design, development and implementation of assessment tasks, the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e0c2fae4794cc3
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 25
+PDF viewer page (navigation only): 25
+Line numbers: L001–L001
+Search query IDs: S1-Q02, S1-Q05
+Search terms: written permission | student disclosure
+Extraction/review flags: none recorded
+Context before: their adjustment needs. 
+5.5 
+Staff involved in assessing or deciding a student’s request for reasonable adjustments will: 
+5.5.1 
+ensure the security of the health information provided by the student, and 
+5.5.2 
+not disclose the student’s circumstances or health information to anyone who is not 
+involved in assessing and deciding the student’s request unless the student gives 
+University of Notre Dame Australia | N025 | Source page 6
+Bundle page 24 | N025 | source page 6 | line numbers at left
+Candidate passage: written permission for the disclosure.
+Context after: 5.6 The Director, Student Engagement and Success may share the student’s circumstances or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8fb1cf3e659db1
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 25
+PDF viewer page (navigation only): 25
+Line numbers: L002–L002
+Search query IDs: S1-Q05
+Search terms: student disclosure
+Extraction/review flags: none recorded
+Context before: written permission for the disclosure.
+Candidate passage: 5.6 The Director, Student Engagement and Success may share the student’s circumstances or
+Context after: health information with other staff, or with an external tribunal, as needed to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-54ee2ca4458e8a
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 25
+PDF viewer page (navigation only): 25
+Line numbers: L004–L004
+Search query IDs: S1-Q05
+Search terms: student disclosure
+Extraction/review flags: none recorded
+Context before: health information with other staff, or with an external tribunal, as needed to:
+Candidate passage: 5.6.1 manage a risk that the student will harm themselves or another person
+Context after: 5.6.2 provide information to decide a grievance or appeal by the student in relation to their
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d7eab22cdcc310
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 25
+PDF viewer page (navigation only): 25
+Line numbers: L005–L005
+Search query IDs: S1-Q05
+Search terms: student disclosure
+Extraction/review flags: none recorded
+Context before: 5.6.1 manage a risk that the student will harm themselves or another person
+Candidate passage: 5.6.2 provide information to decide a grievance or appeal by the student in relation to their
+Context after: reasonable adjustments
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-60f2e1e77cde67
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L007–L007
+Search query IDs: S1-Q02
+Search terms: written permission
+Extraction/review flags: none recorded
+Context before: the student’s adjustment needs but will not reveal the disability or health condition that the
+Candidate passage: student has declared, unless the student has given them written permission to do so.
+Context after: 5.14 A student who has been issued with an LAP is expected to approach the course coordinator
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2664ada8437350
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L025–L025
+Search query IDs: S1-Q02
+Search terms: written permission
+Extraction/review flags: none recorded
+Context before: 5.15 Where, however, the student requires an adjustment to arrangements for them to sit a final
+Candidate passage: exam, the student must give their permission for the Access and Inclusion advisors to liaise
+Context after: with the relevant program or course coordinators and to notify the National Manager, Student
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-85d3107717af03
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 26
+PDF viewer page (navigation only): 26
+Line numbers: L044–L044
+Search query IDs: S1-Q06
+Search terms: appeal review decision
+Extraction/review flags: none recorded
+Context before: adjustment with the school, and
+Candidate passage: 5.17.2 may appeal the decision not to provide the adjustment in accordance with the Policy:
+Context after: Student Appeals.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-60a561f28a3a6f
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L002–L002
+Search query IDs: S1-Q03
+Search terms: not permitted assessment
+Extraction/review flags: none recorded
+Context before: 9.8 An application for special consideration submitted later than three working days after the
+Candidate passage: assessment deadline or date of assessment will not normally be considered.
+Context after: 9.8.1 However, a head of school has discretion to consider a late application where the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-43187295f49790
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L034–L034
+Search query IDs: S1-Q07
+Search terms: academic integrity student
+Extraction/review flags: none recorded
+Context before: these outcomes.
+Candidate passage: 9.13.8 To maintain academic integrity, a student should not normally be granted an
+Context after: extension of time to submit work beyond the date when other students’ marked
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0c86323fe63a4e
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L041–L041
+Search query IDs: S1-Q03
+Search terms: not permitted assessment
+Extraction/review flags: none recorded
+Context before: circumstances, it may be necessary in some cases to grant the extension.
+Candidate passage: 9.14 Where a student is permitted to resubmit assessment work as a special consideration
+Context after: outcome, there is no restriction on the range of pass marks the student may receive.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1fc0109fcbf264
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 57
+PDF viewer page (navigation only): 57
+Line numbers: L005–L005
+Search query IDs: S1-Q07
+Search terms: academic integrity student
+Extraction/review flags: none recorded
+Context before: 13.6.9 An exam invigilator’s allegation of a breach of academic integrity or misconduct by a
+Candidate passage: student in an exam will be handled in accordance with the Policy: Academic Integrity or,
+Context after: where applicable, the student misconduct section of the General Regulations.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-90685f288ce47a
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 57
+PDF viewer page (navigation only): 57
+Line numbers: L007–L007
+Search query IDs: S1-Q03
+Search terms: not permitted assessment
+Extraction/review flags: none recorded
+Context before: where applicable, the student misconduct section of the General Regulations.
+Candidate passage: 13.6.10 Students are not permitted to use, during a final exam, materials such as a dictionary,
+Context after: textbook, notes they have prepared, calculator or mobile electronic device, except
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-77f7b5771030cd
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 59
+PDF viewer page (navigation only): 59
+Line numbers: L030–L030
+Search query IDs: S1-Q06
+Search terms: appeal review decision
+Extraction/review flags: none recorded
+Context before: original mark.
+Candidate passage: 15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in
+Context after: accordance with the Policy: Student Appeals.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5a33715012cb82
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 59
+PDF viewer page (navigation only): 59
+Line numbers: L042–L042
+Search query IDs: S1-Q05
+Search terms: student disclosure
+Extraction/review flags: none recorded
+Context before: assurance of marking or approval of grades, or
+Candidate passage: 16.2.1.2 the student authorises the disclosure.
+Context after: 16.2.1.3 However, a program coordinator may share de-identified examples of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-35d16fc6580203
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 76
+PDF viewer page (navigation only): 76
+Line numbers: L008–L008
+Search query IDs: S1-Q07
+Search terms: academic integrity student
+Extraction/review flags: none recorded
+Context before: Teaching
+Candidate passage: Keywords: Academic integrity, plagiarism, breach, student
+Context after: conduct
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5c4413f6126bd5
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 77
+PDF viewer page (navigation only): 77
+Line numbers: L006–L006
+Search query IDs: S1-Q07
+Search terms: academic integrity student
+Extraction/review flags: none recorded
+Context before: 4 CLASSIFYING BREACHES OF ACADEMIC INTEGRITY BY STUDENTS ........................................................ 4
+Candidate passage: 5 INVESTIGATING A SUSPECTED BREACH OF ACADEMIC INTEGRITY BY A STUDENT ............................... 5
+Context after: 6 SUSPECTED BREACHES OF ACADEMIC INTEGRITY BY STAFF ................................................................. 7
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-300ee5a63f44d3
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 80
+PDF viewer page (navigation only): 80
+Line numbers: L021–L021
+Search query IDs: S1-Q07
+Search terms: academic integrity student
+Extraction/review flags: none recorded
+Context before: others.
+Candidate passage: 4.5.2 Any breach of academic integrity, where the student has previously been suspended
+Context after: for a breach of academic integrity, is classified as a level four breach.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-441e7160d58e3d
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L039–L039
+Search query IDs: S1-Q03
+Search terms: not permitted assessment
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • Facilitating copying in an examination for the course in which the breach
+Candidate passage: • Using materials not permitted during an occurred.
+Context after: examination
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6079c01ae35155
+Source ID: N031
+Document title: Policy: Intellectual Property
+Printed bundle page: 334
+PDF viewer page (navigation only): 334
+Line numbers: L032–L032
+Search query IDs: S1-Q02
+Search terms: written permission
+Extraction/review flags: none recorded
+Context before: University. Employees and students must not use Intellectual Property owned by a third party
+Candidate passage: unless they have written permission to do so or are permitted to do so in accordance with
+Context after: Copyright Act 1968 or any statutory licence provided for under the Copyright Act 1968. Further
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7781f24f6f5798
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 204
+PDF viewer page (navigation only): 204
+Line numbers: L002–L002
+Search query IDs: S1-Q06
+Search terms: appeal review decision
+Extraction/review flags: none recorded
+Context before: 6.3 If supporting documents are provided by the Student after the initial appeal is lodged or if
+Candidate passage: significant investigation or review is required due to the nature of the appeal, the time within
+Context after: which the appeal is to be considered in accordance with this Policy may be extended by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4196d02c5ad8fb
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 204
+PDF viewer page (navigation only): 204
+Line numbers: L041–L041
+Search query IDs: S1-Q06
+Search terms: appeal review decision
+Extraction/review flags: none recorded
+Context before: or not to allow the Student to enrol in the relevant Course.
+Candidate passage: 8.4 A Student who chooses to enrol in one or more Courses while an appeal is under review will
+Context after: POLICY: Student Appeals
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c11ea9074f951
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 205
+PDF viewer page (navigation only): 205
+Line numbers: L014–L014
+Search query IDs: S1-Q06
+Search terms: appeal review decision
+Extraction/review flags: none recorded
+Context before: selection, enrolment, or readmission, or has had their offer and/or enrolment cancelled by
+Candidate passage: Student Administration, may appeal the decision to the Academic Registrar.
+Context after: 10.2 Grounds for appeal:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8f6a583febd64f
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 220
+PDF viewer page (navigation only): 220
+Line numbers: L044–L044
+Search query IDs: S1-Q04
+Search terms: assessment procedure student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Registrar circumstances into account Transfer
+Candidate passage: 29 Reasonable Adjustments for Academic Student Administration failed to follow due Procedure: Assessment and Learning
+Context after: 10
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6f5df08cfca3b4
+Source ID: N036
+Document title: Policy: Standing Delegations of Authority
+Printed bundle page: 231
+PDF viewer page (navigation only): 231
+Line numbers: L023–L023
+Search query IDs: S1-Q02
+Search terms: written permission
+Extraction/review flags: none recorded
+Context before: 5.1.3 Authority delegated by the Vice Chancellor in this Policy cannot be further delegated
+Candidate passage: except with the prior written permission of the Vice Chancellor. Any request for further
+Context after: delegation made to the Vice Chancellor must be in writing, must not exceed the scope
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dd94d4e01b7ef5
+Source ID: N237
+Document title: Procedure Program and Course Information lecture recording
+Printed bundle page: 435
+PDF viewer page (navigation only): 435
+Line numbers: L016–L016
+Search query IDs: S1-Q03
+Search terms: not permitted assessment
+Extraction/review flags: none recorded
+Context before: infringe the University’s copyright.
+Candidate passage: • Students are not permitted to record these materials on personal devices
+Context after: without first obtaining permission from the staff member teaching the class.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

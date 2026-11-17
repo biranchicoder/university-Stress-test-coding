@@ -1,0 +1,495 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S12
+Scenario: S12 — Autonomous Research Agent
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S12 Autonomous Research Agent
+A multi-agent AI system develops hypotheses, designs procedures, analyses evidence, and conducts connected lab or computational actions with limited human intervention — potentially producing outputs attributed to a PI who did not review each step.
+Boundary: No human verification step between AI-generated hypothesis/procedure and physical or computational execution
+Risks to check: Research validity; authorised execution; safety; oversight and accountability.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Authorised, safe execution, meaningful human intervention and accountable research responsibility.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S12-Q01 [actor_and_activity]: research agent — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q02 [related_roles]: laboratory actions — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S12-Q03 [permission_authority]: research oversight — 5 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q04 [restriction_boundary]: safety procedure — 13 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q05 [procedure]: research governance — 29 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q06 [review_route]: ethics review — 18 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S12-Q07 [related_risk]: computational execution — 0 result(s); no_index_hits; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N180 | Ethical Use of AI in Research (Library Guide) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N024 | Policy: Assessment in Higher Education and Enabling Coursework Programs | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N029 | Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N032 | Policy: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N033 | Procedure: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N115 | Guideline Presentation and Submission of Research Theses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N035 | Code of Conduct: Students | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N037 | Policy: Risk Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N038 | Procedure: Risk Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N040 | Procedure: Procurement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N041 | Employee Code of Conduct and Ethical Behaviour: Staff | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N123 | Policy development guide | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N124 | Policy review guide | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N185 | Policy: Records Management Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N192 | Policy: Institutional Review Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N193 | Policy: Academic Governance Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N215 | Guideline: Authorship, Peer Review and Dissemination | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N238 | Access and inclusion Learning Access Plan procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-e3c1ea7f6c8a1f
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 14
+PDF viewer page (navigation only): 14
+Line numbers: L004–L004
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: horizontally and vertically and acknowledges progress over time.
+Candidate passage: 4.3.1 A programmatic approach incorporates processes for review and improvement of
+Context after: curricula and assessment to provide assurance of learning and contribute to assurance
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-126b08435213b8
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 14
+PDF viewer page (navigation only): 14
+Line numbers: L017–L017
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: and practices.
+Candidate passage: 4.4.1 Integrity and ethics are fundamental to good scholarship and are located within and in
+Context after: relation to disciplinary discourse, standards and practices. They point to the ethical
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-65986bdbb44f80
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 110
+PDF viewer page (navigation only): 110
+Line numbers: L009–L009
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: Key words: integrity, responsible conduct, research,
+Candidate passage: ethics
+Context after: Policy Owner: Pro Vice Chancellor, Research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8ba1ac1a47716a
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 112
+PDF viewer page (navigation only): 112
+Line numbers: L018–L018
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: National Statement on Ethical Conduct in Human Research (2025), which establishes Australia’s
+Candidate passage: national framework for ethical design, review, governance and conduct of human research.
+Context after: 3 SCOPE
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cda174059508ee
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L016–L016
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: accordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).
+Candidate passage: Child Safety in Research
+Context after: 4.9 Research involving children, or research activities where Researchers may have contact with
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9fb99dea36dea1
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L034–L034
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: 4.11.1 The recipient of the disclosure as outlined above must discuss the matter with the staff
+Candidate passage: member concerned and determine a procedure for the management or elimination of
+Context after: the Conflict of Interest. The procedure must be documented and the Researcher
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5fb59fe130159a
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L035–L035
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: member concerned and determine a procedure for the management or elimination of
+Candidate passage: the Conflict of Interest. The procedure must be documented and the Researcher
+Context after: advised in writing.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4432d981cdaaf8
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L004–L004
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: Gender-based Violence.
+Candidate passage: Collaborative Research
+Context after: 4.24 Collaborative and sponsored research projects will be assessed with the intention of ensuring
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-271ee2cad3390d
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L005–L005
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: Collaborative Research
+Candidate passage: 4.24 Collaborative and sponsored research projects will be assessed with the intention of ensuring
+Context after: that the research supports the University’s Objects; that the University remains, and is seen to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dc61d2022d5bc2
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L006–L006
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: 4.24 Collaborative and sponsored research projects will be assessed with the intention of ensuring
+Candidate passage: that the research supports the University’s Objects; that the University remains, and is seen to
+Context after: remain, independent and objective in any third party research interactions; and that the rights
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4aee58ea6f7c9f
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L007–L007
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: that the research supports the University’s Objects; that the University remains, and is seen to
+Candidate passage: remain, independent and objective in any third party research interactions; and that the rights
+Context after: and welfare of students and staff are protected.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4561f73fbcb732
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 115
+PDF viewer page (navigation only): 115
+Line numbers: L022–L022
+Search query IDs: S12-Q03
+Search terms: research oversight
+Extraction/review flags: none recorded
+Context before: of research;
+Candidate passage: 4.27.2 Providing oversight of research outcomes according to the Australian Code and this
+Context after: Policy; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-746f79b6213232
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 116
+PDF viewer page (navigation only): 116
+Line numbers: L002–L002
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: 5.1 Complaints of a breach of the principles and responsibilities outlined in this Code of Conduct
+Candidate passage: will be managed in accordance with the Procedure: Managing and Investigating Breaches of the
+Context after: Code of Conduct: Research. Concerns relating to the safety or wellbeing of children arising in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-41b4bbdf403854
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 116
+PDF viewer page (navigation only): 116
+Line numbers: L003–L003
+Search query IDs: S12-Q04
+Search terms: safety procedure
+Extraction/review flags: none recorded
+Context before: will be managed in accordance with the Procedure: Managing and Investigating Breaches of the
+Candidate passage: Code of Conduct: Research. Concerns relating to the safety or wellbeing of children arising in
+Context after: the context of research must be reported in accordance with applicable child-safe policies and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2236e9329c2b13
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L003–L003
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: Investigation has access to appropriate skills and experience to consider Aboriginal and
+Candidate passage: Torres Strait Islander research ethics and governance.
+Context after: 8.5 The Investigating Officer must inform the Respondent in writing of the terms of the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-edfd9ed0cfd36f
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L025–L025
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: should be suspended because risks are no longer justified by potential benefits, and the
+Candidate passage: requirement to notify the relevant ethics review body promptly of any suspension and
+Context after: subsequent decisions;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-10ddf03e18e7cd
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 143
+PDF viewer page (navigation only): 143
+Line numbers: L004–L004
+Search query IDs: S12-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: 10.2.17 Procedure: Applying for Ethics Approval (Course Clearance)
+Candidate passage: 10.2.18 Procedure: Applying for Ethics Approval (Full Ethical Review)
+Context after: 10.2.19 Procedure: Applying for Ethics Approval (Low Risk Clearance)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-54ce5b085002c6
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 145
+PDF viewer page (navigation only): 145
+Line numbers: L003–L003
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: Following is a set of examples of Research Data based on those laid out in the University of New South
+Candidate passage: Wales’ Research Data Governance & Materials Handling Policy (2019)
+Context after: Research data and material may include but are not limited to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b1d47bcd8e6e00
+Source ID: N180
+Document title: Ethical Use of AI in Research (Library Guide)
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L002–L002
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: Scholarly publishing
+Candidate passage: Research organisation & funding
+Context after: Researcher skills
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7345479ddb63a3
+Source ID: N180
+Document title: Ethical Use of AI in Research (Library Guide)
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L047–L047
+Search query IDs: S12-Q05
+Search terms: research governance
+Extraction/review flags: none recorded
+Context before: Strategies for Secure Data Handling with Gen‑AI
+Candidate passage: Effective data governance is essential when integrating Gen‑AI into research workflows. Key
+Context after: practices include:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-42cdad62b05bf6
+Source ID: N193
+Document title: Policy: Academic Governance Framework
+Printed bundle page: 404
+PDF viewer page (navigation only): 404
+Line numbers: L027–L027
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: 8.3.1.10 engagement with employers, industry, and the professions.
+Candidate passage: 8.4 Deputy Vice Chancellor, Research, Partnerships and International
+Context after: 8.4.1 Deputy Vice Chancellor, Research, Partnerships and International provides leadership
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-202f073adecd54
+Source ID: N193
+Document title: Policy: Academic Governance Framework
+Printed bundle page: 404
+PDF viewer page (navigation only): 404
+Line numbers: L028–L028
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: 8.4 Deputy Vice Chancellor, Research, Partnerships and International
+Candidate passage: 8.4.1 Deputy Vice Chancellor, Research, Partnerships and International provides leadership
+Context after: for institutional self-assurance and managing risks to quality and standards for:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-86660acde7e688
+Source ID: N193
+Document title: Policy: Academic Governance Framework
+Printed bundle page: 404
+PDF viewer page (navigation only): 404
+Line numbers: L035–L035
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: recruitment and admission practices
+Candidate passage: 8.4.1.2 monitoring education agent performance and recruitment practices
+Context after: 8.4.1.3 partnerships with other providers for the delivery of programs and research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-84db7d299928c4
+Source ID: N193
+Document title: Policy: Academic Governance Framework
+Printed bundle page: 404
+PDF viewer page (navigation only): 404
+Line numbers: L036–L036
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: 8.4.1.2 monitoring education agent performance and recruitment practices
+Candidate passage: 8.4.1.3 partnerships with other providers for the delivery of programs and research
+Context after: training, and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9b846670ce0e0c
+Source ID: N193
+Document title: Policy: Academic Governance Framework
+Printed bundle page: 404
+PDF viewer page (navigation only): 404
+Line numbers: L038–L038
+Search query IDs: S12-Q01
+Search terms: research agent
+Extraction/review flags: none recorded
+Context before: training, and
+Candidate passage: 8.4.1.4 collaborative research partnerships.
+Context after: 8.4.2 With the support of the Pro Vice Chancellor, Research, the Deputy Vice Chancellor,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

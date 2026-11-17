@@ -1,0 +1,19 @@
+repos:
+  - repo: https://github.com/psf/black
+    rev: 25.1.0
+    hooks:
+      - id: black
+        args: ["--line-length=100"]
+        files: ^(generate_version_checklist\.py|finalize_proposals\.py|tests/test_json_cleanup\.py|tests/test_checklist_generation\.py|tests/test_finalize_proposals\.py|tests/test_proposal_validation\.py)$
+  - repo: https://github.com/PyCQA/flake8
+    rev: 7.1.1
+    hooks:
+      - id: flake8
+        files: ^(generate_version_checklist\.py|finalize_proposals\.py|tests/test_json_cleanup\.py|tests/test_checklist_generation\.py|tests/test_finalize_proposals\.py|tests/test_proposal_validation\.py)$
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.13.0
+    hooks:
+      - id: mypy
+        args: ["--strict"]
+        additional_dependencies: ["pydantic>=2.7,<3"]
+        files: ^(generate_version_checklist\.py|finalize_proposals\.py|tests/test_json_cleanup\.py|tests/test_checklist_generation\.py|tests/test_finalize_proposals\.py|tests/test_proposal_validation\.py)$

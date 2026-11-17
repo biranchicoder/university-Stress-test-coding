@@ -1,0 +1,403 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S4
+Scenario: S4 — Lecture Assistance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S4 Lecture Assistance
+An AI assistant attends a live lecture alongside the enrolled student — recording audio/video, producing structured notes, and privately answering the student's follow-up questions in real time. The AI is not disclosed to or visible to the instructor or other students; it functions purely as a personal aid.
+Boundary: AI does not communicate with the instructor or other students
+Risks to check: Recording and consent; third-party privacy; copyright; accessibility.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+An operational permission/consent boundary for undisclosed capture or processing of identifiable lecture participants.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S4-Q01 [actor_and_activity]: lecture recording — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q02 [related_roles]: student recording — 12 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q03 [permission_authority]: consent recording — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S4-Q04 [restriction_boundary]: recording permission — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q05 [procedure]: lecture procedure — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q06 [review_route]: privacy complaint — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S4-Q07 [related_risk]: copyright recording — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N027 | Procedure: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N028 | Policy: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N042 | Policy: Privacy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N186 | Procedure: Student Grievance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N188 | Policy: Programs and Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N193 | Policy: Academic Governance Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N236 | Additional Student Information copyright recording and access support | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-6a96f00c1f44dc
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L021–L021
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: requirement, but such a requirement cannot contribute to the overall course mark.
+Candidate passage: 10.3.4 A student will receive a fail due to non-completion (FN) grade even if their overall mark
+Context after: for the course is 50 percent or greater, if they do not (as relevant):
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-224d02d30564dc
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L039–L039
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: may approve an exception to this requirement.
+Candidate passage: 11.1.3 When a student submits assessment work they will provide a declaration that the work
+Context after: is their own, either:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9eac5c9ab0f738
+Source ID: N028
+Document title: Policy: Academic Integrity
+Printed bundle page: 92
+PDF viewer page (navigation only): 92
+Line numbers: L012–L012
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: prevent unauthorised access that may lead a breach of academic integrity (A7.3.3.b)
+Candidate passage: 4.2.6 documenting and recording responses to breaches of academic integrity (A7.3.3.c),
+Context after: and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fe1ac0718bc369
+Source ID: N028
+Document title: Policy: Academic Integrity
+Printed bundle page: 92
+PDF viewer page (navigation only): 92
+Line numbers: L034–L034
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: (including, text, images, video and other resources) if it is not their original work.
+Candidate passage: 4.4.2.1 The use of teaching resources will also comply with any copyright, licensing and
+Context after: intellectual property requirements that may apply, in accordance with the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a4bb57613f7311
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L033–L033
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: f) Whether the allegation involves children or young people, including research participants
+Candidate passage: under 18 years of age, and the applicable child safety, complaint handling and mandatory
+Context after: reporting requirements and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-658555e5910e37
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L039–L039
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Ethics Committee was obtained in accordance with the Guidelines approved under section
+Candidate passage: 95A of the Privacy Act 1988 (Cth).
+Context after: 8.9 Where an allegation relates to allegations of a type that the University is required to report to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7f196862ffbf79
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L017–L017
+Search query IDs: S4-Q04
+Search terms: recording permission
+Extraction/review flags: none recorded
+Context before: irrelevant matters;
+Candidate passage: d) Obtaining the permission of the Respondent prior to any audio recording of the hearing
+Context after: being made;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d4bb30a40c1c16
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L021–L021
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Investigating Officer or Panel intends to take into account; and
+Candidate passage: f) Managing information in a manner that respects privacy, confidentiality and cultural
+Context after: sensitivities, including the use of de-identified information where appropriate.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2c7c2c5961a171
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L024–L024
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: 8.13 The Respondent must be given at least seven (7) working days’ notice of the time and place of
+Candidate passage: any hearing of the complaint. The Investigating Officer and the Respondent may agree to
+Context after: shorten or extend the time limits for any hearing.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-246b1396079771
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L029–L029
+Search query IDs: S4-Q04
+Search terms: recording permission
+Extraction/review flags: none recorded
+Context before: a) The support person must not have any association with the allegations or be a qualified
+Candidate passage: legal practitioner unless permission is granted by the Investigating Officer;
+Context after: b) The support person has no right to be heard at the hearing, except with the permission of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-463fdb8e9c7002
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L030–L030
+Search query IDs: S4-Q04
+Search terms: recording permission
+Extraction/review flags: none recorded
+Context before: legal practitioner unless permission is granted by the Investigating Officer;
+Candidate passage: b) The support person has no right to be heard at the hearing, except with the permission of
+Context after: the Investigating Officer, and may be excluded by the Investigating Officer if they disrupt
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a641642c847f66
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 158
+PDF viewer page (navigation only): 158
+Line numbers: L013–L013
+Search query IDs: S4-Q06
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Purpose
+Candidate passage: 2.1 The Privacy Policy (Policy) outlines the policy on the collection, use, storage and disclosure of
+Context after: personal information at the University of Notre Dame Australia (University).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3a1646ac71a4ab
+Source ID: N188
+Document title: Policy: Programs and Courses
+Printed bundle page: 366
+PDF viewer page (navigation only): 366
+Line numbers: L018–L018
+Search query IDs: S4-Q01
+Search terms: lecture recording
+Extraction/review flags: none recorded
+Context before: information to students, so that:
+Candidate passage: 4.1.8.1 students can review a lecture to deepen their learning or revise for assessment
+Context after: work
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c16fc94581a446
+Source ID: N188
+Document title: Policy: Programs and Courses
+Printed bundle page: 366
+PDF viewer page (navigation only): 366
+Line numbers: L020–L020
+Search query IDs: S4-Q01
+Search terms: lecture recording
+Extraction/review flags: none recorded
+Context before: work
+Candidate passage: 4.1.8.2 students who are prevented from attending a lecture can view a recording of
+Context after: it, and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d890eacc13c760
+Source ID: N236
+Document title: Additional Student Information copyright recording and access support
+Printed bundle page: 424
+PDF viewer page (navigation only): 424
+Line numbers: L001–L001
+Search query IDs: S4-Q02, S4-Q04, S4-Q07
+Search terms: student recording | recording permission | copyright recording
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Additional Student Information copyright recording and access
+Context after: support
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-07ba95639bd37f
+Source ID: N236
+Document title: Additional Student Information copyright recording and access support
+Printed bundle page: 424
+PDF viewer page (navigation only): 424
+Line numbers: L036–L036
+Search query IDs: S4-Q04, S4-Q07
+Search terms: recording permission | copyright recording
+Extraction/review flags: none recorded
+Context before: sends to your Notre Dame Student email account is considered to have been received by you.
+Candidate passage: Copyright and recording of classes
+Context after: The University of Notre Dame Australia owns the copyright in materials presented in classes.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c221a0a69c211
+Source ID: N236
+Document title: Additional Student Information copyright recording and access support
+Printed bundle page: 425
+PDF viewer page (navigation only): 425
+Line numbers: L001–L001
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: for
+their personal study.
+Use of these materials or recording for any other purpose, or distribution or sharing of this
+material without the University’s express permission will infringe the University’s copyright.
+Students are not permitted to record these materials on personal devices without first
+obtaining permission from the staff member teaching the class.
+University of Notre Dame Australia | N236 | Source reading page 1
+Bundle page 424 | N236 | source reading page 1 | line numbers at left
+Candidate passage: If a student has downloaded a university recording of a class to their own computer or device,
+Context after: they must delete it when they no longer need it for study purposes.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-964eb9c98004df
+Source ID: N237
+Document title: Procedure Program and Course Information lecture recording
+Printed bundle page: 435
+PDF viewer page (navigation only): 435
+Line numbers: L005–L005
+Search query IDs: S4-Q07
+Search terms: copyright recording
+Extraction/review flags: none recorded
+Context before: Academic Progress.
+Candidate passage: 6.6 Course outline information about copyright and recording classes
+Context after: 6.6.1 Course outlines will contain the following statement of copyright in materials presented
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f7708d08d838f1
+Source ID: N237
+Document title: Procedure Program and Course Information lecture recording
+Printed bundle page: 435
+PDF viewer page (navigation only): 435
+Line numbers: L018–L018
+Search query IDs: S4-Q02
+Search terms: student recording
+Extraction/review flags: none recorded
+Context before: without first obtaining permission from the staff member teaching the class.
+Candidate passage: • If a student has downloaded a university recording of a class to their own
+Context after: computer or device, they must delete it when they no longer need it for
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

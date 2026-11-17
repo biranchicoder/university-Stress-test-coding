@@ -1,0 +1,485 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: ECU
+Case ID: ECU-S11
+Scenario: S11 — AI-Generated Research Evidence
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S11 AI-Generated Research Evidence
+A researcher delegates a substantial share of a study to AI: an agent generates simulated participant responses in place of human subjects, then runs the statistical analysis and drafts the results. The researcher designed the study and reviews the output, but did not personally generate, analyse, or draft it.
+Boundary: Ethics review assumed human participants and researcher-led analysis; untested here
+Risks to check: Research validity; simulation disclosure; ethics scope; consent and privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Synthetic responses distinguished from human empirical evidence, with an authorised research/ethics scope for the changed design.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S11-Q01 [actor_and_activity]: simulated participant — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S11-Q02 [related_roles]: researcher analysis — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S11-Q03 [permission_authority]: ethics approval — 7 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S11-Q04 [restriction_boundary]: human participants — 7 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S11-Q05 [procedure]: research procedure — 9 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S11-Q06 [review_route]: ethics review — 12 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S11-Q07 [related_risk]: research validity — 0 result(s); no_index_hits; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N097 | Guideline for the Responsible use of Generative AI in Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N101 | Artificial Intelligence Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N098 | Data Management Guidelines | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N099 | Conduct of Ethical Human Research Guideline | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N102 | Privacy statement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N222 | Authorship Publication and Peer Review Guidelines | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N090 | Academic Integrity Policy PL276 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N094 | Privacy Policy PL090 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N095 | Privacy Impact Assessment Procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N096 | Conducting Research with Integrity Policy PL415 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-a50919de2a7b7e
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 93
+PDF viewer page (navigation only): 93
+Line numbers: L028–L028
+Search query IDs: S11-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: Operational documents and resources
+Candidate passage: Access to Personal Information for Research Purposes Procedure
+Context after: Artificial Intelligence Framework and Ethical Principles
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c11d4793cb821b
+Source ID: N096
+Document title: Conducting Research with Integrity Policy PL415
+Printed bundle page: 100
+PDF viewer page (navigation only): 100
+Line numbers: L031–L031
+Search query IDs: S11-Q02
+Search terms: researcher analysis
+Extraction/review flags: none recorded
+Context before: way so as to generate new concepts, methodologies, inventions and understandings. This
+Candidate passage: could include synthesis, collation, evaluation and analysis of previous Research to the extent
+Context after: that it is new and creative and/or that it informs policy and professional practice.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-67e38fd392b897
+Source ID: N097
+Document title: Guideline for the Responsible use of Generative AI in Research
+Printed bundle page: 11
+PDF viewer page (navigation only): 11
+Line numbers: L027–L027
+Search query IDs: S11-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: to commencement. ECU has established policies and processes for the management of
+Candidate passage: risks in research, including but not limited to, the ethics review and risk management. Such
+Context after: risk assessment processes are important in the identification and management of risks
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c17bfb3fd2743c
+Source ID: N098
+Document title: Data Management Guidelines
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L026–L026
+Search query IDs: S11-Q02
+Search terms: researcher analysis
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: concepts, methodologies and understandings. This could include
+Candidate passage: synthesis, collation, evaluation and analysis of previous Research
+Context after: to the extent that it is new and creative and/or that it informs policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-21515b48968f9a
+Source ID: N098
+Document title: Data Management Guidelines
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L029–L029
+Search query IDs: S11-Q02
+Search terms: researcher analysis
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: and professional practice.
+Candidate passage: Researcher A Researcher is a person who conducts Research. For the purpose
+Context after: of this policy and unless otherwise stated this will be understood
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0a3c86ae232c58
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L007–L007
+Search query IDs: S11-Q04
+Search terms: human participants
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: participants at researchers at ECU. It provides guidance for staff and students in considering the
+Candidate passage: many ethical issues involved in conducting research with human participants and the associated
+Context after: institutional requirements.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e6382b76679f4a
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L026–L026
+Search query IDs: S11-Q02
+Search terms: researcher analysis
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: concepts, methodologies, inventions and understandings. This
+Candidate passage: could include synthesis, collation, evaluation and analysis of
+Context after: previous Research to the extent that it is new and creative
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b2ac5521e22cf1
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L030–L030
+Search query IDs: S11-Q06
+Search terms: ethics review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Research Ethics Management The Research Ethics Management System is the University’s
+Candidate passage: System (REMS) online ethics review software. It supports the governance of
+Context after: research at ECU.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2e74bca9252fb3
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L032–L032
+Search query IDs: S11-Q02
+Search terms: researcher analysis
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: research at ECU.
+Candidate passage: Researcher A Researcher is a person who conducts Research. For the
+Context after: purpose of this policy and unless otherwise stated this will
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a9eaa4f8fe14d4
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L037–L037
+Search query IDs: S11-Q04
+Search terms: human participants
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 1. Governing Principles
+Candidate passage: 1.1 People who conduct research with human participants have an obligation to ensure that:
+Context after: a. the welfare and rights of the participants take precedence over the expected benefits to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2d76c05dad98b6
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L002–L002
+Search query IDs: S11-Q04
+Search terms: human participants
+Extraction/review flags: none recorded
+Context before: 1.2 The University has a responsibility to the community to ensure that research projects are
+Candidate passage: performed in an ethical manner. Researchers conducting research with human participants
+Context after: must comply with the requirements of the National Statement on Ethical Conduct in Human
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-11fd177146d83a
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L014–L014
+Search query IDs: S11-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: 1.4 Data collection or recruitment of participants must not commence until the research activity has
+Candidate passage: been recorded REMS, the appropriate ethics review pathway has been determined and official
+Context after: notification has been issued to confirmed that all governance requirements have been satisfied or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5fda4d868b8c2d
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L016–L016
+Search query IDs: S11-Q03
+Search terms: ethics approval
+Extraction/review flags: none recorded
+Context before: notification has been issued to confirmed that all governance requirements have been satisfied or
+Candidate passage: formal advice is provided that ethics approval is not required.
+Context after: 2. Human Research Ethics Committee (HREC)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-82cf0555fa9505
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L022–L022
+Search query IDs: S11-Q03
+Search terms: ethics approval
+Extraction/review flags: none recorded
+Context before: b) the application of policy;
+Candidate passage: c) consideration of applications for ethics approval;
+Context after: d) monitoring of approved research projects;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a59bee26c5ef5f
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L024–L024
+Search query IDs: S11-Q04
+Search terms: human participants
+Extraction/review flags: none recorded
+Context before: d) monitoring of approved research projects;
+Candidate passage: e) advising the University on the rights and welfare of human participants and ethics issues;
+Context after: f) provision of assistance to staff and students in the consideration of ethical issues involved in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9006ae98b24ffa
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L026–L026
+Search query IDs: S11-Q04
+Search terms: human participants
+Extraction/review flags: none recorded
+Context before: f) provision of assistance to staff and students in the consideration of ethical issues involved in
+Candidate passage: conducting research with human participants; and
+Context after: g) enhancing the University community’s understanding of the importance of ethical research.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4560366bbbf6dd
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L029–L029
+Search query IDs: S11-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: 2.2 The Human Research Ethics Committee operates according to the National Statement. The
+Candidate passage: terms of reference of the HREC are available from the ethics review committee website.
+Context after: 2.3 HREC membership shall be in compliance with the requirements of the National Statement.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-39c76ba2264f36
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L034–L034
+Search query IDs: S11-Q06
+Search terms: ethics review
+Extraction/review flags: none recorded
+Context before: 3.1 The National Statement sanctions institutional establishment of non- HREC levels of ethical
+Candidate passage: review for low risk and negligible risk research. ECU has established Ethics Subcommittees to
+Context after: provide a non-HREC level of ethical review of research being undertaken at ECU. The risk level
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d56850882398d9
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L039–L039
+Search query IDs: S11-Q03
+Search terms: ethics approval
+Extraction/review flags: none recorded
+Context before: involving more than low risk will be referred to the HREC for review.
+Candidate passage: 4. Applying for ethics approval
+Context after: 4.1 All research and research-related activity must be submitted in REMS where it will be determined
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4d3ceb91bd53ee
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L044–L044
+Search query IDs: S11-Q03
+Search terms: ethics approval
+Extraction/review flags: none recorded
+Context before: 4.2 ECU researchers involved in research activities which have undergone ethical review and
+Candidate passage: approval by another institution’s ethics committee are required to submit the project in REMS
+Context after: for reciprocal ethics approval.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2095e983b53c8a
+Source ID: N099
+Document title: Conduct of Ethical Human Research Guideline
+Printed bundle page: 31
+PDF viewer page (navigation only): 31
+Line numbers: L045–L045
+Search query IDs: S11-Q03
+Search terms: ethics approval
+Extraction/review flags: none recorded
+Context before: approval by another institution’s ethics committee are required to submit the project in REMS
+Candidate passage: for reciprocal ethics approval.
+Context after: Research Services Page 2
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-57a5517160345c
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L008–L008
+Search query IDs: S11-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: Who is included in the framework?
+Candidate passage: AI is the product of a life-cycle, which may span ‘research, design and development to deployment
+Context after: and use, including maintenance, operation, trade, financing, monitoring and evaluation, validation,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f65a41c633a1ce
+Source ID: N101
+Document title: Artificial Intelligence Framework
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L033–L033
+Search query IDs: S11-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: ECU’s Integrated Risk Management Framework.
+Candidate passage: Over time, this will guide any necessary updates to policy and procedure (e.g. procurement). This
+Context after: will be published prior to the end of 2023.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7cc29d3be2d82e
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L020–L020
+Search query IDs: S11-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: Information Breach Response Procedure
+Candidate passage: Access to Personal Information for Research Purposes Procedure
+Context after: https://edithcowanuni.sharepoint.com/:w:/s/SGS-CorpKB/IQCsB43PZ0aaQag-ImPQdSaxATgONiumfgsKdlt5G8UsVR
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3cc269db4c5f46
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 33
+PDF viewer page (navigation only): 33
+Line numbers: L022–L022
+Search query IDs: S11-Q05
+Search terms: research procedure
+Extraction/review flags: none recorded
+Context before: https://edithcowanuni.sharepoint.com/:w:/s/SGS-CorpKB/IQCsB43PZ0aaQag-ImPQdSaxATgONiumfgsKdlt5G8UsVR
+Candidate passage: Access to Personal Information for Research Purposes Procedure
+Context after: Privacy Impact Assessment Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

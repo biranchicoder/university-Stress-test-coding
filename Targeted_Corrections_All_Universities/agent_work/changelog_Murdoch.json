@@ -1,0 +1,569 @@
+[
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "D5.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: D5 had SUPPORTING passages only; promoted operative N087 (2.1-2.3) to MAIN.",
+    "supporting_policy_location": "N087, Student Academic Integrity Policy, p.12, L015-L022"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: N108 (5-6) and N087 (1.3) establish periodic review only; past Turnitin decision in N112 does not establish D6=2.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "D6.reason",
+    "old_value": "N108 (5-6) mandates three-yearly review of Policy Documents, N087 (1.3) requires periodic review of curriculum and assessment design, and N112 shows DVC Education reviewing Turnitin AI detection settings. However, an explicit event-triggered monitoring-to-revision loop for AI assessment rules is not fully specified.",
+    "proposed_value": "N108 (5-6) mandates three-yearly review of Policy Documents and N087 (1.3) requires periodic review of curriculum and assessment design. These establish periodic review only; N112's past announcement disabling Turnitin AI detection is a one-off operational decision (operative status unverified) rather than an ongoing assigned review with escalation or learning.",
+    "reason": "Rule 2: Updated D6 reason to match D6=1.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "D5.uncertainty_notes",
+    "old_value": "N112 is a webpage without a formal effective date (operative_at_cutoff=false).",
+    "proposed_value": "N112 is a webpage without a formal effective date (Operative status unverified; operative_at_cutoff=false).",
+    "reason": "Rule 5: Added 'Operative status unverified' for undated webpage N112.",
+    "supporting_policy_location": "N112 p.8"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "D1.uncertainty_notes",
+    "old_value": "N112 and N163 are web/LibGuide pages without formal effective dates (operative_at_cutoff=false). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186).",
+    "proposed_value": "N112 and N163 are web/LibGuide pages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186).",
+    "reason": "Rule 5: Added 'Operative status unverified' for undated webpages N112 and N163.",
+    "supporting_policy_location": "N112 p.8; N163"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S1",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Operative policy N087 (6.3.1) only prohibits submitting AI-produced work without authorisation and does not establish clear authorisation or disclosure rules for non-verbatim AI planning, Q&A, and editing feedback, while Turnitin AI detection is disabled (N112) without a substitute verification mechanism.",
+    "proposed_value": "General authorship and integrity rules in N087 (2.1-2.3, 6.3.1) prohibit submitting AI-produced work without assessment authorisation, but do not establish clear authorisation or transparent disclosure rules for non-verbatim AI planning, Q&A, and editing feedback, while Turnitin AI detection is disabled (N112).",
+    "reason": "Rule 4: Evaluated general protections in N087 and specified the missing material protection.",
+    "supporting_policy_location": "N087 p.12 L015-L022; N112 p.8"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S2",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: N108 (5-6) and N087 (1.3) establish periodic review only; past Turnitin decision in N112 does not establish D6=2.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S2",
+    "field": "D6.reason",
+    "old_value": "N108 (5-6) requires three-yearly policy review, N087 (1.3) mandates periodic assessment design review, and N112 reflects DVC Education review of Turnitin AI detection settings.",
+    "proposed_value": "N108 (5-6) requires three-yearly policy review and N087 (1.3) mandates periodic assessment design review. These establish periodic review only; N112's past announcement disabling Turnitin AI detection (operative status unverified) does not establish an ongoing assigned review with escalation or learning.",
+    "reason": "Rule 2: Updated D6 reason to match D6=1.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S2",
+    "field": "case_summary.uncertainty_notes",
+    "old_value": "Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date.",
+    "proposed_value": "Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).",
+    "reason": "Rule 5: Added 'Operative status unverified' for undated webpage N112.",
+    "supporting_policy_location": "N112 p.8"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S3",
+    "field": "D1.reason",
+    "old_value": "N077 (1.6) requires access via an authorised account and forbids disclosing passwords to 'any other person', N179 (4.1) requires least-privilege authorised user access, and N087 (6.3.1) prohibits submitting AI-produced work without authorisation. However, no policy explicitly covers a student delegating standing autonomous LMS/submission actions to an AI agent under their own credentials.",
+    "proposed_value": "N077 (1.6) requires access via an authorised account and forbids disclosing passwords to 'any other person', N179 (4.1) requires least-privilege authorised user access, and N087 (6.3.1) prohibits submitting AI-produced work without authorisation. No relevant provision was identified in the documents and searches checked covering a student delegating standing autonomous LMS/submission actions to an AI agent under their own credentials.",
+    "reason": "Rule 3: Replaced overstated 'no policy explicitly covers' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N077 p.128; N179 p.344; N087 p.13"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S3",
+    "field": "D4.reason",
+    "old_value": "N179 (4.1.3) requires access requests via the Murdoch Support Service Management Portal and N164 outlines misconduct review, but no actionable procedure exists for verifying standing AI-agent delegation or pre-submission human oversight (and Password Policy / ICT Security Standard / Assessment Procedure are missing).",
+    "proposed_value": "N179 (4.1.3) requires access requests via the Murdoch Support Service Management Portal and N164 outlines misconduct review. No relevant provision was identified in the documents and searches checked for verifying standing AI-agent delegation or pre-submission human oversight (and Password Policy, ICT Security Standard, and Assessment Procedure are absent from the bundle).",
+    "reason": "Rule 3: Replaced overstated 'no actionable procedure exists' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179 p.344; N164 p.17"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S4",
+    "field": "D1.reason",
+    "old_value": "Generic/analogical recognition only: Privacy Policy (N083, 2.2, 3.4, 4.1) governs the University's collection of personal and biometric information (including facial images and voiceprints), Copyright advice (N235) covers copyright in recorded lectures, and Accessibility services (N233) mentions assistive technology. No policy explicitly covers a student using an undisclosed personal AI assistant to record live lectures.",
+    "proposed_value": "Generic/analogical recognition only: Privacy Policy (N083, 2.2, 3.4, 4.1) governs the University's collection of personal and biometric information (including facial images and voiceprints), Copyright advice (N235) covers copyright in recorded lectures, and Accessibility services (N233) mentions assistive technology. No relevant provision was identified in the documents and searches checked covering a student using an undisclosed personal AI assistant to record live lectures.",
+    "reason": "Rule 3: Replaced 'No policy explicitly covers' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N083; N235; N233"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S4",
+    "field": "D1.uncertainty_notes",
+    "old_value": "N235 and N233 are webpages without formal effective dates (operative_at_cutoff=false). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle.",
+    "proposed_value": "N235 and N233 are webpages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle.",
+    "reason": "Rule 5: Added 'Operative status unverified' for N235 and N233.",
+    "supporting_policy_location": "N235; N233"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S4",
+    "field": "D2.reason",
+    "old_value": "N084 (13.1, 14.1) names the Privacy Officer for privacy compliance and complaints, and N075 provides general complaint handling, while N235 names the Copyright Coordinator for copyright advice. However, no decision-maker is identified to authorise or refuse undisclosed student AI lecture recording.",
+    "proposed_value": "N084 (13.1, 14.1) names the Privacy Officer for privacy compliance and complaints, and N075 provides general complaint handling, while N235 names the Copyright Coordinator for copyright advice. No relevant provision was identified in the documents and searches checked identifying a decision-maker to authorise or refuse undisclosed student AI lecture recording.",
+    "reason": "Rule 3: Replaced 'no decision-maker is identified' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N084 p.46; N075; N235"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S4",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Murdoch's Privacy Policy (N083) binds University collection and N235 addresses copyright in recorded lectures, but no operative policy establishes a permission or consent boundary for a student's undisclosed AI capture of identifiable lecture participants.",
+    "proposed_value": "Murdoch's Privacy Policy (N083) binds University collection and N235 addresses copyright in recorded lectures, but no relevant provision was identified in the documents and searches checked establishing a permission or consent boundary for a student's undisclosed AI capture of identifiable lecture participants.",
+    "reason": "Rule 3: Replaced 'no operative policy establishes' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N083; N235"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S4",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Privacy Policy (N083) regulates University collection of personal and biometric data, while Copyright advice (N235) and myAccess guidance (N233) address recorded lectures and assistive technology generally. No operative policy establishes a permission or consent boundary for a student's undisclosed AI assistant recording live lecture participants, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Privacy Policy (N083) regulates University collection of personal and biometric data, while Copyright advice (N235) and myAccess guidance (N233) address recorded lectures and assistive technology generally. No relevant provision was identified in the documents and searches checked establishing a permission or consent boundary for a student's undisclosed AI assistant recording live lecture participants, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'No operative policy establishes' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N083; N235; N233"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S5",
+    "field": "D2.reason",
+    "old_value": "No decision-maker is identified in Murdoch policies to verify, admit, or refuse a disclosed AI attendance proxy for online classes.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked identifying a decision-maker to verify, admit, or refuse a disclosed AI attendance proxy for online classes (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
+    "reason": "Rule 3: Replaced overstated absence claim with 'No relevant provision was identified in the documents and searches checked' and noted bundle limitation.",
+    "supporting_policy_location": "search_log.csv; source_audit.csv"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S5",
+    "field": "D4.reason",
+    "old_value": "No actionable procedure exists for requesting, verifying, or admitting a disclosed AI proxy to an online lecture.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked establishing an actionable procedure for requesting, verifying, or admitting a disclosed AI proxy to an online lecture (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
+    "reason": "Rule 3: Replaced overstated absence claim with 'No relevant provision was identified in the documents and searches checked' and noted bundle limitation.",
+    "supporting_policy_location": "search_log.csv; source_audit.csv"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S5",
+    "field": "D5.reason",
+    "old_value": "None of the relevant safeguards—proxy identity verification, compulsory participation validity rules, or AI-avatar recording/privacy controls—is documented.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked documenting proxy identity verification, compulsory participation validity rules, or AI-avatar recording/privacy controls (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
+    "reason": "Rule 3: Replaced 'None of the relevant safeguards... is documented' with 'No relevant provision was identified in the documents and searches checked' and noted bundle limitation.",
+    "supporting_policy_location": "search_log.csv; source_audit.csv"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S5",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Murdoch policies contain no provisions for verifying or admitting a disclosed AI avatar as a lecture proxy or determining whether such attendance satisfies compulsory participation requirements.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for verifying or admitting a disclosed AI avatar as a lecture proxy or determining whether such attendance satisfies compulsory participation requirements (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
+    "reason": "Rule 3: Replaced 'Murdoch policies contain no provisions' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "search_log.csv; source_audit.csv"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S5",
+    "field": "case_summary.case_note",
+    "old_value": "Exhaustive searches of Murdoch's policy corpus found no provision governing a disclosed AI avatar attending online lectures or fulfilling compulsory participation on a student's behalf. General rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not establish proxy verification, admission authority, or participation validity, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked governing a disclosed AI avatar attending online lectures or fulfilling compulsory participation on a student's behalf (with the Assessment Procedure Effective 01 January 2025 absent from the bundle). General rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not establish proxy verification, admission authority, or participation validity, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'Exhaustive searches... found no provision' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N164; N077; search_log.csv"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S6",
+    "field": "D2.reason",
+    "old_value": "N088 (29-31) specifies independent appeal decision-makers, N084 (13.1, 14.1) names the Privacy Officer, and N077 (1.14, 4) empowers the Chief Experience Officer over IT access. However, no decision-maker or authority verification rule is defined for staff receiving extension/feedback emails from an AI agent via a student's SSO account.",
+    "proposed_value": "N088 (29-31) specifies independent appeal decision-makers, N084 (13.1, 14.1) names the Privacy Officer, and N077 (1.14, 4) empowers the Chief Experience Officer over IT access. No relevant provision was identified in the documents and searches checked defining a decision-maker or authority verification rule for staff receiving extension/feedback emails from an AI agent via a student's SSO account.",
+    "reason": "Rule 3: Replaced 'no decision-maker or authority verification rule is defined' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N088; N084; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S6",
+    "field": "D4.reason",
+    "old_value": "N088 details appeal filing and timelines, and N075/N084 outline complaint handling, but no operational procedure exists for staff to verify whether an email/SSO communication is from the student or an autonomous AI agent before acting or disclosing confidential information.",
+    "proposed_value": "N088 details appeal filing and timelines, and N075/N084 outline complaint handling, but no relevant provision was identified in the documents and searches checked establishing an operational procedure for staff to verify whether an email/SSO communication is from the student or an autonomous AI agent before acting or disclosing confidential information.",
+    "reason": "Rule 3: Replaced 'no operational procedure exists' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N088; N075; N084"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S6",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Although N088 (7.3) bars another person from making an appeal on a student's behalf and N077 (1.6) bars password sharing, no mechanism lets staff independently verify authority when an AI agent communicates through the student's delegated SSO/email account before binding representation or confidential disclosure.",
+    "proposed_value": "Although general protections in N088 (7.3), N077 (1.6), and N083 (5.1-5.2) bar third-party appeals, password sharing, and unauthorised personal data disclosure, no relevant verification mechanism was identified in the documents and searches checked for staff to confirm authority before binding representation or confidential disclosure when an AI agent uses a student's delegated SSO/email account.",
+    "reason": "Rules 3 & 4: Replaced 'no mechanism' with 'no relevant verification mechanism was identified in the documents and searches checked' and noted general protections.",
+    "supporting_policy_location": "N088; N077; N083"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S6",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Student Appeals Procedure (N088, 7.3) prohibits another person from making an appeal on a student's behalf, while IT Conditions of Use (N077, 1.6) prohibits password sharing and Privacy Policy (N083) restricts personal information disclosure. However, no operational verification boundary prevents an AI agent using delegated SSO credentials from binding academic representation or receiving confidential student data in routine staff correspondence, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Student Appeals Procedure (N088, 7.3) prohibits another person from making an appeal on a student's behalf, while IT Conditions of Use (N077, 1.6) prohibits password sharing and Privacy Policy (N083) restricts personal information disclosure. However, no relevant verification boundary was identified in the documents and searches checked to prevent an AI agent using delegated SSO credentials from binding academic representation or receiving confidential student data in routine staff correspondence, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'no operational verification boundary prevents' with 'no relevant verification boundary was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N088; N077; N083"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S7",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: N108 (5-6) and N087 (1.3) establish periodic review only; past Turnitin decision in N112 does not establish D6=2.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S7",
+    "field": "D6.reason",
+    "old_value": "N108 (5-6) mandates three-yearly policy review, N087 (1.3) requires periodic curriculum and assessment design review, and N112 reflects DVC Education review of Turnitin AI settings.",
+    "proposed_value": "N108 (5-6) mandates three-yearly policy review and N087 (1.3) requires periodic curriculum and assessment design review. These establish periodic review only; N112's past announcement disabling Turnitin AI settings (operative status unverified) does not establish an ongoing assigned review with escalation or learning.",
+    "reason": "Rule 2: Updated D6 reason to match D6=1.",
+    "supporting_policy_location": "N108 p.181 L025-L028; N087 p.12 L009-L010"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S7",
+    "field": "D2.reason",
+    "old_value": "N164 (5.2, 7.1) assigns misconduct decisions to relevant decision-makers with appeal to N088, and N112 (informal webpage) points to Unit Coordinators for unit-level GenAI rules. No operative policy names a decision-maker or criteria for group-level AI attribution or equitable tool access.",
+    "proposed_value": "N164 (5.2, 7.1) assigns misconduct decisions to relevant decision-makers with appeal to N088, and N112 (informal webpage, operative status unverified) points to Unit Coordinators for unit-level GenAI rules. No relevant provision was identified in the documents and searches checked naming a decision-maker or criteria for group-level AI attribution or equitable tool access.",
+    "reason": "Rules 3 & 5: Replaced 'No operative policy names' and added operative status unverified for N112.",
+    "supporting_policy_location": "N164; N112"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S7",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Student Academic Integrity Policy (N087) requires collective honesty in groupwork (2.1) and prohibits submitting AI-produced work without assessment authorisation (6.3.1), while N112 defers unit-level GenAI expectations to Unit Outlines. No operative policy requires group-level tracking or traceable disclosure of individual AI assistance or addresses unequal AI tool access, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Student Academic Integrity Policy (N087) requires collective honesty in groupwork (2.1) and prohibits submitting AI-produced work without assessment authorisation (6.3.1), while N112 defers unit-level GenAI expectations to Unit Outlines. No relevant provision was identified in the documents and searches checked requiring group-level tracking or traceable disclosure of individual AI assistance or addressing unequal AI tool access, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'No operative policy requires' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N087; N112"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S7",
+    "field": "case_summary.uncertainty_notes",
+    "old_value": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date.",
+    "proposed_value": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).",
+    "reason": "Rule 5: Added 'Operative status unverified' for N112.",
+    "supporting_policy_location": "N112"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S8",
+    "field": "D1.reason",
+    "old_value": "N087 (6.3.1, 2.1) covers AI-produced assessment contributions and collective groupwork honesty, and N077 (1.6, 1.12) covers authorised account access and PII protection. However, no policy addresses admitting an AI agent as a persistent participant in a shared group digital workspace.",
+    "proposed_value": "N087 (6.3.1, 2.1) covers AI-produced assessment contributions and collective groupwork honesty, and N077 (1.6, 1.12) covers authorised account access and PII protection. No relevant provision was identified in the documents and searches checked addressing an AI agent as a persistent participant in a shared group digital workspace.",
+    "reason": "Rule 3: Replaced 'no policy addresses' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N087; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S8",
+    "field": "D2.reason",
+    "old_value": "N164 (5.2, 7.1) assigns misconduct decisions to relevant decision-makers with appeal to N088, and N077 (1.14) empowers the Chief Experience Officer over IT access, though no role is specified to authorise AI agent membership in student workspaces.",
+    "proposed_value": "N164 (5.2, 7.1) assigns misconduct decisions to relevant decision-makers with appeal to N088, and N077 (1.14) empowers the Chief Experience Officer over IT access, though no relevant provision was identified in the documents and searches checked specifying a role to authorise AI agent membership in student workspaces.",
+    "reason": "Rule 3: Replaced 'no role is specified' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N164; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S8",
+    "field": "D4.reason",
+    "old_value": "N179 (4.1.3) specifies portal requests for University IT access and N164 outlines misconduct review, but no actionable procedure governs admitting an AI agent to a student group workspace, attributing its separable outputs, or purging shared group data.",
+    "proposed_value": "N179 (4.1.3) specifies portal requests for University IT access and N164 outlines misconduct review, but no relevant provision was identified in the documents and searches checked governing admitting an AI agent to a student group workspace, attributing its separable outputs, or purging shared group data.",
+    "reason": "Rule 3: Replaced 'no actionable procedure governs' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N164"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S8",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "No Murdoch policy governs admitting a persistent AI agent into a student group workspace, assigning accountable human group responsibility for its identifiable contributions, or protecting group personal information retained across sessions.",
+    "proposed_value": "While N087 (6.3.1) and N077 (1.6, 1.12) provide general integrity and PII safeguards, no relevant provision was identified in the documents and searches checked governing admitting a persistent AI agent into a student group workspace, assigning accountable human group responsibility for its identifiable contributions, or protecting group personal information retained across sessions.",
+    "reason": "Rules 3 & 4: Replaced 'No Murdoch policy governs' with 'no relevant provision was identified in the documents and searches checked' and noted general protections.",
+    "supporting_policy_location": "N087; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S9",
+    "field": "D1.reason",
+    "old_value": "Generic recognition only: N168 and N169 govern human staff collation, moderation, and approval of final marks/grades, and N087 (2.1) requires fairness in groupwork. No policy addresses an AI agent acting as group coordinator or generating unreviewed peer/contribution evaluations.",
+    "proposed_value": "Generic recognition only: N168 and N169 govern human staff collation, moderation, and approval of final marks/grades, and N087 (2.1) requires fairness in groupwork. No relevant provision was identified in the documents and searches checked addressing an AI agent acting as group coordinator or generating unreviewed peer/contribution evaluations.",
+    "reason": "Rule 3: Replaced 'No policy addresses' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N168; N169; N087"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S9",
+    "field": "D5.reason",
+    "old_value": "N168 and N169 establish human moderation, outlier monitoring, and Chair/Head approval of final marks and re-marks, and N113/N088 provide review/appeal channels. A material gap remains because no rule requires human verification of AI-generated intra-group evaluations before they influence peer marks.",
+    "proposed_value": "N168 and N169 establish human moderation, outlier monitoring, and Chair/Head approval of final marks and re-marks, and N113/N088 provide review/appeal channels. A material gap remains because no relevant provision was identified in the documents and searches checked requiring human verification of AI-generated intra-group evaluations before they influence peer marks.",
+    "reason": "Rule 3: Replaced 'no rule requires' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N168; N169; N113; N088"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S9",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "While N168 and N169 vest final grade collation and approval in human staff and N113/N088 provide post-hoc review/appeal routes, no operative rule requires pre-mark human review of AI-generated intra-group evaluations before they determine peer marks.",
+    "proposed_value": "While N168 and N169 vest final grade collation and approval in human staff and N113/N088 provide post-hoc review/appeal routes, no relevant provision was identified in the documents and searches checked requiring pre-mark human review of AI-generated intra-group evaluations before they determine peer marks.",
+    "reason": "Rule 3: Replaced 'no operative rule requires' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N168; N169; N113; N088"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S9",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Grades Procedure (N168) and Results Procedure (N169) vest mark collation, moderation, and final grade approval in Unit Coordinators, Heads of Discipline, and Results Committees, while N113 and N088 provide re-mark and appeal routes. However, no operative policy governs an AI agent exercising managerial or peer-evaluation authority over human group members before marks are affected, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Grades Procedure (N168) and Results Procedure (N169) vest mark collation, moderation, and final grade approval in Unit Coordinators, Heads of Discipline, and Results Committees, while N113 and N088 provide re-mark and appeal routes. However, no relevant provision was identified in the documents and searches checked governing an AI agent exercising managerial or peer-evaluation authority over human group members before marks are affected, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'no operative policy governs' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N168; N169; N113; N088"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S9",
+    "field": "case_summary.uncertainty_notes",
+    "old_value": "Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date.",
+    "proposed_value": "Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date (Operative status unverified).",
+    "reason": "Rule 5: Added 'Operative status unverified' for N113.",
+    "supporting_policy_location": "N113"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S10",
+    "field": "case_summary.critical_gap",
+    "old_value": "Yes",
+    "proposed_value": "Uncertain",
+    "reason": "Rule 4 & Protocol v1.1: General protections exist in N172 (R26-R27), Library guides (N163, N234), N077 (1.12), and N083, while binding Research Integrity Policy/Procedure and staff AI guidelines are absent from the bundle; critical gap cannot be confirmed from missing documents.",
+    "supporting_policy_location": "N172; N163; N234; N077; N083"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S10",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "While Library guides (N163, N234) and the Australian Code (N172) address citation verification, attribution, and confidential data protection, Murdoch's binding Research Integrity Policy/Procedure and staff AI guidelines are absent from the bundle, leaving no operative Murdoch-specific rule enforcing human citation verification for staff/HDR synthesis.",
+    "proposed_value": "Library guides (N163, N234; operative status unverified) and the hosted Australian Code (N172, R26-R27; operative status unverified) address citation verification, accurate attribution, and non-upload of copyrighted/confidential material, reinforced by N077 (1.12) and N083. However, Murdoch's binding Research Integrity Policy, Research Integrity Procedure, and staff AI acceptable use guidelines are absent from the bundle, leaving binding institutional enforcement for staff/HDR synthesis uncertain rather than established as absent.",
+    "reason": "Rules 4 & 5: Updated explanation to match critical_gap='Uncertain' and noted operative status unverified.",
+    "supporting_policy_location": "N172; N163; N234; N077; N083"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S10",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch Library guides (N163, N234) require critical assessment of AI outputs for fabricated citations and prohibit uploading copyrighted or Murdoch IP materials to third-party AI, aligning with the Australian Code (N172) on accurate citation and attribution. However, Murdoch's binding Research Integrity Policy, Research Integrity Procedure, and staff AI acceptable use guidelines are absent from the bundle, leaving operative enforcement for research synthesis unverified. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch Library guides (N163, N234) require verifying AI outputs for fabricated citations and prohibit uploading copyrighted or Murdoch IP materials to third-party AI, aligning with the Australian Code (N172) and N077 (1.12) on attribution and data protection. However, Murdoch's binding Research Integrity Policy, Research Integrity Procedure, and staff AI acceptable use guidelines are absent from the bundle, leaving critical-gap status uncertain until those instruments are checked. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 4: Updated case_note to reflect critical_gap='Uncertain'.",
+    "supporting_policy_location": "N163; N234; N172; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S10",
+    "field": "D1.uncertainty_notes",
+    "old_value": "N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (operative_at_cutoff=false). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff.",
+    "proposed_value": "N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (Operative status unverified; operative_at_cutoff=false). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff.",
+    "reason": "Rule 5: Added 'Operative status unverified' for N163, N234, N111, N172.",
+    "supporting_policy_location": "N163; N234; N111; N172"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S11",
+    "field": "D1.reason",
+    "old_value": "Generic recognition only: N242 requires HREC approval before human research commences, N172 (P1, R21) requires honest reporting and appropriate methods, and N087 (6.7.1) prohibits falsified/made-up data for coursework students. No policy explicitly covers AI-generated simulated participant responses replacing human subjects or AI-led analysis/drafting.",
+    "proposed_value": "Generic recognition only: N242 requires HREC approval before human research commences, N172 (P1, R21) requires honest reporting and appropriate methods, and N087 (6.7.1) prohibits falsified/made-up data for coursework students. No relevant provision was identified in the documents and searches checked covering AI-generated simulated participant responses replacing human subjects or AI-led analysis/drafting.",
+    "reason": "Rule 3: Replaced 'No policy explicitly covers' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N242; N172; N087"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S11",
+    "field": "D1.uncertainty_notes",
+    "old_value": "N242 and N172 lack formal Murdoch effective-date blocks (operative_at_cutoff=false). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle.",
+    "proposed_value": "N242 and N172 lack formal Murdoch effective-date blocks (Operative status unverified; operative_at_cutoff=false). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle.",
+    "reason": "Rule 5: Added 'Operative status unverified' for N242 and N172.",
+    "supporting_policy_location": "N242; N172"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S11",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "No policy in the Murdoch bundle explicitly requires synthetic AI-generated participant responses to be distinguished from human empirical evidence or mandates HREC scope amendment when AI simulation replaces approved human participants.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked requiring synthetic AI-generated participant responses to be distinguished from human empirical evidence or mandating HREC scope amendment when AI simulation replaces approved human participants (Human Research Ethics Policy and Research Integrity Policy/Procedure are absent from the bundle).",
+    "reason": "Rule 3: Replaced 'No policy in the Murdoch bundle' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N242; N172; N087"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S11",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's human research ethics guidance (N242) mandates prior HREC approval under the National Statement and Australian Code (N172), while N087 (6.7.1) prohibits falsified or made-up data in coursework. However, Murdoch's Human Research Ethics Policy and Research Integrity Policy/Procedure are absent from the bundle, and no available rule addresses AI-simulated participant responses replacing human subjects, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's human research ethics guidance (N242) mandates prior HREC approval under the National Statement and Australian Code (N172), while N087 (6.7.1) prohibits falsified or made-up data in coursework. However, Murdoch's Human Research Ethics Policy and Research Integrity Policy/Procedure are absent from the bundle, and no relevant provision was identified in the documents and searches checked addressing AI-simulated participant responses replacing human subjects, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'no available rule addresses' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N242; N172; N087"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "D1.reason",
+    "old_value": "Generic recognition only: N172 (R17, R21, R25) covers general researcher compliance, methods, and authorship, N179 (4.1) covers least-privilege IT access, and N077 (1.5-1.6) covers IT system integrity. No policy addresses an autonomous multi-agent AI system conducting connected laboratory or computational research actions without step-level human verification.",
+    "proposed_value": "Generic recognition only: N172 (R17, R21, R25) covers general researcher compliance, methods, and authorship, N179 (4.1) covers least-privilege IT access, and N077 (1.5-1.6) covers IT system integrity. No relevant provision was identified in the documents and searches checked addressing an autonomous multi-agent AI system conducting connected laboratory or computational research actions without step-level human verification.",
+    "reason": "Rule 3: Replaced 'No policy addresses' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N172; N179; N077"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "D2.reason",
+    "old_value": "N179 (p.346, 2) empowers the Vice Chancellor or delegate to disable non-compliant IT systems, N242 names HREC for human ethics, and N241 provides research integrity allegation reporting. No decision-maker is identified to authorise autonomous AI lab/computational execution or define human-intervention gates.",
+    "proposed_value": "N179 (p.346, 2) empowers the Vice Chancellor or delegate to disable non-compliant IT systems, N242 names HREC for human ethics, and N241 provides research integrity allegation reporting. No relevant provision was identified in the documents and searches checked identifying a decision-maker to authorise autonomous AI lab/computational execution or define human-intervention gates.",
+    "reason": "Rule 3: Replaced 'No decision-maker is identified' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N242; N241"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "D4.reason",
+    "old_value": "N179 (4.1.3) requires IT access requests via the Support Portal and N080 governs security incident management, but no actionable procedure exists for authorising, supervising, or halting autonomous AI lab/computational execution.",
+    "proposed_value": "N179 (4.1.3) requires IT access requests via the Support Portal and N080 governs security incident management, but no relevant provision was identified in the documents and searches checked establishing an actionable procedure for authorising, supervising, or halting autonomous AI lab/computational execution.",
+    "reason": "Rule 3: Replaced 'no actionable procedure exists' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N080"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "No Murdoch policy establishes authorisation, safety boundaries, meaningful human intervention, or accountable PI responsibility for an autonomous multi-agent AI system executing connected laboratory or computational actions without step-level human review.",
+    "proposed_value": "While N179, N077, N080, and N172 provide general IT access, incident-management, and research-conduct rules, no relevant provision was identified in the documents and searches checked establishing authorisation, safety boundaries, meaningful human intervention, or accountable PI responsibility for an autonomous multi-agent AI system executing connected laboratory or computational actions without step-level human review.",
+    "reason": "Rules 3 & 4: Replaced 'No Murdoch policy establishes' with 'no relevant provision was identified in the documents and searches checked' and noted general protections.",
+    "supporting_policy_location": "N179; N077; N080; N172"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's ICT Security Policy (N179), Information Security Incident Management Policy (N080), and the hosted Australian Code (N172) establish general IT access controls, incident escalation, and research-conduct principles. However, no operative policy governs autonomous multi-agent AI systems executing connected laboratory or computational research without human verification, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's ICT Security Policy (N179), Information Security Incident Management Policy (N080), and the hosted Australian Code (N172) establish general IT access controls, incident escalation, and research-conduct principles. However, no relevant provision was identified in the documents and searches checked governing autonomous multi-agent AI systems executing connected laboratory or computational research without human verification, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'no operative policy governs' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N080; N172"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S12",
+    "field": "case_summary.uncertainty_notes",
+    "old_value": "Research Integrity Policy, Research Integrity Procedure, Health and Safety Policy, and AI acceptable use guidelines for staff are absent from the Murdoch bundle.",
+    "proposed_value": "Research Integrity Policy, Research Integrity Procedure, Health and Safety Policy, and AI acceptable use guidelines for staff are absent from the Murdoch bundle; N172 and N241 lack formal effective-date blocks (Operative status unverified).",
+    "reason": "Rule 5: Added 'Operative status unverified' for N172 and N241.",
+    "supporting_policy_location": "N172; N241"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S13",
+    "field": "case_summary.critical_gap",
+    "old_value": "Yes",
+    "proposed_value": "No",
+    "reason": "Rule 4: General protections in N083/N084 (collection notices 3.1, purpose limitation 5.1, 30-day access/correction 4.3-4.4, security/breach 9.1/9.4, lawful WA State Records Act disposal 9.3) and N179 (4.1) address S13's critical risk without requiring AI-specific wording.",
+    "supporting_policy_location": "N084 p.41-45; N179 p.344"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S13",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Although N084 establishes purpose limitation, collection notices, security, and access/correction, it does not specify operational course-end AI memory restriction or disposal or reconcile nominal course-end deletion with WA State Records Act retention schedules.",
+    "proposed_value": "General privacy, access/correction, security, and lawful retention/disposal rules in N084 (3.1, 4.3-4.4, 5.1, 9.1, 9.3, 9.4) and N179 (4.1) address S13's critical risk without requiring AI-specific wording, although an operational detail gap remains (D5=2) regarding course-end AI memory restriction/deletion triggers.",
+    "reason": "Rule 4: Updated explanation to match critical_gap='No' while distinguishing D5=2 operational detail gap.",
+    "supporting_policy_location": "N084 p.41-45; N179 p.344"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S13",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Privacy Policy (N083) and Privacy Procedure (N084) establish purpose limitation, collection notices, 30-day access and correction, security safeguards, and Privacy Officer oversight. However, they do not specify operational course-end memory restriction or deletion for a single-course AI learning assistant or reconcile it with State Records Act retention (N084, 9.3), leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Privacy Policy (N083) and Privacy Procedure (N084) establish purpose limitation, collection notices, 30-day access and correction, security safeguards, Privacy Officer oversight, and lawful retention/disposal under the WA State Records Act (9.3), reinforced by N179 (4.1). While these general protections address S13's critical risk, operational triggers for course-end AI memory restriction remain unspecified (D5=2) and the Emerging Digital Technologies Policy is absent from the bundle. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 4: Updated case_note to reflect critical_gap='No'.",
+    "supporting_policy_location": "N083; N084; N179"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S14",
+    "field": "case_summary.critical_gap",
+    "old_value": "Yes",
+    "proposed_value": "No",
+    "reason": "Rule 4: General protections in N084 (purpose/consent 3.1/5.1/5.3, Information Stewards/Custodians/Privacy Officer ownership 12.2-12.4/13.1, access/correction 4.3-4.4, automated decision-making notice, human review, and bar on sole automated consequential decisions 6.1-6.4) address S14's critical risk.",
+    "supporting_policy_location": "N084 p.41-46"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S14",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "While N084 (6.1-6.4, 4.3-4.4) provides strong access/correction and automated-decision contestability rights, no operative rule governs cross-course/cross-semester AI learner-profile lifecycle ownership or instructor transparency when a persistent profile influences assessment and advising.",
+    "proposed_value": "N084 establishes general protections for informed purpose and secondary-use consent (3.1, 5.1, 5.3), accountable information lifecycle ownership (Information Stewards, Custodians, Users, and Privacy Officer; 12.2-12.4, 13.1), 30-day free access/correction (4.3-4.4), and automated decision-making notice, human review upon request, bias auditability, and a bar on sole automated consequential decisions (6.1-6.4), although an operational detail gap remains (D5=2) regarding instructor visibility of cross-course profiles.",
+    "reason": "Rule 4: Updated explanation to match critical_gap='No' while distinguishing D5=2 operational detail gap.",
+    "supporting_policy_location": "N084 p.41-46"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S14",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's Privacy Procedure (N084, 6.1-6.4) explicitly regulates automated decision-making, requiring notice, bias auditability, meaningful human review upon request, and prohibiting sole automated decisions affecting rights or services, alongside 30-day free access and correction (4.3-4.4). However, no policy assigns lifecycle ownership for persistent cross-course AI learner profiles or ensures instructor visibility when profiles span units, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's Privacy Procedure (N084) regulates automated decision-making (6.1-6.4) with notice, bias auditability, meaningful human review upon request, and a bar on sole automated consequential decisions, alongside 30-day free access and correction (4.3-4.4) and Information Steward/Custodian/Privacy Officer ownership (12-13). While these general protections address S14's critical risk, instructor visibility when persistent profiles span units remains unspecified (D5=2) and the Emerging Digital Technologies Policy is absent from the bundle. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 4: Updated case_note to reflect critical_gap='No'.",
+    "supporting_policy_location": "N084 p.41-46"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S15",
+    "field": "D1.reason",
+    "old_value": "N179 (4.1) governs least-privilege authorised IT system access, N077 (1.6) requires authorised account access without password sharing, N084 (6.1-6.4) governs automated decision-making, and N087 (6.3.1) governs AI in assessment. However, no policy explicitly covers a single AI agent holding standing autonomous authority across LMS, enrolment, advising, support, and assessment systems.",
+    "proposed_value": "N179 (4.1) governs least-privilege authorised IT system access, N077 (1.6) requires authorised account access without password sharing, N084 (6.1-6.4) governs automated decision-making, and N087 (6.3.1) governs AI in assessment. No relevant provision was identified in the documents and searches checked explicitly covering a single AI agent holding standing autonomous authority across LMS, enrolment, advising, support, and assessment systems.",
+    "reason": "Rule 3: Replaced 'no policy explicitly covers' with 'No relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N077; N084; N087"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S15",
+    "field": "D4.reason",
+    "old_value": "N179 (4.1.3) requires access requests via the Support Portal, N080 covers incident management, and N084/N088 provide human review and appeals, but no actionable procedure governs authorising, scoping, or intervening in standing cross-system AI agent actions.",
+    "proposed_value": "N179 (4.1.3) requires access requests via the Support Portal, N080 covers incident management, and N084/N088 provide human review and appeals, but no relevant provision was identified in the documents and searches checked governing authorising, scoping, or intervening in standing cross-system AI agent actions.",
+    "reason": "Rule 3: Replaced 'no actionable procedure governs' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N080; N084; N088"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S15",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Although N179 (4.1), N077 (1.6), and N084 (6.4) restrict unapproved access and sole automated consequential decisions, no unified Murdoch policy establishes purpose-bounded authorisation, real-time intervention, or coordinated oversight for an AI agent acting with standing powers across LMS, enrolment, advising, support, and assessment systems.",
+    "proposed_value": "Although general protections in N179 (4.1), N077 (1.6), and N084 (6.4) restrict unapproved access and sole automated consequential decisions, no relevant provision was identified in the documents and searches checked establishing purpose-bounded authorisation, real-time intervention, or coordinated oversight for an AI agent exercising standing powers across LMS, enrolment, advising, support, and assessment systems.",
+    "reason": "Rules 3 & 4: Replaced 'no unified Murdoch policy establishes' with 'no relevant provision was identified in the documents and searches checked' and noted general protections.",
+    "supporting_policy_location": "N179; N077; N084"
+  },
+  {
+    "university": "Murdoch",
+    "case_id": "Murdoch-S15",
+    "field": "case_summary.case_note",
+    "old_value": "Murdoch's ICT Security Policy (N179, 4.1) enforces least-privilege authorised access, IT Conditions of Use (N077, 1.6) restrict account sharing, and Privacy Procedure (N084, 6.4) bars sole automated decisions affecting rights or services without human involvement. However, no policy establishes purpose-bounded authorisation, real-time intervention, or unified cross-system oversight for an AI agent exercising standing powers across LMS, enrolment, advising, support, and assessment systems, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "proposed_value": "Murdoch's ICT Security Policy (N179, 4.1) enforces least-privilege authorised access, IT Conditions of Use (N077, 1.6) restrict account sharing, and Privacy Procedure (N084, 6.4) bars sole automated decisions affecting rights or services without human involvement. However, no relevant provision was identified in the documents and searches checked establishing purpose-bounded authorisation, real-time intervention, or unified cross-system oversight for an AI agent exercising standing powers across LMS, enrolment, advising, support, and assessment systems, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "reason": "Rule 3: Replaced 'no policy establishes' with 'no relevant provision was identified in the documents and searches checked'.",
+    "supporting_policy_location": "N179; N077; N084"
+  }
+]

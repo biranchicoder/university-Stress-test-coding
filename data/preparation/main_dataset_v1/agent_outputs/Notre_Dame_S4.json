@@ -1,0 +1,835 @@
+{
+  "university": "Notre_Dame",
+  "case_id": "Notre_Dame-S4",
+  "scenario_id": "S4",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "Procedure: Program and Course Information (N237, 6.6.1.1) prohibits students from recording class materials on personal devices without obtaining permission from the teaching staff member, but does not explicitly address AI transcription/summarisation or capturing peers' questions and comments.",
+      "search_terms_used": [
+        "lecture recording",
+        "recording permission",
+        "student recording",
+        "copyright recording"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L009",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.6.1.1 The University of Notre Dame Australia owns the copyright in materials\npresented in classes. Accordingly:\n• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L009",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.6.1.1 The University of Notre Dame Australia owns the copyright in materials\npresented in classes. Accordingly:\n• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "N237 6.6.1.1 focuses on copyright in class materials and teaching-staff permission rather than peer participant consent or AI transcription."
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "N237 (6.6.1.1) names the staff member teaching the class as the permission-granter, Policy: Privacy (N042, 5.1) assigns privacy complaints to General Counsel or nominee, and Code of Conduct: Students (N035, 7.2) refers breaches to the General Regulations, though the appeal link from recording refusal/breach is not explicit.",
+      "search_terms_used": [
+        "recording permission",
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L016",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 162,
+          "viewer_page": 162,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 General Counsel or nominee is responsible for resolving internal complaints about the\nUniversity’s handling of personal information.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 226,
+          "viewer_page": 226,
+          "line_start": "L031",
+          "line_end": "L033",
+          "evidence_type": "Exact quotation",
+          "text": "7.2 In most instances an allegation of a breach of the Code of Conduct will be dealt with by the\nprocedure outlined in the University of Notre Dame Australia Regulations: General\nRegulations.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 22/02/2019",
+          "version_evidence_location": {
+            "source_id": "N035",
+            "document_title": "Code of Conduct: Students",
+            "printed_bundle_page": 223,
+            "viewer_page": 223,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L016",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 162,
+          "viewer_page": 162,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "5.1 General Counsel or nominee is responsible for resolving internal complaints about the\nUniversity’s handling of personal information.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 3,
+      "reason": "N237, N042, N035, and N186 are compatible and coordinate via cross-references (N035 7.2 to General Regulations; N042 4.5 to formal privacy complaints).",
+      "search_terms_used": [
+        "lecture procedure",
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 226,
+          "viewer_page": 226,
+          "line_start": "L016",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 22/02/2019",
+          "version_evidence_location": {
+            "source_id": "N035",
+            "document_title": "Code of Conduct: Students",
+            "printed_bundle_page": 223,
+            "viewer_page": 223,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 226,
+          "viewer_page": 226,
+          "line_start": "L016",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 22/02/2019",
+          "version_evidence_location": {
+            "source_id": "N035",
+            "document_title": "Code of Conduct: Students",
+            "printed_bundle_page": 223,
+            "viewer_page": 223,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N237 (6.6.1.1) requires obtaining permission from the teaching staff member before recording on personal devices, and N042 (4.5) / N186 provide complaint routes, but no operational procedure specifies how recording permission is requested/documented or how peer consent is managed.",
+      "search_terms_used": [
+        "recording permission",
+        "consent recording",
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L016",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L025",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L016",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 161,
+          "viewer_page": 161,
+          "line_start": "L025",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 05/08/2019",
+          "version_evidence_location": {
+            "source_id": "N042",
+            "document_title": "Policy: Privacy",
+            "printed_bundle_page": 157,
+            "viewer_page": 157,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "Substantive protection exists through N237 (6.6.1.1) prohibiting unpermitted personal-device recording and external sharing/distribution, reinforced by N035 (6.1.17) and N042 (4.5), but a material gap remains regarding peer student consent and external AI transcription processing.",
+      "search_terms_used": [
+        "copyright recording",
+        "consent recording",
+        "privacy complaint"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L013",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.\n• If a student has downloaded a university recording of a class to their own\ncomputer or device, they must delete it when they no longer need it for\nstudy purposes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 226,
+          "viewer_page": 226,
+          "line_start": "L016",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 22/02/2019",
+          "version_evidence_location": {
+            "source_id": "N035",
+            "document_title": "Code of Conduct: Students",
+            "printed_bundle_page": 223,
+            "viewer_page": 223,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 435,
+          "viewer_page": 435,
+          "line_start": "L013",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.\n• If a student has downloaded a university recording of a class to their own\ncomputer or device, they must delete it when they no longer need it for\nstudy purposes.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14/5/2025",
+          "version_evidence_location": {
+            "source_id": "N237",
+            "document_title": "Procedure Program and Course Information lecture recording",
+            "printed_bundle_page": 430,
+            "viewer_page": 430,
+            "line_start": "L013",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 226,
+          "viewer_page": 226,
+          "line_start": "L016",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 22/02/2019",
+          "version_evidence_location": {
+            "source_id": "N035",
+            "document_title": "Code of Conduct: Students",
+            "printed_bundle_page": 223,
+            "viewer_page": 223,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 1,
+      "reason": "General institutional policy review applies under Policy: Institutional Review Framework (N192), with no AI-transcription-specific monitoring or escalation mechanism documented in N237.",
+      "search_terms_used": [
+        "lecture procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Complaints regarding privacy handling may be lodged with General Counsel under Policy: Privacy (N042, 4.5, 5.1) and student grievances may be raised under Procedure: Student Grievance (N186).",
+    "review_route_evidence": {
+      "source_id": "N042",
+      "document_title": "Policy: Privacy",
+      "printed_bundle_page": 161,
+      "viewer_page": 161,
+      "line_start": "L025",
+      "line_end": "L036",
+      "evidence_type": "Exact quotation",
+      "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Effective Date: 05/08/2019",
+      "version_evidence_location": {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 157,
+        "viewer_page": 157,
+        "line_start": "L010",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": []
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "An operational permission/consent boundary for undisclosed capture or processing of identifiable lecture participants.",
+    "critical_gap_explanation": "Procedure: Program and Course Information (N237, 6.6.1.1) prohibits students from recording classes on personal devices without first obtaining permission from the teaching staff member, establishing an enforceable boundary against undisclosed capture.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Prohibition",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Procedure: Program and Course Information (N237, 6.6.1.1) prohibits students from recording classes on personal devices without permission from the teaching staff member and restricts distribution. While this enforceable prohibition establishes an operational boundary against undisclosed capture, peer participant consent and external AI transcription are not specifically addressed; Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N237",
+        "document_title": "Procedure Program and Course Information lecture recording",
+        "printed_bundle_page": 435,
+        "viewer_page": 435,
+        "line_start": "L009",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "6.6.1.1 The University of Notre Dame Australia owns the copyright in materials\npresented in classes. Accordingly:\n• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 14/5/2025",
+        "version_evidence_location": {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 430,
+          "viewer_page": 430,
+          "line_start": "L013",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N035",
+        "document_title": "Code of Conduct: Students",
+        "printed_bundle_page": 226,
+        "viewer_page": 226,
+        "line_start": "L016",
+        "line_end": "L019",
+        "evidence_type": "Exact quotation",
+        "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 22/02/2019",
+        "version_evidence_location": {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 223,
+          "viewer_page": 223,
+          "line_start": "L011",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "search_terms_used": [
+      "lecture recording",
+      "recording permission",
+      "consent recording",
+      "copyright recording",
+      "privacy complaint",
+      "student recording",
+      "lecture procedure"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N237",
+        "document_title": "Procedure Program and Course Information lecture recording",
+        "printed_bundle_page": 435,
+        "viewer_page": 435,
+        "line_start": "L009",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "6.6.1.1 The University of Notre Dame Australia owns the copyright in materials\npresented in classes. Accordingly:\n• Students may only use the materials presented in classes, and any recording\nof a class, for their personal study.\n• Use of these materials or recording for any other purpose, or distribution or\nsharing of this material without the University’s express permission will\ninfringe the University’s copyright.\n• Students are not permitted to record these materials on personal devices\nwithout first obtaining permission from the staff member teaching the class.\n• If a student has downloaded a university recording of a class to their own\ncomputer or device, they must delete it when they no longer need it for\nstudy purposes.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 14/5/2025",
+        "version_evidence_location": {
+          "source_id": "N237",
+          "document_title": "Procedure Program and Course Information lecture recording",
+          "printed_bundle_page": 430,
+          "viewer_page": 430,
+          "line_start": "L013",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Program and Course Information Page 2 of 14\nEffective Date: 14/5/2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N042",
+        "document_title": "Policy: Privacy",
+        "printed_bundle_page": 161,
+        "viewer_page": 161,
+        "line_start": "L025",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "4.5 Making a Complaint About the University’s Handling of Personal Information\n4.5.1 If an individual wishes to make a complaint about the University’s handling of personal\ninformation he or she should contact the Legal Office of the relevant Campus. The\nLegal Office will try to resolve the matter informally.\n4.5.2 If a complaint cannot be resolved, the individual will be required to formally lodge the\ncomplaint in writing to the Legal Office with any supporting documentation attached to\nthe complaint.\n4.5.3 The University will deal with the complaint within 30 business days and advise the\nindividual lodging the complaint of the outcome.\n4.5.4 If the individual is unhappy with the outcome he or she may refer the complaint to the\nOffice of the Australian Information Commissioner. Further information about the\nexternal dispute resolution can be found at www.oaic.gov.au.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 05/08/2019",
+        "version_evidence_location": {
+          "source_id": "N042",
+          "document_title": "Policy: Privacy",
+          "printed_bundle_page": 157,
+          "viewer_page": 157,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Privacy Page 2 of 8\nEffective Date: 05/08/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N035",
+        "document_title": "Code of Conduct: Students",
+        "printed_bundle_page": 226,
+        "viewer_page": 226,
+        "line_start": "L016",
+        "line_end": "L019",
+        "evidence_type": "Exact quotation",
+        "text": "6.1.17 Not conduct themselves in a manner detrimental to the reputation or to the orderly\nfunctioning of the University and its activities, including any conduct that may cause\nany serious disturbance of the University community, the Residential community or\nthe local community, infringing on the rights and well-being of others.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 22/02/2019",
+        "version_evidence_location": {
+          "source_id": "N035",
+          "document_title": "Code of Conduct: Students",
+          "printed_bundle_page": 223,
+          "viewer_page": 223,
+          "line_start": "L011",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Students Page 2 of 6\nEffective Date: 22/02/2019"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": ""
+  },
+  "additional_search_requests": []
+}

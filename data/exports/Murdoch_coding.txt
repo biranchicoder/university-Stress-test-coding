@@ -1,0 +1,1431 @@
+University: Murdoch University
+Coding date: 2026-11-15
+Policy cut-off date: 2026-11-12
+Coder: Coder 1
+Protocol version: 1.0
+Critical-risk register status: no critical-risk criteria adopted; scenario 'Risks to check' are not treated as adopted criteria
+
+[Murdoch-S1]
+D1
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S1
+university: Murdoch
+scenario_id: S1
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S2]
+D1
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S2
+university: Murdoch
+scenario_id: S2
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S3]
+D1
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S3
+university: Murdoch
+scenario_id: S3
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S4]
+D1
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S4
+university: Murdoch
+scenario_id: S4
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S5]
+D1
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S5
+university: Murdoch
+scenario_id: S5
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S6]
+D1
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S6
+university: Murdoch
+scenario_id: S6
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S7]
+D1
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S7
+university: Murdoch
+scenario_id: S7
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S8]
+D1
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S8
+university: Murdoch
+scenario_id: S8
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S9]
+D1
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S9
+university: Murdoch
+scenario_id: S9
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S10]
+D1
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S10
+university: Murdoch
+scenario_id: S10
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S11]
+D1
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S11
+university: Murdoch
+scenario_id: S11
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S12]
+D1
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S12
+university: Murdoch
+scenario_id: S12
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S13]
+D1
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S13
+university: Murdoch
+scenario_id: S13
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S14]
+D1
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S14
+university: Murdoch
+scenario_id: S14
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.
+
+[Murdoch-S15]
+D1
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D1
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D2
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D2
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D3
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D3
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D4
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D4
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D5
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D5
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+D6
+case_id: Murdoch-S15
+university: Murdoch
+scenario_id: S15
+dimension: D6
+search_terms: 
+documents_checked: 
+score: 
+your_source_ids: 
+your_pages_lines: 
+quotation_or_paraphrase: 
+reason_for_score: 
+negative_search_or_access_note: No search or document-review activity has been logged; coding not completed.
+
+case_summary
+mode: 
+review_route: 
+critical_gap: 
+evidence_status: 
+rule_direction: 
+conflict_basis: 
+case_note: 
+Calculated outcome: Leave to the workbook formula.

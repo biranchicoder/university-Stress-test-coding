@@ -1,0 +1,440 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Murdoch
+Case ID: Murdoch-S3
+Scenario: S3 — Autonomous Assessment
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S3 Autonomous Assessment
+A persistent AI agent manages a student's coursework across an entire semester: interacting with learning-management and submission platforms, and submitting work through the student's authenticated account without per-item human review. The student has delegated standing authority, not one-off approval.
+Boundary: No meaningful human review before submission for the full semester
+Risks to check: Account security; student identity; assessment validity; human oversight.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verified authority for standing account actions, protected student identity and meaningful assessment oversight.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S3-Q01 [actor_and_activity]: submission account — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q02 [related_roles]: student submission — 8 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q03 [permission_authority]: authorised account — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q04 [restriction_boundary]: prohibited impersonation — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S3-Q05 [procedure]: submission procedure — 8 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q06 [review_route]: appeal decision — 12 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q07 [related_risk]: account security — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N112 | Using Generative AI in your studies | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N164 | Student Integrity Regulations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N171 | Graduate Research Degrees Regulations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N076 | Complaints Procedure (pdf) 363 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N088 | Student Appeals Procedure (pdf) 290 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N113 | Student complaints guidance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N077 | Digital and Technology Conditions of Use Policy (pdf) 269 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N082 | Murdoch University Recordkeeping Plan 2024 (pdf) 707 KB | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N168 | Grades Procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N234 | Evaluating AI tools library working group requirements | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-0a2a98d123dee5
+Source ID: N076
+Document title: Complaints Procedure (pdf) 363 KB
+Printed bundle page: 95
+PDF viewer page (navigation only): 95
+Line numbers: L016–L016
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • Ensures complaints data is analysed.
+Candidate passage: • Ensures barriers to complaint submission are identified
+Context after: and addressed.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a46ffea4c72581
+Source ID: N076
+Document title: Complaints Procedure (pdf) 363 KB
+Printed bundle page: 95
+PDF viewer page (navigation only): 95
+Line numbers: L036–L036
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: complaint
+Candidate passage: Director Student • Provides advice to ensure practices are Trauma-
+Context after: Wellbeing informed and Person-centred.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2f982f808ac38a
+Source ID: N077
+Document title: Digital and Technology Conditions of Use Policy (pdf) 269 KB
+Printed bundle page: 128
+PDF viewer page (navigation only): 128
+Line numbers: L007–L007
+Search query IDs: S3-Q03, S3-Q07
+Search terms: authorised account | account security
+Extraction/review flags: none recorded
+Context before: confidentiality, integrity or availability of information, IT systems, or facilities.
+Candidate passage: 1.6 Access must be via an authorised account. Users must adhere to the
+Context after: University’s Password Policy and must not disclose their password to any
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8e10b8ffd5e057
+Source ID: N077
+Document title: Digital and Technology Conditions of Use Policy (pdf) 269 KB
+Printed bundle page: 128
+PDF viewer page (navigation only): 128
+Line numbers: L010–L010
+Search query IDs: S3-Q03, S3-Q07
+Search terms: authorised account | account security
+Extraction/review flags: none recorded
+Context before: other person. Users must not attempt to discover another person’s
+Candidate passage: password or gain access to another person’s account or information.
+Context after: 1.7 All data access requests must follow the Data Access Request Process as
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f31910f82f1112
+Source ID: N077
+Document title: Digital and Technology Conditions of Use Policy (pdf) 269 KB
+Printed bundle page: 128
+PDF viewer page (navigation only): 128
+Line numbers: L012–L012
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: 1.7 All data access requests must follow the Data Access Request Process as
+Candidate passage: described in the ICT Security Policy, and ICT Security Standard.
+Context after: 1.8 All University information must be stored centrally. Security and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4a1b58ce744339
+Source ID: N088
+Document title: Student Appeals Procedure (pdf) 290 KB
+Printed bundle page: 105
+PDF viewer page (navigation only): 105
+Line numbers: L007–L007
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: This procedure applies to prospective and current students, and employees.
+Candidate passage: This procedure will not apply where a student seeks to appeal a decision relating to
+Context after: elections, parking, authorship attribution or employee conduct.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4681a127442429
+Source ID: N088
+Document title: Student Appeals Procedure (pdf) 290 KB
+Printed bundle page: 106
+PDF viewer page (navigation only): 106
+Line numbers: L029–L029
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: 7. A student:
+Candidate passage: 7.1. may only appeal a decision once unless otherwise permitted
+Context after: 7.2. may withdraw a submission at any time
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-35646b4337c3b5
+Source ID: N112
+Document title: Using Generative AI in your studies
+Printed bundle page: 8
+PDF viewer page (navigation only): 8
+Line numbers: L031–L031
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: none recorded
+Context before: It’s important that you continue to follow the guidance provided in your Unit Outlines. If there are
+Candidate passage: concerns about how GenAI has been used in your work, your submission may be reviewed and,
+Context after: where appropriate, referred for an academic integrity investigation in accordance with the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dd52a3318f1756
+Source ID: N112
+Document title: Using Generative AI in your studies
+Printed bundle page: 8
+PDF viewer page (navigation only): 8
+Line numbers: L036–L036
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: none recorded
+Context before: Over time, we anticipate that our curriculum and assessment activities will continue to evolve to
+Candidate passage: reflect the opportunities afforded by GenAI and related technologies, while ensuring student
+Context after: learning remains at the centre.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-794ee8413660a5
+Source ID: N113
+Document title: Student complaints guidance
+Printed bundle page: 120
+PDF viewer page (navigation only): 120
+Line numbers: L037–L037
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: Appeal academic and administrative decisions
+Candidate passage: If you are unhappy with a decision relating to your studies, there may be a formal appeal process
+Context after: you can follow. Appeals are different to complaints and only relate to decisions made by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c5e2ce3768c00a
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L022–L022
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: Misconduct is upheld.
+Candidate passage: 2.4. the capacity for an appeal against any finding of Misconduct against a
+Context after: student.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e615d7e5145843
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L025–L025
+Search query IDs: S3-Q03, S3-Q07
+Search terms: authorised account | account security
+Extraction/review flags: none recorded
+Context before: 3. Immediate Exclusion
+Candidate passage: 3.1. A security officer or other person authorised by the Vice Chancellor may,
+Context after: without a hearing, exclude a student from any or all University physical
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-03c441c7dfe6e8
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L030–L030
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: disruption to university activities.
+Candidate passage: 3.2. A person authorised by the Vice Chancellor may, without a hearing,
+Context after: exclude a student from use of university information technology facilities if
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3182e5fedba85c
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L036–L036
+Search query IDs: S3-Q03, S3-Q07
+Search terms: authorised account | account security
+Extraction/review flags: none recorded
+Context before: 4. Decision-Making
+Candidate passage: 4.1. Decision-makers will take account of the following principles:
+Context after: 4.1.1. the process will be procedurally fair and just
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-129f0d253723d6
+Source ID: N164
+Document title: Student Integrity Regulations
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L032–L032
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: 7. Appeal
+Candidate passage: 7.1. A student can appeal a decision in accordance with the Student Appeals
+Context after: Procedure.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3ecfd213beba26
+Source ID: N168
+Document title: Grades Procedure
+Printed bundle page: 199
+PDF viewer page (navigation only): 199
+Line numbers: L027–L027
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: Procedure
+Candidate passage: Refer to the Results Procedure regarding submission, approval and finalisation of
+Context after: Notations, Final Marks and Final Grades.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b99f88f53aac5c
+Source ID: N168
+Document title: Grades Procedure
+Printed bundle page: 202
+PDF viewer page (navigation only): 202
+Line numbers: L019–L019
+Search query IDs: S3-Q01, S3-Q02
+Search terms: submission account | student submission
+Extraction/review flags: none recorded
+Context before: 26. If the Unit Coordinator does not acknowledge receipt of the review request within
+Candidate passage: three University Working Days of submission the student may contact the Head
+Context after: of Discipline.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4ba873921f593c
+Source ID: N168
+Document title: Grades Procedure
+Printed bundle page: 202
+PDF viewer page (navigation only): 202
+Line numbers: L035–L035
+Search query IDs: S3-Q01
+Search terms: submission account
+Extraction/review flags: none recorded
+Context before: 29.2 request an independent review in relation to the student request and amend
+Candidate passage: or uphold the initial review outcomes taking into account the independent
+Context after: reviewer’s response. An independent reviewer is not one who has been
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-474bfec992bb49
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 58
+PDF viewer page (navigation only): 58
+Line numbers: L003–L003
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: completed for the Master of Philosophy, in accordance with the Graduate
+Candidate passage: Research Degrees Procedure.
+Context after: 63.1. The research undertaken by the candidate while enrolled for the Master of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8bf6d734d38a64
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 58
+PDF viewer page (navigation only): 58
+Line numbers: L019–L019
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: Master of Philosophy for academic or personal reasons, subject to Regulation
+Candidate passage: 12, in accordance with the Graduate Research Degrees Procedure.
+Context after: 64.1. Transfers may take place at the point of Confirmation of Candidature in the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-89a90193df2ef7
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 58
+PDF viewer page (navigation only): 58
+Line numbers: L034–L034
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: if they have been terminated for misconduct or unsatisfactory progress.
+Candidate passage: Thesis Submission
+Context after: 67. The thesis shall be based on research supervised during the enrolment period at
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-504dbe4ec18198
+Source ID: N171
+Document title: Graduate Research Degrees Regulations
+Printed bundle page: 59
+PDF viewer page (navigation only): 59
+Line numbers: L006–L006
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: relevant Australian Qualifications Framework level.
+Candidate passage: 68. At the time of thesis submission, the candidate must be enrolled, subject to
+Context after: Regulation 18.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

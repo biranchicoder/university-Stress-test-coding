@@ -1,0 +1,344 @@
+[
+  {
+    "university": "UWA",
+    "case_id": "UWA-S1",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote primary D4 workflow passage (N128) to MAIN evidence.",
+    "supporting_policy_location": "N128 vp=16 L004-L010"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S2",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote primary D4 misconduct procedure passage (N044 Schedule 3) to MAIN evidence.",
+    "supporting_policy_location": "N044 vp=41 L020-L024"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S3",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote primary D4 enforcement passage (N071 8.1) to MAIN evidence.",
+    "supporting_policy_location": "N071 vp=483 L025-L026"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S3",
+    "field": "D4.reason",
+    "old_value": "N071 clause 7.1 provides an incident-reporting route to the University IT Service Desk or Public Complaints Policy and N044 Schedule 3 details misconduct handling, but no procedure exists for authorising or revoking a student's standing automated agent on LMS/submission platforms.",
+    "proposed_value": "N071 clause 7.1 provides an incident-reporting route to the University IT Service Desk or Public Complaints Policy and N044 Schedule 3 details misconduct handling, but no relevant provision was identified in the documents and searches checked (including 'automated agent', 'Digital Identity', 'accountability', and 'prohibited impersonation') for authorising or revoking a student's standing automated agent on LMS/submission platforms.",
+    "reason": "Rule 3: Replace absolute absence claim with scoped search-based statement.",
+    "supporting_policy_location": "N071 vp=483; N044 vp=41"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S4",
+    "field": "D1.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.",
+    "reason": "Rule 5: Mark undated N197 as 'Operative status unverified' and note non-materiality.",
+    "supporting_policy_location": "N197 vp=337"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S4",
+    "field": "D3.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.",
+    "reason": "Rule 5: Mark undated N197 as 'Operative status unverified' and note non-materiality.",
+    "supporting_policy_location": "N197 vp=337"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S4",
+    "field": "case_summary.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N216 and N067.",
+    "reason": "Rule 5: Mark undated N197 as 'Operative status unverified'.",
+    "supporting_policy_location": "N197 vp=337"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N045 EVA passage to MAIN evidence.",
+    "supporting_policy_location": "N045 vp=53 L044-L047"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N218 Policy Governance Framework passage to MAIN evidence.",
+    "supporting_policy_location": "N218 vp=565 L010-L016"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "D1.reason",
+    "old_value": "Generic/analogical recognition only: EVA Policy (N045) and Assessment Policy (N049) distinguish lecture attendance (non-compulsory) from active participation in interactive classes, and N071 3.2 covers automated agents on Digital Resources, but no policy addresses a disclosed AI avatar attending lectures as a proxy.",
+    "proposed_value": "Generic/analogical recognition only: EVA Policy (N045) and Assessment Policy (N049) distinguish lecture attendance (non-compulsory) from active participation in interactive classes, and N071 3.2 covers automated agents on Digital Resources, but no relevant provision was identified in the documents and searches checked addressing a disclosed AI avatar attending lectures as a proxy.",
+    "reason": "Rule 3: Replace absolute 'no policy' claim with scoped search-based statement.",
+    "supporting_policy_location": "N045; N049; N071"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "D1.uncertainty_notes",
+    "old_value": "Zero-hit searches for 'attendance proxy', 'authorised proxy', 'false attendance', 'attendance appeal', and 'proxy identity' confirm no specific AI proxy-attendance rule was indexed.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for a specific AI proxy-attendance rule; zero-hit searches were 'attendance proxy', 'authorised proxy', 'false attendance', 'attendance appeal', and 'proxy identity', and N045, N049, N071, N050, N051, N053, N216, and N239 were also checked.",
+    "reason": "Rule 3: Replace 'confirm no specific rule' with scoped search-based statement and documents checked.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "D4.reason",
+    "old_value": "No actionable route exists to register, verify, or admit a disclosed AI avatar proxy for online lectures; N045 only provides EVA procedures for missed compulsory attendance.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked establishing an actionable route to register, verify, or admit a disclosed AI avatar proxy for online lectures; N045 only provides EVA procedures for missed compulsory attendance.",
+    "reason": "Rule 3: Replace 'No actionable route exists' with scoped search-based statement.",
+    "supporting_policy_location": "N045 vp=53"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), UWA has no policy mechanism to verify or admit a disclosed AI avatar proxy in online lectures or determine whether it can fulfil compulsory participation.",
+    "proposed_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), no relevant provision was identified in the documents and searches checked (including zero-hit searches 'attendance proxy', 'authorised proxy', 'false attendance', 'attendance appeal', and 'proxy identity') to verify or admit a disclosed AI avatar proxy in online lectures or determine whether it can fulfil compulsory participation.",
+    "reason": "Rule 3: Replace absolute 'UWA has no policy mechanism' claim with scoped search-based statement.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S5",
+    "field": "case_summary.case_note",
+    "old_value": "UWA Assessment Policy N049 and EVA Policy N045 distinguish non-compulsory lecture attendance from active student participation, while N071 bars credential sharing, but no policy addresses disclosed AI avatar attendance proxies. Consequently, UWA lacks verification, admission, and participation-validity rules for a disclosed AI proxy, creating a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "proposed_value": "UWA Assessment Policy N049 and EVA Policy N045 distinguish non-compulsory lecture attendance from active student participation, while N071 bars credential sharing, but no relevant provision was identified in the documents and searches checked addressing disclosed AI avatar attendance proxies. Consequently, verification, admission, and participation-validity rules for a disclosed AI proxy remain unaddressed in the reviewed sources, creating a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "reason": "Rule 3: Replace absolute 'no policy' claim with scoped search-based statement (3 sentences).",
+    "supporting_policy_location": "N049; N045; N071"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "D2.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N047 Purpose/Scope passage to MAIN evidence.",
+    "supporting_policy_location": "N047 vp=361 L011-L017"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N047 Purpose/Scope passage to MAIN evidence.",
+    "supporting_policy_location": "N047 vp=361 L011-L017"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "D2.reason",
+    "old_value": "N047 and N048 designate Senior Officers, Responsible Officers, and the Appeals Committee for academic reviews and complaints, and N067 5.2 designates the UWA Privacy Office for unauthorised disclosures, though no role is designated to verify an AI agent acting under delegated student SSO access.",
+    "proposed_value": "N047 and N048 designate Senior Officers, Responsible Officers, and the Appeals Committee for academic reviews and complaints, and N067 5.2 designates the UWA Privacy Office for unauthorised disclosures, though no relevant provision was identified in the documents and searches checked designating a role to verify an AI agent acting under delegated student SSO access.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement.",
+    "supporting_policy_location": "N047; N048; N067"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "D4.reason",
+    "old_value": "N047 and N048 provide structured review and complaint procedures and N067 5.2 provides a privacy complaint route, but no procedure enables staff to independently verify authority when an AI agent communicates through the student's own email/SSO credentials.",
+    "proposed_value": "N047 and N048 provide structured review and complaint procedures and N067 5.2 provides a privacy complaint route, but no relevant provision was identified in the documents and searches checked enabling staff to independently verify authority when an AI agent communicates through the student's own email/SSO credentials.",
+    "reason": "Rule 3: Replace 'no procedure enables' with scoped search-based statement.",
+    "supporting_policy_location": "N047; N048; N067"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), although N071 6.1 bans credential sharing and N047 4.7 limits support persons, UWA lacks an operational verification mechanism for staff when an AI agent communicates through delegated email/SSO access where staff cannot independently confirm authorisation.",
+    "proposed_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), although N071 6.1 bans credential sharing and N047 4.7 limits support persons, no relevant provision was identified in the documents and searches checked establishing an operational verification mechanism for staff when an AI agent communicates through delegated email/SSO access where staff cannot independently confirm authorisation.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement.",
+    "supporting_policy_location": "N071; N047"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S6",
+    "field": "case_summary.case_note",
+    "old_value": "UWA Acceptable Use of IT Policy N071 bans credential sharing, Review and Appeal Policy N047 bars support persons from participating in discussions, and Privacy Policy N067 restricts third-party disclosure without consent. However, UWA lacks a verification mechanism for staff when an AI agent communicates via delegated SSO/email access where staff cannot independently confirm authorisation, leaving a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "proposed_value": "UWA Acceptable Use of IT Policy N071 bans credential sharing, Review and Appeal Policy N047 bars support persons from participating in discussions, and Privacy Policy N067 restricts third-party disclosure without consent. However, no relevant provision was identified in the documents and searches checked establishing a verification mechanism for staff when an AI agent communicates via delegated SSO/email access where staff cannot independently confirm authorisation, leaving a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement (3 sentences).",
+    "supporting_policy_location": "N071; N047; N067"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S8",
+    "field": "D1.uncertainty_notes",
+    "old_value": "Zero-hit searches for 'group workspace' and 'workspace privacy' confirm no specific group-workspace AI policy was indexed.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for a specific group-workspace AI policy; zero-hit searches were 'group workspace' and 'workspace privacy'.",
+    "reason": "Rule 3: Replace 'confirm no specific policy' with scoped search-based statement.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S8",
+    "field": "D5.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N044 and N067, so this does not materially change the judgment.",
+    "reason": "Rule 5: Mark undated N197 as 'Operative status unverified' and note non-materiality.",
+    "supporting_policy_location": "N197 vp=337"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S8",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), while N044 and N128 cover authorised AI contributions and human group responsibility, UWA lacks an operational consent, authorisation, and data-retention boundary for a persistent-memory AI agent ingesting group members' personal information in a shared workspace.",
+    "proposed_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), while N044 and N128 cover authorised AI contributions and human group responsibility, no relevant provision was identified in the documents and searches checked establishing an operational consent, authorisation, and data-retention boundary for a persistent-memory AI agent ingesting group members' personal information in a shared workspace.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement.",
+    "supporting_policy_location": "N044; N128; N067"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S9",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), UWA lacks a policy requirement preventing unreviewed AI peer-contribution evaluations from determining submissions or peer marks prior to human review, and N067 4.4 only governs ADM employed by the University.",
+    "proposed_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), no relevant provision was identified in the documents and searches checked requiring prior human review before unreviewed AI peer-contribution evaluations determine submissions or peer marks, and N067 4.4 only governs ADM employed by the University.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement.",
+    "supporting_policy_location": "N067 vp=342; N049"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S10",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: N055 s.7 (RIAs) provides researcher-level advice rather than assigned policy review + escalation/learning; N218 provides general periodic/out-of-cycle review only (score 1).",
+    "supporting_policy_location": "N055 vp=310; N218 vp=565"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S10",
+    "field": "D6.reason",
+    "old_value": "N055 section 7 establishes Research Integrity Advisors to advise on ethical/procedural issues, alongside N218 periodic and out-of-cycle policy reviews.",
+    "proposed_value": "General periodic and out-of-cycle policy review is provided under Governance of Policies (N218 4.1-4.2), while N055 section 7 establishes Research Integrity Advisors to advise individual researchers rather than an assigned policy review and escalation/learning loop.",
+    "reason": "Rule 2: Align D6 reason with score 1.",
+    "supporting_policy_location": "N218 vp=565; N055 vp=310"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S10",
+    "field": "D6.evidence[1].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N218 Policy Governance Framework passage to MAIN evidence.",
+    "supporting_policy_location": "N218 vp=565 L010-L016"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S11",
+    "field": "D1.uncertainty_notes",
+    "old_value": "Zero-hit search for 'simulated participant' confirms no dedicated synthetic-participant clause was indexed.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for a dedicated synthetic-participant clause; zero-hit search was 'simulated participant'.",
+    "reason": "Rule 3: Replace 'confirms no dedicated clause' with scoped search-based statement.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S11",
+    "field": "D5.reason",
+    "old_value": "N055 4(B)(1)-(2) and 17(C)(2)-(3), (6) prohibit deviating from human-ethics approvals and fabricating/falsifying data, and 9(A)-(D) requires accountable human authorship, though explicit synthetic-data labelling standards are absent.",
+    "proposed_value": "N055 4(B)(1)-(2) and 17(C)(2)-(3), (6) prohibit deviating from human-ethics approvals and fabricating/falsifying data, and 9(A)-(D) requires accountable human authorship, though no relevant provision was identified in the documents and searches checked establishing explicit synthetic-data labelling standards.",
+    "reason": "Rule 3: Replace 'standards are absent' with scoped search-based statement.",
+    "supporting_policy_location": "N055"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S11",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: N055 s.7 (RIAs) provides researcher-level advice rather than assigned policy review + escalation/learning; N218 provides general periodic/out-of-cycle review only (score 1).",
+    "supporting_policy_location": "N055 vp=310; N218 vp=565"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S11",
+    "field": "D6.reason",
+    "old_value": "N055 section 7 (RIAs) and N218 Policy Governance Framework provide advisory oversight and periodic/out-of-cycle policy review.",
+    "proposed_value": "General periodic and out-of-cycle policy review is provided under Governance of Policies (N218 4.1-4.2), while N055 section 7 provides Research Integrity Advisors to advise researchers rather than an assigned policy review and escalation/learning loop.",
+    "reason": "Rule 2: Align D6 reason with score 1.",
+    "supporting_policy_location": "N218 vp=565; N055 vp=310"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S11",
+    "field": "D6.evidence[1].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N218 Policy Governance Framework passage to MAIN evidence.",
+    "supporting_policy_location": "N218 vp=565 L010-L016"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S12",
+    "field": "D1.uncertainty_notes",
+    "old_value": "Zero-hit searches for 'research agent', 'laboratory actions', and 'computational execution' confirm no dedicated autonomous-research-agent policy was indexed.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for a dedicated autonomous-research-agent policy; zero-hit searches were 'research agent', 'laboratory actions', and 'computational execution'.",
+    "reason": "Rule 3: Replace 'confirm no dedicated policy' with scoped search-based statement.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S12",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: Promote N055 21 Research Fieldwork passage to MAIN evidence.",
+    "supporting_policy_location": "N055 vp=319 L020-L024"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S12",
+    "field": "D6.evidence",
+    "old_value": "missing N207 citation and MAIN evidence",
+    "proposed_value": "Added N207 vp=466 L016-L025 as MAIN",
+    "reason": "Rule 2 & Rule 7: Cite N207 11(F) (assigned risk-control monitoring and escalation) as MAIN evidence to substantiate D6=2.",
+    "supporting_policy_location": "N207 vp=466 L016-L025"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S14",
+    "field": "D1.uncertainty_notes",
+    "old_value": "Zero-hit search for 'learner profile' confirms no dedicated cross-course learner-profile policy was indexed.",
+    "proposed_value": "No relevant provision was identified in the documents and searches checked for a dedicated cross-course learner-profile policy; zero-hit search was 'learner profile'.",
+    "reason": "Rule 3: Replace 'confirms no dedicated policy' with scoped search-based statement.",
+    "supporting_policy_location": "search_log.csv"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S15",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), while N071 and N072 provide least-privilege security and CIO suspension powers, UWA lacks a unified purpose-bounded authorisation and per-action contestability framework for an AI agent exercising combined standing powers across LMS, enrolment, advising, and assessment systems.",
+    "proposed_value": "Under Protocol v1.1 (adopted after preliminary review on 2026-11-15), while N071 and N072 provide least-privilege security and CIO suspension powers, no relevant provision was identified in the documents and searches checked establishing a unified purpose-bounded authorisation and per-action contestability framework for an AI agent exercising combined standing powers across LMS, enrolment, advising, and assessment systems.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement.",
+    "supporting_policy_location": "N071; N072"
+  },
+  {
+    "university": "UWA",
+    "case_id": "UWA-S15",
+    "field": "case_summary.case_note",
+    "old_value": "UWA Acceptable Use of IT Policy N071 enforces least-privilege access and bans credential sharing for automated agents, while Cyber Security Policy N072 empowers the CIO to suspend risky Digital Resource operations. However, UWA lacks a unified purpose-bounded authorisation and per-action contestability framework for standing AI powers spanning LMS, enrolment, advising, and assessment systems, leaving a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "proposed_value": "UWA Acceptable Use of IT Policy N071 enforces least-privilege access and bans credential sharing for automated agents, while Cyber Security Policy N072 empowers the CIO to suspend risky Digital Resource operations. However, no relevant provision was identified in the documents and searches checked establishing a unified purpose-bounded authorisation and per-action contestability framework for standing AI powers spanning LMS, enrolment, advising, and assessment systems, leaving a critical gap. Note that Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "reason": "Rule 3: Soften absence claim to scoped search-based statement (3 sentences).",
+    "supporting_policy_location": "N071; N072"
+  }
+]

@@ -1,0 +1,561 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: ECU
+Case ID: ECU-S6
+Scenario: S6 — Institutional Representation
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S6 Institutional Representation
+An AI agent represents the student in discussions about feedback, extensions, or an appeal, communicating autonomously with staff without the student present. It acts under the student's name and authority but is the actual communicating party.
+Boundary: The agent uses the student's email/SSO credentials via delegated access set up in the identity platform; no human present; staff cannot independently confirm authorisation
+Risks to check: Representation and authorisation; procedural fairness; confidentiality; appeal rights.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verifiable authority before binding academic representation and before disclosure of confidential student information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S6-Q01 [actor_and_role]: student representative — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S6-Q02 [acting_for_student]: on behalf student — 5 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S6-Q03 [authority]: delegated authority — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S6-Q04 [access_and_restrictions]: password account — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S6-Q05 [procedure]: complaint process student — 7 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S6-Q06 [review_route]: student appeal review — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S6-Q07 [confidentiality]: privacy disclosure information — 13 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N097 | Guideline for the Responsible use of Generative AI in Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N101 | Artificial Intelligence Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N104 | Lodge a Complaint Grievance Misconduct or Safety Incident | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N102 | Privacy statement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N226 | Academic Committees governance and delegated authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N229 | Legislation and Policy authority and hierarchy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N093 | Acceptable Use of Information Systems Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N094 | Privacy Policy PL090 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N096 | Conducting Research with Integrity Policy PL415 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N154 | Assessment Procedure including Attachment 1 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N156 | Complaints Policy PL207 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-6a224d90c1d32a
+Source ID: N093
+Document title: Acceptable Use of Information Systems Policy
+Printed bundle page: 79
+PDF viewer page (navigation only): 79
+Line numbers: L014–L014
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: component of ensuring adequate Information Security and effective management of
+Candidate passage: Information Assets. All reasonable steps are taken to protect the privacy and confidentiality of
+Context after: Authorised Users.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9648485de7f490
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 83
+PDF viewer page (navigation only): 83
+Line numbers: L006–L006
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Policy Owner: Director, Strategic and Governance Services
+Candidate passage: Keywords: Access, disclosure, health, information, personal, record keeping, sensitive
+Context after: Policy Code: PL090
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-410315b53f5828
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 86
+PDF viewer page (navigation only): 86
+Line numbers: L017–L017
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Relevant Data Owner
+Candidate passage: About a Student (depending on the nature or context of the application or information request)
+Context after: Director, Student Administration or Director, Student Life, as appropriate
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-85cfa9e4645dd5
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 86
+PDF viewer page (navigation only): 86
+Line numbers: L031–L031
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: The University may engage Contracted Service Providers (third parties engaged under contract
+Candidate passage: to handle Personal Information on the University’s behalf) to handle Personal Information on its
+Context after: behalf. The University remains responsible for Personal Information handled by Contracted
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-48313255495eee
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L012–L012
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: and the community with information which may be useful and relevant to them, or about
+Candidate passage: University functions, services, events and activities provided by or on behalf of the University,
+Context after: its partners and affiliates;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-92cf61f98b8cce
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L021–L021
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: The University may disclose Personal Information:
+Candidate passage: to various government agencies, including for purposes concerning Student eligibility for
+Context after: support services and payments such as loans under Higher Education Support Act 2003 (Cth),
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a22568cb9b437c
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L024–L024
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: Vocational Education and Training Act 1996 (WA), scholarships, and Centrelink payments;
+Candidate passage: to the Student Guild for the purpose of enabling the Student Guild to maintain membership
+Context after: details, determine the facilities and services available to Students, and to make those facilities
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b2bca49168d18d
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L032–L032
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: engaged by the University to assist with the University’s functions, services or activities; or
+Candidate passage: a Student exchange or study abroad partner, transnational education service agreement
+Context after: partner, pathway provider, sponsor, education agent or similar.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a233c335a619b2
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L034–L034
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: partner, pathway provider, sponsor, education agent or similar.
+Candidate passage: about a prospective Student for the purposes of assessing the effectiveness of marketing or to
+Context after: assist with future marketing;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f850abe467abd9
+Source ID: N094
+Document title: Privacy Policy PL090
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L042–L042
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: and risk advisers);
+Candidate passage: to a person’s next of kin, guardian, or legal representative;
+Context after: to a Contracted Service Provider for a State, Commonwealth contract, as necessary to meet
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4138030f075802
+Source ID: N096
+Document title: Conducting Research with Integrity Policy PL415
+Printed bundle page: 104
+PDF viewer page (navigation only): 104
+Line numbers: L013–L013
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: or continued with.
+Candidate passage: To the extent of their authority, and within the parameters of the University’s financial
+Context after: delegations, the Deputy Vice-Chancellor (Research) is authorised to approve the use of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-27e804740012bb
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L005–L005
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Respect
+Candidate passage: We treat everyone's privacy with respect. Our information handling and sharing processes are
+Context after: illustrated in our privacy policy.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c6a3479be46bcb
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L019–L019
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Collection of personal and sensitive information
+Candidate passage: Use and disclosure of personal and sensitive information
+Context after: Overseas disclosure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-49a555df7fca7e
+Source ID: N102
+Document title: Privacy statement
+Printed bundle page: 34
+PDF viewer page (navigation only): 34
+Line numbers: L034–L034
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: For further information or if you have any concerns regarding the handling of your personal
+Candidate passage: information or seek access to that information, you may contact the Privacy Officer, Privacy@ECU.
+Context after: If you believe there has been a information breach involving personal information, please lodge this
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f4dd556014bd00
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 18
+PDF viewer page (navigation only): 18
+Line numbers: L024–L024
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Staff
+Candidate passage: Staff are responsible for reporting any incident involving a staff member, student, contractor or
+Context after: visitor. This must be reported to your supervisor as soon as practical and recorded using the online
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0b71adad582821
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 18
+PDF viewer page (navigation only): 18
+Line numbers: L030–L030
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Report a Work Health and Safety Incident
+Candidate passage: Lodge an appeal against academic or administrative decisions
+Context after: Students wishing to lodge a result appeal, academic progression status review, or an appeal to the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8a17024724c1cc
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 18
+PDF viewer page (navigation only): 18
+Line numbers: L031–L031
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Lodge an appeal against academic or administrative decisions
+Candidate passage: Students wishing to lodge a result appeal, academic progression status review, or an appeal to the
+Context after: Student Appeals Committee should refer to the 'How to appeal' web page for steps and deadlines.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4377ec19be3364
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 18
+PDF viewer page (navigation only): 18
+Line numbers: L032–L032
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Students wishing to lodge a result appeal, academic progression status review, or an appeal to the
+Candidate passage: Student Appeals Committee should refer to the 'How to appeal' web page for steps and deadlines.
+Context after: Visit the student intranet for more information.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ecc8707aaadb83
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 19
+PDF viewer page (navigation only): 19
+Line numbers: L005–L005
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: investigating the complaint.
+Candidate passage: Lodge a formal student or public complaint
+Context after: Staff Complaints and Grievances
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-349f28a60ecf26
+Source ID: N104
+Document title: Lodge a Complaint Grievance Misconduct or Safety Incident
+Printed bundle page: 19
+PDF viewer page (navigation only): 19
+Line numbers: L043–L043
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: with a complaint. Depending on the subject matter of the complaint, students may need to show
+Candidate passage: that an internal, formal complaint process has been completed before an external agency will hear
+Context after: their complaint.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7aa26101b22d4a
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 112
+PDF viewer page (navigation only): 112
+Line numbers: L025–L025
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Examinations may occur as a form of Assessment in an Assessment Unit. Examinations are
+Candidate passage: conducted by the Student Administration Directorate on behalf of Schools during specified
+Context after: Assessment Periods.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e93a113bd226af
+Source ID: N154
+Document title: Assessment Procedure including Attachment 1
+Printed bundle page: 123
+PDF viewer page (navigation only): 123
+Line numbers: L007–L007
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Central Examinations
+Candidate passage: The Student Administration [Directorate] conducts invigilated final Central Examinations on
+Context after: behalf of Schools for official University assessment during specified periods.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c71dce257b578a
+Source ID: N156
+Document title: Complaints Policy PL207
+Printed bundle page: 140
+PDF viewer page (navigation only): 140
+Line numbers: L030–L030
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: dealing with all or part of a matter, the University may refer or manage that matter under the
+Candidate passage: applicable process. This includes matters concerning academic review or appeal, public
+Context after: interest disclosures, misconduct, staff performance, privacy, employment or workplace
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b40a8ec34f39a7
+Source ID: N156
+Document title: Complaints Policy PL207
+Printed bundle page: 142
+PDF viewer page (navigation only): 142
+Line numbers: L012–L012
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: (including from the National Student Ombudsman where applicable) or support; participating
+Candidate passage: in a Complaint process; or providing information in connection with a Complaint.
+Context after: Any conduct that may constitute Retaliation will be treated seriously and may result in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0df20bb1b0eabb
+Source ID: N156
+Document title: Complaints Policy PL207
+Printed bundle page: 144
+PDF viewer page (navigation only): 144
+Line numbers: L011–L011
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: A prospective, current or former Student who is dissatisfied with the University’s handling or
+Candidate passage: outcome of a Complaint may make an external complaint to the National Student
+Context after: Ombudsman, where the person and matter are within its jurisdiction.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1ec848a366cce7
+Source ID: N156
+Document title: Complaints Policy PL207
+Printed bundle page: 144
+PDF viewer page (navigation only): 144
+Line numbers: L017–L017
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Support and Participation
+Candidate passage: Persons involved in a Complaint process may:
+Context after: seek independent advice or advocacy;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a1627bc51386cc
+Source ID: N226
+Document title: Academic Committees governance and delegated authority
+Printed bundle page: 65
+PDF viewer page (navigation only): 65
+Line numbers: L001–L001
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Academic Committees governance and delegated authority
+Context after: Official webpage text reading copy. Retrieved 12 November 2026. Browser layout is not preserved.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-21b6beac8d2823
+Source ID: N226
+Document title: Academic Committees governance and delegated authority
+Printed bundle page: 65
+PDF viewer page (navigation only): 65
+Line numbers: L021–L021
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: University Governance ensures that the business of the academic committees is professionally
+Candidate passage: managed through to the relevant delegated approving authority - the Academic Board, the
+Context after: Vice-Chancellor or University Council.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-60fae74934eba7
+Source ID: N229
+Document title: Legislation and Policy authority and hierarchy
+Printed bundle page: 71
+PDF viewer page (navigation only): 71
+Line numbers: L001–L001
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Legislation and Policy authority and hierarchy
+Context after: Official webpage text reading copy. Retrieved 12 November 2026. Browser layout is not preserved.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b3560afcbb482c
+Source ID: N229
+Document title: Legislation and Policy authority and hierarchy
+Printed bundle page: 71
+PDF viewer page (navigation only): 71
+Line numbers: L035–L035
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: University Statutes are considered by the WA Government's Joint Standing Committee on
+Candidate passage: Delegated Legislation before being submitted to the Governor for approval. If approved, the
+Context after: changes are tabled in Parliament and published in the Government Gazette. Parliament may
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

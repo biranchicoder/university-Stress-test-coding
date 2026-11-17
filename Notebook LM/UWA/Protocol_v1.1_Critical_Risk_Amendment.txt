@@ -1,0 +1,31 @@
+PROTOCOL v1.1 — CRITICAL-RISK CRITERIA AMENDMENT
+================================================
+Protocol version: 1.1
+Status: protocol_amendment_adopted_after_preliminary_review
+Disclosure: Protocol amendment adopted after the preliminary review on 2026-11-15; not criteria agreed before the original coding.
+Date saved: 2026-11-15
+Policy cut-off date: 2026-11-12 (12 November 2026)
+Applies to: Curtin, ECU, Murdoch, Notre_Dame, UWA
+
+CODING PRINCIPLES:
+- An enforceable prohibition can protect a critical risk.
+- Scenario noncompliance does not automatically establish a policy gap.
+- D5 and critical_gap are separate judgments.
+- Use Uncertain where material missing evidence prevents a decision; do not mark every case Uncertain simply because the original register was blank.
+
+CRITICAL-RISK CRITERIA (S1–S15):
+S1: Attributable student authorship and transparent, authorised AI assessment assistance.
+S2: Prevention or enforceable refusal of unverified AI-produced assessment being claimed as the student's own.
+S3: Verified authority for standing account actions, protected student identity and meaningful assessment oversight.
+S4: An operational permission/consent boundary for undisclosed capture or processing of identifiable lecture participants.
+S5: Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.
+S6: Verifiable authority before binding academic representation and before disclosure of confidential student information.
+S7: Attributable human/group responsibility and traceable disclosure of relevant AI assistance. Access differences become critical where a required tool blocks participation without a workable alternative.
+S8: Authorised AI assessment contributions, accountable human group responsibility and protection of group personal information.
+S9: An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.
+S10: Human verification of citations and claims, accurate attribution and protection of confidential research information.
+S11: Synthetic responses distinguished from human empirical evidence, with an authorised research/ethics scope for the changed design.
+S12: Authorised, safe execution, meaningful human intervention and accountable research responsibility.
+S13: Informed, purpose-limited collection and lawful course-end memory restriction/disposal, with access and security protections.
+S14: Informed purpose and cross-course use, accountable lifecycle ownership, access/correction and contestability of consequential profiling.
+S15: Purpose-bounded authorisation for combined standing powers, with security, intervention and contestability of consequential actions.

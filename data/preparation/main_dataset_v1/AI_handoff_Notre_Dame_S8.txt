@@ -1,0 +1,418 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S8
+Scenario: S8 — AI Group Participant
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S8 AI Group Participant
+An AI agent joins the group's shared digital workspace as a member. It remembers past discussions across sessions, completes tasks allocated by human members, and contributes identifiable content directly to the submission — under its own presence, not impersonating a human.
+Boundary: The AI's contribution is identifiable/separable within the submission, not fully merged or undetectable
+Risks to check: Attribution of AI contributions; group responsibility; workspace privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Authorised AI assessment contributions, accountable human group responsibility and protection of group personal information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S8-Q01 [actor_and_activity]: group workspace — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q02 [related_roles]: AI contribution — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q03 [permission_authority]: member authorisation — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q04 [restriction_boundary]: workspace privacy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q05 [procedure]: group procedure — 10 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q06 [review_route]: peer review — 40 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q07 [related_risk]: data retention — 14 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N180 | Ethical Use of AI in Research (Library Guide) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N024 | Policy: Assessment in Higher Education and Enabling Coursework Programs | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N028 | Policy: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N029 | Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N032 | Policy: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N033 | Procedure: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N043 | Procedure: Information Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N115 | Guideline Presentation and Submission of Research Theses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N185 | Policy: Records Management Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N188 | Policy: Programs and Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N191 | Guideline: Peer Review of Teaching | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N192 | Policy: Institutional Review Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N215 | Guideline: Authorship, Peer Review and Dissemination | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N236 | Additional Student Information copyright recording and access support | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-d955e7662d31af
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L016–L016
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: than any single method of assessment.
+Candidate passage: 4.9.2 Validity and reliability of assessment is demonstrated through moderation, peer review
+Context after: and benchmarking.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a9c1b7f3ffd477
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L043–L043
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: 7.2.17 Moderation of assessment refers to quality assurance processes and activities such as
+Candidate passage: peer review that aim to assure the consistency or comparability, appropriateness,
+Context after: fairness, and comprehensibility of an assessment task, and the related criteria and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3a16520f218f66
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L007–L007
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: 5 Feedback on assessment .............................................................................................................................. 8
+Candidate passage: 6 Group assessment tasks, peer marking and self-marking ............................................................................ 8
+Context after: 7 Design of examinations and tests ................................................................................................................. 9
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7228a8a0df1546
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L029–L029
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: 27 Interpretation and definitions .................................................................................................................... 32
+Candidate passage: PROCEDURE: Assessment and Examinations Page 2 of 34
+Context after: Effective Date: 29/6/2026
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-19b9cef625881c
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 46
+PDF viewer page (navigation only): 46
+Line numbers: L006–L006
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: regarding:
+Candidate passage: 3.4.1.1 own work, individual or group work
+Context after: 3.4.1.2 legitimate cooperation
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1b506c09030c0a
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 46
+PDF viewer page (navigation only): 46
+Line numbers: L048–L048
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: 3.7 Assessment is designed to have authenticity, simulating or representing contemporary
+Candidate passage: PROCEDURE: Assessment and Examinations Page 5 of 34
+Context after: Effective Date: 29/6/2026
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-55c34522868db7
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L042–L042
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: marked work to the student.
+Candidate passage: 6 GROUP ASSESSMENT TASKS, PEER MARKING AND SELF-MARKING
+Context after: 6.1 Assessment is designed to provide opportunity for student agency, choice and peer to peer
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-eface1b994312c
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L015–L015
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: differentiated and varied for each study period.
+Candidate passage: 25.1.1.4 Academic peer review of assessment and rubrics at the end of each study
+Context after: period and forms part of regular refresh cycles, comprehensive program review
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f2edbd871818b9
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L034–L034
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: of assessment, including:
+Candidate passage: 25.3.1 peer review and benchmarking of assessment design at program level against discipline
+Context after: and/or professional standards
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-63267a58e34dc4
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L036–L036
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: and/or professional standards
+Candidate passage: 25.3.2 peer review and benchmarking of the design and marking of assessment tasks for
+Context after: courses at all levels from introductory to advanced
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d10efb0baea09a
+Source ID: N028
+Document title: Policy: Academic Integrity
+Printed bundle page: 93
+PDF viewer page (navigation only): 93
+Line numbers: L004–L004
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: 4.5.2.2 unauthorised assessment recycling – submitting or re-submitting, without
+Candidate passage: authorisation, one’s own work that has already been assessed
+Context after: 4.5.2.3 unauthorised use of generative artificial intelligence – submitting work that has
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4751ff150a1142
+Source ID: N028
+Document title: Policy: Academic Integrity
+Printed bundle page: 93
+PDF viewer page (navigation only): 93
+Line numbers: L014–L014
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: produced by
+Candidate passage:  a commercial provider, a current or former student, a family member or a
+Context after: friend
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e3134019ef179b
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 138
+PDF viewer page (navigation only): 138
+Line numbers: L029–L029
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: 4 PRINCIPLES
+Candidate passage: 4.1 Research integrity includes the appropriate management and retention of research data, in
+Context after: alignment with requirements set out in The Code and in relevant legislative, ethical, contractual,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bf8ca63f83eacd
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 140
+PDF viewer page (navigation only): 140
+Line numbers: L019–L019
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: re-identifiable) personal data or data from human research participants, the consent obtained
+Candidate passage: must be adhered to. Such consent must clearly state proposed data retention, confidentiality,
+Context after: access and reuse conditions.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bb45a033b1c793
+Source ID: N033
+Document title: Procedure: Research Data Management
+Printed bundle page: 147
+PDF viewer page (navigation only): 147
+Line numbers: L005–L005
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: 3 RESEARCH DATA MANAGEMENT PLANNING ........................................................................ 3
+Candidate passage: 4 STORAGE, RETENTION AND DISPOSAL OF RESEARCH DATA ................................................ 4
+Context after: 5 SHARING AND PUBLICATION OF RESEARCH DATA ............................................................... 6
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f5969c396d5746
+Source ID: N033
+Document title: Procedure: Research Data Management
+Printed bundle page: 149
+PDF viewer page (navigation only): 149
+Line numbers: L033–L033
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: tool with required metadata and adequate information about licenses and permissions.
+Candidate passage: 4 STORAGE, RETENTION AND DISPOSAL OF RESEARCH DATA
+Context after: 4.1 The University is responsible for providing facilities that comply with:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c1766dcd8e63a
+Source ID: N036
+Document title: Policy: Standing Delegations of Authority
+Printed bundle page: 232
+PDF viewer page (navigation only): 232
+Line numbers: L008–L008
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: would make it more transparent or ethical for the matter to be dealt with other than by
+Candidate passage: the Delegate, the decision should be transferred to a senior staff member who has
+Context after: responsibility for the Delegate’s Accountability Area.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-680f96dbdd8730
+Source ID: N036
+Document title: Policy: Standing Delegations of Authority
+Printed bundle page: 232
+PDF viewer page (navigation only): 232
+Line numbers: L017–L017
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: authorise the payments under the transaction.
+Candidate passage: 5.1.11 Authorisation to operate a University corporate credit card does not of itself confer on a
+Context after: staff member a delegation to commit or expend funds. Acquittal of purchases made by
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ba324a75c2b40e
+Source ID: N036
+Document title: Policy: Standing Delegations of Authority
+Printed bundle page: 232
+PDF viewer page (navigation only): 232
+Line numbers: L018–L018
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: 5.1.11 Authorisation to operate a University corporate credit card does not of itself confer on a
+Candidate passage: staff member a delegation to commit or expend funds. Acquittal of purchases made by
+Context after: credit card, as for purchases made by any other means, must be approved by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-864b4a7d9d83ce
+Source ID: N180
+Document title: Ethical Use of AI in Research (Library Guide)
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L008–L008
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: Impact Assessments (PIAs) to identify and address risks early.
+Candidate passage: Data retention management: Establish clear retention timelines and securely dispose of data once it
+Context after: is no longer required.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

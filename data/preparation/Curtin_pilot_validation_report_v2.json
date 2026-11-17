@@ -1,0 +1,110 @@
+{
+  "pilot_id": "Curtin_pilot_S1_S6_S13_v2",
+  "validated_at": "2026-11-15T21:41:30.644161+11:00",
+  "protocol_version": "1.1",
+  "protocol_file": "data/preparation/protocol_v1.1_critical_risk_amendment.json",
+  "policy_cutoff_date": "2026-11-12",
+  "outputs": {
+    "pilot_text_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals_v2.txt",
+    "pilot_json_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals_v2.json",
+    "original_pilot_preserved": true,
+    "sqlite_untouched": true,
+    "exports_untouched": true
+  },
+  "mechanical_validation": {
+    "status": "PASS",
+    "expected_cases": 3,
+    "actual_cases": 3,
+    "expected_dimensions": 18,
+    "actual_dimensions": 18,
+    "citations_checked": 81,
+    "citations_valid": 81,
+    "errors": [],
+    "warnings": []
+  },
+  "interpretation_requiring_human_review": {
+    "note": "Passing mechanical validation does NOT confirm substantive policy coding. Human review is required for all AI proposals below.",
+    "items": [
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D3=2 (distinguishing N133/N136 approved-assessment 'must' from N134/A005 general 'recommended' scopes) and whether N136 p.151 green-tick Gemini feedback example requires prior Unit Coordinator permission."
+      },
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D5=2 and Critical gap=No under Protocol v1.1 S1 (treating official guidance webpages as operative governance, not a gap by location)."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Obtain 'Information and Communication Technology (ICT) Appropriate Use Procedures' (referenced by operative N005 p.218 L010-L011) and 'Disclosure of Information and Proxy Authorisation Form' (N149) to resolve Critical gap=Uncertain vs Yes."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm Mode=Prescribing (vs None) since N149/N002/N141 supply prescriptive third-party disclosure and advocacy rules without delegating AI-agent SSO recognition to a named role."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Obtain WAUSDA / Retention and Disposal Authorities, Disposal of Information guide (N011 3.8(c)), N001 Section 6 AI supporting procedures, PIA Checklist, and Student Privacy Collection Notice to resolve Critical gap=Uncertain vs Yes."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm whether N150 PC12 (2.6.1 prior consent for learning analytics) or N016 Appendix A (general educational service collection) controls when an AI learning assistant is voluntary within a unit."
+      }
+    ]
+  },
+  "case_outcomes_preview": {
+    "Curtin-S1": {
+      "scores": {
+        "D1": 3,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "No",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Indeterminate"
+    },
+    "Curtin-S6": {
+      "scores": {
+        "D1": 1,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "Uncertain",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Unassessable"
+    },
+    "Curtin-S13": {
+      "scores": {
+        "D1": 2,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "Uncertain",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Unassessable"
+    }
+  }
+}

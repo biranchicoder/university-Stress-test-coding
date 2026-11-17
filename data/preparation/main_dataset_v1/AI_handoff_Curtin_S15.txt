@@ -1,0 +1,686 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Curtin
+Case ID: Curtin-S15
+Scenario: S15 — Institutionally Connected Agent
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S15 Institutionally Connected Agent
+An AI agent accesses the LMS, student support, enrolment, advising and assessment systems, and independently acts for the student across all of them. It has standing authority to act, rather than merely advise, without per-action human review.
+Boundary: Standing access spans systems governed by separate policies. Whether institutional ownership and oversight are connected is a coding question.
+Risks to check: Authorised system access; purpose limitation; security; oversight and contestability.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Purpose-bounded authorisation for combined standing powers, with security, intervention and contestability of consequential actions.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S15-Q01 [actor_and_activity]: institutional systems — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q02 [related_roles]: student services — 58 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q03 [permission_authority]: standing authority — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q04 [restriction_boundary]: system access — 29 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q05 [procedure]: security procedure — 14 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q06 [review_route]: review decision — 33 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S15-Q07 [related_risk]: data protection — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N001 | Artificial Intelligence (AI) Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- A010 | Curtin University GenAI Resources Learning Teaching | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N002 | Assessment and Student Progression Policy and Procedures March 2026 administrative version | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N135 | Academic Integrity Program (AIP) page | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N136 | Academic Integrity and Conduct - Student Guide | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N138 | Academic integrity (student hub) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N141 | Student Misconduct Rules 2026 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N005 | Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N011 | Information Management Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N016 | Privacy Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N017 | Privacy Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N121 | Privacy guidance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N145 | Research Management Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N146 | Research Data and Primary Materials Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N148 | Information Breach Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N149 | Disclosure of Personal Information Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N153 | Information Security and Information and Communication Technology (ICT) Appropriate Use Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N004 | Complaints Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N007 | Delegations Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N018 | Procurement and Purchasing Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N143 | Standard 10 - Complaints and appeals (ESOS National Code) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N144 | Appeals (current students page) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N014 | Policy Development Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N020 | Purchasing Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N142 | Curtin University Act 1966 (WA) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N150 | Course Quality Assurance Manual | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N209 | Accessible Information Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N210 | Authorship, Peer Review and Publication of Research Outputs Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N212 | Disability Inclusion Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N213 | Information Breach Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N214 | Students with Disability Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N230 | Curtin Access Plan process for reasonable adjustments | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N231 | Copyright and GenAI teaching accessibility and protected material | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N232 | Class registration lecture recordings and attendance requirements | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-21fe7d6ee1619e
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L003–L003
+Search query IDs: S15-Q07
+Search terms: data protection
+Extraction/review flags: none recorded
+Context before: Develop, deploy and use AI systems in a way which respects human rights
+Candidate passage: (including Indigenous Data Sovereignty and governance), diversity and the
+Context after: autonomy of individuals.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c9fb175a45ce4b
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L010–L010
+Search query IDs: S15-Q04
+Search terms: system access
+Extraction/review flags: none recorded
+Context before: appropriate datasets. Train users to deploy and use AI systems
+Candidate passage: responsibly to manage and mitigate bias. Enable access, inclusion
+Context after: and equity in AI systems throughout their lifecycle.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f4629dabd06c06
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 6
+PDF viewer page (navigation only): 6
+Line numbers: L013–L013
+Search query IDs: S15-Q07
+Search terms: data protection
+Extraction/review flags: none recorded
+Context before: Principle 4: Privacy protection and security
+Candidate passage: Comply with applicable data protection, security and privacy policies and
+Context after: legislation. Adhere to the University’s architecture standards if incorporating
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e5fc4f1306266a
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L001–L001
+Search query IDs: S15-Q05
+Search terms: security procedure
+Extraction/review flags: none recorded
+Context before: his document) 
+Refer to Schedule 1 of this manual for relevant definitions 
+6. 
+SUPPORTING PROCEDURES  
+• 
+Assessment Design Procedure 
+• 
+Assessment Communication and Feedback Procedure 
+• 
+Assessing Student Work Procedure 
+• 
+Exemptions to Assessment Requirements Procedure 
+• 
+Assessment for Honours Research Components Procedure 
+• 
+Late Assessment Procedure 
+• 
+Assessment Extension Procedure 
+Curtin University | N002 | Source page 6
+Bundle page 43 | N002 | source page 6 | line numbers at left
+Candidate passage: • Further Assessment Procedure
+Context after: • Examinations Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ddad929fc755a7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L002–L002
+Search query IDs: S15-Q05
+Search terms: security procedure
+Extraction/review flags: none recorded
+Context before: • Further Assessment Procedure
+Candidate passage: • Examinations Procedure
+Context after: • Online Invigilation: Examinations and Invigilated eTests Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-745a736ddbe306
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L003–L003
+Search query IDs: S15-Q05
+Search terms: security procedure
+Extraction/review flags: none recorded
+Context before: • Examinations Procedure
+Candidate passage: • Online Invigilation: Examinations and Invigilated eTests Procedure
+Context after: • Security of Examination Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8e2c377270accc
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 44
+PDF viewer page (navigation only): 44
+Line numbers: L004–L004
+Search query IDs: S15-Q05
+Search terms: security procedure
+Extraction/review flags: none recorded
+Context before: • Online Invigilation: Examinations and Invigilated eTests Procedure
+Candidate passage: • Security of Examination Procedure
+Context after: • Regulations for the Conduct of Examinations Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-39c0efdabee14f
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 74
+PDF viewer page (navigation only): 74
+Line numbers: L034–L034
+Search query IDs: S15-Q02
+Search terms: student services
+Extraction/review flags: none recorded
+Context before: by the School at least three weeks in advance of the Examination.
+Candidate passage: 2.12 Where determined by the Chief Student Services Officer, a draft Examination timetable will be
+Context after: published six weeks prior to the relevant Examination period.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f614f2d76ccb04
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 75
+PDF viewer page (navigation only): 75
+Line numbers: L031–L031
+Search query IDs: S15-Q02
+Search terms: student services
+Extraction/review flags: none recorded
+Context before: alternative Examination conditions which have been determined by Counselling and
+Candidate passage: AccessAbility Services in consultation with the student concerned.
+Context after: 3. RESPONSIBILITIES
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-20f06b85841bd6
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L012–L012
+Search query IDs: S15-Q02
+Search terms: student services
+Extraction/review flags: none recorded
+Context before: 2.3 Students will verify their identity as per examination instructions. Acceptable forms of
+Candidate passage: identification will be determined and published by the Chief Student Services Officer (or
+Context after: authorised officer).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d984104b0f464c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 94
+PDF viewer page (navigation only): 94
+Line numbers: L018–L018
+Search query IDs: S15-Q02
+Search terms: student services
+Extraction/review flags: none recorded
+Context before: school owned courses; the relevant Faculty Pro Vice-Chancellor (or authorised officer) for
+Candidate passage: Faculty owned courses; or may be the Student Progression and Graduation Services Lead
+Context after: where there is no Faculty or School course ownership (non-award).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-60ff99cb9a6252
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 94
+PDF viewer page (navigation only): 94
+Line numbers: L022–L022
+Search query IDs: S15-Q02
+Search terms: student services
+Extraction/review flags: none recorded
+Context before: based Board of Examiners, a Non-Award Board of Examiners may be convened by
+Candidate passage: the Student Progression and Graduation Services Lead. The Student Progression and
+Context after: Graduation Services Lead will liaise with the relevant School(s) regarding their specific
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-727fc2cdd033a6
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 109
+PDF viewer page (navigation only): 109
+Line numbers: L008–L008
+Search query IDs: S15-Q03
+Search terms: standing authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: (course switch).
+Candidate passage: 2.2 The table below outlines the approval authority for transfer into an alternate Course following
+Context after: Termination from a Course.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-715e69b93de0d2
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 109
+PDF viewer page (navigation only): 109
+Line numbers: L011–L011
+Search query IDs: S15-Q03
+Search terms: standing authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: No. of Terminations
+Candidate passage: Action Approval Authority
+Context after: From a Course
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-caa050264bf2c1
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 109
+PDF viewer page (navigation only): 109
+Line numbers: L033–L033
+Search query IDs: S15-Q03
+Search terms: standing authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.4.3 a recommendation that a reduced study load be required until the student returns to
+Candidate passage: Good Standing.
+Context after: International Onshore Students (Australian Campuses) – Transfer to a new course after a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0c0bd6e6580ade
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 111
+PDF viewer page (navigation only): 111
+Line numbers: L008–L008
+Search query IDs: S15-Q03
+Search terms: standing authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: same Course after a minimum period of 12 months since their last enrolment has elapsed.
+Candidate passage: 2.2 The table below outlines the approval authority for admission to the same Course following
+Context after: Termination.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-155aeab492d7f8
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 111
+PDF viewer page (navigation only): 111
+Line numbers: L011–L011
+Search query IDs: S15-Q03
+Search terms: standing authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: No. of Terminations
+Candidate passage: Action Approval Authority
+Context after: From a Course
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-15f8ac9ec4a1cf
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L010–L010
+Search query IDs: S15-Q06
+Search terms: review decision
+Extraction/review flags: none recorded
+Context before: 2.2 On receipt of formal notification of having their place in a Course Terminated, if the student
+Candidate passage: wishes to request a review of the decision, they will submit a written request within 20
+Context after: working days of the send date of the notification as specified in the Official Communication.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-26fff44d2d7f7a
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L016–L016
+Search query IDs: S15-Q06
+Search terms: review decision
+Extraction/review flags: none recorded
+Context before: be successful.
+Candidate passage: 2.4 In considering the request for review, the decision maker will take into account the student's
+Context after: exceptional circumstances, explanation for poor academic performance, the student's overall
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e87b3e59cfc2ad
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L019–L019
+Search query IDs: S15-Q06
+Search terms: review decision
+Extraction/review flags: none recorded
+Context before: academic record and the criteria for Course Termination.
+Candidate passage: 2.5 Circumstances that may warrant a review of the decision to Terminate a student’s place in a
+Context after: Course, include, but are not limited to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-24173d96f0189e
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 125
+PDF viewer page (navigation only): 125
+Line numbers: L001–L001
+Search query IDs: S15-Q06
+Search terms: review decision
+Extraction/review flags: none recorded
+Context before: al decision was made. 
+2.10 The Head of School (or authorised officer) will determine that: 
+2.10.1 The original decision to terminate the student’s place in the Course will stand;  
+2.10.2 The original decision will be varied and the student's Academic Status changed to 
+Conditional; or 
+2.10.3 The original decision will be varied and the student's Academic Status changed to 
+Good Standing. 
+Curtin University | N002 | Source page 87
+Bundle page 124 | N002 | source page 87 | line numbers at left
+Candidate passage: 2.11 This decision will be made within 10 working days of receipt of the request for review.
+Context after: 2.12 Once the decision has been made, the Head of School (or authorised officer) will
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b8ef18cf9b2d20
+Source ID: N005
+Document title: Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 218
+PDF viewer page (navigation only): 218
+Line numbers: L010–L010
+Search query IDs: S15-Q05
+Search terms: security procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 6. SUPPORTING PROCEDURES
+Candidate passage: Cyber Security Procedure
+Context after: Information and Communication Technology (ICT) Appropriate Use Procedures
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ec4ee27f8beedb
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 232
+PDF viewer page (navigation only): 232
+Line numbers: L008–L008
+Search query IDs: S15-Q04
+Search terms: system access
+Extraction/review flags: none recorded
+Context before: associated metadata, remains discoverable, accessible and useable by those authorised
+Candidate passage: to access it, over its lifecycle regardless of the repository or system within which it is
+Context after: stored.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4c9df03f281cc0
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 241
+PDF viewer page (navigation only): 241
+Line numbers: L003–L003
+Search query IDs: S15-Q07
+Search terms: data protection
+Extraction/review flags: none recorded
+Context before: with the Australian Privacy Principles and any other applicable Australian Privacy law, or
+Candidate passage: relevant jurisdictional law for overseas locations (e.g., General Data Protection Regulations
+Context after: (GDPR)). Where such a disclosure is not covered under the purposes of collection given at
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4773994660a24e
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 247
+PDF viewer page (navigation only): 247
+Line numbers: L025–L025
+Search query IDs: S15-Q04
+Search terms: system access
+Extraction/review flags: none recorded
+Context before: Potential unauthorised access
+Candidate passage: Any circumstance where it is possible that someone may have gained access to a computer system,
+Context after: network, or data in error or without permission, including loss of a device or suspected access.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d5cadfcff775ed
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L040–L040
+Search query IDs: S15-Q06
+Search terms: review decision
+Extraction/review flags: none recorded
+Context before: You’ll receive written notice of the outcome and the reasons for the decision as soon as possible. The
+Candidate passage: Panel’s decision is final. There is no further internal review or appeal pathway within the University.
+Context after: 44
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-61af9f2e8a8a68
+Source ID: N145
+Document title: Research Management Policy
+Printed bundle page: 258
+PDF viewer page (navigation only): 258
+Line numbers: L003–L003
+Search query IDs: S15-Q01
+Search terms: institutional systems
+Extraction/review flags: none recorded
+Context before: Guidance Principles to guide (as relevant) the procurement, development, deployment,
+Candidate passage: use, management and improvement of AI systems for teaching, learning, research and
+Context after: operations at the University.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0b545f85923bce
+Source ID: N145
+Document title: Research Management Policy
+Printed bundle page: 258
+PDF viewer page (navigation only): 258
+Line numbers: L020–L020
+Search query IDs: S15-Q01
+Search terms: institutional systems
+Extraction/review flags: none recorded
+Context before: 3.3.1. An employee may speak, write, and publish, or artistically perform, create and exhibit,
+Candidate passage: without being subject to institutional censorship or discipline in accordance with the
+Context after: Academic Freedom and Freedom of Speech Policy.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6eb5df9990a85b
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 274
+PDF viewer page (navigation only): 274
+Line numbers: L032–L032
+Search query IDs: S15-Q07
+Search terms: data protection
+Extraction/review flags: none recorded
+Context before: and any other applicable Australian Privacy law, or relevant jurisdictional law for overseas
+Candidate passage: locations (e.g., General Data Protection Regulations (GDPR)).
+Context after: 3.4.1 The University will implement and regularly review reasonable measures to prevent
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-861a5e6fb9fc75
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 275
+PDF viewer page (navigation only): 275
+Line numbers: L029–L029
+Search query IDs: S15-Q04
+Search terms: system access
+Extraction/review flags: none recorded
+Context before: Potential information breach
+Candidate passage: Any circumstance where it is possible that someone may have gained access to a computer system,
+Context after: network, or data in error or without permission, including loss of a device or suspected access.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-156172f11c24bf
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 497
+PDF viewer page (navigation only): 497
+Line numbers: L008–L008
+Search query IDs: S15-Q01
+Search terms: institutional systems
+Extraction/review flags: none recorded
+Context before: quality of learning outcomes. Learning analytics will also be used to inform research, scholarship
+Candidate passage: of learning and teaching and institutional performance.
+Context after: 2.2 Users of the University’s student digital systems will have access to clear explanations of their
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d024cd19043c8f
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 497
+PDF viewer page (navigation only): 497
+Line numbers: L009–L009
+Search query IDs: S15-Q01
+Search terms: institutional systems
+Extraction/review flags: none recorded
+Context before: of learning and teaching and institutional performance.
+Candidate passage: 2.2 Users of the University’s student digital systems will have access to clear explanations of their
+Context after: rights and obligations with respect to data collected from those systems.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-072d648c4b8c3e
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 497
+PDF viewer page (navigation only): 497
+Line numbers: L010–L010
+Search query IDs: S15-Q01
+Search terms: institutional systems
+Extraction/review flags: none recorded
+Context before: 2.2 Users of the University’s student digital systems will have access to clear explanations of their
+Candidate passage: rights and obligations with respect to data collected from those systems.
+Context after: 2.3 The University will be transparent with students and staff regarding the purpose and process of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-200f75e0905a33
+Source ID: N209
+Document title: Accessible Information Procedures
+Printed bundle page: 543
+PDF viewer page (navigation only): 543
+Line numbers: L020–L020
+Search query IDs: S15-Q04
+Search terms: system access
+Extraction/review flags: none recorded
+Context before: Assistive technology
+Candidate passage: Any product, equipment, software, or system used to enhance and/ or improve access to learning
+Context after: and/ or working for people who may have difficulty speaking, writing, typing, reading etc.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bd0457a23d7bf3
+Source ID: N231
+Document title: Copyright and GenAI teaching accessibility and protected material
+Printed bundle page: 572
+PDF viewer page (navigation only): 572
+Line numbers: L031–L031
+Search query IDs: S15-Q07
+Search terms: data protection
+Extraction/review flags: none recorded
+Context before: outside copyright provisions. To find out whether Gen-AI tools are secure in this way, check the
+Candidate passage: terms and conditions, and investigate settings related to data protection and privacy. Students
+Context after: can consult the UniSkills Gen-AI guide for information about Gen-AI tools. Curtin staff should
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,129 @@
+{
+  "pilot_id": "Curtin_pilot_S1_S6_S13",
+  "validated_at": "2026-11-15T21:32:46.551127+11:00",
+  "protocol_version": "1.1",
+  "protocol_file": "data/preparation/protocol_v1.1_critical_risk_amendment.json",
+  "policy_cutoff_date": "2026-11-12",
+  "outputs": {
+    "pilot_text_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals.txt",
+    "pilot_json_file": "data\\preparation\\Curtin_pilot_S1_S6_S13_AI_proposals.json",
+    "sqlite_untouched": true,
+    "exports_untouched": true
+  },
+  "mechanical_validation": {
+    "status": "PASS",
+    "expected_cases": 3,
+    "actual_cases": 3,
+    "expected_dimensions": 18,
+    "actual_dimensions": 18,
+    "citations_checked": 81,
+    "citations_valid": 81,
+    "errors": [],
+    "warnings": []
+  },
+  "interpretation_requiring_human_review": {
+    "note": "Passing mechanical validation does NOT confirm substantive policy coding. Human review is required for all AI proposals below.",
+    "items": [
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D3=1 vs D3=2 regarding tension between mandatory declaration ('must') in N133/N136 and 'recommended' in N134/A005, plus N136 p.151 green-tick feedback example."
+      },
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm D5=2 and Critical gap=No under Protocol v1.1 S1: verify whether placing student GenAI permission/declaration rules in N133/N136 rather than N002 creates a material gap or only an operational gap."
+      },
+      {
+        "case_id": "Curtin-S1",
+        "category": "analyst_human_review_flag",
+        "detail": "Verify whether N001 underwent an unbundled post-June 2026 annual review."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "source_version_uncertainty",
+        "detail": "N153 (Information Security and Information and Communication Technology (ICT) Appropriate Use Policy): operative_at_cutoff=False — Superseded prior to 2026-11-12 cut-off; excluded from operative reliance."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Verify whether 'Information and Communication Technology (ICT) Appropriate Use Procedures' (referenced by operative N005, p.218 L010-L011, which superseded N153) exists externally and prohibits delegated SSO/credential use by AI agents."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm whether critical_gap should remain 'Yes' (due to lack of verifiable authority mechanism for SSO-authenticated AI representation in N001/N002/N149) or be adjusted to 'Uncertain' if the missing ICT Appropriate Use Procedures is treated as material missing evidence."
+      },
+      {
+        "case_id": "Curtin-S6",
+        "category": "analyst_human_review_flag",
+        "detail": "Check whether N001 (review window 1 April - 30 June 2026) and N004/N014/N152 (past review dates) had post-bundle updates prior to 2026-11-12."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Verify external/unbundled instruments referenced by operative policies: WAUSDA / Retention and Disposal Authorities and Disposal of Information guide (to determine if course-level AI assistant memory qualifies as low-value transitory data under N011 3.8(c) or is subject to a statutory retention period), Student Privacy Collection Notice, PIA Checklist, and ICT Appropriate Use Procedures."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm status of N001 (AI Policy) annual review scheduled for 1 April - 30 June 2026 and whether supporting AI Procedures under N001 Section 6 have been published externally."
+      },
+      {
+        "case_id": "Curtin-S13",
+        "category": "analyst_human_review_flag",
+        "detail": "Confirm whether N150 PC12 (2.6.1 prior consent for learning analytics) or N016 Appendix A (general educational service collection) controls when an AI learning assistant is voluntary within a unit."
+      }
+    ]
+  },
+  "case_outcomes_preview": {
+    "Curtin-S1": {
+      "scores": {
+        "D1": 3,
+        "D2": 2,
+        "D3": 1,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "No",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Indeterminate"
+    },
+    "Curtin-S6": {
+      "scores": {
+        "D1": 1,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Delegating",
+      "review_route": "Yes",
+      "critical_gap": "Yes",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Indeterminate"
+    },
+    "Curtin-S13": {
+      "scores": {
+        "D1": 2,
+        "D2": 2,
+        "D3": 2,
+        "D4": 2,
+        "D5": 2,
+        "D6": 3
+      },
+      "mode": "Prescribing",
+      "review_route": "Yes",
+      "critical_gap": "Yes",
+      "evidence_status": "Sufficient",
+      "rule_direction": "Conditional",
+      "calculated_outcome_preview": "Indeterminate"
+    }
+  }
+}

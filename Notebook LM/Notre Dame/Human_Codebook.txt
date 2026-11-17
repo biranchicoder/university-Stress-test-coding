@@ -1,0 +1,95 @@
+HUMAN CODING BOOK (VERBATIM EXTRACTED TEXT)
+===========================================
+
+Human coding book
+Shared instructions for all five universities. Each university workbook contains 15 cases and 90 dimension rows. All five workbooks together contain 75 cases.
+What to do for each case
+1. Read the scenario in Scenarios.docx. Keep its actor, action, human control and data access unchanged.
+2. Search the university PDF yourself. Read the relevant policies, definitions, schedules and cross-references. Check authority and the version operative at the agreed cut-off date.
+3. Answer D1-D6 using the score tables. Record the policy source ID, PDF page and line numbers, a short quotation or paraphrase, and your reason.
+4. Complete the case fields in Cases. The outcome is calculated from your inputs. Do not overwrite score formulas or the outcome formula.
+Where to enter your work
+Evidence: columns A-D identify the case and dimension. E-F are blank for your search terms and documents checked. G is your score. H-L record your chosen source IDs, page/lines, quotation or paraphrase, reason, and negative-search or access notes.
+Cases: L = Mode; M = Review route; N = Critical gap; O = Evidence status; P = Rule direction; Q = Conflict basis; R = Case note. F-K and S are calculated.
+Meaning of the case fields
+Mode: Prescribing = rules supply the answer; Delegating = a named role decides through documented criteria and process; None = neither is established.
+Review route: Yes or No for an applicable review or appeal route. Critical gap: Yes, No or Uncertain against the critical risks agreed before main coding. Evidence status: Sufficient or Insufficient. Rule direction: Permission, Prohibition, Conditional or Unclear.
+Before main coding, agree the critical risks and document set, practise the pilot cases and lock the instructions. Keep your ratings independent of any other researcher. A clear prohibition may still be a complete response.
+Score the six dimensions from 0 to 3
+D1 Scope
+Does the policy cover this actor and action?
+D2 Authority
+Who is authorised to decide, and on what basis?
+An independently applicable general review policy can support Review route = Yes when D2 remains 2 because the authority link is not explicit.
+D3 Coherence
+Do the controlling documents agree?
+For D3 = 0, cite both operative texts and explain why hierarchy, exceptions or supersession do not resolve the contradiction.
+Continue the six scores
+D4 Procedure
+Can a person follow the process?
+D5 Safeguards
+Are the agreed risks protected?
+D5 = 0 means no relevant safeguards. A missing critical safeguard is recorded separately; it does not automatically make D5 zero.
+D6 Adaptation
+How would the university notice and respond to change?
+D6 is diagnostic. It does not independently determine the immediate outcome.
+Apply the outcome rules in order
+Evidence first
+Insufficient evidence, or Critical gap = Uncertain, gives Unassessable. A blank score means unfinished work, not zero.
+1 Documentary conflict
+D3 = 0, with both incompatible operative provisions and a written conflict basis.
+2 Indeterminate with a strict trigger
+Any of D1 = 0, D2 <= 1, D4 = 0, D5 = 0, or Critical gap = Yes. Record all applicable triggers.
+3 Resolved
+Mode = Prescribing; D1 = 3; D2 = 3; D3 >= 2; D4 = 3; D5 = 3; Review route = Yes; Critical gap = No.
+4 Structured discretion
+Mode = Delegating; D1 >= 1; D2 >= 2; D3 >= 1; D4 >= 2; D5 >= 2; Review route = Yes; Critical gap = No.
+5 Indeterminate with an incomplete pathway
+The evidence is sufficient, but no complete-route condition above is met. Do not average scores.
+Before saying a provision is absent
+Search the relevant documents for the actor and action, synonyms, responsible roles, review routes and linked instruments. Record what you checked. An inaccessible document or uncertain version is a limitation, not proof that governance is absent. General rules may cover AI without naming it.
+Keep the evidence traceable
+Use the printed bundle page and L-numbers in the PDF. Record locations you find yourself. No passages, policy matches, page/line pointers or scores have been selected for your scenarios in these materials.
+Save the five workbooks separately. Preserve your original ratings before any later comparison or reconciliation with another researcher.
+
+[Score Table 1]
+Score | Meaning
+0 | No applicable recognition after searching.
+1 | Generic or analogical recognition only.
+2 | Activity recognised; a material boundary is unclear.
+3 | Relevant actor, action, capability and setting explicitly covered.
+
+[Score Table 2]
+Score | Meaning
+0 | No decision-maker identifiable.
+1 | A role is named, but its relevant power or decision basis is unclear.
+2 | Named role, applicable criteria and decision process.
+3 | All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+
+[Score Table 3]
+Score | Meaning
+0 | Direct unresolved contradiction; cite both texts.
+1 | Ambiguity or tension, without a proven contradiction.
+2 | Compatible rules, without explicit coordination.
+3 | Explicit alignment or a clear coordination rule.
+
+[Score Table 4]
+Score | Meaning
+0 | No actionable route.
+1 | Broad instruction; material steps missing.
+2 | Usable sequence, with a relevant detail unclear.
+3 | Necessary steps, requirements, decision point and relevant timing.
+
+[Score Table 5]
+Score | Meaning
+0 | None of the relevant safeguards is documented.
+1 | Generic recognition, without enough operational detail.
+2 | Substantive protection, but a material gap remains.
+3 | Relevant risks addressed through specific protections, oversight and response/remedy.
+
+[Score Table 6]
+Score | Meaning
+0 | No relevant mechanism.
+1 | General or periodic review only.
+2 | Assigned review plus escalation or learning.
+3 | Periodic and event-triggered review, ownership and a route from monitoring to revision.

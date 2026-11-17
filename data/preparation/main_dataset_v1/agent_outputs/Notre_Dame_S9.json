@@ -1,0 +1,911 @@
+{
+  "university": "Notre_Dame",
+  "case_id": "Notre_Dame-S9",
+  "scenario_id": "S9",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "Procedure: Assessment and Examinations (N026, 6.2.2-6.2.2.2) explicitly regulates peer marking (capping peer marks at 10% and requiring >=70% staff-decided marks) and re-marking (clause 15), but does not explicitly address AI aggregation or weighting of peer evaluations.",
+      "search_terms_used": [
+        "peer assessment",
+        "peer marks",
+        "group contribution"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 50,
+          "viewer_page": 50,
+          "line_start": "L012",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 50,
+          "viewer_page": 50,
+          "line_start": "L012",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D2",
+      "score": 3,
+      "reason": "Teaching staff must decide at least 70% of overall course marks (N026, 6.2.2.2), Head of School/nominated decision-makers decide re-marking requests (N026, 15.3-15.4), and Policy: Student Appeals (N034, 20-21) explicitly connects re-mark refusals and final marks to appeals to DVC Academic and National Head of School.",
+      "search_terms_used": [
+        "decision authority",
+        "appeal marks"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 50,
+          "viewer_page": 50,
+          "line_start": "L016",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L011",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L002",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.\n20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.\n20.6 Further appeal: The decision of the Deputy Vice Chancellor, Academic is final and not open to\nfurther internal appeal.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L011",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L002",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.\n20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.\n20.6 Further appeal: The decision of the Deputy Vice Chancellor, Academic is final and not open to\nfurther internal appeal.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 3,
+      "reason": "N026 (15.7) explicitly cross-references Policy: Student Appeals (N034), and N034 (20.2, 21.1.2) aligns with N026 on assessment re-marking and final-mark appeal grounds.",
+      "search_terms_used": [
+        "appeal marks",
+        "fairness review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L030",
+          "line_end": "L031",
+          "evidence_type": "Exact quotation",
+          "text": "15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in\naccordance with the Policy: Student Appeals.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L002",
+          "line_end": "L007",
+          "evidence_type": "Exact quotation",
+          "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L030",
+          "line_end": "L031",
+          "evidence_type": "Exact quotation",
+          "text": "15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in\naccordance with the Policy: Student Appeals.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L002",
+          "line_end": "L007",
+          "evidence_type": "Exact quotation",
+          "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N026 (15.1-15.7) and N034 (20-21) set clear steps and timelines for requesting re-marking (10 working days; 5 working days decision) and appealing (10 working days; 20 working days review), though steps for inspecting or contesting AI-weighting logic are not specified.",
+      "search_terms_used": [
+        "appeal marks",
+        "evaluation criteria",
+        "fairness review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L005",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "15.2 A student may submit a written request for re-marking of their work for an assessment task on\nthe following grounds:\n15.2.1 there has been a breach of a regulation, policy or procedure that has disadvantaged the\nstudent in undertaking the assessment task or in the marking of their work, or\n15.2.2 the course teaching team has not followed the process for the assessment task and/or\nhas not applied the marking criteria stated in the course outline.\n15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L008",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L005",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "15.2 A student may submit a written request for re-marking of their work for an assessment task on\nthe following grounds:\n15.2.1 there has been a breach of a regulation, policy or procedure that has disadvantaged the\nstudent in undertaking the assessment task or in the marking of their work, or\n15.2.2 the course teaching team has not followed the process for the assessment task and/or\nhas not applied the marking criteria stated in the course outline.\n15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 210,
+          "viewer_page": 210,
+          "line_start": "L008",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 4/11/2026",
+          "version_evidence_location": {
+            "source_id": "N034",
+            "document_title": "Policy: Student Appeals",
+            "printed_bundle_page": 201,
+            "viewer_page": 201,
+            "line_start": "L035",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "Substantive safeguards exist via the 10% cap on peer marks (N026 6.2.2.1), >=70% staff-decided mark requirement (6.2.2.2), moderation/double-marking (14.4), and objective re-marking (15.5), but a material gap remains on AI-specific weighting opacity and bias in peer comment aggregation.",
+      "search_terms_used": [
+        "peer marks",
+        "fairness review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 50,
+          "viewer_page": 50,
+          "line_start": "L012",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L021",
+          "line_end": "L029",
+          "evidence_type": "Exact quotation",
+          "text": "15.5 If the decision-maker allows the re-marking, to ensure it is objective, they will:\n15.5.1 wherever practicable, assign the work for re-marking to a different marker from the\nstaff member who marked it originally, or\n15.5.2 where the marking requires specialist knowledge that only the original marker\npossesses, the relevant program coordinator (or their equivalent) will:\n15.5.2.1 choose a co-marker to collaborate with the original marker in remarking, and\n15.5.2.2 decide the mark resulting from the re-marking on the advice of both markers.\n15.6 The new mark resulting from remarking may be the same as, higher than or lower than the\noriginal mark.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 50,
+          "viewer_page": 50,
+          "line_start": "L012",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 59,
+          "viewer_page": 59,
+          "line_start": "L021",
+          "line_end": "L029",
+          "evidence_type": "Exact quotation",
+          "text": "15.5 If the decision-maker allows the re-marking, to ensure it is objective, they will:\n15.5.1 wherever practicable, assign the work for re-marking to a different marker from the\nstaff member who marked it originally, or\n15.5.2 where the marking requires specialist knowledge that only the original marker\npossesses, the relevant program coordinator (or their equivalent) will:\n15.5.2.1 choose a co-marker to collaborate with the original marker in remarking, and\n15.5.2.2 decide the mark resulting from the re-marking on the advice of both markers.\n15.6 The new mark resulting from remarking may be the same as, higher than or lower than the\noriginal mark.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 1,
+      "reason": "Boards of examiners monitor grade distributions (N026 14.6) and general policy review applies under N192, with no AI-grading-specific monitoring mechanism.",
+      "search_terms_used": [
+        "evaluation criteria"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 58,
+          "viewer_page": 58,
+          "line_start": "L038",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "14.6 Section 11 in the Procedure: Program and Course Quality describes the role of boards of\nexaminers in monitoring grade distributions and requiring explanations of unusual grade\ndistributions.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 58,
+          "viewer_page": 58,
+          "line_start": "L038",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "14.6 Section 11 in the Procedure: Program and Course Quality describes the role of boards of\nexaminers in monitoring grade distributions and requiring explanations of unusual grade\ndistributions.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 29/6/2026",
+          "version_evidence_location": {
+            "source_id": "N026",
+            "document_title": "Procedure: Assessment and Examinations",
+            "printed_bundle_page": 43,
+            "viewer_page": 43,
+            "line_start": "L029",
+            "line_end": "L030",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N192",
+          "document_title": "Policy: Institutional Review Framework",
+          "printed_bundle_page": 392,
+          "viewer_page": 392,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 20/7/2024",
+          "version_evidence_location": {
+            "source_id": "N192",
+            "document_title": "Policy: Institutional Review Framework",
+            "printed_bundle_page": 392,
+            "viewer_page": 392,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Policy: Institutional Review Framework Page 2 of 6\nEffective Date: 20/7/2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Delegating",
+    "review_route": "Yes",
+    "review_route_explanation": "Students may request an objective re-mark under N026 (clause 15) and appeal re-mark refusals to the DVC Academic or final marks to the National Head of School under Policy: Student Appeals (N034, clauses 20-21).",
+    "review_route_evidence": {
+      "source_id": "N026",
+      "document_title": "Procedure: Assessment and Examinations",
+      "printed_bundle_page": 59,
+      "viewer_page": 59,
+      "line_start": "L030",
+      "line_end": "L031",
+      "evidence_type": "Exact quotation",
+      "text": "15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in\naccordance with the Policy: Student Appeals.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Effective Date: 29/6/2026",
+      "version_evidence_location": {
+        "source_id": "N026",
+        "document_title": "Procedure: Assessment and Examinations",
+        "printed_bundle_page": 43,
+        "viewer_page": 43,
+        "line_start": "L029",
+        "line_end": "L030",
+        "evidence_type": "Exact quotation",
+        "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": []
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.",
+    "critical_gap_explanation": "N026 (6.2.2.1-6.2.2.2) caps peer marks at 10% and requires >=70% of marks to be decided by teaching staff, and N026 (15) plus N034 (20-21) provide accountable human re-marking and appeal routes.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Procedure: Assessment and Examinations (N026, 6.2.2) caps peer marks at 10% and requires at least 70% of course marks to be decided by teaching staff, while N026 (15) and Policy: Student Appeals (N034, 20-21) provide human re-marking and appeal routes. Although AI-specific peer-weighting opacity is not explicitly addressed, these safeguards establish structured discretion without a critical gap; Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N026",
+        "document_title": "Procedure: Assessment and Examinations",
+        "printed_bundle_page": 50,
+        "viewer_page": 50,
+        "line_start": "L012",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 29/6/2026",
+        "version_evidence_location": {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L029",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N026",
+        "document_title": "Procedure: Assessment and Examinations",
+        "printed_bundle_page": 59,
+        "viewer_page": 59,
+        "line_start": "L005",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "15.2 A student may submit a written request for re-marking of their work for an assessment task on\nthe following grounds:\n15.2.1 there has been a breach of a regulation, policy or procedure that has disadvantaged the\nstudent in undertaking the assessment task or in the marking of their work, or\n15.2.2 the course teaching team has not followed the process for the assessment task and/or\nhas not applied the marking criteria stated in the course outline.\n15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 29/6/2026",
+        "version_evidence_location": {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L029",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N034",
+        "document_title": "Policy: Student Appeals",
+        "printed_bundle_page": 210,
+        "viewer_page": 210,
+        "line_start": "L002",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.\n20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.\n20.6 Further appeal: The decision of the Deputy Vice Chancellor, Academic is final and not open to\nfurther internal appeal.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 4/11/2026",
+        "version_evidence_location": {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 201,
+          "viewer_page": 201,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "search_terms_used": [
+      "appeal marks",
+      "decision authority",
+      "evaluation criteria",
+      "fairness review",
+      "group contribution",
+      "peer assessment",
+      "peer marks"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N026",
+        "document_title": "Procedure: Assessment and Examinations",
+        "printed_bundle_page": 50,
+        "viewer_page": 50,
+        "line_start": "L012",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30\npercent of the overall course mark.\n6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent\nof the overall course mark, and no more than 10 percent each.\n6.2.2.2 Accordingly, at least 70 percent of students’ overall course mark will be an\nindividual mark decided by teaching staff.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 29/6/2026",
+        "version_evidence_location": {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L029",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N026",
+        "document_title": "Procedure: Assessment and Examinations",
+        "printed_bundle_page": 59,
+        "viewer_page": 59,
+        "line_start": "L005",
+        "line_end": "L031",
+        "evidence_type": "Exact quotation",
+        "text": "15.2 A student may submit a written request for re-marking of their work for an assessment task on\nthe following grounds:\n15.2.1 there has been a breach of a regulation, policy or procedure that has disadvantaged the\nstudent in undertaking the assessment task or in the marking of their work, or\n15.2.2 the course teaching team has not followed the process for the assessment task and/or\nhas not applied the marking criteria stated in the course outline.\n15.3 The student must submit the request for the re-marking in writing to the to the decision-maker\nnominated by the head of school, providing evidence to substantiate one of the grounds in\nclause 15.2, no later than 10 working days after the return of the marked assessment work.\n15.3.1 A head of school may nominate one or more of the following decision-makers to decide\nwhether to grant students’ request for re-marking: the deputy head of school, program\ncoordinators, course coordinators and in the School of Medicine, the Head of Clinical\nand Head of Preclinical.\n15.4 On receiving the student’s request, the decision-maker will review the student’s assessment\nwork and, within five working days, advise the student in writing of the decision to allow or not\nallow the re-marking.\n15.5 If the decision-maker allows the re-marking, to ensure it is objective, they will:\n15.5.1 wherever practicable, assign the work for re-marking to a different marker from the\nstaff member who marked it originally, or\n15.5.2 where the marking requires specialist knowledge that only the original marker\npossesses, the relevant program coordinator (or their equivalent) will:\n15.5.2.1 choose a co-marker to collaborate with the original marker in remarking, and\n15.5.2.2 decide the mark resulting from the re-marking on the advice of both markers.\n15.6 The new mark resulting from remarking may be the same as, higher than or lower than the\noriginal mark.\n15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in\naccordance with the Policy: Student Appeals.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 29/6/2026",
+        "version_evidence_location": {
+          "source_id": "N026",
+          "document_title": "Procedure: Assessment and Examinations",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L029",
+          "line_end": "L030",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Assessment and Examinations Page 2 of 34\nEffective Date: 29/6/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N034",
+        "document_title": "Policy: Student Appeals",
+        "printed_bundle_page": 210,
+        "viewer_page": 210,
+        "line_start": "L002",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "20 REMARK OF ASSESSMENT (INCLUDING FINAL EXAMINATION)\n20.1 A student may appeal the decision to disallow the re-mark of an assessment to the Deputy Vice\nChancellor, Academic.\n20.2 Grounds for appeal: The Student may appeal on any grounds that show that the Course\nCoordinator failed to follow due process in accordance with the Procedure: Assessment and\nExaminations s and / or a Course Outline.\n20.3 Timing for lodging appeal: The Student must lodge the appeal within 10 Working Days of the\ndate the Student received notice of the decision. The Deputy Vice Chancellor, Academic may\nextend the time for lodging the appeal in exceptional circumstances.\n20.4 Timing for University review of appeal: The Deputy Vice Chancellor, Academic will review and\ndetermine the appeal within 20 Working Days of receiving the appeal.\n20.5 Notification: The Deputy Vice Chancellor, Academic will advise the Student and the decision-\nmaker in writing of the determination, in accordance with the requirements for notification set\nout in section 6.5 of this policy.\n20.6 Further appeal: The decision of the Deputy Vice Chancellor, Academic is final and not open to\nfurther internal appeal.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 4/11/2026",
+        "version_evidence_location": {
+          "source_id": "N034",
+          "document_title": "Policy: Student Appeals",
+          "printed_bundle_page": 201,
+          "viewer_page": 201,
+          "line_start": "L035",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "POLICY: Student Appeals\nEffective Date: 4/11/2026 Page 2 of 22"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": ""
+  },
+  "additional_search_requests": []
+}

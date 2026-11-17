@@ -1,0 +1,42 @@
+REVIEW WARNINGS — The University of Notre Dame Australia
+========================================================
+Package status: COMPLETE (15 cases, 90 dimensions, 15 case summaries)
+Validation status: valid | Errors: 0 | Warnings: 6
+Note: Do not claim any file or passage was checked unless supported by the search/validation logs.
+
+1. MISSING OR INCOMPLETE CASES
+- None. All 15 scenarios (S1–S15) and 90 dimensions (D1–D6) are present.
+
+2. VALIDATION FAILURES
+- None (0 mechanical/schema errors).
+
+3. MISSING REFERENCED DOCUMENTS / ADDITIONAL SEARCH REQUESTS
+- No additional search requests logged for this university.
+
+4. UNKNOWN DATES, VERSIONS & OPERATIVE STATUS
+- Source register audit: 41 rows; 41 with blank/unknown register effective date, 41 with unknown register operative status (requiring internal PDF version checks).
+- Passages cited with operative_at_cutoff=false (no internal effective/operative date verified in bundle): 2
+- Notre_Dame-S1 D4: N116 (Academic integrity student guidance) bundle p.97 L010-L014 [operative_at_cutoff=false]
+- Notre_Dame-S10 D5: N180 (Ethical Use of AI in Research (Library Guide)) bundle p.6 L043-L045 [operative_at_cutoff=false]
+
+5. QUOTATIONS WITH AMBIGUOUS PDF/TABLE READING ORDER & HUMAN-CONFIRMATION WARNINGS
+- Total validation warnings for The University of Notre Dame Australia: 6
+  * Ambiguous/scrambled table warnings: 0
+  * AI visual/mode/outcome review reminders: 6
+
+6. OUTSTANDING INTERPRETATION & UNCERTAINTY FLAGS
+- Notre_Dame-S1 D1: Boundary between non-retained planning/feedback scaffolding and 'work that has been produced or modified using artificial intelligence tools' is left to course-level assessment instructions.
+- Notre_Dame-S1 D2: N034 covers misconduct determinations (clauses 23-24) and final mark/remark appeals (clauses 20-21), but does not explicitly mention level-one Course Coordinator academic integrity determinations.
+- Notre_Dame-S1 D4: N116 (Academic integrity student guidance) has no effective date in the PDF text, so its operative-at-cutoff status is unverified.
+- Notre_Dame-S1 case_summary: N116 lacks an effective date in the PDF text and is treated as unverified supporting guidance.
+- Notre_Dame-S3 D4: Information Technology Instruction: Access and Credentials (cited in N194 12.1) is not included in the policy bundle.
+- Notre_Dame-S3 case_summary: N194 12.1 references Information Technology Instruction: Access and Credentials, which is not in the bundle.
+- Notre_Dame-S4 D1: N237 6.6.1.1 focuses on copyright in class materials and teaching-staff permission rather than peer participant consent or AI transcription.
+- Notre_Dame-S5 D1: Only generic attendance hurdle and impersonation provisions exist; disclosed AI proxy attendance is not addressed.
+- Notre_Dame-S10 D1: N180 is a Library Guide without a formal policy effective date (only webpage Last Updated timestamp).
+- Notre_Dame-S11 D2: Policy: Ethics Approval for Research Involving Human Participants and its associated procedures (N032 10.2.17-10.2.19) are not in the bundle.
+- Notre_Dame-S11 case_summary: Linked Policy: Ethics Approval for Research Involving Human Participants (N029 7.25, N032 10.2.4) is not in the bundle.
+- Notre_Dame-S13 D4: Guideline: Retention and Disposal of University Records (RDS) referenced in N185 6.3 is not in the bundle.
+- Notre_Dame-S13 case_summary: N185 6.3 references Guideline: Retention and Disposal of University Records (RDS), which is not in the bundle.
+- Notre_Dame-S15 D4: N194 12.1 and 12.2 reference IT Instructions not included in the bundle.
+- Notre_Dame-S15 case_summary: N194 12.1 and 12.2 reference IT Instructions not included in the bundle.

@@ -1,0 +1,340 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S5
+Scenario: S5 — Delegated Attendance
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S5 Delegated Attendance
+A disclosed AI avatar attends an online lecture in the student's absence, asks questions on the student's behalf through the platform's chat or voice channel, and reports the lecture's content back to the student afterward. The proxy is disclosed to the platform, not concealed.
+Boundary: Disclosed as an AI proxy at the point of use, not concealed
+Risks to check: Proxy identity and authorisation; attendance requirements; recording and privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S5-Q01 [actor_and_activity]: attendance proxy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S5-Q02 [related_roles]: online attendance — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q03 [permission_authority]: authorised proxy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S5-Q04 [restriction_boundary]: false attendance — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S5-Q05 [procedure]: attendance procedure — 11 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q06 [review_route]: attendance appeal — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S5-Q07 [related_risk]: proxy identity — 0 result(s); no_index_hits; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N025 | Procedure: Assessment and Learning Flexibility | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N027 | Procedure: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N034 | Policy: Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N187 | Procedure: (VET) Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N236 | Additional Student Information copyright recording and access support | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-9063fcc54b5a8b
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L008–L008
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 3.3 In applying the provisions for reasonable adjustments for assessment arrangements in this
+Candidate passage: Procedure, the University will ensure it meets any assessment requirements and mandatory
+Context after: or inherent requirements for professional practice that are set by professional accrediting
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-218e567807ba1a
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L036–L036
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: from attending scheduled classes or learning Reasonable adjustments for disability through a learning
+Candidate passage: activities where attendance is required to pass access plan may also include adjustments to allow
+Context after: the course. attendance requirements to be met.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ed5aba9c404bc8
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L037–L037
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: activities where attendance is required to pass access plan may also include adjustments to allow
+Candidate passage: the course. attendance requirements to be met.
+Context after: A student is registered with the University as an The student can arrange assessment and learning
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5523e7b914428b
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 22
+PDF viewer page (navigation only): 22
+Line numbers: L044–L044
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: exam.
+Candidate passage: PROCEDURE: Assessment and Learning Flexibility Page 4 of 23
+Context after: Effective Date: 7/10/2026
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6e0e98dbf70b18
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 29
+PDF viewer page (navigation only): 29
+Line numbers: L029–L029
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: examination, in class test/quiz, in class presentation)
+Candidate passage: 9.5.3 attend scheduled classes or learning activities where attendance is required to pass
+Context after: the course, or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-142f4cc89085f6
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 29
+PDF viewer page (navigation only): 29
+Line numbers: L039–L039
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: Applying for special consideration
+Candidate passage: 9.7 Applications for special consideration must be submitted using the University’s online form
+Context after: for this purpose, either before or no later than three working days after the deadline for
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ebab7043435f9f
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L024–L024
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: 10.3.4.1 attempt an assessment task for the course
+Candidate passage: 10.3.4.2 meet an attendance hurdle requirement of the course
+Context after: 10.3.4.3 pass a hurdle assessment task of the course that requires a pass
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bb19224ede4d46
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L035–L035
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: 11.1.2 Where an assessment task requires students to submit written or digitally recorded
+Candidate passage: work, submission will be online via the LMS; no other hard copy or email submission will
+Context after: be required.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fbe114419893dd
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L041–L041
+Search query IDs: S5-Q02
+Search terms: online attendance
+Extraction/review flags: none recorded
+Context before: is their own, either:
+Candidate passage: 11.1.3.1 by the process for recording such a declaration as part of the standard online
+Context after: assessment work submission process, or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ca03e0231a3cc5
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 201
+PDF viewer page (navigation only): 201
+Line numbers: L007–L007
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: 5 GENERAL PRINCIPLES ............................................................................................................................................................ 3
+Candidate passage: 6 LODGING OF APPEALS AND NOTIFICATION OF APPEAL OUTCOME ..................................................................................... 4
+Context after: 7 COMPLAINTS ......................................................................................................................................................................... 5
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ff6b4216c45028
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 201
+PDF viewer page (navigation only): 201
+Line numbers: L009–L009
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: 7 COMPLAINTS ......................................................................................................................................................................... 5
+Candidate passage: 8 ENROLMENT AND ATTENDANCE UNTIL APPEAL OUTCOME ................................................................................................ 5
+Context after: 9 CONFIDENTIALITY, ACCESSIBILITY AND RETENTION OF RECORDS ....................................................................................... 6
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-eb6e5c4024cff8
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 204
+PDF viewer page (navigation only): 204
+Line numbers: L001–L001
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before:  
+Grievances page of the University website); 
+6.2.2 outline the specific provision in this Policy under which the appeal is made; and 
+6.2.3 clearly state the ground(s) for the appeal; 
+6.2.4 provide all relevant supporting documentary evidence (if applicable); and 
+6.2.5 retain a copy of their appeal, any associated documentation and, where possible, 
+evidence of submission. 
+University of Notre Dame Australia | N034 | Source page 4
+Bundle page 203 | N034 | source page 4 | line numbers at left
+Candidate passage: 6.3 If supporting documents are provided by the Student after the initial appeal is lodged or if
+Context after: significant investigation or review is required due to the nature of the appeal, the time within
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-253e148d41180c
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 204
+PDF viewer page (navigation only): 204
+Line numbers: L002–L002
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: 6.3 If supporting documents are provided by the Student after the initial appeal is lodged or if
+Candidate passage: significant investigation or review is required due to the nature of the appeal, the time within
+Context after: which the appeal is to be considered in accordance with this Policy may be extended by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7a6f76a131a373
+Source ID: N034
+Document title: Policy: Student Appeals
+Printed bundle page: 204
+PDF viewer page (navigation only): 204
+Line numbers: L021–L021
+Search query IDs: S5-Q06
+Search terms: attendance appeal
+Extraction/review flags: none recorded
+Context before: non-VET students) and the Commonwealth Ombudsman (for VET students).
+Candidate passage: 8 ENROLMENT AND ATTENDANCE UNTIL APPEAL OUTCOME
+Context after: 8.1 A Student who has lodged an internal appeal in accordance with clause 6 above and is awaiting
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b64a86e5b659da
+Source ID: N187
+Document title: Procedure: (VET) Student Appeals
+Printed bundle page: 322
+PDF viewer page (navigation only): 322
+Line numbers: L011–L011
+Search query IDs: S5-Q05
+Search terms: attendance procedure
+Extraction/review flags: none recorded
+Context before: 2.4 Procedure: (VET) Assessment
+Candidate passage: 2.5 Procedure: (VET) Attendance
+Context after: 2.6 Procedure: (VET) Student Progress
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

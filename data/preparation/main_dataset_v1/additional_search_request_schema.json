@@ -1,0 +1,150 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Additional local policy searches",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "requests"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "requests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "request_id",
+          "university",
+          "case_id",
+          "scenario_id",
+          "query",
+          "category",
+          "rationale"
+        ],
+        "properties": {
+          "request_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "university": {
+            "enum": [
+              "Curtin",
+              "ECU",
+              "Murdoch",
+              "Notre_Dame",
+              "UWA"
+            ]
+          },
+          "case_id": {
+            "type": "string"
+          },
+          "scenario_id": {
+            "enum": [
+              "S1",
+              "S2",
+              "S3",
+              "S4",
+              "S5",
+              "S6",
+              "S7",
+              "S8",
+              "S9",
+              "S10",
+              "S11",
+              "S12",
+              "S13",
+              "S14",
+              "S15"
+            ]
+          },
+          "query": {
+            "type": "string",
+            "minLength": 1
+          },
+          "category": {
+            "type": "string",
+            "minLength": 1
+          },
+          "rationale": {
+            "type": "string",
+            "minLength": 1
+          },
+          "requested_by": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "additional_search_request": {
+      "type": "object",
+      "required": [
+        "request_id",
+        "university",
+        "case_id",
+        "scenario_id",
+        "query",
+        "category",
+        "rationale"
+      ],
+      "properties": {
+        "request_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "university": {
+          "enum": [
+            "Curtin",
+            "ECU",
+            "Murdoch",
+            "Notre_Dame",
+            "UWA"
+          ]
+        },
+        "case_id": {
+          "type": "string"
+        },
+        "scenario_id": {
+          "enum": [
+            "S1",
+            "S2",
+            "S3",
+            "S4",
+            "S5",
+            "S6",
+            "S7",
+            "S8",
+            "S9",
+            "S10",
+            "S11",
+            "S12",
+            "S13",
+            "S14",
+            "S15"
+          ]
+        },
+        "query": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 1
+        },
+        "requested_by": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

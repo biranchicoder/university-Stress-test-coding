@@ -1,0 +1,3715 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Curtin
+Case ID: Curtin-S6
+Scenario: S6 — Institutional Representation
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S6 Institutional Representation
+An AI agent represents the student in discussions about feedback, extensions, or an appeal, communicating autonomously with staff without the student present. It acts under the student's name and authority but is the actual communicating party.
+Boundary: The agent uses the student's email/SSO credentials via delegated access set up in the identity platform; no human present; staff cannot independently confirm authorisation
+Risks to check: Representation and authorisation; procedural fairness; confidentiality; appeal rights.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verifiable authority before binding academic representation and before disclosure of confidential student information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S6-Q01 [actor_and_role]: student representative — 7 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q02 [acting_for_student]: on behalf student — 14 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q03 [authority]: delegated authority — 6 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q04 [access_and_restrictions]: password account — 2 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q05 [procedure]: complaint process student — 13 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q06 [review_route]: student appeal review — 19 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+- S6-Q07 [confidentiality]: privacy disclosure information — 26 result(s); retrieved_from_Curtin_full_text_index; origin=reused_from_completed_Curtin_pilot
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N001 | Artificial Intelligence (AI) Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N002 | Assessment and Student Progression Policy and Procedures March 2026 administrative version | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N136 | Academic Integrity and Conduct - Student Guide | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N138 | Academic integrity (student hub) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N141 | Student Misconduct Rules 2026 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N008 | Higher Degree by Research (HDR) Appeals and Complaints Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N009 | Higher Degree by Research (HDR) Appeals and Complaints Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N010 | Information Management Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N011 | Information Management Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N016 | Privacy Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N017 | Privacy Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N021 | Responsible Conduct of Research (Employees) Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N121 | Privacy guidance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N147 | Information Management Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N148 | Information Breach Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N149 | Disclosure of Personal Information Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N153 | Information Security and Information and Communication Technology (ICT) Appropriate Use Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N004 | Complaints Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N007 | Delegations Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N143 | Standard 10 - Complaints and appeals (ESOS National Code) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N144 | Appeals (current students page) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N013 | Intellectual Property Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N014 | Policy Development Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N015 | Guidance Notes on Academic Policy Development | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N020 | Purchasing Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N140 | Statute No. 10 - Student Discipline | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N142 | Curtin University Act 1966 (WA) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N150 | Course Quality Assurance Manual | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N213 | Information Breach Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N214 | Students with Disability Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-288b2fa4977ea0
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L036–L036
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Copyright Act 1968 (Cth)
+Candidate passage: • Freedom of Information Act 1992 (WA)
+Context after: • Privacy Act 1988 (Cth)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0121f7122c2553
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L037–L037
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Freedom of Information Act 1992 (WA)
+Candidate passage: • Privacy Act 1988 (Cth)
+Context after: • Privacy and Responsible Information Sharing Act 2024 (WA)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-839027b8da0c83
+Source ID: N001
+Document title: Artificial Intelligence (AI) Policy
+Printed bundle page: 7
+PDF viewer page (navigation only): 7
+Line numbers: L038–L038
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Privacy Act 1988 (Cth)
+Candidate passage: • Privacy and Responsible Information Sharing Act 2024 (WA)
+Context after: • Public Interest Disclosure Act 2003 (WA)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c21e05a73adb4e
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L013–L013
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: the norms of the discipline/profession.
+Candidate passage: 3.4 Assessment methods will provide evidence of individual student achievement of the intended
+Context after: Learning Outcomes.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bec563cc712eac
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L015–L015
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Learning Outcomes.
+Candidate passage: 3.5 Assessment Tasks will facilitate the student’s ability to develop and demonstrate a wide range
+Context after: of graduate capabilities.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c11a14d4d9cd48
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L028–L028
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Assessment decisions.
+Candidate passage: 3.12 Any student that is not satisfied with the result or conduct of any formal internal appeal process,
+Context after: may access an external right of complaint or appeal.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-555cac30a02f06
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L010–L010
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.14.3 Auto-approved pathway: Self-Certification requests are auto-approved for certain
+Candidate passage: Assessment types (e.g., most submissions) without review of the student’s provided
+Context after: reasons.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b074d84310f68d
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L014–L014
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.15.1 Where possible, a Self-Certification request should be submitted prior to the
+Candidate passage: Assessment due date and time. A student may submit up to 5 days late (after the
+Context after: original due date):
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-48408e2eb03d3b
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L017–L017
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.15.1.1 The total extension period may not exceed 5 days past the original due date
+Candidate passage: (e.g., if a student submits 4 days past the due date, they can only receive an
+Context after: extension for 1 additional day).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c4cac4743b2a82
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L005–L005
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.22 If the Assessment Extension is for an Assessment item with a scheduled date/time for the task
+Candidate passage: (e.g., Examination, performance type), the student will be provided with at least three working
+Context after: days’ notice of the new Examination date/time. It will be the student’s responsibility to be
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d5a23c0dc24a65
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L024–L024
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Right of Appeal to the Head of School (or authorised officer)
+Candidate passage: 2.26 A student who is denied an Assessment Extension may appeal to the relevant Head of
+Context after: School (or authorised officer). If the Head of School was involved in the original decision, the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0fc4940c1e5d53
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L033–L033
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.29 The decision-maker will assess the appeal and determine if a change in decision is warranted.
+Candidate passage: Once a decision has been made on the appeal, the student and Unit Coordinator will be
+Context after: advised no later than three working days from the decision date.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-88e480ff1b4463
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L001–L001
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: 2.14 A student with no existing Curtin Access Plan (CAP) will apply and be assessed each study
+Context after: period if Alternative Arrangements are requested.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2ff88a31b651d0
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L007–L007
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: seek support and determination of appropriate reasonable adjustments.
+Candidate passage: 2.16 A student with Obligatory Cultural or Religious Requirements will apply together with any
+Context after: evidence of the obligation as appropriate and be assessed each study period if Alternative
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-36fe1e8da9d9b1
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 87
+PDF viewer page (navigation only): 87
+Line numbers: L035–L035
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: appropriate reasonable adjustments.
+Candidate passage: 2.22 The Elite Athlete Coordinator will act as a proxy on behalf of Elite Athletes to request
+Context after: Alternative Arrangements.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d36b114028c52f
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 106
+PDF viewer page (navigation only): 106
+Line numbers: L004–L004
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: avoid failing all units.
+Candidate passage: If a student, regardless of current May be given an Academic
+Context after: Academic Status, seriously and/or Status of Terminated
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-abfba4af3ba3ca
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 106
+PDF viewer page (navigation only): 106
+Line numbers: L046–L046
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: intervention strategy plan).
+Candidate passage: 2.14.1 A student whose place in the Course has been re-instated as a result of a review or
+Context after: appeal and who fails to agree and adhere to any condition(s) of the review or appeal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-af4adb0cbac833
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 106
+PDF viewer page (navigation only): 106
+Line numbers: L047–L047
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.14.1 A student whose place in the Course has been re-instated as a result of a review or
+Candidate passage: appeal and who fails to agree and adhere to any condition(s) of the review or appeal
+Context after: will have their place in the Course terminated.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d321ddd156aa9a
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 111
+PDF viewer page (navigation only): 111
+Line numbers: L006–L006
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2. PROCEDURAL DETAILS
+Candidate passage: 2.1 A student whose place in a Course has been Terminated may apply for re-admission to the
+Context after: same Course after a minimum period of 12 months since their last enrolment has elapsed.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-973125b2ce7e6c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 111
+PDF viewer page (navigation only): 111
+Line numbers: L021–L021
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Termination 12 months after last enrolment
+Candidate passage: 2.3 In requesting re-admission following two previous Terminations, a student will demonstrate
+Context after: that their study in the two (or more) previous attempts was severely affected by exceptional
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f3caaab4ea25c8
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 111
+PDF viewer page (navigation only): 111
+Line numbers: L025–L025
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.3.1 Full documentation supporting any request will be submitted.
+Candidate passage: 2.4 A student whose place in a Course was previously Terminated but is accepted into the same
+Context after: Course again will be subject to the following conditions, including any additional conditions
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-15988f28a88df7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 112
+PDF viewer page (navigation only): 112
+Line numbers: L002–L002
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: being terminated or more than 12 months of their place in the Course being terminated. Their
+Candidate passage: appeal will be determined by:
+Context after: a) the Academic Registrar if the request for re-admission was denied by the Head of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ed4a0a31493436
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 112
+PDF viewer page (navigation only): 112
+Line numbers: L008–L008
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.10 The Academic Registrar or Deputy Vice-Chancellor Academic’s decision regarding the
+Candidate passage: appeal is final.
+Context after: 3. RESPONSIBILITIES
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c7a4876247e810
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 112
+PDF viewer page (navigation only): 112
+Line numbers: L036–L036
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Approval Authority Deputy Vice-Chancellor, Academic
+Candidate passage: Review Date 1st April 2029
+Context after: REVISION HISTORY
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2548496c8ff41f
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 114
+PDF viewer page (navigation only): 114
+Line numbers: L016–L016
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: unit to the Board of Examiners by the relevant deadline.
+Candidate passage: 2.4 The Unit Coordinator will be responsible, on behalf of the Head of School, for the accuracy of
+Context after: results recorded on the student records system by the deadline prescribed by the Academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-21ba13d9b5081c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 114
+PDF viewer page (navigation only): 114
+Line numbers: L017–L017
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: 2.4 The Unit Coordinator will be responsible, on behalf of the Head of School, for the accuracy of
+Candidate passage: results recorded on the student records system by the deadline prescribed by the Academic
+Context after: Registrar.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-242564029dc2d6
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 114
+PDF viewer page (navigation only): 114
+Line numbers: L042–L042
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: 2.10 In all instances where a result is changed consideration will be given to the impact of the
+Candidate passage: changed Grade on the Student’s Academic Status.
+Context after: Official Unit Results to Students
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4da850f463d4b0
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 120
+PDF viewer page (navigation only): 120
+Line numbers: L005–L005
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2. PROCEDURAL DETAILS
+Candidate passage: Review of Assessment - Marks Awarded for an Assessment Task
+Context after: 2.1 Any student who has evidence that the mark or result awarded for an Assessment Task is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-178798b3d9b63f
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 120
+PDF viewer page (navigation only): 120
+Line numbers: L031–L031
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Grounds for a Formal Assessment Appeal
+Candidate passage: 2.5 Inaccurate Assessment will be the criterion for a review or an appeal.
+Context after: 2.6 Students requesting a review or lodging a formal Assessment appeal will document the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cf0f749ce1dcc4
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 120
+PDF viewer page (navigation only): 120
+Line numbers: L032–L032
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.5 Inaccurate Assessment will be the criterion for a review or an appeal.
+Candidate passage: 2.6 Students requesting a review or lodging a formal Assessment appeal will document the
+Context after: grounds on which they feel they were inaccurately assessed.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d20be1e443ebc7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 121
+PDF viewer page (navigation only): 121
+Line numbers: L038–L038
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Change of Results
+Candidate passage: 2.18 Where an appeal has been upheld and the result for a student requires amendment, it is the
+Context after: responsibility of the Head of School (or authorised officer) to arrange the change of result on
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3531e26bfa3ed0
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 121
+PDF viewer page (navigation only): 121
+Line numbers: L043–L043
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Variation to Appeal Timeline
+Candidate passage: 2.20 Where a student is subject to misconduct investigations during an Assessment appeal, the
+Context after: Assessment appeal will be set aside until the misconduct is finalised.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-548c5f7ead1f28
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 121
+PDF viewer page (navigation only): 121
+Line numbers: L048–L048
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Student or Staff Assistance
+Candidate passage: 2.22 A student is encouraged to seek assistance and advice) in preparing an Assessment appeal.
+Context after: 2.23 In any discussions regarding review of marks or official results, the student or staff member
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fd82482d6a8b20
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 122
+PDF viewer page (navigation only): 122
+Line numbers: L001–L001
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: [none extracted]
+Candidate passage: 2.24 Once all applicable dispute resolution or appeals processes have been exhausted, a student
+Context after: may lodge a complaint if they believe that a step in the process has not been followed. The
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b15e76c9ec5904
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 122
+PDF viewer page (navigation only): 122
+Line numbers: L002–L002
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.24 Once all applicable dispute resolution or appeals processes have been exhausted, a student
+Candidate passage: may lodge a complaint if they believe that a step in the process has not been followed. The
+Context after: student should identify where they believe the step in the process was not followed.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-baedffb54e695b
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 122
+PDF viewer page (navigation only): 122
+Line numbers: L003–L003
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: may lodge a complaint if they believe that a step in the process has not been followed. The
+Candidate passage: student should identify where they believe the step in the process was not followed.
+Context after: 3. RESPONSIBILITIES
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7b9fb008e796d6
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L007–L007
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: 2.1 A student whose place in a Course has been Terminated due to failure to achieve
+Candidate passage: satisfactory Course progress will have a right of review and a right of appeal regarding that
+Context after: decision.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f96cff1de28836
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L012–L012
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: working days of the send date of the notification as specified in the Official Communication.
+Candidate passage: 2.3 The basis for a request for review will be exceptional circumstances. The student will need to
+Context after: demonstrate that their results have been affected by circumstances outside their control. The
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-484dec1d75a5ca
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L019–L019
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: academic record and the criteria for Course Termination.
+Candidate passage: 2.5 Circumstances that may warrant a review of the decision to Terminate a student’s place in a
+Context after: Course, include, but are not limited to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8aef9dc646988f
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 125
+PDF viewer page (navigation only): 125
+Line numbers: L008–L008
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Appeal against Termination
+Candidate passage: 2.14 If a student has reason to believe that the request for review was inaccurate or the process
+Context after: was not correctly followed, they may request that the matter be determined by the Student
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1a97b8a644629e
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 125
+PDF viewer page (navigation only): 125
+Line numbers: L011–L011
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Progress Appeals Committee (SPAC) as a formal appeal.
+Candidate passage: 2.14.1 Where a student has previously had two appeal applications considered by the
+Context after: Student Progress Appeals Committee, any further appeals will be determined by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-be79f0b3b3be24
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 125
+PDF viewer page (navigation only): 125
+Line numbers: L027–L027
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Lodgement of Appeal
+Candidate passage: 2.20 If a student wishes to appeal on the grounds specified at clause 2.14 of this procedure, they
+Context after: will lodge a formal appeal within 10 working days of the date of notification of the outcome of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3d6377413e0af9
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L016–L016
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table
+Context before: 2.29 If the appeal is not upheld, the notification of the outcome will include information on the
+Candidate passage: process for lodging a complaint.
+Context after: External Right of Complaint or Appeal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d3594ee07c0be9
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L018–L018
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table
+Context before: External Right of Complaint or Appeal
+Candidate passage: 2.30 Any student who is not satisfied with the conduct of the formal appeal process described
+Context after: above may request that their appeal be considered by an external person or body
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-504d6c461a03d8
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L025–L025
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: ambiguous_table
+Context before: Advice to Students
+Candidate passage: If you are not satisfied that the University’s internal appeal and/or complaint process has
+Context after: been conducted fairly, you can make a complaint, in writing, to the Western Australia
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b20dea28ab3b08
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 132
+PDF viewer page (navigation only): 132
+Line numbers: L001–L001
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: An academic status in which the student is permitted to continue in the course and to re-enrol. In all cases,
+Context after: the entitlement to continue in a course and to re-enrol is subject to any other restrictions or prohibitions
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-57a9f9072531c6
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 132
+PDF viewer page (navigation only): 132
+Line numbers: L003–L003
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: the entitlement to continue in a course and to re-enrol is subject to any other restrictions or prohibitions
+Candidate passage: imposed on the student (e.g., a prohibition on enrolment due to outstanding fees or misconduct).
+Context after: Grade
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-08b2f4712c92f8
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 132
+PDF viewer page (navigation only): 132
+Line numbers: L046–L046
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Nominated Invigilator (NI)
+Candidate passage: An approved student-nominated invigilator who may conduct examinations on behalf of Curtin University.
+Context after: Non-Award Course
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-adffb89142401a
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 133
+PDF viewer page (navigation only): 133
+Line numbers: L005–L005
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Official Communications (OC)
+Candidate passage: An official communication between the University and a student that will be retained as a permanent record
+Context after: for future reference.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d231bb8436d3de
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 133
+PDF viewer page (navigation only): 133
+Line numbers: L008–L008
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Official Statement (OS)
+Candidate passage: A formal written communication issued on official letterhead or from an official email address (e.g.,
+Context after: government entity, employer, registered health provider, or accredited institution). It must clearly identify the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c5aae68a8786cb
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 133
+PDF viewer page (navigation only): 133
+Line numbers: L038–L038
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Recognised Examination Centre (REC)
+Candidate passage: An approved facility that may conduct examinations on behalf of Curtin University.
+Context after: Result
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8251673e72aa23
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L001–L001
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: 3.3. Resolving a complaint
+Context after: 3.3.1. The line manager and any other person involved in investigating or responding to a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d7b1f11708a0a0
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L003–L003
+Search query IDs: S6-Q02, S6-Q05
+Search terms: on behalf student | complaint process student
+Extraction/review flags: none recorded
+Context before: 3.3.1. The line manager and any other person involved in investigating or responding to a
+Candidate passage: complaint will do so on behalf of the University.
+Context after: 3.3.2. Once in receipt of the complaint, if the line manager is of the view that:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-04ba9169288493
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L007–L007
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: (b) by dealing with the subject matter of the complaint or the other parties to the
+Candidate passage: complaint they would be in breach of the Disclosure of Relationships and
+Context after: Interest Procedures;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-545993db8c3c98
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L022–L022
+Search query IDs: S6-Q02, S6-Q05
+Search terms: on behalf student | complaint process student
+Extraction/review flags: none recorded
+Context before: (via an ISU complaint notification or through other means) commence addressing the
+Candidate passage: complaint. For international student complainants in particular, this is a mandatory
+Context after: requirement under the National Code of the Education Services for Overseas
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5811e13fb3bd46
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L027–L027
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Manager Guidelines – how to effectively deal with complaints (these guidelines are
+Candidate passage: currently under review, contact ISU for assistance) and other information provided on
+Context after: the ISU web page – Complaint Handling at Curtin in coming to an informed decision
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e4cd2a5d54ea3f
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L030–L030
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: on the merits of the complaint and the most appropriate course of action, as soon as is
+Candidate passage: practicable. As someone who is acting on behalf of the University, such a decision will
+Context after: be made to the satisfaction of the University.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-57b3dc362fe1fc
+Source ID: N004
+Document title: Complaints Procedures
+Printed bundle page: 289
+PDF viewer page (navigation only): 289
+Line numbers: L038–L038
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: of the complaint and the reasons for the outcome, and will disclose as much
+Candidate passage: information about the complaint’s resolution as the privacy and confidentiality of
+Context after: affected parties permit; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b6fff14e3d41cc
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 293
+PDF viewer page (navigation only): 293
+Line numbers: L011–L011
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: University.
+Candidate passage: Council is the ultimate legislative authority of the University, with power to make statutes, rules and
+Context after: by-laws, and to recommend changes to the Curtin Act, to facilitate the educational and research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-37f7cf31791085
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 293
+PDF viewer page (navigation only): 293
+Line numbers: L033–L033
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: 3.4 Delegations must be in writing and may be expressed to be subject to conditions or
+Candidate passage: limitations which must be complied with by the person exercising the delegated function.
+Context after: 3.5 A person or body delegating a function may, at any time:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-451171f439e9e0
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 293
+PDF viewer page (navigation only): 293
+Line numbers: L035–L035
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: 3.5 A person or body delegating a function may, at any time:
+Candidate passage: (a) exercise the delegated function; or
+Context after: (b) in writing, revoke or vary the delegation.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d21b91096494eb
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 295
+PDF viewer page (navigation only): 295
+Line numbers: L005–L005
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Authorisation
+Candidate passage: Enables a person or body to be given authority to exercise a function on behalf of the University.
+Context after: Delegation
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d4c05e5ebef828
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 295
+PDF viewer page (navigation only): 295
+Line numbers: L015–L015
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Sub-delegation
+Candidate passage: Enables a person or body with a delegated function to delegate all or part of that function to another
+Context after: person or body.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-59324f10537a83
+Source ID: N007
+Document title: Delegations Policy
+Printed bundle page: 295
+PDF viewer page (navigation only): 295
+Line numbers: L035–L035
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Policy Manager Chief Operating Officer
+Candidate passage: Approval Authority Council
+Context after: Review Date 1st April 2025
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ccc369445e6358
+Source ID: N008
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Policy
+Printed bundle page: 220
+PDF viewer page (navigation only): 220
+Line numbers: L012–L012
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: repeated.
+Candidate passage: The following principles underpin the appeal process:
+Context after: 3.1. Appropriate appeal and complaint provisions will be available with respect to admission,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8434df7ea5b994
+Source ID: N008
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Policy
+Printed bundle page: 220
+PDF viewer page (navigation only): 220
+Line numbers: L013–L013
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: The following principles underpin the appeal process:
+Candidate passage: 3.1. Appropriate appeal and complaint provisions will be available with respect to admission,
+Context after: enrolment and examination decisions. If an applicant or student considers that they have been
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e1b4c7018a166b
+Source ID: N008
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Policy
+Printed bundle page: 220
+PDF viewer page (navigation only): 220
+Line numbers: L019–L019
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 3.3. Appeals will be resolved expeditiously, with due regard to legislative requirements.
+Candidate passage: 3.4. A student’s enrolment will be maintained while the appeal process is ongoing. However, this
+Context after: does not entitle a student to enrol in courses or programs for which they are not eligible.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-185b1a919974c6
+Source ID: N009
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Procedures
+Printed bundle page: 222
+PDF viewer page (navigation only): 222
+Line numbers: L005–L005
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2. PROCEDURAL DETAILS
+Candidate passage: 2.1. An applicant or student who is notified that a decision to revoke, cancel or refuse enrolment
+Context after: has been made, will have 15 working days from the date of the notification to appeal.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3ba95b7f03c6e3
+Source ID: N009
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Procedures
+Printed bundle page: 222
+PDF viewer page (navigation only): 222
+Line numbers: L007–L007
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: has been made, will have 15 working days from the date of the notification to appeal.
+Candidate passage: 2.2. A student attending an interview associated with an appeal may be accompanied by a support
+Context after: person.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-750769b253b68d
+Source ID: N009
+Document title: Higher Degree by Research (HDR) Appeals and Complaints Procedures
+Printed bundle page: 222
+PDF viewer page (navigation only): 222
+Line numbers: L010–L010
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2.3. Any student that is not satisfied with the result or conduct of any formal internal appeal
+Candidate passage: process may file a complaint with the Western Australia Ombudsman..
+Context after: 2.4. Appeals against cancellation of enrolment
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d11856fde5156d
+Source ID: N010
+Document title: Information Management Policy
+Printed bundle page: 228
+PDF viewer page (navigation only): 228
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: [none extracted]
+Candidate passage: Information Management
+Context after: The structures, systems, people and processes to capture, manage, preserve, store and deliver
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-abb8bde1e8b7af
+Source ID: N010
+Document title: Information Management Policy
+Printed bundle page: 228
+PDF viewer page (navigation only): 228
+Line numbers: L020–L020
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 6. SUPPORTING PROCEDURES
+Candidate passage: Disclosure of Personal Information Procedures
+Context after: Information Management Procedures
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8bdfdcf3bafc4d
+Source ID: N010
+Document title: Information Management Policy
+Printed bundle page: 228
+PDF viewer page (navigation only): 228
+Line numbers: L044–L044
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • State Records Act 2000 (WA)Privacy Act 1988 (Cth)
+Candidate passage: • Privacy and Responsible Information Sharing Act (WA)
+Context after: • Public Sector Management Act 1994 (WA)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-94f03d5c3b9767
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 230
+PDF viewer page (navigation only): 230
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Information Management Procedures
+Context after: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-77301d0dd92fea
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 230
+PDF viewer page (navigation only): 230
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate passage: Information Management Policy
+Context after: 2. PROCEDURAL DETAILS
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2eaeacba77002b
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 230
+PDF viewer page (navigation only): 230
+Line numbers: L025–L025
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Accessible Information Procedures
+Candidate passage: • Disclosure of Personal Information Procedures
+Context after: • Diversity, Inclusion and Belonging Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c5dc8081932ff
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 231
+PDF viewer page (navigation only): 231
+Line numbers: L002–L002
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: b) Individuals will consider accessibility, diversity and inclusion at the point of creation of data
+Candidate passage: and information to ensure that appropriate language and formats are used.
+Context after: c) Individuals will only collect the minimum amount of Personal Information necessary from
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a546310279282c
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 231
+PDF viewer page (navigation only): 231
+Line numbers: L042–L042
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: requirement to use alternative storage. Data in hard copy form will be stored in locations
+Candidate passage: appropriate to its Information Security Classification. Refer to the Privacy Procedures and
+Context after: Where to Store Information.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3dbe50ec4af836
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 231
+PDF viewer page (navigation only): 231
+Line numbers: L053–L053
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: freedom of information.
+Candidate passage: c) The University community will comply with the Privacy Procedures and/or Disclosure of
+Context after: Personal Information Procedures with regards to using, sharing or disclosing any personal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-da9b8c074a5251
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 235
+PDF viewer page (navigation only): 235
+Line numbers: L002–L002
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Metadata
+Candidate passage: Structured information that describes and/or allows users to find, manage, control, understand or
+Context after: preserve other information over time. Examples of metadata include author, date created, title,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-109fbce280d534
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 235
+PDF viewer page (navigation only): 235
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Structured information that describes and/or allows users to find, manage, control, understand or
+Candidate passage: preserve other information over time. Examples of metadata include author, date created, title,
+Context after: date last modified and by whom, etc.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4cb5ec40f77d9f
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 235
+PDF viewer page (navigation only): 235
+Line numbers: L019–L019
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Curtin Information Management and Archives website (Staff only)
+Candidate passage: Disclosure of Personal Information Procedures
+Context after: Disposal of Information guide
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b8dfb6e8d94a61
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: SENSITIVE This classification is for This is the default classification for research data
+Candidate passage: information that commonly and information related to research projects, as
+Context after: includes ‘sensitive’ or confidential well as Personal Information (PI) as defined under
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-12e279a4518a37
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L004–L004
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: information that commonly and information related to research projects, as
+Candidate passage: includes ‘sensitive’ or confidential well as Personal Information (PI) as defined under
+Context after: material created, used or handled the Privacy and Responsible Information Sharing
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6f65f9680e4112
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L005–L005
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: includes ‘sensitive’ or confidential well as Personal Information (PI) as defined under
+Candidate passage: material created, used or handled the Privacy and Responsible Information Sharing
+Context after: by the University. Such Act 2024 (including Sensitive Personal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a82e2d3b59970a
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L028–L028
+Search query IDs: S6-Q04
+Search terms: password account
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • Exam results and grades.
+Candidate passage: • Password and cryptographic key
+Context after: information.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4f5c6e229bc4a6
+Source ID: N011
+Document title: Information Management Procedures
+Printed bundle page: 238
+PDF viewer page (navigation only): 238
+Line numbers: L058–L058
+Search query IDs: S6-Q04
+Search terms: password account
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Curtin (e.g., Tax File Numbers,
+Candidate passage: passport details, bank account details,
+Context after: Police Clearances).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1239a1bb41d90a
+Source ID: N013
+Document title: Intellectual Property Procedures
+Printed bundle page: 331
+PDF viewer page (navigation only): 331
+Line numbers: L011–L011
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: of that IP in the manner required by IP Commercialisation.
+Candidate passage: 2.13.2 The University may impose any conditions on assignment of ownership of University
+Context after: IP, including without limitation:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e2118ebd8cb46f
+Source ID: N013
+Document title: Intellectual Property Procedures
+Printed bundle page: 331
+PDF viewer page (navigation only): 331
+Line numbers: L014–L014
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (a) the amount (if any) of a reasonable royalty or fee to the University, taking into
+Candidate passage: consideration resources spent by the University on the development, protection
+Context after: and/or commercialisation of the University IP; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d230829d7af9e5
+Source ID: N013
+Document title: Intellectual Property Procedures
+Printed bundle page: 331
+PDF viewer page (navigation only): 331
+Line numbers: L028–L028
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: of IP; and
+Candidate passage: (b) employees or students are involved in activities or have obligations on behalf of
+Context after: the University under that agreement; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-108dc82965d0b9
+Source ID: N014
+Document title: Policy Development Procedures
+Printed bundle page: 337
+PDF viewer page (navigation only): 337
+Line numbers: L007–L007
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: c. procedures that support policies approved by Council will be approved by
+Candidate passage: the Council, except those delegated to:
+Context after: i. the Vice-Chancellor;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3127146aa1bc8f
+Source ID: N014
+Document title: Policy Development Procedures
+Printed bundle page: 337
+PDF viewer page (navigation only): 337
+Line numbers: L014–L014
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: of all other procedures will be approved as per 2.2.3 (a).
+Candidate passage: (c) Procedures will be rescinded by the same authority as the relevant approving
+Context after: body as at the time of rescission.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bc623c7e944f6e
+Source ID: N015
+Document title: Guidance Notes on Academic Policy Development
+Printed bundle page: 341
+PDF viewer page (navigation only): 341
+Line numbers: L015–L015
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: Board. They include documents formally identified as policies made under the University’s
+Candidate passage: Compliance Policy, and other prescriptions which have the authority of a resolution of
+Context after: Academic Board as delegated by Council.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-438054afa4730c
+Source ID: N015
+Document title: Guidance Notes on Academic Policy Development
+Printed bundle page: 341
+PDF viewer page (navigation only): 341
+Line numbers: L016–L016
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: Compliance Policy, and other prescriptions which have the authority of a resolution of
+Candidate passage: Academic Board as delegated by Council.
+Context after: 2.2 Academic Policies include policies relating to a range of academic matters, specifically, in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d67dfe4531891f
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 241
+PDF viewer page (navigation only): 241
+Line numbers: L010–L010
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Officer. Individuals may also request access to or correction of any personal information held
+Candidate passage: by the University under the Freedom of Information Act 1992 (WA) and Disclosure of Personal
+Context after: Information Procedures.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4cdc9922b80a55
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 241
+PDF viewer page (navigation only): 241
+Line numbers: L016–L016
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: or activities, including whether as a visitor, adjunct appointee, service provider, contractor or
+Candidate passage: volunteer. Global campuses must abide by freedom of information, privacy and any requirements
+Context after: for the management and reporting of data breaches which apply to their jurisdiction.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-101d5d1d06f727
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 241
+PDF viewer page (navigation only): 241
+Line numbers: L024–L024
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: particular purpose (for example, granting permission to disclose, use, share or store personal
+Candidate passage: information). The individual must be adequately informed about the specific use or disclosure and
+Context after: must voluntarily give current and specific permission for the proposed use or disclosure. Such
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-95a2fd153ed611
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L002–L002
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • academic records; • managing applications, enrolment and
+Candidate passage: Student collection
+Context after: • citizenship or visa information; participation in education
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6daedda7e15e10
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Student collection
+Candidate passage: • citizenship or visa information; participation in education
+Context after: • certifications and clearance • communicating information related to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a907d18c8ad4b1
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L004–L004
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • citizenship or visa information; participation in education
+Candidate passage: • certifications and clearance • communicating information related to
+Context after: records; surveys, promotions and marketing;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-da4c5d37a1410a
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L006–L006
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: records; surveys, promotions and marketing;
+Candidate passage: • health and vaccination information • operating our alumni program;
+Context after: (where required for placement);
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-83b606c314f44e
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L024–L024
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • association or use of any service or facility • current or previous employers; and
+Candidate passage: hosted and managed by us (such as student run
+Context after: clinics, childcare services, sporting facility, • nominated referees.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bbdf3bb1d0c59f
+Source ID: N016
+Document title: Privacy Policy
+Printed bundle page: 244
+PDF viewer page (navigation only): 244
+Line numbers: L038–L038
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Act 1988 (Cth) exists; • working with organisations we contract with to
+Candidate passage: • carrying out the normal functions and activities provide services on our behalf, such as software
+Context after: of the University. suppliers and mail houses;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e2d9fa604f4939
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 245
+PDF viewer page (navigation only): 245
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Privacy Procedures
+Context after: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2c9dfcdf8250af
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 245
+PDF viewer page (navigation only): 245
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate passage: Privacy Policy (forthcoming)
+Context after: 2. PROCEDURAL DETAILS
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0142fbea8c231d
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 245
+PDF viewer page (navigation only): 245
+Line numbers: L006–L006
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: This document outlines procedures for appropriate collection, use and handling of personal
+Candidate passage: information and sensitive personal information.
+Context after: 2.1 Responsibilities
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a1600738d6a661
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 245
+PDF viewer page (navigation only): 245
+Line numbers: L026–L026
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: f) use of web tracking technologies such as cookies; or
+Candidate passage: g) use of any service or facility hosted and/or managed by us (for example; student
+Context after: run clinics, childcare services, sporting facility, health or counselling services).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ccc3a691926ccc
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 245
+PDF viewer page (navigation only): 245
+Line numbers: L043–L043
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: 2.3.4 Where the University or individual areas use any third-party storage provider to store,
+Candidate passage: use or disclose personal or sensitive information, an area representative will be
+Context after: required to complete a Privacy Impact Assessment and may also be required to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-05c7253b52bef1
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 246
+PDF viewer page (navigation only): 246
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: 2.3.4 If we no longer need to hold personal information or we are no longer required by law
+Context after: to keep it, we will take reasonable steps to either destroy the information or to ensure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6c8f5c06a1ff14
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 246
+PDF viewer page (navigation only): 246
+Line numbers: L005–L005
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Information Management Procedures with regards to disposal of information).
+Candidate passage: 2.4 Disclosure of personal information and sensitive personal information
+Context after: 2.4.1 The University will not disclose personal information or sensitive personal information
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f3b3c0b8a6f9c7
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 246
+PDF viewer page (navigation only): 246
+Line numbers: L025–L025
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 2.4.4 Any misuse, interference, loss or accidental disclosure, as well as any actual or
+Candidate passage: potential unauthorised access, modification to or disclosure of personal information
+Context after: and sensitive personal information held by the University (including third parties, such
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4e1f102ca59b13
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 247
+PDF viewer page (navigation only): 247
+Line numbers: L004–L004
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: or activities, including whether as a visitor, adjunct appointee, service provider, contractor or
+Candidate passage: volunteer. Global campuses must abide by freedom of information, privacy and any requirements
+Context after: for the management and reporting of data breaches which apply to their jurisdiction.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c9835025a5dfb
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 247
+PDF viewer page (navigation only): 247
+Line numbers: L015–L015
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: particular purpose (for example, granting permission to disclose, use, share or store personal
+Candidate passage: information). The individual must be adequately informed about the specific use or disclosure and
+Context after: must voluntarily give current and specific permission for the proposed use or disclosure. Such
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-422f30ca88790d
+Source ID: N017
+Document title: Privacy Procedures
+Printed bundle page: 247
+PDF viewer page (navigation only): 247
+Line numbers: L034–L034
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Curtin University Cookies Statement
+Candidate passage: • Disclosure of Personal Information Procedures
+Context after: • Freedom of Information Act 1992 (WA)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2de5134925a146
+Source ID: N020
+Document title: Purchasing Procedures
+Printed bundle page: 346
+PDF viewer page (navigation only): 346
+Line numbers: L005–L005
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: payment no Curtin contract exists and where a the appropriate stored within
+Candidate passage: without purchase order isn’t appropriate. delegated authority Ci-Anywhere,
+Context after: purchase Specific expense categories that are prior to purchase including any
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8172c77e227e6a
+Source ID: N020
+Document title: Purchasing Procedures
+Printed bundle page: 355
+PDF viewer page (navigation only): 355
+Line numbers: L005–L005
+Search query IDs: S6-Q04
+Search terms: password account
+Extraction/review flags: none recorded
+Context before: 2.6.3. Other important procedural information for staff reimbursements
+Candidate passage: Changes to designated bank account: These changes can be made at any point by
+Context after: logging on to Concur and making the necessary changes directly.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5bb576a1d24142
+Source ID: N020
+Document title: Purchasing Procedures
+Printed bundle page: 355
+PDF viewer page (navigation only): 355
+Line numbers: L010–L010
+Search query IDs: S6-Q04
+Search terms: password account
+Extraction/review flags: none recorded
+Context before: You can log-in to the Concur app with your staff email address and your Curtin
+Candidate passage: password.
+Context after: Transaction Minimums/ Maximums: There is no minimum transaction value in Concur
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c779ee7d99e58c
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 249
+PDF viewer page (navigation only): 249
+Line numbers: L016–L016
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2.1.1. Anyone who has a concern about the conduct of research may make a formal
+Candidate passage: complaint. A formal complaint will be lodged through the Complaints Portal as outlined
+Context after: in section 2.3.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-be18635df35a73
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 249
+PDF viewer page (navigation only): 249
+Line numbers: L020–L020
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: within a timely manner, discuss their concern with their line manager to determine
+Candidate passage: whether a formal complaint needs to be made.
+Context after: 2.1.3. If the person with a concern about the conduct of research is a HDR student, they will,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ada6f54cd95cf2
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 249
+PDF viewer page (navigation only): 249
+Line numbers: L038–L038
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2.1.7. Where a Research Integrity Advisor considers a concern needs to escalate through a
+Candidate passage: formal complaint process, they will seek advice from the Manager Research Integrity
+Context after: and provide all relevant information to the Manager, Research Integrity, or the Integrity
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4a39c14589ce48
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 251
+PDF viewer page (navigation only): 251
+Line numbers: L014–L014
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2.6. Correction of the research record
+Candidate passage: 2.6.1. If an assessment or investigation process under The Guide results in a determination
+Context after: that the research record be corrected, action may be undertaken by the Research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c6fe56f742061a
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 251
+PDF viewer page (navigation only): 251
+Line numbers: L017–L017
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Integrity Office to correct the research record and inform relevant parties of any
+Candidate passage: outcomes pertaining to the complaint.
+Context after: 3. RESPONSIBILITIES
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8540b040ecc031
+Source ID: N021
+Document title: Responsible Conduct of Research (Employees) Procedures
+Printed bundle page: 251
+PDF viewer page (navigation only): 251
+Line numbers: L023–L023
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 3.2 The Designated Officer assigns a suitably qualified Assessment Officer, oversees the
+Candidate passage: preliminary assessment and decides whether a complaint is referred to an investigation,
+Context after: resolved without need for investigation, referred to other institutional processes (including local
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7ce3ba09f5e6a0
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L001–L001
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Student can locate details about what information we collect about them, how it is used, and who to
+Context after: talk to if they have any concerns by referring to the student privacy collection notice.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-95e5d798752853
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L002–L002
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Student can locate details about what information we collect about them, how it is used, and who to
+Candidate passage: talk to if they have any concerns by referring to the student privacy collection notice.
+Context after: Student privacy collection notice
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-105738de6dc5bf
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L009–L009
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: which will involve personal information of individuals or which changes the way we already use
+Candidate passage: personal information, then you might need to conduct a privacy impact assessment before you
+Context after: start.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-385d3a7ae2d261
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L017–L017
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Managing an information breach
+Candidate passage: An information breach can be any unauthorised access to or disclosure of personal and sensitive
+Context after: information. It can also be the loss of a Curtin device which holds or has access to personal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1f28a5cf895295
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L021–L021
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: In the event of an actual or suspected information breach, even if it is not deliberate or malicious,
+Candidate passage: refer to the information management procedure and email privacy@curtin.edu.au
+Context after: Understanding an information breach advice sheet
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-adfafa32f6d2cd
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L043–L043
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Individuals who believe an ADM decision has impacted them may raise their concerns using the
+Candidate passage: Privacy Complaint process described on this page.
+Context after: Privacy Advice – Automated Decision-Making and Privacy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b831966a90a6c9
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 255
+PDF viewer page (navigation only): 255
+Line numbers: L006–L006
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Further information can be found from the West Australian Office of the Information Commissioner,
+Candidate passage: or by referring to the Privacy and Responsible Information Sharing Act (WA (2024).
+Context after: WA Office of the Information Commissioner
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-993e6d64c2ac56
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 255
+PDF viewer page (navigation only): 255
+Line numbers: L009–L009
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: OAIC privacy management framework
+Candidate passage: Privacy and Responsible Information Sharing Act (WA) 2024
+Context after: Frequently asked questions
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-019afa8f2ac7a4
+Source ID: N121
+Document title: Privacy guidance
+Printed bundle page: 255
+PDF viewer page (navigation only): 255
+Line numbers: L017–L017
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: parties external to Curtin without the students’ consent, unless we are compelled to do so by law.
+Candidate passage: Students may submit their consent using the Disclosure of Information and Proxy Authorisation
+Context after: form.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-14b00536ee5d22
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 143
+PDF viewer page (navigation only): 143
+Line numbers: L003–L003
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Pathway 1 – Authorised Officer process .................................................................................................... 40
+Candidate passage: Pathway 2 – Student Conduct Panel process ............................................................................................ 40
+Context after: Investigation ........................................................................................................................................ 40
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-77d4154e31c270
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 143
+PDF viewer page (navigation only): 143
+Line numbers: L014–L014
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: How to submit an appeal ..................................................................................................................... 43
+Candidate passage: Student Conduct Appeal Panel ................................................................................................................ 44
+Context after: Who is on the appeal panel? ................................................................................................................ 44
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-256fab84eeba1e
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 143
+PDF viewer page (navigation only): 143
+Line numbers: L018–L018
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Outcome ............................................................................................................................................. 44
+Candidate passage: External appeal – National Student Ombudsman ...................................................................................... 45
+Context after: WHERE CAN I LEARN MORE OR GET HELP? ............................................................................................. 45
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-833c2daf3fb61e
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 177
+PDF viewer page (navigation only): 177
+Line numbers: L004–L004
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • Giving misleading information in relation to an Academic Record
+Candidate passage: • Allowing someone else to give false or misleading information on your behalf
+Context after: Your academic record means any document that contains information relating to your academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-da4dac73280567
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 177
+PDF viewer page (navigation only): 177
+Line numbers: L009–L009
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: University, or your secondary school results, are part of your academic record.
+Candidate passage: Academic record fraud can occur at any stage of the student lifecycle at Curtin. This includes the
+Context after: initial application process and any time after leaving the University if false claims about an academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-819edafeaaf9fc
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 177
+PDF viewer page (navigation only): 177
+Line numbers: L021–L021
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Allowing someone else to give false or misleading Telling an education agent that you had
+Candidate passage: information on your behalf completed a degree at an overseas institution
+Context after: (when you did not), and to include that
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1e55dfe438b42c
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 178
+PDF viewer page (navigation only): 178
+Line numbers: L002–L002
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: WHAT SHOULD I EXPECT IF I RECEIVE A MISCONDUCT ALLEGATION?
+Candidate passage: REPORTING STUDENT MISCONDUCT
+Context after: If a staff member suspects you’ve engaged in misconduct, they are
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c7cd3d931fc6b9
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 178
+PDF viewer page (navigation only): 178
+Line numbers: L012–L012
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Curtin staff, which may include an Inquiry Officer, an Authorised Officer,
+Candidate passage: and members of Student Conduct or Appeal Panels.
+Context after: During the review:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-67d2afef8f2bf8
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 178
+PDF viewer page (navigation only): 178
+Line numbers: L013–L013
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: and members of Student Conduct or Appeal Panels.
+Candidate passage: During the review:
+Context after: • The reviewers can gather information in any way that is appropriate
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-155cd853aed3bd
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 179
+PDF viewer page (navigation only): 179
+Line numbers: L001–L001
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Once the preliminary report is received, the Authorised Officer will review the case and decide one of
+Context after: the following:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-43dcf8312635db
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 179
+PDF viewer page (navigation only): 179
+Line numbers: L010–L010
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: If your case is being handled through Pathway 1, here’s what you can expect:
+Candidate passage: 1. You’ll receive written notice through your student email and
+Context after: Official Communication that includes:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a8162198d1c6c9
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 179
+PDF viewer page (navigation only): 179
+Line numbers: L021–L021
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: situation, the case will be closed, and you won’t be
+Candidate passage: able to appeal
+Context after: o Reject the proposed outcome and/or penalty. You can
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7e1f46be0eec8b
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 180
+PDF viewer page (navigation only): 180
+Line numbers: L012–L012
+Search query IDs: S6-Q01, S6-Q06
+Search terms: student representative | student appeal review
+Extraction/review flags: none recorded
+Context before: o A recommendation on possible penalties (if applicable)
+Candidate passage: 5. The report is then sent to the Student Conduct Panel for review.
+Context after: WHO IS ON THE STUDENT CONDUCT PANEL?
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4cf51e57675735
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 180
+PDF viewer page (navigation only): 180
+Line numbers: L013–L013
+Search query IDs: S6-Q01, S6-Q06
+Search terms: student representative | student appeal review
+Extraction/review flags: none recorded
+Context before: 5. The report is then sent to the Student Conduct Panel for review.
+Candidate passage: WHO IS ON THE STUDENT CONDUCT PANEL?
+Context after: If your case is reviewed by the Student Conduct Panel, the members
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-21798991c5636a
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 180
+PDF viewer page (navigation only): 180
+Line numbers: L014–L014
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: WHO IS ON THE STUDENT CONDUCT PANEL?
+Candidate passage: If your case is reviewed by the Student Conduct Panel, the members
+Context after: will be:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cf154ea2477f57
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 180
+PDF viewer page (navigation only): 180
+Line numbers: L018–L018
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: • A Staff Member
+Candidate passage: • A Student representative
+Context after: At least two members must be present for the hearing to go ahead —
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-841764327008e1
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 182
+PDF viewer page (navigation only): 182
+Line numbers: L003–L003
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: two business days.
+Candidate passage: For full details on penalties, refer to Statute No. 10 – Student Discipline and the Student Misconduct
+Context after: Rules on the Curtin legislation website.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bbf44bdb1089f8
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 182
+PDF viewer page (navigation only): 182
+Line numbers: L036–L036
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: • Be submitted within the required timeframe
+Candidate passage: The Office of the Academic Registrar will review your appeal to see if it meets the requirements. If it
+Context after: does, your case will be reviewed by an appropriate Authorised Officer or Student Conduct Appeal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7632028e5aa0e7
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 182
+PDF viewer page (navigation only): 182
+Line numbers: L037–L037
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: The Office of the Academic Registrar will review your appeal to see if it meets the requirements. If it
+Candidate passage: does, your case will be reviewed by an appropriate Authorised Officer or Student Conduct Appeal
+Context after: Panel. If it doesn’t, or if it’s unlikely to succeed, your appeal will be rejected.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-84757aa1a088ad
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L001–L001
+Search query IDs: S6-Q01, S6-Q02, S6-Q06
+Search terms: student representative | on behalf student | student appeal review
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: STUDENT CONDUCT APPEAL PANEL
+Context after: WHO IS ON THE APPEAL PANEL?
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ccc790d29b17a0
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L002–L002
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: STUDENT CONDUCT APPEAL PANEL
+Candidate passage: WHO IS ON THE APPEAL PANEL?
+Context after: If your case is reviewed by the Student Conduct Appeal Panel, the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b16052f0f9ea51
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L003–L003
+Search query IDs: S6-Q01, S6-Q06
+Search terms: student representative | student appeal review
+Extraction/review flags: none recorded
+Context before: WHO IS ON THE APPEAL PANEL?
+Candidate passage: If your case is reviewed by the Student Conduct Appeal Panel, the
+Context after: members will be:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-784fed9c472de8
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L007–L007
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: • A Pro Vice-Chancellor (or their delegate)
+Candidate passage: • A Student representative
+Context after: At least two members must be present for the hearing to go ahead —
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ac20a2a6068d04
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L013–L013
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: You will be offered an opportunity to meet with the Student Conduct
+Candidate passage: Appeal Panel in a hearing. The Student Conduct Appeal Panel Chair
+Context after: oversees the hearing, ensuring the process is fair and orderly. You’ll
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1e97e2d1f43d3a
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L017–L017
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: welcome to bring a support person with you. However, they do not
+Candidate passage: speak on your behalf unless the Chair gives permission. Even with a support person, the Chair may
+Context after: still ask you questions directly. If you don’t attend the hearing, the Chair may decide to continue
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1c5e48fc2b14a2
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 184
+PDF viewer page (navigation only): 184
+Line numbers: L001–L001
+Search query IDs: S6-Q05, S6-Q06
+Search terms: complaint process student | student appeal review
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: EXTERNAL APPEAL – NATIONAL STUDENT OMBUDSMAN
+Context after: If you believe your case wasn’t handled fairly, you can make a complaint to the National Student
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d86986c3b49049
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 184
+PDF viewer page (navigation only): 184
+Line numbers: L002–L002
+Search query IDs: S6-Q05, S6-Q06
+Search terms: complaint process student | student appeal review
+Extraction/review flags: none recorded
+Context before: EXTERNAL APPEAL – NATIONAL STUDENT OMBUDSMAN
+Candidate passage: If you believe your case wasn’t handled fairly, you can make a complaint to the National Student
+Context after: Ombudsman (NSO). The NSO is independent from the University and does not charge any fees.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2f9f7fee22d4bf
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 184
+PDF viewer page (navigation only): 184
+Line numbers: L024–L024
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Facing a misconduct allegation can be stressful. You're not alone — there are free, confidential
+Candidate passage: services available to support you throughout the process.
+Context after: RECEIVED A MISCONDUCT NOTIFICATION?
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8e7b3933b14a68
+Source ID: N136
+Document title: Academic Integrity and Conduct - Student Guide
+Printed bundle page: 184
+PDF viewer page (navigation only): 184
+Line numbers: L027–L027
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: • Download and read all documents, especially the allegation letter.
+Candidate passage: • Review the details carefully.
+Context after: • If you have questions, email the Student Conduct team at SCO@curtin.edu.au. Please include
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d009b0ff7fcb08
+Source ID: N138
+Document title: Academic integrity (student hub)
+Printed bundle page: 193
+PDF viewer page (navigation only): 193
+Line numbers: L016–L016
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Having a mobile phone or other electronic device in an examination or testing environment
+Candidate passage: Copying answers from another person or permitting another student to copy answers
+Context after: Exchanging notes, talking or communicating with another student in an examination or test
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6d2a23e8b13943
+Source ID: N138
+Document title: Academic integrity (student hub)
+Printed bundle page: 193
+PDF viewer page (navigation only): 193
+Line numbers: L028–L028
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Impersonating a student in an examination or arranging for another to impersonate, take or
+Candidate passage: complete the assessment on your behalf.
+Context after: Cheating in an assessment or other assessable work:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b077057b47fc8c
+Source ID: N138
+Document title: Academic integrity (student hub)
+Printed bundle page: 193
+PDF viewer page (navigation only): 193
+Line numbers: L033–L033
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: assessment outsourcing or ghost writing) and claiming authorship for it. This includes:
+Candidate passage: Allowing someone or an organisation to draft or complete an assessment task on your behalf
+Context after: Contracting another person to do the work for you
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-212945ccbcaf1b
+Source ID: N140
+Document title: Statute No. 10 - Student Discipline
+Printed bundle page: 360
+PDF viewer page (navigation only): 360
+Line numbers: L004–L004
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (c) allowing a false or misleading Academic Record to be
+Candidate passage: presented on behalf of the Student or another person;
+Context after: Act means the Curtin University Act 1966;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f2b3754829350e
+Source ID: N140
+Document title: Statute No. 10 - Student Discipline
+Printed bundle page: 360
+PDF viewer page (navigation only): 360
+Line numbers: L006–L006
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: Act means the Curtin University Act 1966;
+Candidate passage: General Misconduct means conduct by a Student, other than
+Context after: conduct constituting Academic Record Fraud or Academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-931c2696c39e9e
+Source ID: N140
+Document title: Statute No. 10 - Student Discipline
+Printed bundle page: 360
+PDF viewer page (navigation only): 360
+Line numbers: L012–L012
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: country, and where the written law relates to an activity
+Candidate passage: associated with the Student being a Student of the
+Context after: University;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3a39652efdb2d4
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 200
+PDF viewer page (navigation only): 200
+Line numbers: L002–L002
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: CURTIN UNIVERSITY ACT 1966
+Candidate passage: STUDENT MISCONDUCT RULES 2026
+Context after: Part 1 – Preliminary
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bc9ff52d759957
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 200
+PDF viewer page (navigation only): 200
+Line numbers: L005–L005
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: 1. Short title
+Candidate passage: These Rules are the Student Misconduct Rules 2026 and they apply to all Student conduct.
+Context after: 2. Commencement
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c06ab6fd80e730
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 200
+PDF viewer page (navigation only): 200
+Line numbers: L023–L023
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (b) giving false or misleading information in relation to an Academic Record; or
+Candidate passage: (c) allowing a false or misleading Academic Record to be presented on behalf of the Student or
+Context after: another person.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bf683d1cf4db30
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 202
+PDF viewer page (navigation only): 202
+Line numbers: L009–L009
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: before a decision is made whether Student Misconduct has occurred;
+Candidate passage: (b) a Student must have a right of appeal against any ﬁnding that Student Misconduct has occurred
+Context after: and any Penalty that is imposed; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bbdb276826b543
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 202
+PDF viewer page (navigation only): 202
+Line numbers: L014–L014
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: including during any appeal.
+Candidate passage: 4.3 Inquiry Oﬃcers, Authorised Oﬃcers, Student Conduct Panels, and Student Conduct Appeal Panels:
+Context after: (a) are not bound by the rules of evidence and may inform themselves on any matter in any way
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-adb44129665191
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 202
+PDF viewer page (navigation only): 202
+Line numbers: L024–L024
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: system speciﬁed by the Academic Registrar.
+Candidate passage: 6.2 A Student may request that the Academic Registrar review a Warning if the Student reasonably
+Context after: believes that the Warning was made in error.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c7ef9245f8ba36
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 207
+PDF viewer page (navigation only): 207
+Line numbers: L002–L002
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (iii) not compliant with a material requirement of these Rules; or
+Candidate passage: (iv) based on a material mistake as to the facts.
+Context after: (b) The Student has access to new evidence that:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5bf88a6bdea43e
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 207
+PDF viewer page (navigation only): 207
+Line numbers: L012–L012
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: 15.5 The Student’s notice of appeal must:
+Candidate passage: (a) identify the grounds from Rule 15.3 which the Student relies on as the basis for the appeal;
+Context after: (b) set out the reasons for their appeal;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7f69817863e582
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 207
+PDF viewer page (navigation only): 207
+Line numbers: L024–L024
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: 15.8 The parties to an appeal are the Student and the University. The Academic Registrar will appoint a
+Candidate passage: person to represent and make submissions on behalf of the University.
+Context after: 16. Appeal Hearings
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9dbf12090ec0d3
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 208
+PDF viewer page (navigation only): 208
+Line numbers: L001–L001
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: (c) any submissions made by the Student or the University in relation to the grounds of appeal;
+Context after: and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-16bec0f47b2dbd
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 208
+PDF viewer page (navigation only): 208
+Line numbers: L003–L003
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: and
+Candidate passage: (d) any other relevant matter as determined by the Student Conduct Appeal Panel or Appeal
+Context after: Oﬃcer.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-506058a002905d
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 208
+PDF viewer page (navigation only): 208
+Line numbers: L009–L009
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: Student and the Academic Registrar as soon as reasonably practicable.
+Candidate passage: 16.8 A decision of the Student Conduct Appeal Panel or Appeal Oﬃcer is ﬁnal. No further internal review
+Context after: or appeal may be made.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d0b37bf2990390
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 210
+PDF viewer page (navigation only): 210
+Line numbers: L001–L001
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: 21.2 Any correction made to a decision must be notiﬁed to the Student promptly following discovery of
+Context after: that error, defect or omission.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6d4cc88ec2b266
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 210
+PDF viewer page (navigation only): 210
+Line numbers: L015–L015
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (a) delegate any of the Vice-Chancellor’s functions under these Rules; and
+Candidate passage: (b) authorise any person to carry out, on behalf of the Vice-Chancellor, any of the Vice-
+Context after: Chancellor’s functions under these Rules.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-18274e381755d8
+Source ID: N141
+Document title: Student Misconduct Rules 2026
+Printed bundle page: 210
+PDF viewer page (navigation only): 210
+Line numbers: L019–L019
+Search query IDs: S6-Q02
+Search terms: on behalf student
+Extraction/review flags: none recorded
+Context before: (a) delegate any of the Academic Registrar’s functions under these Rules;
+Candidate passage: (b) authorise a person to carry out, on behalf of the Academic Registrar, any of the Academic
+Context after: Registrar’s functions under these Rules; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-38b44edf6fdc31
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 385
+PDF viewer page (navigation only): 385
+Line numbers: L026–L026
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: this section.
+Candidate passage: (3) A resolution delegating a power, authority, duty or function may
+Context after: authorise the delegate to further delegate the delegated power,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-89370473943ddc
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 385
+PDF viewer page (navigation only): 385
+Line numbers: L027–L027
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: (3) A resolution delegating a power, authority, duty or function may
+Candidate passage: authorise the delegate to further delegate the delegated power,
+Context after: authority, duty or function to a person or body.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a1629a490b54c8
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 385
+PDF viewer page (navigation only): 385
+Line numbers: L028–L028
+Search query IDs: S6-Q03
+Search terms: delegated authority
+Extraction/review flags: none recorded
+Context before: authorise the delegate to further delegate the delegated power,
+Candidate passage: authority, duty or function to a person or body.
+Context after: (4) A subdelegation under this section must be in writing.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d73e77795275d9
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 396
+PDF viewer page (navigation only): 396
+Line numbers: L006–L006
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: (b) 5 persons who are appointed by the Minister and who
+Candidate passage: are representative of education, the professions, or
+Context after: industrial, commercial or community interests;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f6b658647246a7
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 396
+PDF viewer page (navigation only): 396
+Line numbers: L009–L009
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: (c) one person who is appointed by the Minister and who is
+Candidate passage: representative of vocational education and training
+Context after: interests;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9791989264164c
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 396
+PDF viewer page (navigation only): 396
+Line numbers: L023–L023
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: the Council of the University;
+Candidate passage: (h) an enrolled student of the Kalgoorlie Campus and who
+Context after: is appointed by the Council of the University;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-48a6ea0b9b52bb
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L003–L003
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Registered providers’ internal complaints and appeals must:
+Candidate passage:  have a process for overseas students to lodge a formal complaint or appeal if a matter
+Context after: cannot be resolved informally;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-66112ca0ed8dbe
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L005–L005
+Search query IDs: S6-Q05, S6-Q06
+Search terms: complaint process student | student appeal review
+Extraction/review flags: none recorded
+Context before: cannot be resolved informally;
+Candidate passage:  respond to any complaint or appeal an overseas student makes about the registered
+Context after: provider or any agent or related party the registered provider engages;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cda098c6785768
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L007–L007
+Search query IDs: S6-Q05, S6-Q06
+Search terms: complaint process student | student appeal review
+Extraction/review flags: none recorded
+Context before: provider or any agent or related party the registered provider engages;
+Candidate passage:  begin assessing a complaint or appeal within 10 working days of the overseas student
+Context after: lodging it, and finalise the outcome as soon as practicable;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-096f7b1506094b
+Source ID: N143
+Document title: Standard 10 - Complaints and appeals (ESOS National Code)
+Printed bundle page: 317
+PDF viewer page (navigation only): 317
+Line numbers: L013–L013
+Search query IDs: S6-Q06
+Search terms: student appeal review
+Extraction/review flags: none recorded
+Context before: and be accompanied and assisted by a support person if necessary; and
+Candidate passage:  give the overseas student a written statement of the outcome of the appeal, including the
+Context after: reasons for the outcome, and keep a written record of complaints or appeals on the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cdea007eb0fa03
+Source ID: N144
+Document title: Appeals (current students page)
+Printed bundle page: 320
+PDF viewer page (navigation only): 320
+Line numbers: L007–L007
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: For assistance with preparing for an appeal you can contact:
+Candidate passage: Guild Faculty Student Representative
+Context after: Guild Student Assist
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-78d143e7403a8f
+Source ID: N144
+Document title: Appeals (current students page)
+Printed bundle page: 320
+PDF viewer page (navigation only): 320
+Line numbers: L008–L008
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: Guild Faculty Student Representative
+Candidate passage: Guild Student Assist
+Context after: Student Wellbeing Advisory Service
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bcf87d7e2c711c
+Source ID: N144
+Document title: Appeals (current students page)
+Printed bundle page: 320
+PDF viewer page (navigation only): 320
+Line numbers: L009–L009
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: Guild Student Assist
+Candidate passage: Student Wellbeing Advisory Service
+Context after: Counselling Services
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-edb737dcb3723e
+Source ID: N147
+Document title: Information Management Policy
+Printed bundle page: 272
+PDF viewer page (navigation only): 272
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Information Management
+Context after: The structures, systems, people and processes to capture, manage, preserve, store and deliver
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b93e4d26422260
+Source ID: N147
+Document title: Information Management Policy
+Printed bundle page: 272
+PDF viewer page (navigation only): 272
+Line numbers: L020–L020
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 6. SUPPORTING PROCEDURES
+Candidate passage: Disclosure of Personal Information Procedures
+Context after: Information Management Procedures
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-585db7a2091333
+Source ID: N147
+Document title: Information Management Policy
+Printed bundle page: 272
+PDF viewer page (navigation only): 272
+Line numbers: L045–L045
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • State Records Act 2000 (WA)Privacy Act 1988 (Cth)
+Candidate passage: • Privacy and Responsible Information Sharing Act (WA)
+Context after: • Public Sector Management Act 1994 (WA)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7b80b2450bae45
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 274
+PDF viewer page (navigation only): 274
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Information Breach Policy
+Context after: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-420cc0cbb558a9
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 274
+PDF viewer page (navigation only): 274
+Line numbers: L030–L030
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 3.4 The University will collect, store, use and protect personal information and sensitive personal
+Candidate passage: information of individuals in a way which is compliant with the Australian Privacy Principles
+Context after: and any other applicable Australian Privacy law, or relevant jurisdictional law for overseas
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3c193e5696de7f
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 274
+PDF viewer page (navigation only): 274
+Line numbers: L036–L036
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 3.4.2 The University will provide a privacy collection notice regarding the use and
+Candidate passage: disclosure of personal information and sensitive personal information.
+Context after: 3.5 Personal information and sensitive personal information will be retained only for as long as
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-80b376a23d5940
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 275
+PDF viewer page (navigation only): 275
+Line numbers: L002–L002
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 3.7 In the event of any misuse, interference, loss or accidental disclosure, as well as any actual
+Candidate passage: or potential information breach (including unauthorised access, modification to or disclosure
+Context after: of personal information and sensitive personal information) held by the University (including
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d88a48d6a8bf97
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 275
+PDF viewer page (navigation only): 275
+Line numbers: L010–L010
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: or activities, including whether as a visitor, adjunct appointee, service provider, contractor or
+Candidate passage: volunteer. Global campuses must abide by freedom of information, privacy and any requirements
+Context after: for the management and reporting of data breaches which apply to their jurisdiction.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-265d8fe488a549
+Source ID: N148
+Document title: Information Breach Policy
+Printed bundle page: 275
+PDF viewer page (navigation only): 275
+Line numbers: L020–L020
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Any unauthorised access to personal information or sensitive personal information, or any
+Candidate passage: unauthorised or accidental disclosure of personal information or sensitive personal information, or
+Context after: any loss of personal information or sensitive personal information which is likely to result in serious
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-34cc391f5891f0
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Disclosure of Personal Information Procedures
+Context after: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-623b0fbb99538a
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L008–L008
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 2.1 The purpose of these procedures is to:
+Candidate passage: (a) ensure the privacy of personal information held by the University;
+Context after: (b) ensure that personal information is handled in accordance with the University’s
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-094d16424f6597
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 277
+PDF viewer page (navigation only): 277
+Line numbers: L027–L027
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: response to a request for personal information by social media.
+Candidate passage: 2.4 Access to and disclosure of personal information for research
+Context after: The University will manage personal information collected, used or accessible within research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5d2af805dbfff9
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 279
+PDF viewer page (navigation only): 279
+Line numbers: L002–L002
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.7.2 During a situation described in section 2.7.1, staff receiving a request for the release
+Candidate passage: of personal information or the nominated emergency contact for any student or staff
+Context after: will forward the request to:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6899bda1996cb4
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 279
+PDF viewer page (navigation only): 279
+Line numbers: L009–L009
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: (b) Director Risk, Compliance and Audit; or
+Candidate passage: Student (c) Information Disclosure Compliance Officer;
+Context after: or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ed0cd6295bef9c
+Source ID: N149
+Document title: Disclosure of Personal Information Procedures
+Printed bundle page: 279
+PDF viewer page (navigation only): 279
+Line numbers: L014–L014
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: (b) Director Risk, Compliance and Audit; or
+Candidate passage: Staff (c) Information Disclosure Compliance Officer;
+Context after: or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7be6e2a7070013
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 462
+PDF viewer page (navigation only): 462
+Line numbers: L015–L015
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: accreditation;
+Candidate passage: 2.9.6 consider and note the report from Student Consultative Committee/s; and
+Context after: 2.9.7 contribute to the general promotion of the School/discipline.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e448db1d34d8a4
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 462
+PDF viewer page (navigation only): 462
+Line numbers: L021–L021
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: and teaching and/or research appointed by the Head of School;
+Candidate passage: 2.10.3 a student representative appointed by the Head of School;
+Context after: 2.10.4 one staff representative selected from any other school/s that offers Double degrees with the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3b528536b49bcf
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 462
+PDF viewer page (navigation only): 462
+Line numbers: L022–L022
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: none recorded
+Context before: 2.10.3 a student representative appointed by the Head of School;
+Candidate passage: 2.10.4 one staff representative selected from any other school/s that offers Double degrees with the
+Context after: school, appointed by the Head of School, if applicable; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5b5c3e16e559aa
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 463
+PDF viewer page (navigation only): 463
+Line numbers: L003–L003
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.14.1 the Dean Learning and Teaching (or nominee);
+Candidate passage: 2.14.2 the Guild Faculty Representative (or nominee, appointed ex officio); and
+Context after: 2.14.3 at least eight student members representing a range of cohort demographics, courses and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bc630bf71c1833
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 463
+PDF viewer page (navigation only): 463
+Line numbers: L004–L004
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.14.2 the Guild Faculty Representative (or nominee, appointed ex officio); and
+Candidate passage: 2.14.3 at least eight student members representing a range of cohort demographics, courses and
+Context after: components offered by the Faculty, domestically and internationally and by mode, and with a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ea41849062c874
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 463
+PDF viewer page (navigation only): 463
+Line numbers: L008–L008
+Search query IDs: S6-Q01
+Search terms: student representative
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.15 The Dean Learning and Teaching (or nominee) will act as the Chairperson.
+Candidate passage: 2.16 Members, other than the Guild Faculty Representative (or nominee) and Dean Learning and
+Context after: Teaching (or nominee), will be appointed for a maximum three-year term.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e57c2f29869f05
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 498
+PDF viewer page (navigation only): 498
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Curtin University Code of Conduct
+Candidate passage: Curtin University Privacy Statement
+Context after: Disclosure of Personal Information Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c9e8c1e0af1417
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 498
+PDF viewer page (navigation only): 498
+Line numbers: L004–L004
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Curtin University Privacy Statement
+Candidate passage: Disclosure of Personal Information Procedure
+Context after: Higher Education Standards Framework (HESF) 2021: Domains 1, 2, 3, 4, 5 and 7
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-116e7e70a897ca
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 282
+PDF viewer page (navigation only): 282
+Line numbers: L005–L005
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: where relevant:
+Candidate passage: • appropriate information or data security provisions, including details relating to
+Context after: respective responsibilities for the security of Curtin’s data throughout the course of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1462d22de02d8b
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 282
+PDF viewer page (navigation only): 282
+Line numbers: L008–L008
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: the contractual agreement;
+Candidate passage: • provisions that enable Curtin to comply with its privacy expectations and legislative
+Context after: obligations;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-47bff1fb96419a
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 282
+PDF viewer page (navigation only): 282
+Line numbers: L010–L010
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: obligations;
+Candidate passage: • the right to audit third party and supporting Information Technology (IT) systems,
+Context after: services, processes and personnel activities and accesses;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6d018537e2b29d
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 283
+PDF viewer page (navigation only): 283
+Line numbers: L007–L007
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Telephony, videoconferencing and web conferencing systems, services and applications.
+Candidate passage: Information Asset
+Context after: Any knowledge or data (irrespective of format) that has value to the University and consequently
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9bf5b162c33051
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 283
+PDF viewer page (navigation only): 283
+Line numbers: L022–L022
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Information Security
+Candidate passage: Protection of the University's information assets from unauthorised access, disclosure, alteration,
+Context after: unavailability or detriment throughout the lifecycle of an asset.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e25baa66bce561
+Source ID: N153
+Document title: Information Security and Information and Communication Technology (ICT) Appropriate Use Policy
+Printed bundle page: 283
+PDF viewer page (navigation only): 283
+Line numbers: L041–L041
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: • Code of Conduct
+Candidate passage: • Disclosure of Personal Information Procedures
+Context after: • ICT Appropriate Use Procedures
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-eec672120d52cb
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 557
+PDF viewer page (navigation only): 557
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Information Breach Procedures
+Context after: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-438f696d8adc72
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 557
+PDF viewer page (navigation only): 557
+Line numbers: L003–L003
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: 1. COMPLIANCE OBLIGATION SUPPORTED
+Candidate passage: Information Breach Policy
+Context after: 2. PROCEDURAL DETAILS
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-edbc5661b15d96
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 557
+PDF viewer page (navigation only): 557
+Line numbers: L008–L008
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: and the University.
+Candidate passage: Any actual or potential unauthorised access, modification, loss or disclosure to personal information
+Context after: and sensitive personal information held by the University (including third parties such as
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6f7ae89a8ec344
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 558
+PDF viewer page (navigation only): 558
+Line numbers: L001–L001
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: 2.3.10 The Privacy Officer responsible for the incident must document the incident in the
+Context after: Information Breach Register, including the cause, any processes or mitigation
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6e2796ab165f05
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 558
+PDF viewer page (navigation only): 558
+Line numbers: L011–L011
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: or activities, including whether as a visitor, adjunct appointee, service provider, contractor or
+Candidate passage: volunteer. Global campuses must abide by freedom of information, privacy and any requirements
+Context after: for the management and reporting of data breaches which apply to their jurisdiction.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a84387b2877fbc
+Source ID: N213
+Document title: Information Breach Procedures
+Printed bundle page: 558
+PDF viewer page (navigation only): 558
+Line numbers: L018–L018
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Any unauthorised access to personal information or sensitive personal information, or any
+Candidate passage: unauthorised or accidental disclosure of personal information or sensitive personal information, or
+Context after: any loss of personal information or sensitive personal information which is likely to result in serious
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-eae1ad3e310ed2
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 563
+PDF viewer page (navigation only): 563
+Line numbers: L002–L002
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: 2.6 Appeals
+Candidate passage: 2.6.1 The student may lodge an appeal where their request for a reasonable adjustment
+Context after: has been declined by the Unit Coordinator/ supervisor. The appeal should be
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2ee70438cae13f
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 563
+PDF viewer page (navigation only): 563
+Line numbers: L004–L004
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: has been declined by the Unit Coordinator/ supervisor. The appeal should be
+Candidate passage: made in writing by the student to the Head of School within 20 working days of
+Context after: receiving notification of the decision.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-de04c84cc96e9b
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 563
+PDF viewer page (navigation only): 563
+Line numbers: L012–L012
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Registrar shall be regarded as final.
+Candidate passage: 2.6.5 Where the student is dissatisfied with the process undertaken to resolve their
+Context after: appeal, they may lodge a complaint through the Complaints portal.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bb60109897b96f
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L003–L003
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: A person engaged through a disability support organisation or by private arrangement to support a
+Candidate passage: student in activities such as attending classes in person or online, travelling to and from campus,
+Context after: attending events and other campus activities including field trips and excursions, and/ or providing
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-02432f9e3050d8
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L005–L005
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: attending events and other campus activities including field trips and excursions, and/ or providing
+Candidate passage: other personal care assistance to the student.
+Context after: Person-first language
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9382d66030c30b
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L027–L027
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Internal
+Candidate passage: Accessible Information Procedures
+Context after: Assessment and Student Progression Manual
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c95965b4d4458f
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L034–L034
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Disability and Accessibility Support (Students)
+Candidate passage: Disclosure of Personal Information Procedures
+Context after: Diversity Inclusion Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-00a8a97c3a68dc
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L041–L041
+Search query IDs: S6-Q05
+Search terms: complaint process student
+Extraction/review flags: none recorded
+Context before: Inclusive Language Procedures
+Candidate passage: Integrity and Standards Unit - Complaint resolution process
+Context after: Information Management Procedures
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c35e7c1262dc1d
+Source ID: N214
+Document title: Students with Disability Procedures
+Printed bundle page: 564
+PDF viewer page (navigation only): 564
+Line numbers: L042–L042
+Search query IDs: S6-Q07
+Search terms: privacy disclosure information
+Extraction/review flags: none recorded
+Context before: Integrity and Standards Unit - Complaint resolution process
+Candidate passage: Information Management Procedures
+Context after: Privacy Statement
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

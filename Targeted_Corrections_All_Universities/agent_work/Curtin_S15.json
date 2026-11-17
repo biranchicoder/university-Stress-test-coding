@@ -1,0 +1,1569 @@
+{
+  "university": "Curtin",
+  "case_id": "Curtin-S15",
+  "scenario_id": "S15",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "Domain policies cover AI enterprise IT architecture and human oversight/intervention (N001), authorised ICT use (N005), system access controls (N011), and institutional delegations (N007), but an AI agent exercising combined standing authority across LMS, enrolment, advising, support, and assessment without per-action human review is not explicitly bounded.",
+      "search_terms_used": [
+        "institutional systems",
+        "standing authority",
+        "system access"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N007",
+          "document_title": "Delegations Policy",
+          "printed_bundle_page": 294,
+          "viewer_page": 294,
+          "line_start": "L018",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.13 The principles applying to delegation (3.1 - 3.9 above) also apply generally to sub-\ndelegation.\n3.14 Sub-delegations should reflect the University's organisational structure, responsibility\nand accountability. Sub-delegation should place decision-making authority as close as\npossible to the point of service delivery and minimise steps in decision-making\nprocesses, enabling decisions to be made faster and therefore be more responsive to\nthe needs of stakeholders.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4",
+          "version_evidence_location": {
+            "source_id": "N007",
+            "document_title": "Delegations Policy",
+            "printed_bundle_page": 296,
+            "viewer_page": 296,
+            "line_start": "L018",
+            "line_end": "L018",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q03"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N007",
+          "document_title": "Delegations Policy",
+          "printed_bundle_page": 294,
+          "viewer_page": 294,
+          "line_start": "L018",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.13 The principles applying to delegation (3.1 - 3.9 above) also apply generally to sub-\ndelegation.\n3.14 Sub-delegations should reflect the University's organisational structure, responsibility\nand accountability. Sub-delegation should place decision-making authority as close as\npossible to the point of service delivery and minimise steps in decision-making\nprocesses, enabling decisions to be made faster and therefore be more responsive to\nthe needs of stakeholders.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4",
+          "version_evidence_location": {
+            "source_id": "N007",
+            "document_title": "Delegations Policy",
+            "printed_bundle_page": 296,
+            "viewer_page": 296,
+            "line_start": "L018",
+            "line_end": "L018",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q03"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "N005 s.6 ICT Appropriate Use Procedures and N001 s.6 AI procedures are not in the bundle."
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "Named authorities exist per domain (CISO/CIO in N005/N006, Business Information System Owners in N011, Unit Coordinator/Head of School in N002, Council/VC in N007) with domain appeal/review routes, but no connected authority has criteria to approve or oversee combined standing AI powers across all systems.",
+      "search_terms_used": [
+        "standing authority",
+        "review decision"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N002",
+          "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L015",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 01/07/2025",
+          "version_evidence_location": {
+            "source_id": "N002",
+            "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L011",
+            "line_end": "L011",
+            "evidence_type": "Paraphrase",
+            "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q06"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N002",
+          "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L015",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 01/07/2025",
+          "version_evidence_location": {
+            "source_id": "N002",
+            "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L011",
+            "line_end": "L011",
+            "evidence_type": "Paraphrase",
+            "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q06"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "None."
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N001, N005/N006, N007, N011, and N002 are compatible within their respective silos, without explicit cross-system coordination for a single agent holding standing authority across LMS, student support, enrolment, advising, and assessment.",
+      "search_terms_used": [
+        "institutional systems",
+        "data protection"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 233,
+          "viewer_page": 233,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+          "version_evidence_location": {
+            "source_id": "N011",
+            "document_title": "Information Management Procedures",
+            "printed_bundle_page": 236,
+            "viewer_page": 236,
+            "line_start": "L031",
+            "line_end": "L031",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "No unresolved contradiction."
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "Procedures exist for cyber security governance (N006), system access controls (N011), and domain appeals (N002 PC24), but no unified procedure governs purpose-bounded authorisation, cross-system intervention, or contestability of autonomous standing-agent actions.",
+      "search_terms_used": [
+        "security procedure",
+        "system access",
+        "review decision"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 218,
+          "viewer_page": 218,
+          "line_start": "L009",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6. SUPPORTING PROCEDURES\nCyber Security Procedure\nInformation and Communication Technology (ICT) Appropriate Use Procedures",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N002",
+          "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L015",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 01/07/2025",
+          "version_evidence_location": {
+            "source_id": "N002",
+            "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L011",
+            "line_end": "L011",
+            "evidence_type": "Paraphrase",
+            "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q06"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 218,
+          "viewer_page": 218,
+          "line_start": "L009",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "6. SUPPORTING PROCEDURES\nCyber Security Procedure\nInformation and Communication Technology (ICT) Appropriate Use Procedures",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        },
+        {
+          "source_id": "N002",
+          "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L015",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 01/07/2025",
+          "version_evidence_location": {
+            "source_id": "N002",
+            "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L011",
+            "line_end": "L011",
+            "evidence_type": "Paraphrase",
+            "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q06"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "ICT Appropriate Use Procedures (N005 s.6) and N001 s.6 AI procedures are not in the bundle."
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "Substantive safeguards require human oversight and ability to intervene (N001 s.3.3, Principle 7), contestability (N001 Principle 6), enterprise IT architecture adherence (N001 Principle 4), authorised ICT use (N005), and CISO security controls (N006), but a material gap remains because no relevant provision establishing connected purpose-bounded authorisation and intervention for combined cross-system standing powers was identified in the documents and searches checked ('standing authority', 'institutional systems', 'system access', 'review decision', 'security procedure').",
+      "search_terms_used": [
+        "data protection",
+        "security procedure",
+        "review decision"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 5,
+          "viewer_page": 5,
+          "line_start": "L032",
+          "line_end": "L033",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. In all cases, human oversight, judgement and intervention are vital to ensure the potential\noffered by AI systems is realised in an ethical, safe and responsible manner.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q03",
+            "S15-Q06"
+          ]
+        },
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 5,
+          "viewer_page": 5,
+          "line_start": "L032",
+          "line_end": "L033",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. In all cases, human oversight, judgement and intervention are vital to ensure the potential\noffered by AI systems is realised in an ethical, safe and responsible manner.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q03",
+            "S15-Q06"
+          ]
+        },
+        {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 6,
+          "viewer_page": 6,
+          "line_start": "L012",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+          "version_evidence_location": {
+            "source_id": "N001",
+            "document_title": "Artificial Intelligence (AI) Policy",
+            "printed_bundle_page": 8,
+            "viewer_page": 8,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q01",
+            "S15-Q06",
+            "S15-Q07"
+          ]
+        },
+        {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 217,
+          "viewer_page": 217,
+          "line_start": "L022",
+          "line_end": "L024",
+          "evidence_type": "Exact quotation",
+          "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+          "version_evidence_location": {
+            "source_id": "N005",
+            "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+            "printed_bundle_page": 218,
+            "viewer_page": 218,
+            "line_start": "L043",
+            "line_end": "L043",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q04"
+          ]
+        },
+        {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 321,
+          "viewer_page": 321,
+          "line_start": "L028",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+          "version_evidence_location": {
+            "source_id": "N006",
+            "document_title": "Cyber Security Procedures",
+            "printed_bundle_page": 323,
+            "viewer_page": 323,
+            "line_start": "L013",
+            "line_end": "L013",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S15-Q05"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "None."
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+      "search_terms_used": [
+        "student services"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N014",
+          "document_title": "Policy Development Procedures",
+          "printed_bundle_page": 337,
+          "viewer_page": 337,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "2.3. Policies and procedures development review cycle\n2.3.1. Each policy will have a default review period of five years from its creation or last\napproval.\n2.3.2. Each procedure will have a default review date within three years from its creation or",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1",
+          "version_evidence_location": {
+            "source_id": "N014",
+            "document_title": "Policy Development Procedures",
+            "printed_bundle_page": 339,
+            "viewer_page": 339,
+            "line_start": "L053",
+            "line_end": "L053",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N014",
+          "document_title": "Policy Development Procedures",
+          "printed_bundle_page": 338,
+          "viewer_page": 338,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "(a) ensuring the review, maintenance and seeking approval for new and changed policies\nand procedures;\n(b) ensuring the monitoring and reporting breaches of compliance with policies and\nprocedures. (see Compliance Procedures)",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1",
+          "version_evidence_location": {
+            "source_id": "N014",
+            "document_title": "Policy Development Procedures",
+            "printed_bundle_page": 339,
+            "viewer_page": 339,
+            "line_start": "L053",
+            "line_end": "L053",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N014",
+          "document_title": "Policy Development Procedures",
+          "printed_bundle_page": 337,
+          "viewer_page": 337,
+          "line_start": "L037",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "2.3. Policies and procedures development review cycle\n2.3.1. Each policy will have a default review period of five years from its creation or last\napproval.\n2.3.2. Each procedure will have a default review date within three years from its creation or",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1",
+          "version_evidence_location": {
+            "source_id": "N014",
+            "document_title": "Policy Development Procedures",
+            "printed_bundle_page": 339,
+            "viewer_page": 339,
+            "line_start": "L053",
+            "line_end": "L053",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N014",
+          "document_title": "Policy Development Procedures",
+          "printed_bundle_page": 338,
+          "viewer_page": 338,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "(a) ensuring the review, maintenance and seeking approval for new and changed policies\nand procedures;\n(b) ensuring the monitoring and reporting breaches of compliance with policies and\nprocedures. (see Compliance Procedures)",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1",
+          "version_evidence_location": {
+            "source_id": "N014",
+            "document_title": "Policy Development Procedures",
+            "printed_bundle_page": 339,
+            "viewer_page": 339,
+            "line_start": "L053",
+            "line_end": "L053",
+            "evidence_type": "Exact quotation",
+            "text": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "None."
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Domain review routes exist for assessment marks (N002 PC24), misconduct (N141), privacy (N016 s.3.10), and general complaints (N004), alongside N001 Principle 6 contestability.",
+    "review_route_evidence": {
+      "source_id": "N002",
+      "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+      "printed_bundle_page": 120,
+      "viewer_page": 120,
+      "line_start": "L015",
+      "line_end": "L018",
+      "evidence_type": "Exact quotation",
+      "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+      "evidence_role": "SUPPORTING",
+      "operative_at_cutoff": true,
+      "version_evidence": "Approved 01/07/2025",
+      "version_evidence_location": {
+        "source_id": "N002",
+        "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L011",
+        "line_end": "L011",
+        "evidence_type": "Paraphrase",
+        "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": [
+        "S15-Q06"
+      ]
+    },
+    "critical_gap": "Yes",
+    "critical_risk_criterion": "Purpose-bounded authorisation for combined standing powers, with security, intervention and contestability of consequential actions.",
+    "critical_gap_explanation": "Curtin's governance is distributed across separate instruments (N001, N005/N006, N007, N011, N002), and no relevant provision establishing connected purpose-bounded authorisation, cross-system ownership, or operational intervention and contestability workflows for an AI agent exercising standing authority across LMS, student support, enrolment, advising, and assessment systems without per-action human review was identified in the documents and searches checked ('standing authority', 'institutional systems', 'system access', 'data protection', 'security procedure', 'review decision').",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Curtin mandates human oversight, intervention, and contestability for AI (N001), restricts ICT assets to authorised purposes (N005/N006), and assigns system-level access controls (N011). No relevant provision establishing connected purpose-bounded authorisation or cross-system intervention/contestability for an agent with standing powers across LMS, enrolment, advising, support, and assessment was identified in the documents and searches checked (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "supporting_passages": [
+      {
+        "source_id": "N001",
+        "document_title": "Artificial Intelligence (AI) Policy",
+        "printed_bundle_page": 6,
+        "viewer_page": 6,
+        "line_start": "L012",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+        "version_evidence_location": {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 8,
+          "viewer_page": 8,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q01",
+          "S15-Q06",
+          "S15-Q07"
+        ]
+      },
+      {
+        "source_id": "N005",
+        "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+        "printed_bundle_page": 217,
+        "viewer_page": 217,
+        "line_start": "L022",
+        "line_end": "L024",
+        "evidence_type": "Exact quotation",
+        "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+        "version_evidence_location": {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 218,
+          "viewer_page": 218,
+          "line_start": "L043",
+          "line_end": "L043",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q04"
+        ]
+      },
+      {
+        "source_id": "N006",
+        "document_title": "Cyber Security Procedures",
+        "printed_bundle_page": 321,
+        "viewer_page": 321,
+        "line_start": "L028",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+        "version_evidence_location": {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 323,
+          "viewer_page": 323,
+          "line_start": "L013",
+          "line_end": "L013",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q05"
+        ]
+      }
+    ],
+    "search_terms_used": [
+      "data protection",
+      "institutional systems",
+      "review decision",
+      "security procedure",
+      "standing authority",
+      "student services",
+      "system access"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N001",
+        "document_title": "Artificial Intelligence (AI) Policy",
+        "printed_bundle_page": 5,
+        "viewer_page": 5,
+        "line_start": "L032",
+        "line_end": "L033",
+        "evidence_type": "Exact quotation",
+        "text": "3.3. In all cases, human oversight, judgement and intervention are vital to ensure the potential\noffered by AI systems is realised in an ethical, safe and responsible manner.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+        "version_evidence_location": {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 8,
+          "viewer_page": 8,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q03",
+          "S15-Q06"
+        ]
+      },
+      {
+        "source_id": "N001",
+        "document_title": "Artificial Intelligence (AI) Policy",
+        "printed_bundle_page": 6,
+        "viewer_page": 6,
+        "line_start": "L012",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "Principle 4: Privacy protection and security\nComply with applicable data protection, security and privacy policies and\nlegislation. Adhere to the University’s architecture standards if incorporating\nAI systems into the University’s enterprise information technology systems.\nPrinciple 5: Reliability and safety\nOperate AI systems in accordance with the approved and intended purpose\nand monitor their performance. Adopt safety measures proportionate to the\nmagnitude of potential risks.\nPrinciple 6: Transparency, Explainability and Contestability\nDevelop, deploy and use AI systems in a way that maximises transparency,\nexplainability and contestability. Allow stakeholders to know when AI has\nbeen used and contest decisions made using AI.\nPrinciple 7: Accountability\nImplement human oversight, review and the ability to intervene for all AI-\nbased functions and decisions. Identify the individual accountable for any\ndecision made using AI. Maintain records on the use of AI to comply with\nrecordkeeping obligations.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25",
+        "version_evidence_location": {
+          "source_id": "N001",
+          "document_title": "Artificial Intelligence (AI) Policy",
+          "printed_bundle_page": 8,
+          "viewer_page": 8,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "New Approved 12/06/2025 Senior Executive Team SET 43/25 Circular Resolution CR 02/25"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q01",
+          "S15-Q06",
+          "S15-Q07"
+        ]
+      },
+      {
+        "source_id": "N005",
+        "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+        "printed_bundle_page": 217,
+        "viewer_page": 217,
+        "line_start": "L022",
+        "line_end": "L024",
+        "evidence_type": "Exact quotation",
+        "text": "3.3. Appropriate use of ICT Assets\n3.3.1. ICT assets must only be used for authorised purposes, such as official University\nbusiness, teaching, research. Limited incidental personal use is permitted as needed.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+        "version_evidence_location": {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 218,
+          "viewer_page": 218,
+          "line_start": "L043",
+          "line_end": "L043",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q04"
+        ]
+      },
+      {
+        "source_id": "N005",
+        "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+        "printed_bundle_page": 218,
+        "viewer_page": 218,
+        "line_start": "L009",
+        "line_end": "L011",
+        "evidence_type": "Exact quotation",
+        "text": "6. SUPPORTING PROCEDURES\nCyber Security Procedure\nInformation and Communication Technology (ICT) Appropriate Use Procedures",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 17/09/2026 Senior Executive Team SET 54/2026",
+        "version_evidence_location": {
+          "source_id": "N005",
+          "document_title": "Cyber Security and Information & Communication Technology (ICT) Appropriate Use Policy",
+          "printed_bundle_page": 218,
+          "viewer_page": 218,
+          "line_start": "L043",
+          "line_end": "L043",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 17/09/2026 Senior Executive Team SET 54/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q05"
+        ]
+      },
+      {
+        "source_id": "N006",
+        "document_title": "Cyber Security Procedures",
+        "printed_bundle_page": 321,
+        "viewer_page": 321,
+        "line_start": "L028",
+        "line_end": "L036",
+        "evidence_type": "Exact quotation",
+        "text": "2.5. Chief Information Security Officer (CISO)\nThe CISO, or their nominated delegate, will approve and direct all cyber security\nrelated matters. This includes but is not limited to:\n(a) Cyber security policy development and management\n(b) Cyber security governance and compliance\n(c) Cyber security awareness initiatives\n(d) Cyber security incident response management\n(e) Cyber security investigations\n(f) Cyber security threats and vulnerability management.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 27/10/2026 Chief Operating Officer EM2617",
+        "version_evidence_location": {
+          "source_id": "N006",
+          "document_title": "Cyber Security Procedures",
+          "printed_bundle_page": 323,
+          "viewer_page": 323,
+          "line_start": "L013",
+          "line_end": "L013",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 27/10/2026 Chief Operating Officer EM2617"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q05"
+        ]
+      },
+      {
+        "source_id": "N011",
+        "document_title": "Information Management Procedures",
+        "printed_bundle_page": 233,
+        "viewer_page": 233,
+        "line_start": "L037",
+        "line_end": "L040",
+        "evidence_type": "Exact quotation",
+        "text": "Business Information System Owners (e.g. Manager, Student Systems) will:\nEnsure the system processes and controls are in place such that individuals are provided\nwith the required level of access to data and information in order to effectively carry out their\nactivities.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional",
+        "version_evidence_location": {
+          "source_id": "N011",
+          "document_title": "Information Management Procedures",
+          "printed_bundle_page": 236,
+          "viewer_page": 236,
+          "line_start": "L031",
+          "line_end": "L031",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 16/02/2026 Chief Operating Officer EM2601 Unconditional"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q04"
+        ]
+      },
+      {
+        "source_id": "N007",
+        "document_title": "Delegations Policy",
+        "printed_bundle_page": 294,
+        "viewer_page": 294,
+        "line_start": "L018",
+        "line_end": "L024",
+        "evidence_type": "Exact quotation",
+        "text": "3.13 The principles applying to delegation (3.1 - 3.9 above) also apply generally to sub-\ndelegation.\n3.14 Sub-delegations should reflect the University's organisational structure, responsibility\nand accountability. Sub-delegation should place decision-making authority as close as\npossible to the point of service delivery and minimise steps in decision-making\nprocesses, enabling decisions to be made faster and therefore be more responsive to\nthe needs of stakeholders.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4",
+        "version_evidence_location": {
+          "source_id": "N007",
+          "document_title": "Delegations Policy",
+          "printed_bundle_page": 296,
+          "viewer_page": 296,
+          "line_start": "L018",
+          "line_end": "L018",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 21/06/2017 Council C 93/17 Attachment A to Item 7.4"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q03"
+        ]
+      },
+      {
+        "source_id": "N002",
+        "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+        "printed_bundle_page": 120,
+        "viewer_page": 120,
+        "line_start": "L015",
+        "line_end": "L018",
+        "evidence_type": "Exact quotation",
+        "text": "2.2 Students wishing to submit a formal appeal against marks awarded for an Assessment Task\nto the Head of School (or authorised officer) will do so within 10 working days of the date that\nthe mark for the Assessment Task was released to the student or publication date of the\nofficial unit results, whichever is the earlier.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 01/07/2025",
+        "version_evidence_location": {
+          "source_id": "N002",
+          "document_title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L011",
+          "line_end": "L011",
+          "evidence_type": "Paraphrase",
+          "text": "Approved 01/07/2025 Deputy Vice-Chancellor, Academic EM2538 Effective 21st July 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S15-Q06"
+        ]
+      },
+      {
+        "source_id": "N014",
+        "document_title": "Policy Development Procedures",
+        "printed_bundle_page": 337,
+        "viewer_page": 337,
+        "line_start": "L037",
+        "line_end": "L040",
+        "evidence_type": "Exact quotation",
+        "text": "2.3. Policies and procedures development review cycle\n2.3.1. Each policy will have a default review period of five years from its creation or last\napproval.\n2.3.2. Each procedure will have a default review date within three years from its creation or",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1",
+        "version_evidence_location": {
+          "source_id": "N014",
+          "document_title": "Policy Development Procedures",
+          "printed_bundle_page": 339,
+          "viewer_page": 339,
+          "line_start": "L053",
+          "line_end": "L053",
+          "evidence_type": "Exact quotation",
+          "text": "Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": "N005 s.6 ICT Appropriate Use Procedures and N001 s.6 AI procedures are not in the bundle."
+  },
+  "additional_search_requests": []
+}

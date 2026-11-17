@@ -1,0 +1,884 @@
+{
+  "university": "Notre_Dame",
+  "case_id": "Notre_Dame-S11",
+  "scenario_id": "S11",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "Code of Conduct: Research (N029, 4.7, 4.17, Breach (b)) requires prior HREC ethics approval for human-participant research, accurate data records, and prohibits fabrication/falsification/misrepresentation of research data, but does not explicitly address generative AI synthetic participant simulation.",
+      "search_terms_used": [
+        "human participants",
+        "ethics approval",
+        "research validity"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L008",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Ethics Approval\n4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research\nparticipants have provided their informed consent to participate in research.\n4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L022",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L008",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Ethics Approval\n4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research\nparticipants have provided their informed consent to participate in research.\n4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L022",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "N029 (4.7) names the Human Research Ethics Committee and N030 assigns breach investigation/appeals (8.31-8.32, 8.39), but the linked Policy: Ethics Approval for Research Involving Human Participants (cited in N029 7.25 and N032 10.2.4) is absent from the bundle.",
+      "search_terms_used": [
+        "ethics review",
+        "research procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L013",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N032",
+          "document_title": "Policy: Research Data Management",
+          "printed_bundle_page": 142,
+          "viewer_page": 142,
+          "line_start": "L028",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "10.2.4 Policy: Ethics Approval for Research Involving Human Participants",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14 June 2024",
+          "version_evidence_location": {
+            "source_id": "N032",
+            "document_title": "Policy: Research Data Management",
+            "printed_bundle_page": 137,
+            "viewer_page": 137,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Effective Date: 14 June 2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L013",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N032",
+          "document_title": "Policy: Research Data Management",
+          "printed_bundle_page": 142,
+          "viewer_page": 142,
+          "line_start": "L028",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "10.2.4 Policy: Ethics Approval for Research Involving Human Participants",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14 June 2024",
+          "version_evidence_location": {
+            "source_id": "N032",
+            "document_title": "Policy: Research Data Management",
+            "printed_bundle_page": 137,
+            "viewer_page": 137,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Effective Date: 14 June 2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "Policy: Ethics Approval for Research Involving Human Participants and its associated procedures (N032 10.2.17-10.2.19) are not in the bundle."
+    },
+    {
+      "dimension": "D3",
+      "score": 3,
+      "reason": "N029, N030, and N032 explicitly align and cross-reference each other on human-participant ethics approval, data integrity, and breach management.",
+      "search_terms_used": [
+        "ethics approval",
+        "research procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L009",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 129,
+          "viewer_page": 129,
+          "line_start": "L025",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "requirement to notify the relevant ethics review body promptly of any suspension and\nsubsequent decisions;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 113,
+          "viewer_page": 113,
+          "line_start": "L009",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 129,
+          "viewer_page": 129,
+          "line_start": "L025",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "requirement to notify the relevant ethics review body promptly of any suspension and\nsubsequent decisions;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N030 provides breach investigation, ethics-body notification (vp 129), and appeal steps, but the linked ethics-approval/amendment procedures (N032 10.2.17-10.2.19) are missing from the bundle and no procedure addresses synthetic-data disclosure.",
+      "search_terms_used": [
+        "ethics review",
+        "research procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N032",
+          "document_title": "Policy: Research Data Management",
+          "printed_bundle_page": 143,
+          "viewer_page": 143,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "10.2.17 Procedure: Applying for Ethics Approval (Course Clearance)\n10.2.18 Procedure: Applying for Ethics Approval (Full Ethical Review)\n10.2.19 Procedure: Applying for Ethics Approval (Low Risk Clearance)",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14 June 2024",
+          "version_evidence_location": {
+            "source_id": "N032",
+            "document_title": "Policy: Research Data Management",
+            "printed_bundle_page": 137,
+            "viewer_page": 137,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Effective Date: 14 June 2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 129,
+          "viewer_page": 129,
+          "line_start": "L025",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "requirement to notify the relevant ethics review body promptly of any suspension and\nsubsequent decisions;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N032",
+          "document_title": "Policy: Research Data Management",
+          "printed_bundle_page": 143,
+          "viewer_page": 143,
+          "line_start": "L003",
+          "line_end": "L005",
+          "evidence_type": "Exact quotation",
+          "text": "10.2.17 Procedure: Applying for Ethics Approval (Course Clearance)\n10.2.18 Procedure: Applying for Ethics Approval (Full Ethical Review)\n10.2.19 Procedure: Applying for Ethics Approval (Low Risk Clearance)",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 14 June 2024",
+          "version_evidence_location": {
+            "source_id": "N032",
+            "document_title": "Policy: Research Data Management",
+            "printed_bundle_page": 137,
+            "viewer_page": 137,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Effective Date: 14 June 2024"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 129,
+          "viewer_page": 129,
+          "line_start": "L025",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "requirement to notify the relevant ethics review body promptly of any suspension and\nsubsequent decisions;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "Substantive safeguards exist via N029 (mandatory prior ethics approval 4.7, accurate data records 4.17, prohibition on data fabrication/misrepresentation at vp 119), but a material gap remains because AI synthetic data labelling is not explicitly addressed and the linked ethics instruments are absent.",
+      "search_terms_used": [
+        "simulated participant",
+        "research validity"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 114,
+          "viewer_page": 114,
+          "line_start": "L014",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "4.17 Clear, accurate, secure and complete records of all research data must be preserved and\nmanaged in accordance with the Policy: Research Data Management, including research data\nrelating to collaborative research.\nPublication and Dissemination of Research Findings",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L022",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 114,
+          "viewer_page": 114,
+          "line_start": "L014",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "4.17 Clear, accurate, secure and complete records of all research data must be preserved and\nmanaged in accordance with the Policy: Research Data Management, including research data\nrelating to collaborative research.\nPublication and Dissemination of Research Findings",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        },
+        {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L022",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 13/8/2026",
+          "version_evidence_location": {
+            "source_id": "N029",
+            "document_title": "Code of Conduct: Research",
+            "printed_bundle_page": 111,
+            "viewer_page": 111,
+            "line_start": "L010",
+            "line_end": "L011",
+            "evidence_type": "Exact quotation",
+            "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N030 (8.41-8.42) requires Research Services to maintain breach records and the PVC Research to report annually on research integrity to Academic Council.",
+      "search_terms_used": [
+        "ethics review"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 133,
+          "viewer_page": 133,
+          "line_start": "L024",
+          "line_end": "L029",
+          "evidence_type": "Exact quotation",
+          "text": "Maintaining records and reporting for potential research integrity breaches\n8.41 Research Services will maintain a central record of the processes followed and the outcomes\nfor investigations into potential breaches of the Code of Conduct: Research.\n8.42 Summary information relating to investigations into potential breaches of the Code of Conduct:\nResearch will be included in the annual research integrity reports provided by the PVC Research\nto Academic Council, in accordance with clause 6.8.7 of the Code of Conduct: Research.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 133,
+          "viewer_page": 133,
+          "line_start": "L024",
+          "line_end": "L029",
+          "evidence_type": "Exact quotation",
+          "text": "Maintaining records and reporting for potential research integrity breaches\n8.41 Research Services will maintain a central record of the processes followed and the outcomes\nfor investigations into potential breaches of the Code of Conduct: Research.\n8.42 Summary information relating to investigations into potential breaches of the Code of Conduct:\nResearch will be included in the annual research integrity reports provided by the PVC Research\nto Academic Council, in accordance with clause 6.8.7 of the Code of Conduct: Research.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Effective Date: 10/11/2026",
+          "version_evidence_location": {
+            "source_id": "N030",
+            "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+            "printed_bundle_page": 123,
+            "viewer_page": 123,
+            "line_start": "L011",
+            "line_end": "L012",
+            "evidence_type": "Exact quotation",
+            "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": []
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Research misconduct/breach findings may be appealed under N030 (8.31-8.32) with external review by ARIC for NHMRC/ARC-funded research (8.39).",
+    "review_route_evidence": {
+      "source_id": "N030",
+      "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+      "printed_bundle_page": 132,
+      "viewer_page": 132,
+      "line_start": "L018",
+      "line_end": "L023",
+      "evidence_type": "Exact quotation",
+      "text": "she has a right to appeal the findings and/or recommendations of the Investigating Officer and\nPanel and that the Respondent must lodge an appeal with the Vice Chancellor, in writing, within\nfive (5) working days of the Respondent receiving the Panel’s report.\n8.26 If the Respondent does not lodge an appeal under clause 8.31 below the Vice Chancellor may\nmake a decision on the basis of the report as to any disciplinary action to be taken and that\ndecision will be the final decision of the University.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "Effective Date: 10/11/2026",
+      "version_evidence_location": {
+        "source_id": "N030",
+        "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+        "printed_bundle_page": 123,
+        "viewer_page": 123,
+        "line_start": "L011",
+        "line_end": "L012",
+        "evidence_type": "Exact quotation",
+        "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": []
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "Synthetic responses distinguished from human empirical evidence, with an authorised research/ethics scope for the changed design.",
+    "critical_gap_explanation": "N029 prohibits data fabrication, falsification, and misrepresentation (vp 119) and mandates prior ethics approval for human-participant research (4.7) and accurate data records (4.17).",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Prohibition",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Code of Conduct: Research (N029) prohibits data fabrication or misrepresentation and requires prior HREC ethics approval for human-participant research, enforced through N030. While AI synthetic participant simulation is not explicitly named and the linked ethics-approval policy/procedures are absent from the bundle, the existing prohibitions protect against unapproved protocol deviation and disguised synthetic data; Protocol v1.1 critical-risk criteria were adopted after preliminary review.",
+    "supporting_passages": [
+      {
+        "source_id": "N029",
+        "document_title": "Code of Conduct: Research",
+        "printed_bundle_page": 113,
+        "viewer_page": 113,
+        "line_start": "L008",
+        "line_end": "L015",
+        "evidence_type": "Exact quotation",
+        "text": "Ethics Approval\n4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research\nparticipants have provided their informed consent to participate in research.\n4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/8/2026",
+        "version_evidence_location": {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N029",
+        "document_title": "Code of Conduct: Research",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L022",
+        "line_end": "L026",
+        "evidence_type": "Exact quotation",
+        "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/8/2026",
+        "version_evidence_location": {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "search_terms_used": [
+      "ethics approval",
+      "ethics review",
+      "human participants",
+      "research procedure",
+      "research validity",
+      "researcher analysis",
+      "simulated participant"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N029",
+        "document_title": "Code of Conduct: Research",
+        "printed_bundle_page": 113,
+        "viewer_page": 113,
+        "line_start": "L008",
+        "line_end": "L015",
+        "evidence_type": "Exact quotation",
+        "text": "Ethics Approval\n4.7 Any research involving human participants in which the University is involved is subject to ethics\napproval prior to commencement of the research in accordance with the Policy: Ethics Approval\nfor Research Involving Human Participants. This process includes ensuring human research\nparticipants have provided their informed consent to participate in research.\n4.8 Where research involves the collection, use or disclosure of health information without the\nconsent of individuals, approval must be granted by a Human Research Ethics Committee in\naccordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/8/2026",
+        "version_evidence_location": {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N029",
+        "document_title": "Code of Conduct: Research",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L022",
+        "line_end": "L026",
+        "evidence_type": "Exact quotation",
+        "text": "ethics approval, misuse of research funds, or concealing or facilitating breach of the\nAustralian Code by others;\n(b) fabrication, falsification or misrepresentation of research data or source material;\n(c) plagiarism;\n(d) inappropriate research data management, such as failure to maintain research records;",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 13/8/2026",
+        "version_evidence_location": {
+          "source_id": "N029",
+          "document_title": "Code of Conduct: Research",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L010",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "Code of Conduct: Research Page 2 of 12\nEffective Date: 13/8/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N032",
+        "document_title": "Policy: Research Data Management",
+        "printed_bundle_page": 142,
+        "viewer_page": 142,
+        "line_start": "L028",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "10.2.4 Policy: Ethics Approval for Research Involving Human Participants",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 14 June 2024",
+        "version_evidence_location": {
+          "source_id": "N032",
+          "document_title": "Policy: Research Data Management",
+          "printed_bundle_page": 137,
+          "viewer_page": 137,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Effective Date: 14 June 2024"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      },
+      {
+        "source_id": "N030",
+        "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+        "printed_bundle_page": 132,
+        "viewer_page": 132,
+        "line_start": "L018",
+        "line_end": "L023",
+        "evidence_type": "Exact quotation",
+        "text": "she has a right to appeal the findings and/or recommendations of the Investigating Officer and\nPanel and that the Respondent must lodge an appeal with the Vice Chancellor, in writing, within\nfive (5) working days of the Respondent receiving the Panel’s report.\n8.26 If the Respondent does not lodge an appeal under clause 8.31 below the Vice Chancellor may\nmake a decision on the basis of the report as to any disciplinary action to be taken and that\ndecision will be the final decision of the University.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Effective Date: 10/11/2026",
+        "version_evidence_location": {
+          "source_id": "N030",
+          "document_title": "Procedure: Managing and Investigating Breaches of the Code of Conduct: Research",
+          "printed_bundle_page": 123,
+          "viewer_page": 123,
+          "line_start": "L011",
+          "line_end": "L012",
+          "evidence_type": "Exact quotation",
+          "text": "PROCEDURE: Managing and Investigating Breaches of the Code of Conduct: Research Page 2 of 14\nEffective Date: 10/11/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": []
+      }
+    ],
+    "uncertainty_notes": "Linked Policy: Ethics Approval for Research Involving Human Participants (N029 7.25, N032 10.2.4) is not in the bundle."
+  },
+  "additional_search_requests": []
+}

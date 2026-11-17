@@ -1,0 +1,1247 @@
+{
+  "university": "ECU",
+  "case_id": "ECU-S1",
+  "scenario_id": "S1",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "additional_search_requests": [],
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 2,
+      "reason": "ECU recognises AI-assisted planning, feedback and revision in student learning (A014, N101) and covers student authorship and acknowledgement in assessment (N090, N154), but binding assessment rules do not explicitly define the boundary for unsubmitted AI scaffolding.",
+      "search_terms_used": [
+        "generative AI assessment",
+        "academic integrity student",
+        "student assessment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 41,
+          "viewer_page": 41,
+          "line_start": "L013",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Artificial intelligence (AI) is already part of how students learn. Whether we design for it or not, students are using\nAI tools to explore ideas, draft responses, and make sense of complex information. When left unguided, however,\nstudents risk using AI in ways that bypass learning or compromise the integrity of their work.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01"
+          ]
+        },
+        {
+          "source_id": "N101",
+          "document_title": "Artificial Intelligence Framework",
+          "printed_bundle_page": 14,
+          "viewer_page": 14,
+          "line_start": "L042",
+          "line_end": "L047",
+          "evidence_type": "Exact quotation",
+          "text": "For now, there is no agreed definition of Artificial Intelligence. It is an umbrella term, referring to\nsystems with varying degrees of complexity and transparency that are designed to simulate\nadvanced judgement and create different kinds of materials.\nDepending on the definition, AI can range from simple automation to more complex systems that\nproduce ‘predictions, inferences, advice, decisions’, and systems that generate content[1].\nFor the purpose of developing this Framework we will adopt a broad definition of AI, enabling all",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": false,
+          "version_evidence": "",
+          "version_evidence_location": null,
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01"
+          ]
+        },
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L036",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "Student Identity Verification - The identity of the Student completing the task (authorship)\nmust be able to be verified.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q08"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 41,
+          "viewer_page": 41,
+          "line_start": "L013",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Artificial intelligence (AI) is already part of how students learn. Whether we design for it or not, students are using\nAI tools to explore ideas, draft responses, and make sense of complex information. When left unguided, however,\nstudents risk using AI in ways that bypass learning or compromise the integrity of their work.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 44,
+          "viewer_page": 44,
+          "line_start": "L013",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "When students use AI repeatedly and authentically in learning tasks, they build their ability to judge when AI is\nuseful, evaluate what it produces, and experience what it means to remain accountable for the final work. When\ncoupled with learning and assessment designs that ask students to explain how and why they used AI, and to clarify\ntheir own contribution to AI-augmented work, AI-integrated learning can nurture academic integrity behaviours by\nrewarding transparency, honesty and accountability. Making these behaviours more visible also means educators\nare positioned to guide students’ decision-making, provide feedback on their AI use, and assess not only what\nstudents produce, but how responsibly they arrived there.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "N101 is an undated webpage (operative_at_cutoff=false); A014 is a dated framework (02 Jul 2026) rather than a binding policy instrument."
+    },
+    {
+      "dimension": "D2",
+      "score": 2,
+      "reason": "Unit Coordinators are responsible for unit assessment design and communicating acknowledgement expectations (N090), Assessment Panels verify authorship via SIV (N154), and educators predetermine AI Stamp uses (A014), though the AI-specific authorisation link to appeal rights is not explicit.",
+      "search_terms_used": [
+        "assessment procedure student",
+        "academic integrity student",
+        "appeal review decision"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L018",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "Each Unit Coordinator is required to promote academic integrity through supporting an\neducational approach in the design and delivery of Unit curriculum, assessment, and feedback\naligned to the Academic Quality and Standards of the University, including:\nwhen Courses and Units are developed or reviewed, integrating the use of enabling\ntechnologies, learning and assessment experiences that allow Students to develop and\ndemonstrate good academic practices as they progress through a Course or Unit;\nensuring that Students are aware of and demonstrate acknowledgement and referencing\npractices that apply to each Assessment; and\nreporting on assessment practices and outcomes to their relevant Assessment Panel or Unit\nReview Committee, as applicable in accordance with the Assessment Panel Procedures.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L035",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "The Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L006",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "It also simplifies the process. University educators can take a “just choose one” approach, starting with a single AI\nStamp, focussing on a single way for students to use AI to enrich their process or work. This creates a manageable\nentry point, allowing educators to adopt AI uses that are relevant to their learning objectives and discipline. Of\ncourse, the versatility of AI tools means students will apply AI in a range of ways when completing a set task, but\nthe educator will have predetermined what they believe is the most helpful application of AI to the learning task and\nare prepared to role model this to their students.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 118,
+          "viewer_page": 118,
+          "line_start": "L018",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q06"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L018",
+          "line_end": "L027",
+          "evidence_type": "Exact quotation",
+          "text": "Each Unit Coordinator is required to promote academic integrity through supporting an\neducational approach in the design and delivery of Unit curriculum, assessment, and feedback\naligned to the Academic Quality and Standards of the University, including:\nwhen Courses and Units are developed or reviewed, integrating the use of enabling\ntechnologies, learning and assessment experiences that allow Students to develop and\ndemonstrate good academic practices as they progress through a Course or Unit;\nensuring that Students are aware of and demonstrate acknowledgement and referencing\npractices that apply to each Assessment; and\nreporting on assessment practices and outcomes to their relevant Assessment Panel or Unit\nReview Committee, as applicable in accordance with the Assessment Panel Procedures.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 111,
+          "viewer_page": 111,
+          "line_start": "L035",
+          "line_end": "L038",
+          "evidence_type": "Exact quotation",
+          "text": "The Assessment Panel is to holistically evaluate a combined selection of evidence in order to\nconfirm a Student’s progression and completion with reference to the CLOs.\nThe Assessment Panel may conduct an informal viva with a Student where they deem it\nnecessary for Student Identity Verification or to verify CLO progress and achievement.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 43,
+          "viewer_page": 43,
+          "line_start": "L006",
+          "line_end": "L011",
+          "evidence_type": "Exact quotation",
+          "text": "It also simplifies the process. University educators can take a “just choose one” approach, starting with a single AI\nStamp, focussing on a single way for students to use AI to enrich their process or work. This creates a manageable\nentry point, allowing educators to adopt AI uses that are relevant to their learning objectives and discipline. Of\ncourse, the versatility of AI tools means students will apply AI in a range of ways when completing a set task, but\nthe educator will have predetermined what they believe is the most helpful application of AI to the learning task and\nare prepared to role model this to their students.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "Admission, Enrolment and Academic Progress Rules referenced in N154 are not in the ECU bundle."
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "N090 (own work and acknowledgement), N154 (Student Identity Verification), and A014 (AI-integrated learning and clarifying student contribution) are compatible, without explicit cross-referencing or formal coordination between A014 and N154.",
+      "search_terms_used": [
+        "generative AI assessment",
+        "academic integrity student",
+        "not permitted assessment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L036",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "Student Identity Verification - The identity of the Student completing the task (authorship)\nmust be able to be verified.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q08"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 44,
+          "viewer_page": 44,
+          "line_start": "L013",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "When students use AI repeatedly and authentically in learning tasks, they build their ability to judge when AI is\nuseful, evaluate what it produces, and experience what it means to remain accountable for the final work. When\ncoupled with learning and assessment designs that ask students to explain how and why they used AI, and to clarify\ntheir own contribution to AI-augmented work, AI-integrated learning can nurture academic integrity behaviours by\nrewarding transparency, honesty and accountability. Making these behaviours more visible also means educators\nare positioned to guide students’ decision-making, provide feedback on their AI use, and assess not only what\nstudents produce, but how responsibly they arrived there.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 44,
+          "viewer_page": 44,
+          "line_start": "L013",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "When students use AI repeatedly and authentically in learning tasks, they build their ability to judge when AI is\nuseful, evaluate what it produces, and experience what it means to remain accountable for the final work. When\ncoupled with learning and assessment designs that ask students to explain how and why they used AI, and to clarify\ntheir own contribution to AI-augmented work, AI-integrated learning can nurture academic integrity behaviours by\nrewarding transparency, honesty and accountability. Making these behaviours more visible also means educators\nare positioned to guide students’ decision-making, provide feedback on their AI use, and assess not only what\nstudents produce, but how responsibly they arrived there.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 2,
+      "reason": "N154 sets out unit-level integrity communication and electronic submission, and N225 points to Canvas guides for attributing AI-assisted work, but the operational AI-disclosure steps reside on external Canvas pages not included in the bundle.",
+      "search_terms_used": [
+        "assessment procedure student",
+        "student disclosure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L005",
+          "line_end": "L007",
+          "evidence_type": "Exact quotation",
+          "text": "At the commencement of the Unit, Students are to be given information about:\nacademic integrity at the University, including the University’s Academic Integrity Policy,\nAcademic Misconduct Rules (Students) and available Student resources;",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 122,
+          "viewer_page": 122,
+          "line_start": "L006",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "All non-invigilated written Summative Assessments must be submitted electronically, and must\nbe subjected to the University’s nominated plagiarism detection software. Students must be\nadvised to keep records of their submission and any plagiarism detection software receipts.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "N225",
+          "document_title": "Generative AI in Learning student guidance current endpoint",
+          "printed_bundle_page": 64,
+          "viewer_page": 64,
+          "line_start": "L026",
+          "line_end": "L032",
+          "evidence_type": "Exact quotation",
+          "text": "Self-access resourcesECU students can access a range of resources on Canvas that offer\nguidance on using these tools. In alignment with ECU’s Ethical Framework, these resources\ninclude:\nadvice on how to use gen AI for learning and demonstrating academic integrity\npractical prompt strategies for obtaining meaningful feedback\nguides for correctly attributing AI-assisted work\nDrop-insFor additional support with gen AI tools, students can access the Academic Skills",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": false,
+          "version_evidence": "",
+          "version_evidence_location": null,
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01",
+            "S1-Q05"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 120,
+          "viewer_page": 120,
+          "line_start": "L005",
+          "line_end": "L007",
+          "evidence_type": "Exact quotation",
+          "text": "At the commencement of the Unit, Students are to be given information about:\nacademic integrity at the University, including the University’s Academic Integrity Policy,\nAcademic Misconduct Rules (Students) and available Student resources;",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "N225",
+          "document_title": "Generative AI in Learning student guidance current endpoint",
+          "printed_bundle_page": 64,
+          "viewer_page": 64,
+          "line_start": "L026",
+          "line_end": "L032",
+          "evidence_type": "Exact quotation",
+          "text": "Self-access resourcesECU students can access a range of resources on Canvas that offer\nguidance on using these tools. In alignment with ECU’s Ethical Framework, these resources\ninclude:\nadvice on how to use gen AI for learning and demonstrating academic integrity\npractical prompt strategies for obtaining meaningful feedback\nguides for correctly attributing AI-assisted work\nDrop-insFor additional support with gen AI tools, students can access the Academic Skills",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": false,
+          "version_evidence": "",
+          "version_evidence_location": null,
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q01",
+            "S1-Q05"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": "N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=false for N225. Operative status unverified for N225 (effective date not recorded in bundle)."
+    },
+    {
+      "dimension": "D5",
+      "score": 2,
+      "reason": "Substantive safeguards exist via N090 own-work and acknowledgement duties, N154 Fair Assessment and Student Identity Verification (including vivas), and A014 contribution disclosure, but binding rules on equitable AI tool access and iterative scaffolding disclosure remain a material gap.",
+      "search_terms_used": [
+        "academic integrity student",
+        "student disclosure",
+        "assessment procedure student"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 110,
+          "viewer_page": 110,
+          "line_start": "L018",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Fair Assessment\nAssessment that is equitable, unbiased, and just for all participants. It ensures that every\nStudent is given an equivalent opportunity to demonstrate their capabilities without being\ndisadvantaged by factors unrelated to what is being assessed.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L036",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "Student Identity Verification - The identity of the Student completing the task (authorship)\nmust be able to be verified.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q08"
+          ]
+        },
+        {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 44,
+          "viewer_page": 44,
+          "line_start": "L013",
+          "line_end": "L019",
+          "evidence_type": "Exact quotation",
+          "text": "When students use AI repeatedly and authentically in learning tasks, they build their ability to judge when AI is\nuseful, evaluate what it produces, and experience what it means to remain accountable for the final work. When\ncoupled with learning and assessment designs that ask students to explain how and why they used AI, and to clarify\ntheir own contribution to AI-augmented work, AI-integrated learning can nurture academic integrity behaviours by\nrewarding transparency, honesty and accountability. Making these behaviours more visible also means educators\nare positioned to guide students’ decision-making, provide feedback on their AI use, and assess not only what\nstudents produce, but how responsibly they arrived there.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+          "version_evidence_location": {
+            "source_id": "A014",
+            "document_title": "ECU Developing AI Literacy Framework",
+            "printed_bundle_page": 41,
+            "viewer_page": 41,
+            "line_start": "L010",
+            "line_end": "L010",
+            "evidence_type": "Exact quotation",
+            "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 74,
+          "viewer_page": 74,
+          "line_start": "L001",
+          "line_end": "L004",
+          "evidence_type": "Exact quotation",
+          "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 110,
+          "viewer_page": 110,
+          "line_start": "L018",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Fair Assessment\nAssessment that is equitable, unbiased, and just for all participants. It ensures that every\nStudent is given an equivalent opportunity to demonstrate their capabilities without being\ndisadvantaged by factors unrelated to what is being assessed.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q04"
+          ]
+        },
+        {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L036",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "Student Identity Verification - The identity of the Student completing the task (authorship)\nmust be able to be verified.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "December 2025",
+          "version_evidence_location": {
+            "source_id": "N154",
+            "document_title": "Assessment Procedure including Attachment 1",
+            "printed_bundle_page": 119,
+            "viewer_page": 119,
+            "line_start": "L002",
+            "line_end": "L008",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q08"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 2,
+      "reason": "N090 requires regular policy review against benchmarks, annual consolidated reporting to Unit Review Committees and Academic Board, and School action plans, and both N090 and N154 were updated in 2025-2026, though event-triggered AI review triggers are not specified.",
+      "search_terms_used": [
+        "academic integrity student",
+        "student assessment"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 75,
+          "viewer_page": 75,
+          "line_start": "L024",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "provide an annual consolidated report on academic integrity within the University, to each Unit\nReview Committee and to the Academic Board; and\nmaintain and secure confidential records of academic integrity allegations, breaches,\ninvestigations and outcomes, in accordance with the University’s Privacy Policy, Records\nManagement Policy and any other applicable law.\nEach School will respond to the Deputy Vice-Chancellor (Students and Education)’s annual\nreport, for submission to Academic Board, addressing the following in relation to their School\nor Teaching Area:\ndata and trends relating to concerns, allegations and findings of Academic Breach and\nAcademic Misconduct for Students;\nthe manner in which allegations were dealt with;\nthe steps taken to promote academic integrity and to minimise Academic Breach and\nAcademic Misconduct; and\naction plans to continuously improve academic integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 75,
+          "viewer_page": 75,
+          "line_start": "L024",
+          "line_end": "L037",
+          "evidence_type": "Exact quotation",
+          "text": "provide an annual consolidated report on academic integrity within the University, to each Unit\nReview Committee and to the Academic Board; and\nmaintain and secure confidential records of academic integrity allegations, breaches,\ninvestigations and outcomes, in accordance with the University’s Privacy Policy, Records\nManagement Policy and any other applicable law.\nEach School will respond to the Deputy Vice-Chancellor (Students and Education)’s annual\nreport, for submission to Academic Board, addressing the following in relation to their School\nor Teaching Area:\ndata and trends relating to concerns, allegations and findings of Academic Breach and\nAcademic Misconduct for Students;\nthe manner in which allegations were dealt with;\nthe steps taken to promote academic integrity and to minimise Academic Breach and\nAcademic Misconduct; and\naction plans to continuously improve academic integrity.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date last modified\n20 October 2026",
+          "version_evidence_location": {
+            "source_id": "N090",
+            "document_title": "Academic Integrity Policy PL276",
+            "printed_bundle_page": 76,
+            "viewer_page": 76,
+            "line_start": "L034",
+            "line_end": "L040",
+            "evidence_type": "Exact quotation",
+            "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S1-Q07"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "review_route_explanation": "Students have a general right of appeal under the Admission, Enrolment and Academic Progress Rules (N154) and can lodge complaints under the Complaints Policy PL207 (N156).",
+    "review_route_evidence": {
+      "source_id": "N154",
+      "document_title": "Assessment Procedure including Attachment 1",
+      "printed_bundle_page": 118,
+      "viewer_page": 118,
+      "line_start": "L018",
+      "line_end": "L020",
+      "evidence_type": "Exact quotation",
+      "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+      "evidence_role": "MAIN",
+      "operative_at_cutoff": true,
+      "version_evidence": "December 2025",
+      "version_evidence_location": {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L002",
+        "line_end": "L008",
+        "evidence_type": "Exact quotation",
+        "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+      },
+      "visual_reading_order_checked": false,
+      "visual_review_note": "",
+      "query_ids": [
+        "S1-Q06"
+      ]
+    },
+    "critical_gap": "No",
+    "critical_risk_criterion": "Attributable student authorship and transparent, authorised AI assessment assistance.",
+    "critical_gap_explanation": "Student authorship and identity verification are protected by N090 and N154, and A014 supports educator-signposted AI-integrated learning with disclosure of student contribution where no AI-authored text is submitted.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Conditional",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "ECU permits AI-assisted learning and scaffolding when aligned with unit expectations, AI Stamps, and proper acknowledgement under N090, N154, and A014. Because no AI-authored text is submitted and the student submits under their own authenticated account, attributable authorship and Student Identity Verification are preserved. Protocol v1.1 was adopted after preliminary review; detailed Canvas AI-attribution guides linked from N225 sit outside the bundle.",
+    "supporting_passages": [
+      {
+        "source_id": "N156",
+        "document_title": "Complaints Policy PL207",
+        "printed_bundle_page": 140,
+        "viewer_page": 140,
+        "line_start": "L024",
+        "line_end": "L037",
+        "evidence_type": "Exact quotation",
+        "text": "This policy applies to:\nComplaints made by prospective, current and former Students or members of the public about\nthe University or University-related conduct, whether occurring in Australia or overseas; and\nall persons involved in making, responding to, managing or resolving those Complaints.\nWhere legislation or another University or external framework provides a specific process for\ndealing with all or part of a matter, the University may refer or manage that matter under the\napplicable process. This includes matters concerning academic review or appeal, public\ninterest disclosures, misconduct, staff performance, privacy, employment or workplace\ngrievances, the ECU Student Guild, and third-party organisations.\nThis does not prevent the University from considering a distinct Complaint about its\nadministration of, or response to, the matter.\nWhere a matter engages more than one framework, the University will determine whether the\nrelevant issues are to be managed separately, sequentially, concurrently or in a coordinated\nmanner and will inform the Complainant of the applicable pathway.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).",
+        "version_evidence_location": {
+          "source_id": "N156",
+          "document_title": "Complaints Policy PL207",
+          "printed_bundle_page": 147,
+          "viewer_page": 147,
+          "line_start": "L016",
+          "line_end": "L016",
+          "evidence_type": "Exact quotation",
+          "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051)."
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q06"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 122,
+        "viewer_page": 122,
+        "line_start": "L006",
+        "line_end": "L008",
+        "evidence_type": "Exact quotation",
+        "text": "All non-invigilated written Summative Assessments must be submitted electronically, and must\nbe subjected to the University’s nominated plagiarism detection software. Students must be\nadvised to keep records of their submission and any plagiarism detection software receipts.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q04"
+        ]
+      }
+    ],
+    "search_terms_used": [
+      "generative AI assessment",
+      "assessment procedure student",
+      "student disclosure",
+      "appeal review decision",
+      "academic integrity student"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "A014",
+        "document_title": "ECU Developing AI Literacy Framework",
+        "printed_bundle_page": 41,
+        "viewer_page": 41,
+        "line_start": "L013",
+        "line_end": "L015",
+        "evidence_type": "Exact quotation",
+        "text": "Artificial intelligence (AI) is already part of how students learn. Whether we design for it or not, students are using\nAI tools to explore ideas, draft responses, and make sense of complex information. When left unguided, however,\nstudents risk using AI in ways that bypass learning or compromise the integrity of their work.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Written by Dr Megan Ellyard | 02 Jul 2026",
+        "version_evidence_location": {
+          "source_id": "A014",
+          "document_title": "ECU Developing AI Literacy Framework",
+          "printed_bundle_page": 41,
+          "viewer_page": 41,
+          "line_start": "L010",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "Written by Dr Megan Ellyard | 02 Jul 2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q01"
+        ]
+      },
+      {
+        "source_id": "N090",
+        "document_title": "Academic Integrity Policy PL276",
+        "printed_bundle_page": 74,
+        "viewer_page": 74,
+        "line_start": "L001",
+        "line_end": "L004",
+        "evidence_type": "Exact quotation",
+        "text": "submit work for assessment and/or feedback that properly acknowledges the words, ideas,\ndesigns, works of others, or other source material, and is otherwise their own work; and\nrefrain from any other forms of Academic Breach or Academic Misconduct as defined in this or\nany other University rule, policy, or procedure.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date last modified\n20 October 2026",
+        "version_evidence_location": {
+          "source_id": "N090",
+          "document_title": "Academic Integrity Policy PL276",
+          "printed_bundle_page": 76,
+          "viewer_page": 76,
+          "line_start": "L034",
+          "line_end": "L040",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nPolicy approved by\nVice-Chancellor\nDate policy first approved\n21 December 2017\nDate last modified\n20 October 2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q07"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 119,
+        "viewer_page": 119,
+        "line_start": "L036",
+        "line_end": "L037",
+        "evidence_type": "Exact quotation",
+        "text": "Student Identity Verification - The identity of the Student completing the task (authorship)\nmust be able to be verified.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q08"
+        ]
+      },
+      {
+        "source_id": "N154",
+        "document_title": "Assessment Procedure including Attachment 1",
+        "printed_bundle_page": 118,
+        "viewer_page": 118,
+        "line_start": "L018",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "Appeals\nIn addition to any review mechanisms set out in these procedures, Students have the right to\nappeal in accordance with the Admission, Enrolment and Academic Progress Rules.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "December 2025",
+        "version_evidence_location": {
+          "source_id": "N154",
+          "document_title": "Assessment Procedure including Attachment 1",
+          "printed_bundle_page": 119,
+          "viewer_page": 119,
+          "line_start": "L002",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "APPROVAL HISTORY\nProcedure approved by:\nDeputy Vice-Chancellor (Education)\nDate procedure first approved:\nJune 2025\nDate last modified:\nDecember 2025"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q06"
+        ]
+      },
+      {
+        "source_id": "N225",
+        "document_title": "Generative AI in Learning student guidance current endpoint",
+        "printed_bundle_page": 64,
+        "viewer_page": 64,
+        "line_start": "L026",
+        "line_end": "L032",
+        "evidence_type": "Exact quotation",
+        "text": "Self-access resourcesECU students can access a range of resources on Canvas that offer\nguidance on using these tools. In alignment with ECU’s Ethical Framework, these resources\ninclude:\nadvice on how to use gen AI for learning and demonstrating academic integrity\npractical prompt strategies for obtaining meaningful feedback\nguides for correctly attributing AI-assisted work\nDrop-insFor additional support with gen AI tools, students can access the Academic Skills",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": false,
+        "version_evidence": "",
+        "version_evidence_location": null,
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S1-Q01",
+          "S1-Q05"
+        ]
+      }
+    ],
+    "uncertainty_notes": "N225 Canvas guidance and Admission, Enrolment and Academic Progress Rules are referenced but not included in the bundle."
+  }
+}

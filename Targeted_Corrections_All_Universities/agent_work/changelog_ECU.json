@@ -1,0 +1,680 @@
+[
+  {
+    "university": "ECU",
+    "case_id": "ECU-S1",
+    "field": "D2.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote core Unit Coordinator and Assessment Panel authority passages to MAIN.",
+    "supporting_policy_location": "N090 p.74 L018-L027"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S1",
+    "field": "D2.evidence[1].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote core Unit Coordinator and Assessment Panel authority passages to MAIN.",
+    "supporting_policy_location": "N154 p.111 L035-L038"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S1",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N154 unit-commencement integrity/submission requirement to MAIN.",
+    "supporting_policy_location": "N154 p.120 L005-L007"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S1",
+    "field": "D4.uncertainty_notes",
+    "old_value": "N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=false for N225.",
+    "proposed_value": "N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=false for N225. Operative status unverified for N225 (effective date not recorded in bundle).",
+    "reason": "Rule 5: explicitly note 'Operative status unverified' for undated source.",
+    "supporting_policy_location": "N225"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S2",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N154 electronic submission and plagiarism-detection requirement to MAIN.",
+    "supporting_policy_location": "N154 p.122 L006-L008"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S3",
+    "field": "D3.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Rule 1: cited passages are compatible without explicit coordination; Statute No. 22 and Academic Misconduct Rules sit outside the bundle.",
+    "supporting_policy_location": "N093 p.80 L008-L015; N090 p.74 L001-L004; N154 p.119 L036-L037"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S3",
+    "field": "D3.reason",
+    "old_value": "N093 (exclusive account use and anti-concealment), N090 (own work), and N154 (Student Identity Verification) align and cross-reference University Statute No. 22 Student Conduct and the Academic Misconduct Rules (Students).",
+    "proposed_value": "N093 (exclusive account use and anti-concealment), N090 (own work), and N154 (Student Identity Verification) are compatible rules across ICT access and assessment integrity, without an explicit coordination rule cited in the verified bundle passages.",
+    "reason": "Rule 1: align D3 rationale with score 2.",
+    "supporting_policy_location": "N093 p.80; N090 p.74; N154 p.119"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S3",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N093 immediate CIO compromise-reporting route to MAIN.",
+    "supporting_policy_location": "N093 p.80 L018-L019"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D1.reason",
+    "old_value": "ECU has general institutional privacy rules (N094), ICT acceptable-use rules (N093), and disability note-taking/assistive-technology pages (N223, N224), but no policy explicitly recognises or regulates a student's undisclosed personal AI recording of live lectures.",
+    "proposed_value": "ECU has general institutional privacy rules (N094), ICT acceptable-use rules (N093), and disability note-taking/assistive-technology pages (N223, N224), but no relevant provision regulating undisclosed student AI lecture recording or third-party participant consent was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace absolute 'no policy' claim with bounded absence phrasing.",
+    "supporting_policy_location": "N094 p.87; N093 p.79; N223 p.60"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D1.uncertainty_notes",
+    "old_value": "N223 and N224 are undated webpages (operative_at_cutoff=false); Student Code of Conduct and Statute 22 referenced in N093 are outside the bundle.",
+    "proposed_value": "N223 and N224 are undated webpages (operative_at_cutoff=false); Student Code of Conduct and Statute 22 referenced in N093 are outside the bundle. Operative status unverified for N223 (effective date not recorded in bundle).",
+    "reason": "Rule 5: explicitly note 'Operative status unverified' for undated source.",
+    "supporting_policy_location": "N223"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D2.reason",
+    "old_value": "N094 names the Privacy Officer, N093 names the Director and CIO for ICT policy, and N223 names Accessibility Advisers, but no decision-maker is assigned criteria or authority to permit or prohibit undisclosed personal AI lecture recording by students.",
+    "proposed_value": "N094 names the Privacy Officer, N093 names the Director and CIO for ICT policy, and N223 names Accessibility Advisers, but no relevant decision-maker assigned criteria or authority to permit or prohibit undisclosed personal AI lecture recording by students was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace absolute absence phrasing.",
+    "supporting_policy_location": "N094 p.85; N093 p.81"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D5.reason",
+    "old_value": "N094 protects University-collected personal information and N093 bars unauthorised copying of University information assets, but operational safeguards for third-party lecture participants' consent and undisclosed AI capture are absent.",
+    "proposed_value": "N094 protects University-collected personal information and N093 bars unauthorised ICT misuse, but no relevant operational safeguard for third-party lecture participants' consent or undisclosed student AI capture was identified in the documents and searches checked.",
+    "reason": "Rule 3 & 4: replace 'are absent' with bounded absence phrasing and specify missing consent boundary.",
+    "supporting_policy_location": "N094 p.87; N093 p.79"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D2.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 Privacy Officer designation to MAIN.",
+    "supporting_policy_location": "N094 p.85 L019-L026"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D5.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 collection-notice protection to MAIN.",
+    "supporting_policy_location": "N094 p.87 L012-L014"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S4",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 revision-cycle record to MAIN.",
+    "supporting_policy_location": "N094 p.94 L029-L033"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S5",
+    "field": "D5.reason",
+    "old_value": "N093 protects account exclusivity and N154 limits participation grading to 10 percent and bars marks for attendance alone, but there are no safeguards for verifying disclosed proxy identity, admission, or class recording privacy.",
+    "proposed_value": "N093 protects account exclusivity and N154 limits participation grading to 10 percent and bars marks for attendance alone, but no relevant provision for verifying disclosed AI proxy identity, admission, or class recording privacy was identified in the documents and searches checked.",
+    "reason": "Rule 3 & 4: replace absolute absence claim with bounded phrasing.",
+    "supporting_policy_location": "N093 p.80; N154 p.121"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S5",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Although N093 prohibits account sharing and N154 regulates mandatory attendance and participation, ECU has no documented mechanism to verify or admit a disclosed AI proxy or establish whether it can validly fulfil compulsory participation.",
+    "proposed_value": "Although N093 prohibits account sharing and N154 regulates mandatory attendance and participation, no relevant provision was identified in the documents and searches checked to verify or admit a disclosed AI proxy or establish whether it can validly fulfil compulsory participation.",
+    "reason": "Rule 3 & 4: replace 'ECU has no documented mechanism' with bounded phrasing.",
+    "supporting_policy_location": "N093 p.80; N154 p.121"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S5",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N093 periodic review record to MAIN.",
+    "supporting_policy_location": "N093 p.82 L007-L011"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S6",
+    "field": "D3.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Rule 1: cited passages are compatible without explicit coordination.",
+    "supporting_policy_location": "N093 p.80 L008-L015; N094 p.87 L045-L047"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S6",
+    "field": "D3.reason",
+    "old_value": "N093 (exclusive account use and anti-concealment), N094 (authorised disclosure and data ownership), and N156 (complaint representation and confidentiality) align consistently.",
+    "proposed_value": "N093 (exclusive account use and anti-concealment), N094 (authorised disclosure and data ownership), and N156 (complaint representation and confidentiality) are compatible rules across ICT access, privacy, and complaints handling, without an explicit coordination rule cited between them.",
+    "reason": "Rule 1: align D3 rationale with score 2.",
+    "supporting_policy_location": "N093 p.80; N094 p.87"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S6",
+    "field": "D6.evidence",
+    "old_value": [
+      {
+        "source_id": "N156",
+        "document_title": "Complaints Policy PL207",
+        "printed_bundle_page": 147,
+        "viewer_page": 147,
+        "line_start": "L016",
+        "line_end": "L021",
+        "evidence_type": "Exact quotation",
+        "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).\nAmendments include: (i) expansion of scope and definitions; (ii) enhanced requirements for\ncomplaint handling and outcomes; and (iii) introduction of new provisions on procedural\nfairness, non-retaliation, confidentiality, and trauma informed practice.\nNext revision due\n1 June 2029",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).",
+        "version_evidence_location": {
+          "source_id": "N156",
+          "document_title": "Complaints Policy PL207",
+          "printed_bundle_page": 147,
+          "viewer_page": 147,
+          "line_start": "L016",
+          "line_end": "L016",
+          "evidence_type": "Exact quotation",
+          "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051)."
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S6-Q05"
+        ]
+      }
+    ],
+    "proposed_value": [
+      {
+        "source_id": "N156",
+        "document_title": "Complaints Policy PL207",
+        "printed_bundle_page": 145,
+        "viewer_page": 145,
+        "line_start": "L020",
+        "line_end": "L022",
+        "evidence_type": "Exact quotation",
+        "text": "De-identified Complaint data will be analysed at least every six months to identify trends, risks\nand underlying causes. A report will be provided to Council to support its assurance that those\nmatters are appropriately identified and addressed.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).",
+        "version_evidence_location": {
+          "source_id": "N156",
+          "document_title": "Complaints Policy PL207",
+          "printed_bundle_page": 147,
+          "viewer_page": 147,
+          "line_start": "L016",
+          "line_end": "L016",
+          "evidence_type": "Exact quotation",
+          "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051)."
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S6-Q05"
+        ]
+      },
+      {
+        "source_id": "N156",
+        "document_title": "Complaints Policy PL207",
+        "printed_bundle_page": 147,
+        "viewer_page": 147,
+        "line_start": "L016",
+        "line_end": "L021",
+        "evidence_type": "Exact quotation",
+        "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).\nAmendments include: (i) expansion of scope and definitions; (ii) enhanced requirements for\ncomplaint handling and outcomes; and (iii) introduction of new provisions on procedural\nfairness, non-retaliation, confidentiality, and trauma informed practice.\nNext revision due\n1 June 2029",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051).",
+        "version_evidence_location": {
+          "source_id": "N156",
+          "document_title": "Complaints Policy PL207",
+          "printed_bundle_page": 147,
+          "viewer_page": 147,
+          "line_start": "L016",
+          "line_end": "L016",
+          "evidence_type": "Exact quotation",
+          "text": "2 September 2026: Vice-Chancellor approval of policy amendments (GDA26-051)."
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S6-Q05"
+        ]
+      }
+    ],
+    "reason": "Rule 2 & 7: cite N156 p.145 L020-L022 (6-monthly trend/risk analysis reported to Council) as MAIN instead of relying solely on past amendments.",
+    "supporting_policy_location": "N156 p.145 L020-L022"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S6",
+    "field": "D6.reason",
+    "old_value": "N156 and N094 were both substantially reviewed and amended in 2026 with scheduled future reviews (2029 and 2030), and N093 undergoes periodic review (next 2027).",
+    "proposed_value": "N156 mandates monitoring and lessons-learned review throughout the complaints lifecycle, with de-identified complaint data analysed at least every six months to identify trends, risks, and underlying causes and reported to Council (plus scheduled reviews of N156, N094, and N093).",
+    "reason": "Rule 2: ground D6=2 in assigned monitoring and Council escalation/learning rather than past amendments alone.",
+    "supporting_policy_location": "N156 p.145 L020-L022"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S7",
+    "field": "D4.reason",
+    "old_value": "N154 specifies individual verification for group tasks over 30 percent and N225 points to Canvas AI-attribution guides, but no specific group-level AI disclosure or tracking procedure is detailed in N154.",
+    "proposed_value": "N154 specifies individual verification for group tasks over 30 percent and N225 points to Canvas AI-attribution guides, though no relevant provision for group-level AI disclosure tracking was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace absolute absence phrasing with bounded phrasing.",
+    "supporting_policy_location": "N154 p.121; N225 p.64"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S7",
+    "field": "D4.uncertainty_notes",
+    "old_value": "N225 Canvas attribution guides sit outside the bundle.",
+    "proposed_value": "N225 Canvas attribution guides sit outside the bundle. Operative status unverified for N225 (effective date not recorded in bundle).",
+    "reason": "Rule 5: explicitly note 'Operative status unverified' for undated source.",
+    "supporting_policy_location": "N225"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S7",
+    "field": "D2.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N154 Associate Dean / Unit Coordinator approval authority to MAIN.",
+    "supporting_policy_location": "N154 p.120 L043-L046"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S8",
+    "field": "D1.reason",
+    "old_value": "N090 and N154 cover individual student authorship and SIV, N093 covers University-sanctioned ICT systems and Authorised Users, and N094 covers University privacy practices, but no policy recognises an AI agent joining a group workspace as a contributing member with persistent memory.",
+    "proposed_value": "N090 and N154 cover individual student authorship and SIV, N093 covers University-sanctioned ICT systems and Authorised Users, and N094 covers University privacy obligations, but no relevant provision governing student-shared AI group workspaces with persistent memory was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace 'no policy' with bounded absence phrasing.",
+    "supporting_policy_location": "N090 p.74; N093 p.80; N094 p.87"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S8",
+    "field": "D4.reason",
+    "old_value": "N154 provides general group assessment verification steps, but there is no actionable procedure for authorising an AI group participant, attributing its direct workspace contributions, or governing peer data retention in the workspace.",
+    "proposed_value": "N154 provides general group assessment verification steps, but no relevant actionable procedure for authorising an AI group participant, attributing its direct workspace contributions, or governing peer data retention in the workspace was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace 'there is no actionable procedure' with bounded absence phrasing.",
+    "supporting_policy_location": "N154 p.121"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S8",
+    "field": "case_summary.case_note",
+    "old_value": "ECU's N090 and N154 require accountable human authorship and Student Identity Verification, and N093 restricts University data to sanctioned ICT systems. However, no policy regulates an AI agent participating directly in a student group workspace with cross-session memory or protects group members' personal information in that workspace. Protocol v1.1 was adopted after preliminary review.",
+    "proposed_value": "ECU's N090 and N154 require accountable human authorship and Student Identity Verification, and N093 restricts University data to sanctioned ICT systems. However, no relevant provision governing student-shared AI group workspaces with persistent memory or peer personal data was identified in the documents and searches checked, leaving a critical safeguard gap. Protocol v1.1 was adopted after preliminary review.",
+    "reason": "Rule 3: replace 'no policy' in case_note with bounded absence phrasing while keeping 3 sentences.",
+    "supporting_policy_location": "N090 p.74; N093 p.80; N154 p.121"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S8",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N154 group-task individual verification passage to MAIN.",
+    "supporting_policy_location": "N154 p.121 L007-L011"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S8",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 revision-cycle record to MAIN.",
+    "supporting_policy_location": "N094 p.94 L029-L033"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S9",
+    "field": "D3.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Rule 1: cited passages show compatible rules without explicit coordination.",
+    "supporting_policy_location": "N154 p.122 L019-L030; N154 p.111 L028-L047"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S9",
+    "field": "D3.reason",
+    "old_value": "N154's formative-only peer assessment rule, Unit Coordinator grading responsibility, Assessment Panel moderation, and N090's academic integrity framework align consistently.",
+    "proposed_value": "N154's formative-only peer assessment rule, Unit Coordinator grading responsibility, and Assessment Panel moderation are compatible with N090's academic integrity framework, without an explicit coordination rule cited between them in the verified passages.",
+    "reason": "Rule 1: align D3 rationale with score 2.",
+    "supporting_policy_location": "N154 p.122; N154 p.111"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: annual review and past amendment alone do not establish score 2 without escalation/learning.",
+    "supporting_policy_location": "N097 p.13 L004-L015"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D6.reason",
+    "old_value": "N097 states it will be updated on an annual basis under RHDC oversight, and N096 was amended in June 2025 to explicitly incorporate N097.",
+    "proposed_value": "N097 provides for an annual update cycle under the Guideline Owner (DVC Research) and RHDC, and N096 records a June 2025 amendment; under the codebook, periodic/annual review and past amendments without an escalation or monitoring-to-learning route establish score 1.",
+    "reason": "Rule 2: align D6 rationale with score 1.",
+    "supporting_policy_location": "N097 p.13 L004-L015"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D1.evidence[0]",
+    "old_value": {
+      "line_start": "L026",
+      "line_end": "L034",
+      "text": "4.3 Literature Reviews\nResearchers should be vigilant towards the possible bias and inaccuracy of content\ngenerated using AI tools. This is critically important in the scoping and conduct of literature\nreviews. Researchers should also carefully consider the role and value of human-centered\njudgement and critical thinking required in the literature review process. While AI tools may\nfacilitate researchers to conduct literature reviews more efficiently and effectively, their use\nto summarise content may impact researchers’ own critical reflection and analysis of the\navailable literature. Researchers, particularly HDR candidates, should remain cognisant of\nthe fallibility of AI given the important role of literature reviews to consolidate ideas, generate"
+    },
+    "proposed_value": {
+      "line_start": "L026",
+      "line_end": "L032",
+      "text": "4.3 Literature Reviews\nResearchers should be vigilant towards the possible bias and inaccuracy of content\ngenerated using AI tools. This is critically important in the scoping and conduct of literature\nreviews. Researchers should also carefully consider the role and value of human-centered\njudgement and critical thinking required in the literature review process. While AI tools may\nfacilitate researchers to conduct literature reviews more efficiently and effectively, their use\nto summarise content may impact researchers’ own critical reflection and analysis of the"
+    },
+    "reason": "Rule 6: trim truncated sentence at bottom of N097 p.7.",
+    "supporting_policy_location": "N097 p.7 L026-L032"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D1.evidence[1]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D1.documents_checked[1]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D1.documents_checked[0]",
+    "old_value": {
+      "line_start": "L026",
+      "line_end": "L034",
+      "text": "4.3 Literature Reviews\nResearchers should be vigilant towards the possible bias and inaccuracy of content\ngenerated using AI tools. This is critically important in the scoping and conduct of literature\nreviews. Researchers should also carefully consider the role and value of human-centered\njudgement and critical thinking required in the literature review process. While AI tools may\nfacilitate researchers to conduct literature reviews more efficiently and effectively, their use\nto summarise content may impact researchers’ own critical reflection and analysis of the\navailable literature. Researchers, particularly HDR candidates, should remain cognisant of\nthe fallibility of AI given the important role of literature reviews to consolidate ideas, generate"
+    },
+    "proposed_value": {
+      "line_start": "L026",
+      "line_end": "L032",
+      "text": "4.3 Literature Reviews\nResearchers should be vigilant towards the possible bias and inaccuracy of content\ngenerated using AI tools. This is critically important in the scoping and conduct of literature\nreviews. Researchers should also carefully consider the role and value of human-centered\njudgement and critical thinking required in the literature review process. While AI tools may\nfacilitate researchers to conduct literature reviews more efficiently and effectively, their use\nto summarise content may impact researchers’ own critical reflection and analysis of the"
+    },
+    "reason": "Rule 6: trim truncated sentence at bottom of N097 p.7.",
+    "supporting_policy_location": "N097 p.7 L026-L032"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D3.evidence[1]",
+    "old_value": {
+      "line_start": "L028",
+      "line_end": "L034",
+      "text": "4.8 Data protection, Confidentiality and Security\nThe collection, storage, use, archival, and destruction of research data or data generated or\ncreated through GenAI tools must, as a minimum, comply with the University’s Privacy\nPolicy and comply with all relevant consent and usage disclosure requirements.\nThe University is committed to the responsible management of personal information or\npersonal data collected. All researchers should be conscious of our obligations to protect\n8 Guideline for the Responsible Use of ECU GenAI Internal in Research Information"
+    },
+    "proposed_value": {
+      "line_start": "L028",
+      "line_end": "L031",
+      "text": "4.8 Data protection, Confidentiality and Security\nThe collection, storage, use, archival, and destruction of research data or data generated or\ncreated through GenAI tools must, as a minimum, comply with the University’s Privacy\nPolicy and comply with all relevant consent and usage disclosure requirements."
+    },
+    "reason": "Rule 6 (CRITICAL): remove N097 p.10 L034 footer and L032-L033 truncated sentence.",
+    "supporting_policy_location": "N097 p.10 L028-L031"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D3.documents_checked[1]",
+    "old_value": {
+      "line_start": "L028",
+      "line_end": "L034",
+      "text": "4.8 Data protection, Confidentiality and Security\nThe collection, storage, use, archival, and destruction of research data or data generated or\ncreated through GenAI tools must, as a minimum, comply with the University’s Privacy\nPolicy and comply with all relevant consent and usage disclosure requirements.\nThe University is committed to the responsible management of personal information or\npersonal data collected. All researchers should be conscious of our obligations to protect\n8 Guideline for the Responsible Use of ECU GenAI Internal in Research Information"
+    },
+    "proposed_value": {
+      "line_start": "L028",
+      "line_end": "L031",
+      "text": "4.8 Data protection, Confidentiality and Security\nThe collection, storage, use, archival, and destruction of research data or data generated or\ncreated through GenAI tools must, as a minimum, comply with the University’s Privacy\nPolicy and comply with all relevant consent and usage disclosure requirements."
+    },
+    "reason": "Rule 6 (CRITICAL): remove N097 p.10 L034 footer and L032-L033 truncated sentence.",
+    "supporting_policy_location": "N097 p.10 L028-L031"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D4.evidence[0]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D4.documents_checked[0]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D5.evidence[0]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "D5.documents_checked[0]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S10",
+    "field": "case_summary.documents_checked[1]",
+    "old_value": {
+      "line_start": "L001",
+      "line_end": "L005",
+      "text": "Guideline for the Responsible\nuse of Generative AI in Research\nhypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "proposed_value": {
+      "line_start": "L003",
+      "line_end": "L005",
+      "text": "hypotheses, establish theoretical frameworks, develop perspectives, and understand and\nlearn from current knowledge. It is important to note that GenAI may fabricate non-existent\nreferences, so all generative outputs must be rigorously checked."
+    },
+    "reason": "Rule 6: remove running header L001-L002 on N097 p.8.",
+    "supporting_policy_location": "N097 p.8 L003-L005"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S11",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: annual review and past amendment alone do not establish score 2 without escalation/learning.",
+    "supporting_policy_location": "N097 p.13 L004-L008"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S11",
+    "field": "D6.reason",
+    "old_value": "N097 is scheduled for annual updates under RHDC oversight and N096 was amended in June 2025 to incorporate N097.",
+    "proposed_value": "N097 is scheduled for annual updates under RHDC oversight and N096 was amended in June 2025; under the codebook, periodic/annual review and past amendments without an escalation or monitoring-to-learning route establish score 1.",
+    "reason": "Rule 2: align D6 rationale with score 1.",
+    "supporting_policy_location": "N097 p.13 L004-L008"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S11",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N097 p.13 annual-update passage to MAIN.",
+    "supporting_policy_location": "N097 p.13 L004-L008"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S11",
+    "field": "D2.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "Operative status unverified for N099 (effective date not recorded in bundle).",
+    "reason": "Rule 5: explicitly note 'Operative status unverified' for undated source.",
+    "supporting_policy_location": "N099"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S11",
+    "field": "D4.uncertainty_notes",
+    "old_value": "",
+    "proposed_value": "Operative status unverified for N099 (effective date not recorded in bundle).",
+    "reason": "Rule 5: explicitly note 'Operative status unverified' for undated source.",
+    "supporting_policy_location": "N099"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S12",
+    "field": "D6.score",
+    "old_value": 2,
+    "proposed_value": 1,
+    "reason": "Rule 2: annual review and past amendment alone do not establish score 2 without escalation/learning.",
+    "supporting_policy_location": "N097 p.13 L004-L015"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S12",
+    "field": "D6.reason",
+    "old_value": "N097 provides for annual updates under RHDC and N096 was updated in June 2025 to align with N097.",
+    "proposed_value": "N097 provides for annual updates under RHDC and DVC (Research) oversight and N096 was updated in June 2025; under the codebook, periodic/annual review and past amendments without an escalation or monitoring-to-learning route establish score 1.",
+    "reason": "Rule 2: align D6 rationale with score 1.",
+    "supporting_policy_location": "N097 p.13 L004-L015"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S12",
+    "field": "D6.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N097 p.13 annual-update passage to MAIN.",
+    "supporting_policy_location": "N097 p.13 L004-L015"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S13",
+    "field": "D2.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 Privacy Officer and Relevant Data Owner designations to MAIN.",
+    "supporting_policy_location": "N094 p.85 L019-L033"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S13",
+    "field": "D2.evidence[1].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Rule 7: promote N094 Privacy Officer and Relevant Data Owner designations to MAIN.",
+    "supporting_policy_location": "N094 p.86 L012-L018"
+  },
+  {
+    "university": "ECU",
+    "case_id": "ECU-S14",
+    "field": "D4.reason",
+    "old_value": "N094 sets out collection notices, access/correction procedures, and human review requests for automated decisions, and N095 sets out PTA/PIA workflows, though there is no specific procedure requiring cross-course AI profile disclosure to individual unit instructors.",
+    "proposed_value": "N094 sets out collection notices, access/correction procedures, and human review requests for automated decisions, and N095 sets out PTA/PIA workflows, though no relevant procedure for cross-course instructor visibility was identified in the documents and searches checked.",
+    "reason": "Rule 3: replace 'no specific...' with bounded absence phrasing.",
+    "supporting_policy_location": "N094 p.90-91; N095 p.96"
+  }
+]

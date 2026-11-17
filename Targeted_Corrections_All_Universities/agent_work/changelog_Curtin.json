@@ -1,0 +1,407 @@
+[
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S1",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S1",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside event/compliance-triggered reviews with named Policy Managers, Policy Compliance Officers, and Director Risk, Compliance & Audit.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S2",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S2",
+    "field": "D6.reason",
+    "old_value": "N014 mandates periodic 5-year policy and 3-year procedure reviews plus compliance/breach-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S3",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S3",
+    "field": "D6.reason",
+    "old_value": "N014 establishes 5-year policy and 3-year procedure review cycles plus compliance/breach-triggered updates with named ownership.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S4",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S4",
+    "field": "D6.reason",
+    "old_value": "N014 establishes 5-year policy and 3-year procedure review cycles alongside compliance/breach-triggered revisions with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S4",
+    "field": "case_summary.case_note",
+    "old_value": "Curtin requires AI transparency and privacy compliance (N001), restricts uploading lecture slides or audio transcripts to GenAI tools except for disability accessibility (N133, N231), and regulates University data collection via consent (N016, N017). However, no operative policy establishes an operational permission or consent boundary for a student's undisclosed AI capture of identifiable lecture participants (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "proposed_value": "Curtin requires AI transparency and privacy compliance (N001), restricts uploading lecture slides or audio transcripts to GenAI tools except for disability accessibility (N133, N231; operative status unverified), and regulates University data collection via consent (N016, N017). No relevant provision establishing an operational permission or consent boundary for a student's undisclosed AI capture of identifiable lecture participants was identified in the documents and searches checked ('lecture recording', 'student recording', 'consent recording', 'recording permission', 'privacy complaint') (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "reason": "Replace overstated 'no operative policy' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N001 p.6; N016; N017; N133 p.10; N231 p.574"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "D1.reason",
+    "old_value": "Generic or analogical recognition only: N002 states class attendance is not an allowable form of assessment (while N232 notes some units have compulsory activities), N001 requires human oversight, and N149 governs third-party information proxies, but no policy addresses a disclosed AI avatar attending an online lecture as a student proxy.",
+    "proposed_value": "Generic or analogical recognition only: N002 states class attendance is not an allowable form of assessment (while N232, operative status unverified, notes some units have compulsory activities), N001 requires human oversight, and N149 governs third-party information proxies; no relevant provision addressing a disclosed AI avatar attending an online lecture as a student proxy was identified in the documents and searches checked ('attendance proxy', 'authorised proxy', 'online attendance', 'attendance procedure', 'proxy identity').",
+    "reason": "Replace overstated 'no policy addresses' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002; N001; N149; N232 p.578"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "D5.reason",
+    "old_value": "General safeguards exist (N002 barring attendance-only assessment marks, N001 human oversight/accountability, N149 identity/authority verification for information proxies, N141 misconduct), but a material gap remains because no rule governs admitting/refusing a disclosed AI attendance proxy or its status for compulsory participation.",
+    "proposed_value": "General safeguards exist (N002 barring attendance-only assessment marks, N001 human oversight/accountability, N149 identity/authority verification for information proxies, N141 misconduct), but a material gap remains because no relevant provision governing admission/verification of a disclosed AI attendance proxy or its status for compulsory participation was identified in the documents and searches checked ('attendance proxy', 'authorised proxy', 'online attendance', 'proxy identity').",
+    "reason": "Replace overstated 'no rule governs' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002; N001; N149; N141"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "While N002 bars attendance from counting directly toward marks, no operative Curtin policy provides a verification and admission rule for a disclosed AI avatar proxy in online lectures or establishes a valid basis for whether it can fulfil compulsory participation.",
+    "proposed_value": "While N002 bars attendance from counting directly toward marks, no relevant provision providing a verification and admission rule for a disclosed AI avatar proxy in online lectures or establishing a valid basis for whether it can fulfil compulsory participation was identified in the documents and searches checked ('attendance proxy', 'authorised proxy', 'online attendance', 'attendance procedure', 'proxy identity'; N232 operative status unverified).",
+    "reason": "Replace overstated 'no operative Curtin policy' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002; N232 p.578"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S5",
+    "field": "case_summary.case_note",
+    "old_value": "Curtin's N002 states that class attendance is not an allowable form of assessment, while N001 requires human oversight and N149 requires identity and written authority verification for third-party information proxies. However, no operative rule governs the verification and admission of a disclosed AI avatar proxy in online lectures or its basis for fulfilling compulsory participation (D1=1, D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "proposed_value": "Curtin's N002 states that class attendance is not an allowable form of assessment, while N001 requires human oversight and N149 requires identity and written authority verification for third-party information proxies. No relevant provision governing verification and admission of a disclosed AI avatar proxy in online lectures or its basis for fulfilling compulsory participation was identified in the documents and searches checked (D1=1, D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "reason": "Replace overstated 'no operative rule' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002; N001; N149"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S6",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S6",
+    "field": "D6.reason",
+    "old_value": "N014 establishes 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S6",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Promote strongest existing D4 passage (N149 third-party proxy disclosure form workflow) to MAIN so D4 has MAIN evidence.",
+    "supporting_policy_location": "N149 Disclosure of Personal Information Procedures p.277 L036-L040"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S7",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S7",
+    "field": "D6.reason",
+    "old_value": "N014 mandates 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S8",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S8",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure reviews plus compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S8",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "While N002 s.2.8.1 and N136/N133 govern human group responsibility and GenAI permission, no operative policy governs persistent AI agents joining student group workspaces with cross-session memory or protects group personal information in student-managed digital workspaces.",
+    "proposed_value": "While N002 s.2.8.1 and N136/N133 govern human group responsibility and GenAI permission, no relevant provision governing persistent AI agents joining student group workspaces with cross-session memory or protecting group personal information in student-managed digital workspaces was identified in the documents and searches checked ('group workspace', 'workspace privacy', 'AI contribution', 'member authorisation', 'data retention'; N133 operative status unverified).",
+    "reason": "Replace overstated 'no operative policy' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002 s.2.8.1; N136; N133 p.10"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S8",
+    "field": "case_summary.case_note",
+    "old_value": "Curtin requires group contribution declarations (N002 s.2.8.1), GenAI permission and disclosure (N133, N136), and privacy/security compliance (N001, N017). However, no operative rule governs persistent AI agents joining student group workspaces with cross-session memory or protects group personal information in student-selected workspaces (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "proposed_value": "Curtin requires group contribution declarations (N002 s.2.8.1), GenAI permission and disclosure (N133, N136), and privacy/security compliance (N001, N017). No relevant provision governing persistent AI agents joining student group workspaces with cross-session memory or protecting group personal information in student-selected workspaces was identified in the documents and searches checked (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "reason": "Replace overstated 'no operative rule' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N002 s.2.8.1; N136; N001; N017"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S9",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S9",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure reviews alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S10",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S10",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S10",
+    "field": "D4.evidence[0].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Promote strongest existing D4 passage (N210 authorship and acknowledgement responsibilities) to MAIN so D4 has MAIN evidence.",
+    "supporting_policy_location": "N210 Authorship, Peer Review and Publication of Research Outputs Procedures p.546 L025-L029"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S11",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S11",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S12",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S12",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S12",
+    "field": "D4.evidence[2].evidence_role",
+    "old_value": "SUPPORTING",
+    "proposed_value": "MAIN",
+    "reason": "Promote strongest existing D4 passage (N021 correction of the research record procedure) to MAIN so D4 has MAIN evidence.",
+    "supporting_policy_location": "N021 Responsible Conduct of Research (Employees) Procedures p.251 L013-L017"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S13",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S13",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S14",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S14",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S14",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Although N150 PC12, N016, N017, and N001 provide general consent, data-update, FOI access/correction, and contestability principles, Curtin lacks an operational rule assigning accountable lifecycle ownership for cross-course AI learner profiling, ensuring unit instructors know of its cross-course scope, and governing contestability of consequential profiling.",
+    "proposed_value": "Although N150 PC12, N016, N017, and N001 provide general consent, data-update, FOI access/correction, and contestability principles, no relevant provision assigning accountable lifecycle ownership for cross-course AI learner profiling, ensuring unit instructors know of its cross-course scope, or governing contestability of consequential profiling was identified in the documents and searches checked ('learner profile', 'student profiling', 'course data', 'data sharing', 'consent purpose', 'access correction', 'privacy complaint').",
+    "reason": "Replace overstated 'Curtin lacks' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N150 PC12; N016; N017; N001"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S14",
+    "field": "case_summary.case_note",
+    "old_value": "Curtin's N150 PC12, N016/N017, and N001 provide prior consent, secondary-use PIA controls, FOI access and correction, and AI transparency and contestability principles. However, no operative rule assigns accountable lifecycle ownership for persistent cross-course AI learner profiling, informs instructors of cross-course profile scope, or operationalises contestability of consequential profiling (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "proposed_value": "Curtin's N150 PC12, N016/N017, and N001 provide prior consent, secondary-use PIA controls, FOI access and correction, and AI transparency and contestability principles. No relevant provision assigning accountable lifecycle ownership for persistent cross-course AI learner profiling, informing instructors of cross-course profile scope, or operationalising contestability of consequential profiling was identified in the documents and searches checked (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "reason": "Replace overstated 'no operative rule' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N150 PC12; N016; N017; N001"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S15",
+    "field": "D6.score",
+    "old_value": 3,
+    "proposed_value": 2,
+    "reason": "Under the codebook, D6=3 requires periodic AND event-triggered review, ownership, and a monitoring-to-revision route; N014 establishes periodic review (s.2.3), assigned ownership (s.3.1-3.2), and escalation/compliance reporting (s.3.1b, s.3.4c), which satisfies D6=2 but lacks an explicit monitoring-to-revision route (Compliance Procedures and N001 s.6 procedures are not in the bundle).",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S15",
+    "field": "D6.reason",
+    "old_value": "N014 establishes periodic 5-year policy and 3-year procedure review cycles alongside compliance-triggered updates with assigned Policy Managers and Risk, Compliance & Audit oversight.",
+    "proposed_value": "N014 establishes periodic review cycles (5 years for policies, 3 years for procedures; s.2.3), assigned Policy Manager and Policy Compliance Officer ownership with breach monitoring/reporting and escalation to Risk, Compliance & Audit and senior committees (s.3.1-3.4), and administrative updates for legislative/resolution changes (s.2.2.4), warranting D6=2; it does not establish general event-triggered review or a documented monitoring-to-revision route (and Compliance Procedures / N001 s.6 AI procedures are not in the bundle).",
+    "reason": "Align D6 reason with D6=2 codebook criteria and note bundle limitations.",
+    "supporting_policy_location": "N014 Policy Development Procedures pp.337-338 (s.2.2.4, s.2.3, s.3.1-3.4)"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S15",
+    "field": "D5.reason",
+    "old_value": "Substantive safeguards require human oversight and ability to intervene (N001 s.3.3, Principle 7), contestability (N001 Principle 6), enterprise IT architecture adherence (N001 Principle 4), authorised ICT use (N005), and CISO security controls (N006), but a material gap remains because siloed policies lack connected purpose-bounded authorisation and intervention for combined cross-system standing powers.",
+    "proposed_value": "Substantive safeguards require human oversight and ability to intervene (N001 s.3.3, Principle 7), contestability (N001 Principle 6), enterprise IT architecture adherence (N001 Principle 4), authorised ICT use (N005), and CISO security controls (N006), but a material gap remains because no relevant provision establishing connected purpose-bounded authorisation and intervention for combined cross-system standing powers was identified in the documents and searches checked ('standing authority', 'institutional systems', 'system access', 'review decision', 'security procedure').",
+    "reason": "Replace overstated 'lack' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N001; N005; N006"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S15",
+    "field": "case_summary.critical_gap_explanation",
+    "old_value": "Curtin's governance is siloed across separate instruments (N001, N005/N006, N007, N011, N002) with no connected purpose-bounded authorisation, cross-system ownership, or operational intervention and contestability workflow for an AI agent exercising standing authority across LMS, student support, enrolment, advising, and assessment systems without per-action human review.",
+    "proposed_value": "Curtin's governance is distributed across separate instruments (N001, N005/N006, N007, N011, N002), and no relevant provision establishing connected purpose-bounded authorisation, cross-system ownership, or operational intervention and contestability workflows for an AI agent exercising standing authority across LMS, student support, enrolment, advising, and assessment systems without per-action human review was identified in the documents and searches checked ('standing authority', 'institutional systems', 'system access', 'data protection', 'security procedure', 'review decision').",
+    "reason": "Replace overstated 'with no connected' claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N001; N005; N006; N007; N011; N002"
+  },
+  {
+    "university": "Curtin",
+    "case_id": "Curtin-S15",
+    "field": "case_summary.case_note",
+    "old_value": "Curtin mandates human oversight, intervention, and contestability for AI (N001), restricts ICT assets to authorised purposes (N005/N006), and assigns system-level access controls (N011). However, institutional ownership and oversight remain siloed across separate policies without purpose-bounded authorisation or connected intervention/contestability for an agent with standing powers across LMS, enrolment, advising, support, and assessment (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "proposed_value": "Curtin mandates human oversight, intervention, and contestability for AI (N001), restricts ICT assets to authorised purposes (N005/N006), and assigns system-level access controls (N011). No relevant provision establishing connected purpose-bounded authorisation or cross-system intervention/contestability for an agent with standing powers across LMS, enrolment, advising, support, and assessment was identified in the documents and searches checked (D5=2, Critical gap=Yes). Protocol v1.1 was adopted after preliminary review on 2026-11-15.",
+    "reason": "Replace overstated 'without' absence claim with search-scoped absence wording per Rule 3.",
+    "supporting_policy_location": "N001; N005; N006; N011"
+  }
+]

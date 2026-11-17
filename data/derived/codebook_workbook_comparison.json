@@ -1,0 +1,393 @@
+{
+  "policy_cutoff": "2026-11-12",
+  "workbooks": {
+    "Curtin": {
+      "Cases": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "family": 4,
+          "level": 5,
+          "D1": 6,
+          "D2": 7,
+          "D3": 8,
+          "D4": 9,
+          "D5": 10,
+          "D6": 11,
+          "mode": 12,
+          "review_route": 13,
+          "critical_gap": 14,
+          "evidence_status": 15,
+          "rule_direction": 16,
+          "conflict_basis": 17,
+          "case_note": 18,
+          "computed_outcome": 19
+        },
+        "formula_count": 105,
+        "first_formulas": {
+          "F5": "=IF(ISNUMBER(Evidence!G5),Evidence!G5,\"\")",
+          "G5": "=IF(ISNUMBER(Evidence!G6),Evidence!G6,\"\")",
+          "H5": "=IF(ISNUMBER(Evidence!G7),Evidence!G7,\"\")",
+          "I5": "=IF(ISNUMBER(Evidence!G8),Evidence!G8,\"\")",
+          "J5": "=IF(ISNUMBER(Evidence!G9),Evidence!G9,\"\")",
+          "K5": "=IF(ISNUMBER(Evidence!G10),Evidence!G10,\"\")",
+          "S5": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+          "F6": "=IF(ISNUMBER(Evidence!G11),Evidence!G11,\"\")",
+          "G6": "=IF(ISNUMBER(Evidence!G12),Evidence!G12,\"\")",
+          "H6": "=IF(ISNUMBER(Evidence!G13),Evidence!G13,\"\")",
+          "I6": "=IF(ISNUMBER(Evidence!G14),Evidence!G14,\"\")",
+          "J6": "=IF(ISNUMBER(Evidence!G15),Evidence!G15,\"\")"
+        },
+        "dimensions": [
+          19,
+          19
+        ],
+        "outcome_formula": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+      },
+      "Evidence": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "dimension": 4,
+          "search_terms": 5,
+          "documents_checked": 6,
+          "score": 7,
+          "your_source_ids": 8,
+          "your_pages_lines": 9,
+          "quotation_or_paraphrase": 10,
+          "reason_for_score": 11,
+          "negative_search_or_access_note": 12
+        },
+        "formula_count": 0,
+        "first_formulas": {},
+        "dimensions": [
+          94,
+          12
+        ]
+      }
+    },
+    "ECU": {
+      "Cases": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "family": 4,
+          "level": 5,
+          "D1": 6,
+          "D2": 7,
+          "D3": 8,
+          "D4": 9,
+          "D5": 10,
+          "D6": 11,
+          "mode": 12,
+          "review_route": 13,
+          "critical_gap": 14,
+          "evidence_status": 15,
+          "rule_direction": 16,
+          "conflict_basis": 17,
+          "case_note": 18,
+          "computed_outcome": 19
+        },
+        "formula_count": 105,
+        "first_formulas": {
+          "F5": "=IF(ISNUMBER(Evidence!G5),Evidence!G5,\"\")",
+          "G5": "=IF(ISNUMBER(Evidence!G6),Evidence!G6,\"\")",
+          "H5": "=IF(ISNUMBER(Evidence!G7),Evidence!G7,\"\")",
+          "I5": "=IF(ISNUMBER(Evidence!G8),Evidence!G8,\"\")",
+          "J5": "=IF(ISNUMBER(Evidence!G9),Evidence!G9,\"\")",
+          "K5": "=IF(ISNUMBER(Evidence!G10),Evidence!G10,\"\")",
+          "S5": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+          "F6": "=IF(ISNUMBER(Evidence!G11),Evidence!G11,\"\")",
+          "G6": "=IF(ISNUMBER(Evidence!G12),Evidence!G12,\"\")",
+          "H6": "=IF(ISNUMBER(Evidence!G13),Evidence!G13,\"\")",
+          "I6": "=IF(ISNUMBER(Evidence!G14),Evidence!G14,\"\")",
+          "J6": "=IF(ISNUMBER(Evidence!G15),Evidence!G15,\"\")"
+        },
+        "dimensions": [
+          19,
+          19
+        ],
+        "outcome_formula": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+      },
+      "Evidence": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "dimension": 4,
+          "search_terms": 5,
+          "documents_checked": 6,
+          "score": 7,
+          "your_source_ids": 8,
+          "your_pages_lines": 9,
+          "quotation_or_paraphrase": 10,
+          "reason_for_score": 11,
+          "negative_search_or_access_note": 12
+        },
+        "formula_count": 0,
+        "first_formulas": {},
+        "dimensions": [
+          94,
+          12
+        ]
+      }
+    },
+    "Murdoch": {
+      "Cases": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "family": 4,
+          "level": 5,
+          "D1": 6,
+          "D2": 7,
+          "D3": 8,
+          "D4": 9,
+          "D5": 10,
+          "D6": 11,
+          "mode": 12,
+          "review_route": 13,
+          "critical_gap": 14,
+          "evidence_status": 15,
+          "rule_direction": 16,
+          "conflict_basis": 17,
+          "case_note": 18,
+          "computed_outcome": 19
+        },
+        "formula_count": 105,
+        "first_formulas": {
+          "F5": "=IF(ISNUMBER(Evidence!G5),Evidence!G5,\"\")",
+          "G5": "=IF(ISNUMBER(Evidence!G6),Evidence!G6,\"\")",
+          "H5": "=IF(ISNUMBER(Evidence!G7),Evidence!G7,\"\")",
+          "I5": "=IF(ISNUMBER(Evidence!G8),Evidence!G8,\"\")",
+          "J5": "=IF(ISNUMBER(Evidence!G9),Evidence!G9,\"\")",
+          "K5": "=IF(ISNUMBER(Evidence!G10),Evidence!G10,\"\")",
+          "S5": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+          "F6": "=IF(ISNUMBER(Evidence!G11),Evidence!G11,\"\")",
+          "G6": "=IF(ISNUMBER(Evidence!G12),Evidence!G12,\"\")",
+          "H6": "=IF(ISNUMBER(Evidence!G13),Evidence!G13,\"\")",
+          "I6": "=IF(ISNUMBER(Evidence!G14),Evidence!G14,\"\")",
+          "J6": "=IF(ISNUMBER(Evidence!G15),Evidence!G15,\"\")"
+        },
+        "dimensions": [
+          19,
+          19
+        ],
+        "outcome_formula": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+      },
+      "Evidence": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "dimension": 4,
+          "search_terms": 5,
+          "documents_checked": 6,
+          "score": 7,
+          "your_source_ids": 8,
+          "your_pages_lines": 9,
+          "quotation_or_paraphrase": 10,
+          "reason_for_score": 11,
+          "negative_search_or_access_note": 12
+        },
+        "formula_count": 0,
+        "first_formulas": {},
+        "dimensions": [
+          94,
+          12
+        ]
+      }
+    },
+    "Notre_Dame": {
+      "Cases": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "family": 4,
+          "level": 5,
+          "D1": 6,
+          "D2": 7,
+          "D3": 8,
+          "D4": 9,
+          "D5": 10,
+          "D6": 11,
+          "mode": 12,
+          "review_route": 13,
+          "critical_gap": 14,
+          "evidence_status": 15,
+          "rule_direction": 16,
+          "conflict_basis": 17,
+          "case_note": 18,
+          "computed_outcome": 19
+        },
+        "formula_count": 105,
+        "first_formulas": {
+          "F5": "=IF(ISNUMBER(Evidence!G5),Evidence!G5,\"\")",
+          "G5": "=IF(ISNUMBER(Evidence!G6),Evidence!G6,\"\")",
+          "H5": "=IF(ISNUMBER(Evidence!G7),Evidence!G7,\"\")",
+          "I5": "=IF(ISNUMBER(Evidence!G8),Evidence!G8,\"\")",
+          "J5": "=IF(ISNUMBER(Evidence!G9),Evidence!G9,\"\")",
+          "K5": "=IF(ISNUMBER(Evidence!G10),Evidence!G10,\"\")",
+          "S5": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+          "F6": "=IF(ISNUMBER(Evidence!G11),Evidence!G11,\"\")",
+          "G6": "=IF(ISNUMBER(Evidence!G12),Evidence!G12,\"\")",
+          "H6": "=IF(ISNUMBER(Evidence!G13),Evidence!G13,\"\")",
+          "I6": "=IF(ISNUMBER(Evidence!G14),Evidence!G14,\"\")",
+          "J6": "=IF(ISNUMBER(Evidence!G15),Evidence!G15,\"\")"
+        },
+        "dimensions": [
+          19,
+          19
+        ],
+        "outcome_formula": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+      },
+      "Evidence": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "dimension": 4,
+          "search_terms": 5,
+          "documents_checked": 6,
+          "score": 7,
+          "your_source_ids": 8,
+          "your_pages_lines": 9,
+          "quotation_or_paraphrase": 10,
+          "reason_for_score": 11,
+          "negative_search_or_access_note": 12
+        },
+        "formula_count": 0,
+        "first_formulas": {},
+        "dimensions": [
+          94,
+          12
+        ]
+      }
+    },
+    "UWA": {
+      "Cases": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "family": 4,
+          "level": 5,
+          "D1": 6,
+          "D2": 7,
+          "D3": 8,
+          "D4": 9,
+          "D5": 10,
+          "D6": 11,
+          "mode": 12,
+          "review_route": 13,
+          "critical_gap": 14,
+          "evidence_status": 15,
+          "rule_direction": 16,
+          "conflict_basis": 17,
+          "case_note": 18,
+          "computed_outcome": 19
+        },
+        "formula_count": 105,
+        "first_formulas": {
+          "F5": "=IF(ISNUMBER(Evidence!G5),Evidence!G5,\"\")",
+          "G5": "=IF(ISNUMBER(Evidence!G6),Evidence!G6,\"\")",
+          "H5": "=IF(ISNUMBER(Evidence!G7),Evidence!G7,\"\")",
+          "I5": "=IF(ISNUMBER(Evidence!G8),Evidence!G8,\"\")",
+          "J5": "=IF(ISNUMBER(Evidence!G9),Evidence!G9,\"\")",
+          "K5": "=IF(ISNUMBER(Evidence!G10),Evidence!G10,\"\")",
+          "S5": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+          "F6": "=IF(ISNUMBER(Evidence!G11),Evidence!G11,\"\")",
+          "G6": "=IF(ISNUMBER(Evidence!G12),Evidence!G12,\"\")",
+          "H6": "=IF(ISNUMBER(Evidence!G13),Evidence!G13,\"\")",
+          "I6": "=IF(ISNUMBER(Evidence!G14),Evidence!G14,\"\")",
+          "J6": "=IF(ISNUMBER(Evidence!G15),Evidence!G15,\"\")"
+        },
+        "dimensions": [
+          19,
+          19
+        ],
+        "outcome_formula": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+      },
+      "Evidence": {
+        "header_row": 4,
+        "headers": {
+          "case_id": 1,
+          "university": 2,
+          "scenario_id": 3,
+          "dimension": 4,
+          "search_terms": 5,
+          "documents_checked": 6,
+          "score": 7,
+          "your_source_ids": 8,
+          "your_pages_lines": 9,
+          "quotation_or_paraphrase": 10,
+          "reason_for_score": 11,
+          "negative_search_or_access_note": 12
+        },
+        "formula_count": 0,
+        "first_formulas": {},
+        "dimensions": [
+          94,
+          12
+        ]
+      }
+    }
+  },
+  "differences": [
+    {
+      "rule": "D3 = 0 documentary conflict",
+      "codebook": "Requires two incompatible operative provisions and a written explanation that hierarchy, exceptions, or supersession do not resolve the conflict.",
+      "template_formula": "Checks D3=0 and nonblank conflict_basis only; does not validate two citations, operative status, distinct provisions, or substantive incompatibility.",
+      "application": "Adds distinct-passage citation, operative-at-cutoff, incompatibility confirmation, and explanation validation; does not alter original template formulas."
+    },
+    {
+      "rule": "Missing evidence is not a zero",
+      "codebook": "Insufficient evidence is Unassessable; blank scores are unfinished, not zero.",
+      "template_formula": "Blank scores produce Pending; explicit Insufficient evidence produces Unassessable.",
+      "application": "Matches this branch and flags zero scores entered with Insufficient evidence."
+    },
+    {
+      "rule": "Critical gap uncertainty precedes incomplete score fields",
+      "codebook": "Critical gap = Uncertain gives Unassessable at the evidence-first stage.",
+      "template_formula": "Checks Critical gap = Uncertain only after all six scores and required summary fields are present; otherwise it can return Pending.",
+      "application": "Returns Unassessable for Critical gap = Uncertain before checking score completeness."
+    },
+    {
+      "rule": "Score values must be 0 through 3",
+      "codebook": "Each D1-D6 score has only the values 0, 1, 2, and 3.",
+      "template_formula": "The formulas check for six numeric scores but do not validate their range.",
+      "application": "Pydantic constrains every entered score to the codebook range before saving or exporting."
+    },
+    {
+      "rule": "Contradictory inputs",
+      "codebook": "Treats mode, review route, evidence status, critical gap, and rule direction as separate case fields whose stated conditions govern the outcome.",
+      "template_formula": "Calculates a label from cell values but does not detect contradictions such as Mode=None with Review route=Yes.",
+      "application": "Flags contradictory field combinations and surfaces the warning without silently rewriting the human inputs."
+    }
+  ],
+  "formula_consistency": {
+    "outcome_formulas_identical_across_universities": true,
+    "outcome_formula_by_university": {
+      "Curtin": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+      "ECU": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+      "Murdoch": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+      "Notre_Dame": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))",
+      "UWA": "=IF(O5=\"Insufficient\",\"Unassessable\",IF(OR(O5<>\"Sufficient\",COUNT(F5:K5)<>6,L5=\"\",M5=\"\",N5=\"\"),\"Pending\",IF(N5=\"Uncertain\",\"Unassessable\",IF(H5=0,IF(Q5=\"\",\"Pending\",\"Documentary conflict\"),IF(OR(F5=0,G5<=1,I5=0,J5=0,N5=\"Yes\"),\"Indeterminate\",IF(AND(L5=\"Prescribing\",F5=3,G5=3,H5>=2,I5=3,J5=3,M5=\"Yes\",N5=\"No\"),\"Resolved\",IF(AND(L5=\"Delegating\",F5>=1,G5>=2,H5>=1,I5>=2,J5>=2,M5=\"Yes\",N5=\"No\"),\"Structured discretion\",\"Indeterminate\")))))))"
+    },
+    "codebook_comparison": "The five templates use the same outcome formula."
+  }
+}

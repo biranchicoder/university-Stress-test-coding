@@ -1,0 +1,477 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Curtin
+Case ID: Curtin-S3
+Scenario: S3 — Autonomous Assessment
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S3 Autonomous Assessment
+A persistent AI agent manages a student's coursework across an entire semester: interacting with learning-management and submission platforms, and submitting work through the student's authenticated account without per-item human review. The student has delegated standing authority, not one-off approval.
+Boundary: No meaningful human review before submission for the full semester
+Risks to check: Account security; student identity; assessment validity; human oversight.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Verified authority for standing account actions, protected student identity and meaningful assessment oversight.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S3-Q01 [actor_and_activity]: submission account — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S3-Q02 [related_roles]: student submission — 24 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q03 [permission_authority]: authorised account — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q04 [restriction_boundary]: prohibited impersonation — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S3-Q05 [procedure]: submission procedure — 10 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q06 [review_route]: appeal decision — 32 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S3-Q07 [related_risk]: account security — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N002 | Assessment and Student Progression Policy and Procedures March 2026 administrative version | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N136 | Academic Integrity and Conduct - Student Guide | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N137 | Checklist to uphold academic integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N141 | Student Misconduct Rules 2026 | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N008 | Higher Degree by Research (HDR) Appeals and Complaints Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N009 | Higher Degree by Research (HDR) Appeals and Complaints Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N011 | Information Management Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N145 | Research Management Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N022 | Risk Management Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N143 | Standard 10 - Complaints and appeals (ESOS National Code) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N144 | Appeals (current students page) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N014 | Policy Development Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N140 | Statute No. 10 - Student Discipline | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N142 | Curtin University Act 1966 (WA) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N150 | Course Quality Assurance Manual | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N210 | Authorship, Peer Review and Publication of Research Outputs Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N214 | Students with Disability Procedures | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-dc516507521ae3
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L024–L024
+Search query IDs: S3-Q02, S3-Q05
+Search terms: student submission | submission procedure
+Extraction/review flags: none recorded
+Context before: transparent, equitable and auditable.
+Candidate passage: 3.10 Submission of student work and decisions relating to Assessment will be appropriately
+Context after: evidenced.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-79f8f40c640221
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L039–L039
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: 6. SUPPORTING PROCEDURES
+Candidate passage: • Assessment Design Procedure
+Context after: • Assessment Communication and Feedback Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6ae6dd95cb8307
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L040–L040
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: • Assessment Design Procedure
+Candidate passage: • Assessment Communication and Feedback Procedure
+Context after: • Assessing Student Work Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-32441486e820fe
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L041–L041
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: • Assessment Communication and Feedback Procedure
+Candidate passage: • Assessing Student Work Procedure
+Context after: • Exemptions to Assessment Requirements Procedure
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-db3dee6b40ef25
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 46
+PDF viewer page (navigation only): 46
+Line numbers: L046–L046
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: none recorded
+Context before: 2.5 A Confirmation Check is used to verify the authenticity of submitted work, address doubts over
+Candidate passage: a particular student’s submission, comply with academic integrity standards, or assure that the
+Context after: Unit Learning Outcomes have been met.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8f34302e308ca1
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L034–L034
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: none recorded
+Context before: group processes and/or individual processes is fair, transparent, and defensible.
+Candidate passage: 2.8.1 Any submission of group work will include a student declaration of which members of the
+Context after: group are responsible for which portions of the submission.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-49883fbe3ca55c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 58
+PDF viewer page (navigation only): 58
+Line numbers: L010–L010
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: none recorded
+Context before: 2.1.2 monitor and provide feedback on the progress of the research component;
+Candidate passage: 2.1.3 advise the student if the research component is or is not suitable for submission; and
+Context after: 2.1.4 provide appropriate academic counselling.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3eb128532a5342
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 62
+PDF viewer page (navigation only): 62
+Line numbers: L025–L025
+Search query IDs: S3-Q02
+Search terms: student submission
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Assessment).
+Candidate passage: 2.5 If late submission of work is accepted, and the student does not have an approved Assessment
+Context after: Extension, a penalty will be applied as follows:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-591227bb766e45
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L032–L032
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: Assessment Extension has not been approved.
+Candidate passage: 2.29 The decision-maker will assess the appeal and determine if a change in decision is warranted.
+Context after: Once a decision has been made on the appeal, the student and Unit Coordinator will be
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-328e94fba30b41
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L033–L033
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: 2.29 The decision-maker will assess the appeal and determine if a change in decision is warranted.
+Candidate passage: Once a decision has been made on the appeal, the student and Unit Coordinator will be
+Context after: advised no later than three working days from the decision date.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9fff5c63cc1e66
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 68
+PDF viewer page (navigation only): 68
+Line numbers: L035–L035
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: advised no later than three working days from the decision date.
+Candidate passage: 2.30 If an appeal is rejected, the decision-maker will provide reasons for the decision.
+Context after: 2.31 The determination of the decision-maker is final.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9ec1675c86c9fd
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 100
+PDF viewer page (navigation only): 100
+Line numbers: L007–L007
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: the official release of results for the last attempt of the relevant unit. A student may then apply
+Candidate passage: to the Academic Registrar (or authorised officer) to have the ANN grade converted to a FAIL
+Context after: (Pass/Fail units) or an F:00 (grade/mark units).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b934a3f5d3a6e9
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 100
+PDF viewer page (navigation only): 100
+Line numbers: L012–L012
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: ANN grade.
+Candidate passage: 2.13 The Academic Registrar (or authorised officer) will take into account the views of the relevant
+Context after: Head of School in making a decision whether to convert the ANN to a FAIL or F:00. In deciding
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f3a0e737b4d775
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 100
+PDF viewer page (navigation only): 100
+Line numbers: L015–L015
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: whether to approve the conversion of an ANN grade to a FAIL or F:00, the Academic Registrar
+Candidate passage: (or authorised officer) may take into account any relevant factors, including:
+Context after: a) The circumstances of the original offence and the level of seriousness of the academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8f7d50b07d02e7
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 100
+PDF viewer page (navigation only): 100
+Line numbers: L021–L021
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: c) The period of time that has elapsed since the ANN grade or grades were imposed.
+Candidate passage: 2.14 The Academic Registrar (or authorised officer) may refuse to convert an ANN grade to a FAIL
+Context after: or F:00 where a student has been found to have engaged in more than one instance of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-421b626787140c
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 109
+PDF viewer page (navigation only): 109
+Line numbers: L039–L039
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2.6 The University will provide an International Onshore student, in accordance with the relevant
+Candidate passage: legislation, the opportunity to appeal the original decision irrespective of whether the student
+Context after: has transferred to another Course after their place in the Course was Terminated. If an appeal
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1a717be160bec0
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 121
+PDF viewer page (navigation only): 121
+Line numbers: L032–L032
+Search query IDs: S3-Q06
+Search terms: appeal decision
+Extraction/review flags: none recorded
+Context before: Notification to the student
+Candidate passage: 2.16 Once a decision has been made on the appeal by the Head of School (or authorised officer),
+Context after: the student will be advised in writing of the outcome no later than three working days from
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-490ee2bfed6d39
+Source ID: N002
+Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
+Printed bundle page: 124
+PDF viewer page (navigation only): 124
+Line numbers: L016–L016
+Search query IDs: S3-Q03
+Search terms: authorised account
+Extraction/review flags: none recorded
+Context before: be successful.
+Candidate passage: 2.4 In considering the request for review, the decision maker will take into account the student's
+Context after: exceptional circumstances, explanation for poor academic performance, the student's overall
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-47d0092bf1edc0
+Source ID: N022
+Document title: Risk Management Policy
+Printed bundle page: 310
+PDF viewer page (navigation only): 310
+Line numbers: L005–L005
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: Risk awareness
+Candidate passage: Disciplined decision-making that takes into account considerations of risk and reward on an informed
+Context after: basis and in accordance with the risk appetite.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c9c571ecf0676c
+Source ID: N022
+Document title: Risk Management Policy
+Printed bundle page: 310
+PDF viewer page (navigation only): 310
+Line numbers: L041–L041
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: • AS ISO 31000:2018, Risk Management - Guidelines
+Candidate passage: ISO 22301:2020, Security and Resilience: Business Continuity Management Systems –
+Context after: Requirements
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8ae8fe9d913fc3
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 412
+PDF viewer page (navigation only): 412
+Line numbers: L025–L025
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: (3) Before a guarantee is given, the University must —
+Candidate passage: (a) give the Treasurer any security that the Treasurer
+Context after: requires; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5588420e46f312
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 412
+PDF viewer page (navigation only): 412
+Line numbers: L030–L030
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: (4) Payments made by the Treasurer under a guarantee are to be
+Candidate passage: charged to the Consolidated Account, and this subsection
+Context after: appropriates that Account accordingly.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5b226c977e3bb6
+Source ID: N142
+Document title: Curtin University Act 1966 (WA)
+Printed bundle page: 412
+PDF viewer page (navigation only): 412
+Line numbers: L031–L031
+Search query IDs: S3-Q07
+Search terms: account security
+Extraction/review flags: none recorded
+Context before: charged to the Consolidated Account, and this subsection
+Candidate passage: appropriates that Account accordingly.
+Context after: page 44 Version 06-a0-04 As at 08 Jun 2018
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3e554e1e84de53
+Source ID: N150
+Document title: Course Quality Assurance Manual
+Printed bundle page: 505
+PDF viewer page (navigation only): 505
+Line numbers: L023–L023
+Search query IDs: S3-Q05
+Search terms: submission procedure
+Extraction/review flags: none recorded
+Context before: 2.4 New or existing courses for which associated professional accreditation is sought will be approved in
+Candidate passage: accordance with the Course and Component Approval procedure before submission to a professional
+Context after: body for accreditation or recognition.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

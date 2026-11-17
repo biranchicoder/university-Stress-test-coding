@@ -1,0 +1,28 @@
+{
+  "coder_label": "Coder 12 (AI Analyst — Gemini)",
+  "human_confirmed": false,
+  "verified_at": "2026-11-16T21:27:53+00:00",
+  "policy_cutoff_date": "2026-11-12",
+  "protocol_version": "1.1",
+  "counts": {
+    "universities": 5,
+    "cases": 75,
+    "dimensions": 450,
+    "case_summaries": 75
+  },
+  "mechanical_validation": {
+    "status": "valid",
+    "errors": 0
+  },
+  "pdf_flagged_pages_verified": {
+    "total_flagged_pages_cited": 20,
+    "verified_against_pdf_layout": 20
+  },
+  "undated_sources_resolved_by_researcher_rule": 22,
+  "external_unavailable_documents": "Ignored and all traces removed per researcher instruction (2026-11-17).",
+  "outcome_distribution": {
+    "Indeterminate": 66,
+    "Resolved": 4,
+    "Structured discretion": 5
+  }
+}

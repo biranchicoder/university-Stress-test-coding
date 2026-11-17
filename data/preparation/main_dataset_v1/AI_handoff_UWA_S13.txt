@@ -1,0 +1,739 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: UWA
+Case ID: UWA-S13
+Scenario: S13 — Course-Level Memory
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S13 Course-Level Memory
+An AI learning assistant retains a student's performance, weaknesses and preferences throughout one course, using this to tailor support within that unit. Use is voluntary, and the memory is scoped to a single course, with retention nominally ending when the course concludes.
+Boundary: Memory is scoped to one course and nominally deleted or inaccessible after the course ends
+Risks to check: Purpose and consent; minimisation; retention and deletion; access and security.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Informed, purpose-limited collection and lawful course-end memory restriction/disposal, with access and security protections.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S13-Q01 [actor_and_activity]: student data performance — 9 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q02 [purpose]: personal information purpose — 10 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q03 [consent]: consent information collection — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q04 [collection_and_use_limits]: collect use disclose data — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S13-Q05 [retention_and_deletion]: retention disposal records — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q06 [access_and_correction]: student record access — 9 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q07 [security_and_review]: privacy security data — 9 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q08 [related_roles]: student performance — 44 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q09 [procedure]: privacy procedure — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q10 [review_route]: privacy complaint — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N044 | Academic Integrity Policy and Schedules (pdf, 423 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N045 | Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N049 | Assessment Policy (doc, 280 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N050 | Assessment Model Guide 2024 (pdf, 4 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N051 | Appendix 1 Assessment Policy Expectations of Unit Coordinator (docx, 82 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N055 | Research Integrity Policy (doc, 272 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N056 | Research Integrity Guideline (docx, 1 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N067 | Information Privacy Policy (pdf, 220 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N199 | Information Privacy Guideline | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N047 | Review and Appeal of Academic Decisions Policy and Appendix (pdf, 216 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N060 | UP26 2 Code of Conduct - Annexure B (pdf, 145 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N195 | University Policy on: Academic Conduct | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N202 | University Policy on Review and Appeal of Academic Decisions Relating to Students in Coursework Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N071 | UP19 1 Acceptable Use of IT (pdf, 218 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N072 | UP19 2 Cyber Security (pdf, 226 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N204 | University of Western Australia Statute | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N216 | Lecture Capture Policy and Schedule (pdf, 221 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N219 | Information Breach Policy (pdf, 188 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N220 | Disability and Medical Conditions Policy (doc, 252 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N239 | Accessibility support course materials lecture recordings and policies | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N240 | Cyber Security consultation project assessment and incident response | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-2d23e14a339b20
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 28
+PDF viewer page (navigation only): 28
+Line numbers: L003–L003
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: ii. copying exactly any material without acknowledging the source, including internet
+Candidate passage: sources or copying from another student without their knowledge (with their knowledge
+Context after: leads to collusion – see 6.2;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-aa612613e43728
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 28
+PDF viewer page (navigation only): 28
+Line numbers: L009–L009
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: quoted and paraphrased material, rearranging the text or modifying the presentation of
+Candidate passage: figures and data, and submitting as original work;
+Context after: v. submitting the same work, or essentially the same work, for more than one course or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d3441ff8263bc4
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 28
+PDF viewer page (navigation only): 28
+Line numbers: L011–L011
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: v. submitting the same work, or essentially the same work, for more than one course or
+Candidate passage: unit without explicitly obtaining permission from all instructors. A student must disclose
+Context after: when an assessment item builds on work completed earlier in their academic career;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ba449165f726ef
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 28
+PDF viewer page (navigation only): 28
+Line numbers: L015–L015
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: not limited to, visual and digital media, images, computer codes, musical composition
+Candidate passage: and performance, and oral presentations.
+Context after: (b) To avoid plagiarism, students are expected to be attentive to proper methods of documentation
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-186af22a091e03
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 28
+PDF viewer page (navigation only): 28
+Line numbers: L017–L017
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: (b) To avoid plagiarism, students are expected to be attentive to proper methods of documentation
+Candidate passage: and acknowledgement. To avoid even the suspicion of plagiarism, a student must always:
+Context after: i. Enclose every direct quotation in quotation marks and acknowledge its source.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3576aeec9ef886
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L010–L010
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: transcript;
+Candidate passage: (c) Access to a student's confidential record is generally restricted to those University staff
+Context after: members and officers who are nominated under the University's guidelines as being directly
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4f560257109f60
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 47
+PDF viewer page (navigation only): 47
+Line numbers: L054–L054
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: (3) The GRC provides advisory support to Supervisors and Heads of School on all procedural and
+Candidate passage: policy application matters, including advice concerning the previous record of the student, the
+Context after: conduct of the matter to date, and the penalty they believe should be applied in the specific case.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-20a5052be620fa
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L019–L019
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 1.6 Records of academic misconduct matters relating to UWA India must be maintained in
+Candidate passage: accordance with University records management, privacy, confidentiality and applicable local
+Context after: regulatory requirements.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-16e5365e31c448
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L022–L022
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 1.7 Any external reporting or review pathway applicable to UWA India may be identified in a
+Candidate passage: University-approved local procedure or schedule.
+Context after: [none extracted]
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3b71ea5e299f50
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L014–L014
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: assessments. Exceptional Variation of Assessment (EVA) is a mechanism that allows managing such
+Candidate passage: disruptions that may have adversely affected a student’s academic performance or progression in a
+Context after: unit or in a course.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1fb76cdbe027eb
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 51
+PDF viewer page (navigation only): 51
+Line numbers: L007–L007
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: symptom or manifestation of the disability”
+Candidate passage: EVA Submission is a procedure that requires students to conduct a self-check for determining the
+Context after: Eligibility check point at which they are not permitted to submit an EVA. See Section B of Policy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dfdef23e95f66b
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 51
+PDF viewer page (navigation only): 51
+Line numbers: L009–L009
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Eligibility check point at which they are not permitted to submit an EVA. See Section B of Policy
+Candidate passage: Procedure for more details.
+Context after: exceptional mean circumstances not ordinarily encountered or anticipated, which are beyond
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0b5aa742d760e0
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 51
+PDF viewer page (navigation only): 51
+Line numbers: L029–L029
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: summative assessment is assessment of learning meaning any assessment that contributes to the final
+Candidate passage: grade/mark of a unit to provide a measure of student performance in relation to
+Context after: the learning outcomes and assessment criteria.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a1a74e79febf59
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 52
+PDF viewer page (navigation only): 52
+Line numbers: L009–L009
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: (a) the disruption is severe or serious in nature (see Table 1 for exceptional circumstances),
+Candidate passage: substantially interrupting the student’s assessment performance; and
+Context after: (b) the disruption is beyond the student’s control; and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c56ddd79ccae74
+Source ID: N045
+Document title: Exception Variation of Assessment EVA Policy Schedule and Appendices (pdf, 440 KB)
+Printed bundle page: 60
+PDF viewer page (navigation only): 60
+Line numbers: L044–L044
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: 4. The Student Office may refer to the relevant delegated Academic Advisor in schools or other
+Candidate passage: areas and may access other information related to the student’s prior history in making its
+Context after: determination.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f0a73b3c9fd432
+Source ID: N049
+Document title: Assessment Policy (doc, 280 KB)
+Printed bundle page: 77
+PDF viewer page (navigation only): 77
+Line numbers: L013–L013
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: (b) measurable;
+Candidate passage: (c) used only where necessary to enhance student performance and to ensure mastery of core
+Context after: discipline elements, especially in disciplines where there are professional and/or technical
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c5edbb970edc4f
+Source ID: N049
+Document title: Assessment Policy (doc, 280 KB)
+Printed bundle page: 77
+PDF viewer page (navigation only): 77
+Line numbers: L032–L032
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: consideration given to issues of equity and assessment validity. The agreed arrangements
+Candidate passage: must be placed on the student file and lodged electronically in the student’s record.
+Context after: 5.7 Failure and reassessment
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-36440d94e6bb83
+Source ID: N049
+Document title: Assessment Policy (doc, 280 KB)
+Printed bundle page: 88
+PDF viewer page (navigation only): 88
+Line numbers: L002–L002
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: summative assessment is assessment of learning meaning any assessment that contributes to the
+Candidate passage: final grade/mark of a unit to provide a measure of student performance in relation to the learning
+Context after: outcomes and assessment criteria.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5ecee129ebe049
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 170
+PDF viewer page (navigation only): 170
+Line numbers: L010–L010
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: may not be available to all students. Further, students may struggle with the technical aspects of
+Candidate passage: using the software, requiring additional support; this also underscores concerns around data
+Context after: privacy and security, especially when dealing with financial data. When considering extension
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f6ba92c0d741bb
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 170
+PDF viewer page (navigation only): 170
+Line numbers: L011–L011
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: using the software, requiring additional support; this also underscores concerns around data
+Candidate passage: privacy and security, especially when dealing with financial data. When considering extension
+Context after: to other disciplines, the use of professional software may carry license restrictions to be used only
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-aadea94c3f0e75
+Source ID: N060
+Document title: UP26 2 Code of Conduct - Annexure B (pdf, 145 KB)
+Printed bundle page: 383
+PDF viewer page (navigation only): 383
+Line numbers: L039–L039
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: University which apply to them;
+Candidate passage: (f) to ensure that their student record is accurate at all times;
+Context after: (g) to uphold the reputation of the University while engaged in University activities;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f20b6fe266389e
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 339
+PDF viewer page (navigation only): 339
+Line numbers: L033–L033
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: Term Definition
+Candidate passage: Health Information1 Sensitive Personal Information that relates to:
+Context after: • the health (at any time) or disability (at any time) of an individual
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b850e9574ba20e
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 341
+PDF viewer page (navigation only): 341
+Line numbers: L008–L008
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: ambiguous_table
+Context before: parties when acting for, on behalf of, or under the control or direction of the University when collecting,
+Candidate passage: holding, accessing, utilising, sharing, retaining or disclosing Personal Information and Sensitive
+Context after: Personal Information as part of a University activity.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b5eec612694d48
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 341
+PDF viewer page (navigation only): 341
+Line numbers: L022–L022
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: ambiguous_table
+Context before: c) The University must only collect Sensitive Personal Information if the information is necessary and
+Candidate passage: the individual consents to the collection of information, it is required by law, or the collection is
+Context after: necessary to prevent a serious threat of harm.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-831a5f30ad67e6
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 341
+PDF viewer page (navigation only): 341
+Line numbers: L043–L043
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: ambiguous_table
+Context before: seek to ensure the information was collected lawfully, and the individual is made aware of its
+Candidate passage: collection and intended use and disclosure of the information from the third party, except in
+Context after: circumstances required by law.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9bac6ab1c81241
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 342
+PDF viewer page (navigation only): 342
+Line numbers: L002–L002
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: UWA Document (Public)
+Candidate passage: (a) The University must only use or disclose Personal Information for the purpose for which it was
+Context after: collected (the primary purpose), unless the individual would reasonably expect the use or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bfe7c45a82141d
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 342
+PDF viewer page (navigation only): 342
+Line numbers: L005–L005
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: disclosure for a secondary purpose, and:
+Candidate passage: i. for Personal Information, the secondary purpose is related to the primary purpose; or
+Context after: ii. for Sensitive Information, the secondary purpose is directly related to the primary purpose.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a0896410875476
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 342
+PDF viewer page (navigation only): 342
+Line numbers: L007–L007
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: ii. for Sensitive Information, the secondary purpose is directly related to the primary purpose.
+Candidate passage: (b) Before Personal Information is used or disclosed for a secondary purpose that use or disclosure
+Context after: must be documented.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-113ef9ef37a463
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 342
+PDF viewer page (navigation only): 342
+Line numbers: L030–L030
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: none recorded
+Context before: needed for any purpose and disposed of or permanently de-identified in accordance with the
+Candidate passage: authorised retention and disposal authorities and the State Records Act 2000 (WA).
+Context after: (d) Unique Identifiers must only be assigned to an individual where it is necessary to enable the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9ef1a98dd2b437
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L003–L003
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: 4.5 Monitoring and Continual Improvement
+Candidate passage: (a) A Privacy Impact Assessment (PIA) to identify privacy risks and measures to mitigate them must
+Context after: be undertaken by the University where a new process or system involving personal information is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1589c838658e0d
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L006–L006
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: implemented or existing process changed that could reasonably have a significant impact on the
+Candidate passage: privacy of individuals.
+Context after: (b) The University monitors, measures, analyses and evaluates information privacy compliance
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-81c7ed010845d1
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L007–L007
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: privacy of individuals.
+Candidate passage: (b) The University monitors, measures, analyses and evaluates information privacy compliance
+Context after: performance, controls and processes to ensure they are and remain appropriate and effective.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ce3558b62a2a74
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L012–L012
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Breach Policy.
+Candidate passage: (d) The University must continuously improve its information privacy practices in response to
+Context after: monitoring outcomes, including results of reviews, audits, incidents, breaches, reported concerns,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9bce64414e5ea3
+Source ID: N067
+Document title: Information Privacy Policy (pdf, 220 KB)
+Printed bundle page: 343
+PDF viewer page (navigation only): 343
+Line numbers: L028–L028
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Freedom of Information Act 1992 (WA) or other applicable legislation.
+Candidate passage: (f) Individuals may make a complaint to the UWA Privacy Office in accordance with 5.2, and where
+Context after: applicable may seek external review or lodge a complaint with the Office of the Information
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ea5c208b328a1f
+Source ID: N199
+Document title: Information Privacy Guideline
+Printed bundle page: 350
+PDF viewer page (navigation only): 350
+Line numbers: L015–L015
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: and disclose Personal Information only as authorised by the University and only in direct
+Candidate passage: relation to the primary purpose the Personal Information was collected.
+Context after: (B). In this case, the University will ensure it has a contract that requires that the third party
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d0a39ee780b66c
+Source ID: N199
+Document title: Information Privacy Guideline
+Printed bundle page: 352
+PDF viewer page (navigation only): 352
+Line numbers: L005–L005
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: (C). The University’s standard privacy collection notices can be found at —
+Candidate passage: (1). UWA Student Personal Information Privacy Collection Notice;
+Context after: (2). UWA Staff Personal Information Privacy Collection Notice.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e280555616bf54
+Source ID: N199
+Document title: Information Privacy Guideline
+Printed bundle page: 352
+PDF viewer page (navigation only): 352
+Line numbers: L006–L006
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: (1). UWA Student Personal Information Privacy Collection Notice;
+Candidate passage: (2). UWA Staff Personal Information Privacy Collection Notice.
+Context after: 8 Website Privacy
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f7fd6a46f33151
+Source ID: N199
+Document title: Information Privacy Guideline
+Printed bundle page: 353
+PDF viewer page (navigation only): 353
+Line numbers: L011–L011
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: afforded under the GDPR
+Candidate passage: (6). investigating suspected data breaches (in collaboration with UWA’s Cyber security
+Context after: team); and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-def6d0fb049480
+Source ID: N199
+Document title: Information Privacy Guideline
+Printed bundle page: 353
+PDF viewer page (navigation only): 353
+Line numbers: L030–L030
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: serious harm to the affected individuals; and
+Candidate passage: (3). would qualify as a statutory eligible data breach under the Privacy Act 1988 (Cth).
+Context after: (B). An eligible data breach may also be as prescribed by other laws such as the General Data
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4aac601a8f5205
+Source ID: N219
+Document title: Information Breach Policy (pdf, 188 KB)
+Printed bundle page: 582
+PDF viewer page (navigation only): 582
+Line numbers: L008–L008
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: ambiguous_table
+Context before: 4.3 University Officers and Information Users must comply with the Information Breach Response
+Candidate passage: Procedure and follow guidance and instructions provided by the Privacy Office.
+Context after: 4.4 All information breaches must be assessed in a consistent, documented and timely manner to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-017ec6aa36b3bf
+Source ID: N240
+Document title: Cyber Security consultation project assessment and incident response
+Printed bundle page: 601
+PDF viewer page (navigation only): 601
+Line numbers: L005–L005
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: Cyber Security
+Candidate passage: Cyber Security is a body of technologies, processes and practices designed to protect data and
+Context after: other digital assets from cyber-attacks, damage or unauthorised access.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

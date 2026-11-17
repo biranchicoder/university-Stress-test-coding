@@ -1,0 +1,635 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S9
+Scenario: S9 — AI Group Coordinator
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S9 AI Group Coordinator
+The AI agent allocates tasks among human members, evaluates their contributions, resolves disagreements, and assembles the final submission — exercising managerial authority over the humans in the group, not merely executing tasks assigned to it.
+Boundary: AI's evaluative decisions about human contributions are not reviewed by a human before affecting the submission or peer marks
+Risks to check: Fair allocation and evaluation; human review; contestability; attribution.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S9-Q01 [actor_and_activity]: peer marks — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q02 [related_roles]: group contribution — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q03 [permission_authority]: decision authority — 16 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q04 [restriction_boundary]: evaluation criteria — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q05 [procedure]: peer assessment — 19 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q06 [review_route]: appeal marks — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S9-Q07 [related_risk]: fairness review — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N180 | Ethical Use of AI in Research (Library Guide) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N024 | Policy: Assessment in Higher Education and Enabling Coursework Programs | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N025 | Procedure: Assessment and Learning Flexibility | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N029 | Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N034 | Policy: Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N040 | Procedure: Procurement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N188 | Policy: Programs and Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N189 | Procedure: Program and Course Design | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N191 | Guideline: Peer Review of Teaching | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N192 | Policy: Institutional Review Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N193 | Policy: Academic Governance Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N215 | Guideline: Authorship, Peer Review and Dissemination | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-61067eef4bd1f5
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 15
+PDF viewer page (navigation only): 15
+Line numbers: L016–L016
+Search query IDs: S9-Q05
+Search terms: peer assessment
+Extraction/review flags: none recorded
+Context before: than any single method of assessment.
+Candidate passage: 4.9.2 Validity and reliability of assessment is demonstrated through moderation, peer review
+Context after: and benchmarking.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-021768d1113948
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L043–L043
+Search query IDs: S9-Q07
+Search terms: fairness review
+Extraction/review flags: none recorded
+Context before: 7.2.17 Moderation of assessment refers to quality assurance processes and activities such as
+Candidate passage: peer review that aim to assure the consistency or comparability, appropriateness,
+Context after: fairness, and comprehensibility of an assessment task, and the related criteria and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-00c3f6d3bbe567
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L044–L044
+Search query IDs: S9-Q07
+Search terms: fairness review
+Extraction/review flags: none recorded
+Context before: peer review that aim to assure the consistency or comparability, appropriateness,
+Candidate passage: fairness, and comprehensibility of an assessment task, and the related criteria and
+Context after: standards. Moderation applies to many aspects of assessment such as the choice of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-845c247c5673ca
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L042–L042
+Search query IDs: S9-Q06
+Search terms: appeal marks
+Extraction/review flags: none recorded
+Context before: 9.14 Where a student is permitted to resubmit assessment work as a special consideration
+Candidate passage: outcome, there is no restriction on the range of pass marks the student may receive.
+Context after: 9.15 A student may appeal the outcome of their special consideration application in accordance
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b0e514cd85dbc5
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L043–L043
+Search query IDs: S9-Q06
+Search terms: appeal marks
+Extraction/review flags: none recorded
+Context before: outcome, there is no restriction on the range of pass marks the student may receive.
+Candidate passage: 9.15 A student may appeal the outcome of their special consideration application in accordance
+Context after: PROCEDURE: Assessment and Learning Flexibility Page 12 of 23
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b6bd6aee760be7
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 35
+PDF viewer page (navigation only): 35
+Line numbers: L015–L015
+Search query IDs: S9-Q03
+Search terms: decision authority
+Extraction/review flags: none recorded
+Context before: procedure that apply to each of the positions, committees or roles listed below.
+Candidate passage: 14.1.1 Should any decision-making authority stated in this procedure be inconsistent with a
+Context after: delegation in the schedule of academic delegations to the Standing Delegations of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8a5448401d7096
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 35
+PDF viewer page (navigation only): 35
+Line numbers: L017–L017
+Search query IDs: S9-Q03
+Search terms: decision authority
+Extraction/review flags: none recorded
+Context before: delegation in the schedule of academic delegations to the Standing Delegations of
+Candidate passage: Authority, the Standing Delegations of Authority states the correct delegation of the
+Context after: decision-making authority.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ec6185317b80c0
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 35
+PDF viewer page (navigation only): 35
+Line numbers: L018–L018
+Search query IDs: S9-Q03
+Search terms: decision authority
+Extraction/review flags: none recorded
+Context before: Authority, the Standing Delegations of Authority states the correct delegation of the
+Candidate passage: decision-making authority.
+Context after: 14.2 Access and inclusion advisors:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d13c8054aea63e
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L045–L045
+Search query IDs: S9-Q03
+Search terms: decision authority
+Extraction/review flags: none recorded
+Context before: 14.6.1.2 decision-makers in relation to an appeal by the student
+Candidate passage: 14.6.1.3 senior staff to inform a decision about a non-standard adjustment, or
+Context after: 14.6.1.4 a court or other external authority where the University is obliged by law
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-35965d77992605
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 36
+PDF viewer page (navigation only): 36
+Line numbers: L046–L046
+Search query IDs: S9-Q03
+Search terms: decision authority
+Extraction/review flags: none recorded
+Context before: 14.6.1.3 senior staff to inform a decision about a non-standard adjustment, or
+Candidate passage: 14.6.1.4 a court or other external authority where the University is obliged by law
+Context after: PROCEDURE: Assessment and Learning Flexibility Page 18 of 23
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9a46c77620cc65
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L007–L007
+Search query IDs: S9-Q01, S9-Q05
+Search terms: peer marks | peer assessment
+Extraction/review flags: none recorded
+Context before: 5 Feedback on assessment .............................................................................................................................. 8
+Candidate passage: 6 Group assessment tasks, peer marking and self-marking ............................................................................ 8
+Context after: 7 Design of examinations and tests ................................................................................................................. 9
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-78f9ce2dd6e350
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 43
+PDF viewer page (navigation only): 43
+Line numbers: L017–L017
+Search query IDs: S9-Q01
+Search terms: peer marks
+Extraction/review flags: none recorded
+Context before: 15 Requests for review or re-marking of assessment ..................................................................................... 17
+Candidate passage: 16 Confidentiality of assessment work, feedback, marks and grades ............................................................ 18
+Context after: 17 Assessment records and exam answers ..................................................................................................... 19
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-120e0b445b5db1
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L042–L042
+Search query IDs: S9-Q05
+Search terms: peer assessment
+Extraction/review flags: none recorded
+Context before: marked work to the student.
+Candidate passage: 6 GROUP ASSESSMENT TASKS, PEER MARKING AND SELF-MARKING
+Context after: 6.1 Assessment is designed to provide opportunity for student agency, choice and peer to peer
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4a800d90284cdb
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 49
+PDF viewer page (navigation only): 49
+Line numbers: L043–L043
+Search query IDs: S9-Q05
+Search terms: peer assessment
+Extraction/review flags: none recorded
+Context before: 6 GROUP ASSESSMENT TASKS, PEER MARKING AND SELF-MARKING
+Candidate passage: 6.1 Assessment is designed to provide opportunity for student agency, choice and peer to peer
+Context after: PROCEDURE: Assessment and Examinations Page 8 of 34
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9dead5dd2bb587
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L001–L001
+Search query IDs: S9-Q02
+Search terms: group contribution
+Extraction/review flags: none recorded
+Context before:  or date of sitting, the second task. 
+5.2.3.3 Where a student is granted an extension of time to submit assessment work, 
+there will be an equivalent extension of time for the marker to return the 
+marked work to the student. 
+6 
+GROUP ASSESSMENT TASKS, PEER MARKING AND SELF-MARKING 
+6.1 
+Assessment is designed to provide opportunity for student agency, choice and peer to peer 
+University of Notre Dame Australia | N026 | Source page 8
+Bundle page 49 | N026 | source page 8 | line numbers at left
+Candidate passage: engagement and group or team-based assessments form an integral part of assessment
+Context after: regimes to provide opportunities for students to collaborate with and learn from each other.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dc9ab793c0b6e3
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L005–L005
+Search query IDs: S9-Q02
+Search terms: group contribution
+Extraction/review flags: none recorded
+Context before: of work in the discipline or field.
+Candidate passage: 6.2.1 Assessment tasks requiring group work will be designed to include activities to support
+Context after: team dynamics and ensure that:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7262d3bdace685
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L007–L007
+Search query IDs: S9-Q02
+Search terms: group contribution
+Extraction/review flags: none recorded
+Context before: team dynamics and ensure that:
+Candidate passage: 6.2.1.1 the contribution of each individual students in the group member can be able
+Context after: be identified
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a18b4de336db2e
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L009–L009
+Search query IDs: S9-Q02
+Search terms: group contribution
+Extraction/review flags: none recorded
+Context before: be identified
+Candidate passage: 6.2.1.2 students in the group are each assigned a fair share of the workload, and
+Context after: 6.2.1.3 there is a process to resolve issues in the group such as under-performing
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-22e6af19821bd2
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L010–L010
+Search query IDs: S9-Q02
+Search terms: group contribution
+Extraction/review flags: none recorded
+Context before: 6.2.1.2 students in the group are each assigned a fair share of the workload, and
+Candidate passage: 6.2.1.3 there is a process to resolve issues in the group such as under-performing
+Context after: members.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dc3ec33d3066d4
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L012–L012
+Search query IDs: S9-Q01
+Search terms: peer marks
+Extraction/review flags: none recorded
+Context before: members.
+Candidate passage: 6.2.2 Group marks, peer marks and/or self-marks can in total contribute no more than 30
+Context after: percent of the overall course mark.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-fe5ff9d013c5fd
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 50
+PDF viewer page (navigation only): 50
+Line numbers: L014–L014
+Search query IDs: S9-Q01
+Search terms: peer marks
+Extraction/review flags: none recorded
+Context before: percent of the overall course mark.
+Candidate passage: 6.2.2.1 Peer marks and/or self-marks can in total contribute no more than 20 percent
+Context after: of the overall course mark, and no more than 10 percent each.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7af64319d50e3a
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 59
+PDF viewer page (navigation only): 59
+Line numbers: L030–L030
+Search query IDs: S9-Q06
+Search terms: appeal marks
+Extraction/review flags: none recorded
+Context before: original mark.
+Candidate passage: 15.7 If the decision-maker does not allow the re-marking, the student may appeal the decision in
+Context after: accordance with the Policy: Student Appeals.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-7565d390ba58ac
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 59
+PDF viewer page (navigation only): 59
+Line numbers: L032–L032
+Search query IDs: S9-Q06
+Search terms: appeal marks
+Extraction/review flags: none recorded
+Context before: accordance with the Policy: Student Appeals.
+Candidate passage: 16 CONFIDENTIALITY OF ASSESSMENT WORK, FEEDBACK, MARKS AND
+Context after: GRADES
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-52be99b92f3533
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 60
+PDF viewer page (navigation only): 60
+Line numbers: L021–L021
+Search query IDs: S9-Q04
+Search terms: evaluation criteria
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: reflect the student’s weighted average level of achievement in the course assessment tasks.
+Candidate passage: Grade Description Mark range Criteria
+Context after: HD High Distinction 80–100% The student has demonstrated a very high standard of academic
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d56a59356e70c3
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 60
+PDF viewer page (navigation only): 60
+Line numbers: L028–L028
+Search query IDs: S9-Q04
+Search terms: evaluation criteria
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • demonstrated a deep and critical understanding of the course
+Candidate passage: content through considerable insight, originality, evaluation
+Context after: and problem-solving
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-648e51953cbbf4
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 60
+PDF viewer page (navigation only): 60
+Line numbers: L041–L041
+Search query IDs: S9-Q04
+Search terms: evaluation criteria
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: • demonstrated superior application of knowledge, critical
+Candidate passage: evaluation, competencies and skills
+Context after: PROCEDURE: Assessment and Examinations Page 19 of 34
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-52da11846e7a9a
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 64
+PDF viewer page (navigation only): 64
+Line numbers: L033–L033
+Search query IDs: S9-Q06
+Search terms: appeal marks
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 22 APPEALS AGAINST COURSE MARKS
+Candidate passage: 22.1 A student may appeal their marks in a course in accordance with the Policy: Student Appeals
+Context after: which states the grounds and process for a student to appeal against:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-38c742c9c3713d
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 67
+PDF viewer page (navigation only): 67
+Line numbers: L015–L015
+Search query IDs: S9-Q05
+Search terms: peer assessment
+Extraction/review flags: none recorded
+Context before: differentiated and varied for each study period.
+Candidate passage: 25.1.1.4 Academic peer review of assessment and rubrics at the end of each study
+Context after: period and forms part of regular refresh cycles, comprehensive program review
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-378a0a3991235d
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 70
+PDF viewer page (navigation only): 70
+Line numbers: L022–L022
+Search query IDs: S9-Q01
+Search terms: peer marks
+Extraction/review flags: none recorded
+Context before: 50 percent of the overall course mark (see section 3)
+Candidate passage: 26.8.1.2 approve an exception to the limit on the weighting of group marks, peer
+Context after: marks and/or self-marks in a course set out clause 6.2.2
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-94acc25b1babf1
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 74
+PDF viewer page (navigation only): 74
+Line numbers: L044–L044
+Search query IDs: S9-Q07
+Search terms: fairness review
+Extraction/review flags: none recorded
+Context before: 27.2.21 Moderation of assessment means quality assurance processes and activities such as
+Candidate passage: peer review that aim to assure the consistency or comparability, appropriateness,
+Context after: fairness, and comprehensibility of an assessment task, and the related criteria and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8da162563c2f75
+Source ID: N040
+Document title: Procedure: Procurement
+Printed bundle page: 290
+PDF viewer page (navigation only): 290
+Line numbers: L029–L029
+Search query IDs: S9-Q04
+Search terms: evaluation criteria
+Extraction/review flags: none recorded
+Context before: manner where all parties who submit bids to a common deadline have the same
+Candidate passage: information and are evaluated against a set criteria.
+Context after: Procurement Plan is a formal document which details how the source to contract process
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-724580a434e82d
+Source ID: N040
+Document title: Procedure: Procurement
+Printed bundle page: 290
+PDF viewer page (navigation only): 290
+Line numbers: L033–L033
+Search query IDs: S9-Q04
+Search terms: evaluation criteria
+Extraction/review flags: none recorded
+Context before: Procurement Recommendation is a formal document which includes the tender
+Candidate passage: evaluation report and recommended tenderer/s to whom a proposed contract should be
+Context after: awarded.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bc295c212c41c8
+Source ID: N180
+Document title: Ethical Use of AI in Research (Library Guide)
+Printed bundle page: 5
+PDF viewer page (navigation only): 5
+Line numbers: L018–L018
+Search query IDs: S9-Q07
+Search terms: fairness review
+Extraction/review flags: none recorded
+Context before: Finding systematic reviews
+Candidate passage: Systematic review help
+Context after: Grey literature
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-0b11dc3320b1d4
+Source ID: N180
+Document title: Ethical Use of AI in Research (Library Guide)
+Printed bundle page: 5
+PDF viewer page (navigation only): 5
+Line numbers: L030–L030
+Search query IDs: S9-Q07
+Search terms: fairness review
+Extraction/review flags: none recorded
+Context before: Ethical use of AI
+Candidate passage: Fairness
+Context after: Sensitive data
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,810 @@
+{
+  "university": "Murdoch",
+  "case_id": "Murdoch-S5",
+  "scenario_id": "S5",
+  "coding_date": "2026-11-16",
+  "protocol_version": "1.1",
+  "coder_id": "Antigravity AI proposal — awaiting human verification",
+  "human_confirmed": false,
+  "dimensions": [
+    {
+      "dimension": "D1",
+      "score": 0,
+      "reason": "After searching the Murdoch corpus for attendance proxy, online attendance, authorised proxy, false attendance, attendance procedure, and proxy identity, no applicable provision recognises a disclosed AI avatar/proxy attending an online lecture or fulfilling student participation.",
+      "search_terms_used": [
+        "attendance proxy",
+        "online attendance",
+        "authorised proxy",
+        "false attendance",
+        "attendance procedure",
+        "proxy identity"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 21,
+          "viewer_page": 21,
+          "line_start": "L005",
+          "line_end": "L008",
+          "evidence_type": "Exact quotation",
+          "text": "1.7.2 suspend the student from use of or attendance at any or all of:\nuniversity facilities, participation in university activities, access to\nassessment results, graduation and re-enrolment for a period up to\n12 months.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        }
+      ],
+      "evidence": [],
+      "zero_score_basis": "no_applicable_provision_found",
+      "uncertainty_notes": "Academic Council and Senate governance principles (N176, N177) address committee proxy voting, not student lecture attendance. Assessment Procedure Effective 01 January 2025 is absent from the bundle."
+    },
+    {
+      "dimension": "D2",
+      "score": 0,
+      "reason": "No decision-maker is identified in Murdoch policies to verify, admit, or refuse a disclosed AI attendance proxy for online classes.",
+      "search_terms_used": [
+        "authorised proxy",
+        "attendance procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        }
+      ],
+      "evidence": [],
+      "zero_score_basis": "no_decision_maker_identified",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D3",
+      "score": 2,
+      "reason": "General account-access (N077 1.6), misconduct (N164 1.2.2), and privacy (N083) rules are compatible without contradiction, though silent on disclosed AI attendance proxies.",
+      "search_terms_used": [
+        "attendance procedure",
+        "online attendance"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        },
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L025",
+          "line_end": "L026",
+          "evidence_type": "Exact quotation",
+          "text": "4.1 Personal Information Collection Notices are generally provided at the time\nof personal information collection.",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D4",
+      "score": 0,
+      "reason": "No actionable procedure exists for requesting, verifying, or admitting a disclosed AI proxy to an online lecture.",
+      "search_terms_used": [
+        "attendance procedure",
+        "attendance appeal"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        }
+      ],
+      "evidence": [],
+      "zero_score_basis": "no_actionable_route",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D5",
+      "score": 0,
+      "reason": "None of the relevant safeguards—proxy identity verification, compulsory participation validity rules, or AI-avatar recording/privacy controls—is documented.",
+      "search_terms_used": [
+        "proxy identity",
+        "false attendance",
+        "attendance proxy"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 15,
+          "viewer_page": 15,
+          "line_start": "L011",
+          "line_end": "L017",
+          "evidence_type": "Exact quotation",
+          "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+          "evidence_role": "SUPPORTING",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/07/2026",
+          "version_evidence_location": {
+            "source_id": "N164",
+            "document_title": "Student Integrity Regulations",
+            "printed_bundle_page": 18,
+            "viewer_page": 18,
+            "line_start": "L015",
+            "line_end": "L015",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/07/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S5-Q05"
+          ]
+        },
+        {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 128,
+          "viewer_page": 128,
+          "line_start": "L007",
+          "line_end": "L010",
+          "evidence_type": "Exact quotation",
+          "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 09/02/2026",
+          "version_evidence_location": {
+            "source_id": "N077",
+            "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+            "printed_bundle_page": 131,
+            "viewer_page": 131,
+            "line_start": "L021",
+            "line_end": "L021",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 09/02/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": "",
+          "query_ids": [
+            "S6-Q04"
+          ]
+        },
+        {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 35,
+          "viewer_page": 35,
+          "line_start": "L014",
+          "line_end": "L020",
+          "evidence_type": "Exact quotation",
+          "text": "3.4 Biometric information is a form of sensitive information and includes data\nderived from biological or behavioural characteristics that can be used to\nidentify an individual. This may include, but is not limited to:\n3.4.1 facial images or facial recognition templates\n3.4.2 fingerprints or palmprints\n3.4.3 iris or retinal scans\n3.4.4 voiceprints",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/01/2026",
+          "version_evidence_location": {
+            "source_id": "N083",
+            "document_title": "Privacy Policy (pdf) 288 KB",
+            "printed_bundle_page": 38,
+            "viewer_page": 38,
+            "line_start": "L036",
+            "line_end": "L036",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/01/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [],
+      "zero_score_basis": "no_relevant_safeguards",
+      "uncertainty_notes": ""
+    },
+    {
+      "dimension": "D6",
+      "score": 1,
+      "reason": "N108 (5-6) provides a general three-yearly review cycle for Policy Documents, without an event-triggered or AI-attendance monitoring mechanism.",
+      "search_terms_used": [
+        "attendance procedure"
+      ],
+      "documents_checked": [
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "evidence": [
+        {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 181,
+          "viewer_page": 181,
+          "line_start": "L025",
+          "line_end": "L028",
+          "evidence_type": "Exact quotation",
+          "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+          "evidence_role": "MAIN",
+          "operative_at_cutoff": true,
+          "version_evidence": "Date effective 27/10/2026",
+          "version_evidence_location": {
+            "source_id": "N108",
+            "document_title": "Policy Governance and Management Policy",
+            "printed_bundle_page": 183,
+            "viewer_page": 183,
+            "line_start": "L014",
+            "line_end": "L014",
+            "evidence_type": "Exact quotation",
+            "text": "Date effective 27/10/2026"
+          },
+          "visual_reading_order_checked": false,
+          "visual_review_note": ""
+        }
+      ],
+      "zero_score_basis": "not_applicable",
+      "uncertainty_notes": ""
+    }
+  ],
+  "case_summary": {
+    "mode": "None",
+    "review_route": "No",
+    "review_route_explanation": "No policy establishes an attendance-proxy admission decision or a specific review route for AI proxy attendance.",
+    "review_route_evidence": null,
+    "critical_gap": "Yes",
+    "critical_risk_criterion": "Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.",
+    "critical_gap_explanation": "Murdoch policies contain no provisions for verifying or admitting a disclosed AI avatar as a lecture proxy or determining whether such attendance satisfies compulsory participation requirements.",
+    "evidence_status": "Sufficient",
+    "insufficient_evidence_reason": "",
+    "rule_direction": "Unclear",
+    "conflict_confirmed": false,
+    "conflict_basis": "",
+    "case_note": "Exhaustive searches of Murdoch's policy corpus found no provision governing a disclosed AI avatar attending online lectures or fulfilling compulsory participation on a student's behalf. General rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not establish proxy verification, admission authority, or participation validity, leaving a critical gap. Protocol v1.1 was adopted after preliminary review on 2026-11-15, and this proposal awaits human verification.",
+    "supporting_passages": [
+      {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 15,
+        "viewer_page": 15,
+        "line_start": "L011",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 18,
+          "viewer_page": 18,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S5-Q05"
+        ]
+      },
+      {
+        "source_id": "N077",
+        "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+        "printed_bundle_page": 128,
+        "viewer_page": 128,
+        "line_start": "L007",
+        "line_end": "L010",
+        "evidence_type": "Exact quotation",
+        "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 09/02/2026",
+        "version_evidence_location": {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 131,
+          "viewer_page": 131,
+          "line_start": "L021",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 09/02/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S6-Q04"
+        ]
+      },
+      {
+        "source_id": "N108",
+        "document_title": "Policy Governance and Management Policy",
+        "printed_bundle_page": 181,
+        "viewer_page": 181,
+        "line_start": "L025",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/10/2026",
+        "version_evidence_location": {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 183,
+          "viewer_page": 183,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/10/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      }
+    ],
+    "search_terms_used": [
+      "attendance proxy",
+      "online attendance",
+      "authorised proxy",
+      "false attendance",
+      "attendance procedure",
+      "attendance appeal",
+      "proxy identity"
+    ],
+    "documents_checked": [
+      {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 15,
+        "viewer_page": 15,
+        "line_start": "L011",
+        "line_end": "L017",
+        "evidence_type": "Exact quotation",
+        "text": "1.2. “Misconduct” means any behaviour on the part of a student that:\n1.2.1. impairs the reasonable freedom of the University community to\npursue and participate in academic, community or other University\nactivities, or in the life of the University\n1.2.2. contravenes the provisions of the Murdoch University Act 1973,\nany statute, rule or by-law of the university, or a university code of\nconduct, policy, procedure or set of guidelines",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 18,
+          "viewer_page": 18,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S5-Q05"
+        ]
+      },
+      {
+        "source_id": "N164",
+        "document_title": "Student Integrity Regulations",
+        "printed_bundle_page": 21,
+        "viewer_page": 21,
+        "line_start": "L005",
+        "line_end": "L008",
+        "evidence_type": "Exact quotation",
+        "text": "1.7.2 suspend the student from use of or attendance at any or all of:\nuniversity facilities, participation in university activities, access to\nassessment results, graduation and re-enrolment for a period up to\n12 months.",
+        "evidence_role": "SUPPORTING",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/07/2026",
+        "version_evidence_location": {
+          "source_id": "N164",
+          "document_title": "Student Integrity Regulations",
+          "printed_bundle_page": 18,
+          "viewer_page": 18,
+          "line_start": "L015",
+          "line_end": "L015",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/07/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S5-Q05"
+        ]
+      },
+      {
+        "source_id": "N077",
+        "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+        "printed_bundle_page": 128,
+        "viewer_page": 128,
+        "line_start": "L007",
+        "line_end": "L010",
+        "evidence_type": "Exact quotation",
+        "text": "1.6 Access must be via an authorised account. Users must adhere to the\nUniversity’s Password Policy and must not disclose their password to any\nother person. Users must not attempt to discover another person’s\npassword or gain access to another person’s account or information.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 09/02/2026",
+        "version_evidence_location": {
+          "source_id": "N077",
+          "document_title": "Digital and Technology Conditions of Use Policy (pdf) 269 KB",
+          "printed_bundle_page": 131,
+          "viewer_page": 131,
+          "line_start": "L021",
+          "line_end": "L021",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 09/02/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": "",
+        "query_ids": [
+          "S6-Q04"
+        ]
+      },
+      {
+        "source_id": "N083",
+        "document_title": "Privacy Policy (pdf) 288 KB",
+        "printed_bundle_page": 35,
+        "viewer_page": 35,
+        "line_start": "L014",
+        "line_end": "L020",
+        "evidence_type": "Exact quotation",
+        "text": "3.4 Biometric information is a form of sensitive information and includes data\nderived from biological or behavioural characteristics that can be used to\nidentify an individual. This may include, but is not limited to:\n3.4.1 facial images or facial recognition templates\n3.4.2 fingerprints or palmprints\n3.4.3 iris or retinal scans\n3.4.4 voiceprints",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/01/2026",
+        "version_evidence_location": {
+          "source_id": "N083",
+          "document_title": "Privacy Policy (pdf) 288 KB",
+          "printed_bundle_page": 38,
+          "viewer_page": 38,
+          "line_start": "L036",
+          "line_end": "L036",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/01/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      },
+      {
+        "source_id": "N108",
+        "document_title": "Policy Governance and Management Policy",
+        "printed_bundle_page": 181,
+        "viewer_page": 181,
+        "line_start": "L025",
+        "line_end": "L028",
+        "evidence_type": "Exact quotation",
+        "text": "5. By-Laws, Statutes, Regulations, Rules and Policy Documents are reviewed at\nleast every three years.\n6. A Regulation, Rule, or Policy Document remains valid until it is revised or\nrescinded, even if it has not been reviewed within its review date.",
+        "evidence_role": "MAIN",
+        "operative_at_cutoff": true,
+        "version_evidence": "Date effective 27/10/2026",
+        "version_evidence_location": {
+          "source_id": "N108",
+          "document_title": "Policy Governance and Management Policy",
+          "printed_bundle_page": 183,
+          "viewer_page": 183,
+          "line_start": "L014",
+          "line_end": "L014",
+          "evidence_type": "Exact quotation",
+          "text": "Date effective 27/10/2026"
+        },
+        "visual_reading_order_checked": false,
+        "visual_review_note": ""
+      }
+    ],
+    "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle."
+  },
+  "additional_search_requests": []
+}

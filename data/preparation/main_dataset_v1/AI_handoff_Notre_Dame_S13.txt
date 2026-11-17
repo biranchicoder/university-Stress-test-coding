@@ -1,0 +1,898 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: Notre Dame
+Case ID: Notre_Dame-S13
+Scenario: S13 — Course-Level Memory
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S13 Course-Level Memory
+An AI learning assistant retains a student's performance, weaknesses and preferences throughout one course, using this to tailor support within that unit. Use is voluntary, and the memory is scoped to a single course, with retention nominally ending when the course concludes.
+Boundary: Memory is scoped to one course and nominally deleted or inaccessible after the course ends
+Risks to check: Purpose and consent; minimisation; retention and deletion; access and security.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Informed, purpose-limited collection and lawful course-end memory restriction/disposal, with access and security protections.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S13-Q01 [actor_and_activity]: student data performance — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q02 [purpose]: personal information purpose — 11 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q03 [consent]: consent information collection — 5 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q04 [collection_and_use_limits]: collect use disclose data — 2 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q05 [retention_and_deletion]: retention disposal records — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q06 [access_and_correction]: student record access — 6 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q07 [security_and_review]: privacy security data — 5 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q08 [related_roles]: student performance — 28 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q09 [procedure]: privacy procedure — 22 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S13-Q10 [review_route]: privacy complaint — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N024 | Policy: Assessment in Higher Education and Enabling Coursework Programs | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N025 | Procedure: Assessment and Learning Flexibility | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N026 | Procedure: Assessment and Examinations | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N027 | Procedure: Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N116 | Academic integrity student guidance | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N182 | Guideline: Use of Text-Matching Applications for Fostering Academic Integrity | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N029 | Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N030 | Procedure: Managing and Investigating Breaches of the Code of Conduct: Research | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N032 | Policy: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N033 | Procedure: Research Data Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N042 | Policy: Privacy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N043 | Procedure: Information Management | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N115 | Guideline Presentation and Submission of Research Theses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N194 | Procedure: Information Technology | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N036 | Policy: Standing Delegations of Authority | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N040 | Procedure: Procurement | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N041 | Employee Code of Conduct and Ethical Behaviour: Staff | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N187 | Procedure: (VET) Student Appeals | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N031 | Policy: Intellectual Property | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N185 | Policy: Records Management Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N188 | Policy: Programs and Courses | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N191 | Guideline: Peer Review of Teaching | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N192 | Policy: Institutional Review Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N193 | Policy: Academic Governance Framework | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N215 | Guideline: Authorship, Peer Review and Dissemination | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N236 | Additional Student Information copyright recording and access support | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N237 | Procedure Program and Course Information lecture recording | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N238 | Access and inclusion Learning Access Plan procedure | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-8dc18b864b4787
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 14
+PDF viewer page (navigation only): 14
+Line numbers: L007–L007
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: of qualifications awarded.
+Candidate passage: 4.3.2 Assessing student performance through integration and alignment of intended learning
+Context after: outcomes, horizontally in each level of study and vertically through progressive levels,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-6c61bac99b69e4
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 16
+PDF viewer page (navigation only): 16
+Line numbers: L044–L044
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: includes the design, development and implementation of assessment tasks, the
+Candidate passage: judgement and reporting of student performance and the provision of feedback to
+Context after: students on their performance.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-8c8fb75f93be4a
+Source ID: N024
+Document title: Policy: Assessment in Higher Education and Enabling Coursework Programs
+Printed bundle page: 17
+PDF viewer page (navigation only): 17
+Line numbers: L001–L001
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: chmark or 
+indicator, that is used to define a level of academic performance or achievement. 
+7.2.3 Assessment is the systematic process for facilitating and evaluating student learning. It 
+includes the design, development and implementation of assessment tasks, the 
+judgement and reporting of student performance and the provision of feedback to 
+students on their performance. 
+University of Notre Dame Australia | N024 | Source page 6
+Bundle page 16 | N024 | source page 6 | line numbers at left
+Candidate passage: 7.2.4 Assessment criteria describe the specific elements of a student’s performance that align
+Context after: to the course intended learning outcomes.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2b24644a624699
+Source ID: N025
+Document title: Procedure: Assessment and Learning Flexibility
+Printed bundle page: 29
+PDF viewer page (navigation only): 29
+Line numbers: L003–L003
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: none recorded
+Context before: 9.1 Special consideration is a way of providing flexibility where exceptional circumstances beyond
+Candidate passage: a student’s control adversely affects their performance in assessment.
+Context after: 9.2 Staff who hold the following roles may grant a student’s request for special consideration in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-07a20a126d983c
+Source ID: N026
+Document title: Procedure: Assessment and Examinations
+Printed bundle page: 65
+PDF viewer page (navigation only): 65
+Line numbers: L031–L031
+Search query IDs: S13-Q08
+Search terms: student performance
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 23.3 GPAs are used:
+Candidate passage: 23.3.1 as an indication of a student’s overall academic performance on their formal transcript
+Context after: of results, and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-f511f203ea5015
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L002–L002
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: 5.6.1 On receiving a report of a breach of academic integrity the head of school or director
+Candidate passage: will decide whether the allegation against the student should proceed in accordance
+Context after: with clause 8.7 of the General Regulations.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-738a52640fb8a3
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 82
+PDF viewer page (navigation only): 82
+Line numbers: L004–L004
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: with clause 8.7 of the General Regulations.
+Candidate passage: 5.6.2 Where, however, the student is also a staff member, the head of school or director will
+Context after: decide whether the allegation will proceed and, if so, whether it will be handled as:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-949fba14ff45ad
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 83
+PDF viewer page (navigation only): 83
+Line numbers: L002–L002
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 7.2.2 Users of the register are expected to keep their login details secure and maintain the
+Candidate passage: confidentiality of the information in the register in accordance with the Policy: Privacy.
+Context after: 7.3 The Chair of the University Disciplinary Committee (in accordance with the student
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-71ee2d64572f18
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 83
+PDF viewer page (navigation only): 83
+Line numbers: L020–L020
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 7.6.1 the breach occurred in a situation where the staff member was a student and clause
+Candidate passage: 5.7.1.1 of this procedure applies.
+Context after: 8 MONITORING AND IMPROVEMENT
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5280b1c523b80f
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 83
+PDF viewer page (navigation only): 83
+Line numbers: L026–L026
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 8.1.2 detecting and responding to alleged breaches of academic integrity.
+Candidate passage: 8.2 To maintain student confidentiality in accordance with the Policy: Privacy individual students
+Context after: will not be identified in any reports that include student academic integrity breach data.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-71dc0dc3100b7e
+Source ID: N027
+Document title: Procedure: Academic Integrity
+Printed bundle page: 83
+PDF viewer page (navigation only): 83
+Line numbers: L046–L046
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: 8.4.2.1 controlling or mitigating risks to academic integrity,
+Candidate passage: Procedure: Academic Integrity Page 8 of 13
+Context after: Effective Date: 13/2/2026
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-66869485506ae5
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L013–L013
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: participants have provided their informed consent to participate in research.
+Candidate passage: 4.8 Where research involves the collection, use or disclosure of health information without the
+Context after: consent of individuals, approval must be granted by a Human Research Ethics Committee in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bd2748081ad537
+Source ID: N029
+Document title: Code of Conduct: Research
+Printed bundle page: 113
+PDF viewer page (navigation only): 113
+Line numbers: L015–L015
+Search query IDs: S13-Q09
+Search terms: privacy procedure
+Extraction/review flags: none recorded
+Context before: consent of individuals, approval must be granted by a Human Research Ethics Committee in
+Candidate passage: accordance with the Guidelines approved under section 95A of the Privacy Act 1988 (Cth).
+Context after: Child Safety in Research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ab93a008de6f81
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L033–L033
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: f) Whether the allegation involves children or young people, including research participants
+Candidate passage: under 18 years of age, and the applicable child safety, complaint handling and mandatory
+Context after: reporting requirements and
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-02c9d48fb035f7
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L035–L035
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: reporting requirements and
+Candidate passage: g) Where the allegation involves the collection, use or disclosure of health information for
+Context after: research without consent, whether consent was impracticable, whether de-identified
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-524abbadfcf7a1
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 129
+PDF viewer page (navigation only): 129
+Line numbers: L039–L039
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Ethics Committee was obtained in accordance with the Guidelines approved under section
+Candidate passage: 95A of the Privacy Act 1988 (Cth).
+Context after: 8.9 Where an allegation relates to allegations of a type that the University is required to report to
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-22abe65a8d1972
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L021–L021
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Investigating Officer or Panel intends to take into account; and
+Candidate passage: f) Managing information in a manner that respects privacy, confidentiality and cultural
+Context after: sensitivities, including the use of de-identified information where appropriate.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-04df0453faf826
+Source ID: N030
+Document title: Procedure: Managing and Investigating Breaches of the Code of Conduct: Research
+Printed bundle page: 130
+PDF viewer page (navigation only): 130
+Line numbers: L024–L024
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: 8.13 The Respondent must be given at least seven (7) working days’ notice of the time and place of
+Candidate passage: any hearing of the complaint. The Investigating Officer and the Respondent may agree to
+Context after: shorten or extend the time limits for any hearing.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ae8a3900048d19
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 138
+PDF viewer page (navigation only): 138
+Line numbers: L011–L011
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: 2 PURPOSE
+Candidate passage: 2.1 This policy sets out principles for managing research data in accordance with the Australian
+Context after: Code for the Responsible Conduct of Research 2018 (the Code), University policies, and relevant
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1e2a512054a291
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 138
+PDF viewer page (navigation only): 138
+Line numbers: L014–L014
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: legal, statutory, ethical, contractual and funding body requirements. It outlines requirements and
+Candidate passage: responsibilities with respect to storage, security, retention, accessibility, use, reuse and disposal
+Context after: of University research data to ensure that the University and researchers comply with applicable
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ec32a7b0405628
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 138
+PDF viewer page (navigation only): 138
+Line numbers: L015–L015
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: responsibilities with respect to storage, security, retention, accessibility, use, reuse and disposal
+Candidate passage: of University research data to ensure that the University and researchers comply with applicable
+Context after: laws, regulations and operational standards.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-cfb9c643857f2d
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 138
+PDF viewer page (navigation only): 138
+Line numbers: L021–L021
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: none recorded
+Context before: and external parties engaged in research.
+Candidate passage: 3.1.2 All research data regardless of format or form and subject to relevant contracts or
+Context after: funding/collaboration agreements. See Section 12 for indicative examples of research
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c95c1f0870b6f9
+Source ID: N032
+Document title: Policy: Research Data Management
+Printed bundle page: 139
+PDF viewer page (navigation only): 139
+Line numbers: L037–L037
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: none recorded
+Context before: data sources are kept in a durable, organised and accessible manner.
+Candidate passage: 6 STORAGE, RETENTION AND DISPOSAL
+Context after: 6.1 Where possible, data and materials should be digitised, recorded in a durable and retrievable
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-482183a8a90ae0
+Source ID: N036
+Document title: Policy: Standing Delegations of Authority
+Printed bundle page: 254
+PDF viewer page (navigation only): 254
+Line numbers: L006–L006
+Search query IDs: S13-Q07
+Search terms: privacy security data
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 2. Core University System means a primary IT system that is used by the university and/or stores student, staff
+Candidate passage: and/or financial records or other data that is considered private or sensitive under the Privacy Act 1988 or is
+Context after: reportable under the General Data Protection Regulation (GDPR).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-bc25c019920898
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 158
+PDF viewer page (navigation only): 158
+Line numbers: L013–L013
+Search query IDs: S13-Q10
+Search terms: privacy complaint
+Extraction/review flags: none recorded
+Context before: Purpose
+Candidate passage: 2.1 The Privacy Policy (Policy) outlines the policy on the collection, use, storage and disclosure of
+Context after: personal information at the University of Notre Dame Australia (University).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d6bc8ca38b0a9c
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 158
+PDF viewer page (navigation only): 158
+Line numbers: L014–L014
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: 2.1 The Privacy Policy (Policy) outlines the policy on the collection, use, storage and disclosure of
+Candidate passage: personal information at the University of Notre Dame Australia (University).
+Context after: 2.2 As a provider of tertiary education and related services, and as an employer, the University is
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-55a31ae6deaef6
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 158
+PDF viewer page (navigation only): 158
+Line numbers: L016–L016
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: 2.2 As a provider of tertiary education and related services, and as an employer, the University is
+Candidate passage: required to collect, use and disclose personal information. Personal information means
+Context after: information or an opinion, whether true or not and whether recorded in a material form or
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-ad701effa4a7bc
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 158
+PDF viewer page (navigation only): 158
+Line numbers: L019–L019
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: not, about an individual.
+Candidate passage: 2.3 The purpose of this Policy is to provide information on the following:
+Context after: 2.3.1 The kind of personal information collected by the University;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-540da80a529b04
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 159
+PDF viewer page (navigation only): 159
+Line numbers: L028–L028
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: consent has been obtained.
+Candidate passage: 4.2 The Collection and Holding of Personal Information
+Context after: 4.2.1 In most cases the University collects personal information directly from individuals
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b40457dbbe6e13
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 160
+PDF viewer page (navigation only): 160
+Line numbers: L001–L001
+Search query IDs: S13-Q04
+Search terms: collect use disclose data
+Extraction/review flags: none recorded
+Context before: ot be disclosed to a third party unless required by law.  
+4.2.3 Information is also collected from third parties such as government departments, 
+education providers and other parties authorised to provide information to. 
+4.2.4 When personal information is collected from individuals, the University will make every 
+Policy: Privacy 
+ 
+Page 4 of 8 
+Effective Date: 05/08/2019 
+ 
+University of Notre Dame Australia | N042 | Source page 4
+Bundle page 159 | N042 | source page 4 | line numbers at left
+Candidate passage: effort to draw this collection and its use to the individual’s attention at the time the
+Context after: information is collected.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-da15a9c107f5ca
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 160
+PDF viewer page (navigation only): 160
+Line numbers: L009–L009
+Search query IDs: S13-Q04
+Search terms: collect use disclose data
+Extraction/review flags: none recorded
+Context before: to access the information in order to carry out their responsibilities. Where personal
+Candidate passage: information is stored by a third party data storage provider the University will
+Context after: ensure that the third party provider is bound by a contractual obligation of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5a88c474f41354
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 160
+PDF viewer page (navigation only): 160
+Line numbers: L016–L016
+Search query IDs: S13-Q04
+Search terms: collect use disclose data
+Extraction/review flags: none recorded
+Context before: inherent risks in transmitting personal information across the Internet. More
+Candidate passage: information about the University’s website limited use of Cookies is outlined in
+Context after: paragraph 4.7 below.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-32e61e0df56857
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 160
+PDF viewer page (navigation only): 160
+Line numbers: L018–L018
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: paragraph 4.7 below.
+Candidate passage: 4.3 Purpose of Collecting, Using, Storing and Disclosing Personal Information
+Context after: 4.3.1 Personal information provided by you to the University will only be used by the
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-dcebb87dbf2a5d
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 160
+PDF viewer page (navigation only): 160
+Line numbers: L023–L023
+Search query IDs: S13-Q04
+Search terms: collect use disclose data
+Extraction/review flags: none recorded
+Context before: 4.3.2 Examples of the administrative or educational purposes which the University will collect,
+Candidate passage: use, store or disclose personal information are to provide a means of:
+Context after: • Establishing proof of identity;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-38145289a34495
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 161
+PDF viewer page (navigation only): 161
+Line numbers: L004–L004
+Search query IDs: S13-Q02
+Search terms: personal information purpose
+Extraction/review flags: none recorded
+Context before: above the University will ensure that any disclosure to a third party is subject to the
+Candidate passage: third party agreeing to use the personal information for the purpose disclosed and
+Context after: maintaining confidentiality.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c46330eda89f8d
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 161
+PDF viewer page (navigation only): 161
+Line numbers: L006–L006
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: maintaining confidentiality.
+Candidate passage: 4.3.4 The University will obtain specific consent to disclose personal information to
+Context after: marketing, communication and related third party agencies. Where an individual
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-a37d0842a90765
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 161
+PDF viewer page (navigation only): 161
+Line numbers: L014–L014
+Search query IDs: S13-Q03
+Search terms: consent information collection
+Extraction/review flags: none recorded
+Context before: with the APPS.
+Candidate passage: 4.3.6 The University will not disclose staff personal information without the consent of the
+Context after: individual unless disclosure is permitted by law.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-35e60a7e58a840
+Source ID: N042
+Document title: Policy: Privacy
+Printed bundle page: 162
+PDF viewer page (navigation only): 162
+Line numbers: L007–L007
+Search query IDs: S13-Q04
+Search terms: collect use disclose data
+Extraction/review flags: none recorded
+Context before: study programs. In these circumstances the University will seek consent from the
+Candidate passage: individual and the University will ensure that any third party agrees to collect, use
+Context after: or disclose personal information in accordance with the University’s obligations under
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-927fb260cffd75
+Source ID: N115
+Document title: Guideline Presentation and Submission of Research Theses
+Printed bundle page: 181
+PDF viewer page (navigation only): 181
+Line numbers: L005–L005
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: Procedure: Nomination of Thesis Examiners for a Higher Degree by Research.
+Candidate passage: 4.3 When the thesis is ready for examination, the HDR student should complete the Student
+Context after: Statement Form and Supervisors' Certificate for Thesis Submission Form, which is available via
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d79605deb778e2
+Source ID: N115
+Document title: Guideline Presentation and Submission of Research Theses
+Printed bundle page: 181
+PDF viewer page (navigation only): 181
+Line numbers: L013–L013
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: 4.5 HDR students should submit their thesis or the dissertation component of a project-based
+Candidate passage: thesis as a single PDF file attached to an email to their Supervisors. The HDR student should
+Context after: also attach their completed Student Statement Form and Supervisors' Certificate for Thesis
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d9835d873825e0
+Source ID: N115
+Document title: Guideline Presentation and Submission of Research Theses
+Printed bundle page: 181
+PDF viewer page (navigation only): 181
+Line numbers: L014–L014
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: thesis as a single PDF file attached to an email to their Supervisors. The HDR student should
+Candidate passage: also attach their completed Student Statement Form and Supervisors' Certificate for Thesis
+Context after: Submission Form and a copy of their originality report. The signed Certificate of Original
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5ccad695d92bf1
+Source ID: N115
+Document title: Guideline Presentation and Submission of Research Theses
+Printed bundle page: 181
+PDF viewer page (navigation only): 181
+Line numbers: L021–L021
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: University-approved file-transfer service to transmit the thesis, as per the University Policy:
+Candidate passage: Research Data Management. Once the file has been uploaded, the HDR student must email
+Context after: the link to the relevant Research Office email address indicated in section 4.4.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1d046941fe62ac
+Source ID: N115
+Document title: Guideline Presentation and Submission of Research Theses
+Printed bundle page: 183
+PDF viewer page (navigation only): 183
+Line numbers: L035–L035
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: the thesis to the University Library. A digital copy of the thesis will be accessible, subject to
+Candidate passage: approved access restrictions requested by the student or supervisor, through UNDA Library’s
+Context after: Research Online website.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-63a277a1cf4710
+Source ID: N182
+Document title: Guideline: Use of Text-Matching Applications for Fostering Academic Integrity
+Printed bundle page: 109
+PDF viewer page (navigation only): 109
+Line numbers: L008–L008
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: entered.
+Candidate passage: Record of student   Turnitin has a column that shows the marker whether a student
+Context after: having accessed has looked at the returned assignment. This is not available in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-3d96d5897000b4
+Source ID: N185
+Document title: Policy: Records Management Framework
+Printed bundle page: 348
+PDF viewer page (navigation only): 348
+Line numbers: L004–L004
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: none recorded
+Context before: capture and management of records in electronic and physical formats from creation through
+Candidate passage: to disposal or permanent retention.
+Context after: 1.2 The objectives of the framework are:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c467a7efc30d01
+Source ID: N185
+Document title: Policy: Records Management Framework
+Printed bundle page: 349
+PDF viewer page (navigation only): 349
+Line numbers: L002–L002
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: none recorded
+Context before: 3.5 Employees must ensure they capture and manage University records that exist in electronic
+Candidate passage: and physical formats in alignment with this Policy, the current retention and disposal
+Context after: schedule, the business classification scheme, and any related procedures/guidelines.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c9c37d1830ebc0
+Source ID: N185
+Document title: Policy: Records Management Framework
+Printed bundle page: 349
+PDF viewer page (navigation only): 349
+Line numbers: L020–L020
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: none recorded
+Context before: applies to the management of public records in the State jurisdictions in which it
+Candidate passage: operates. However, notwithstanding this, the retention and disposal of University
+Context after: records will be consistent with the State Records Acts in Western Australia and New
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d072986658df4c
+Source ID: N185
+Document title: Policy: Records Management Framework
+Printed bundle page: 352
+PDF viewer page (navigation only): 352
+Line numbers: L014–L014
+Search query IDs: S13-Q05
+Search terms: retention disposal records
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: 6.2 Procedure: Information Management
+Candidate passage: 6.3 Guideline: Retention and Disposal of University Records (RDS)
+Context after: 6.4 Guideline: Business Classification Scheme (BCS)
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c79a8903f074c2
+Source ID: N191
+Document title: Guideline: Peer Review of Teaching
+Printed bundle page: 387
+PDF viewer page (navigation only): 387
+Line numbers: L042–L042
+Search query IDs: S13-Q01
+Search terms: student data performance
+Extraction/review flags: none recorded
+Context before: can be more authoritatively used for Continuing Professional Learning (CPL), evidence
+Candidate passage: of teaching and student outcomes, individual performance evidence, benchmarking,
+Context after: and scholarship of teaching and learning (SoTL). Templates for use in peer reviewing
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c1fbd23e3e0a33
+Source ID: N236
+Document title: Additional Student Information copyright recording and access support
+Printed bundle page: 424
+PDF viewer page (navigation only): 424
+Line numbers: L001–L001
+Search query IDs: S13-Q06
+Search terms: student record access
+Extraction/review flags: none recorded
+Context before: [none extracted]
+Candidate passage: Additional Student Information copyright recording and access
+Context after: support
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

@@ -1,0 +1,518 @@
+{
+  "case_id": "Curtin-S1",
+  "university": "Curtin",
+  "scenario_id": "S1",
+  "proposal_type": "AI_proposal",
+  "coder_label": "AI Proposal (Unconfirmed - Requires Human Review)",
+  "protocol_version": "1.1",
+  "protocol_file": "data/preparation/protocol_v1.1_critical_risk_amendment.json",
+  "policy_cutoff_date": "2026-11-12",
+  "source_version_checks": [
+    {
+      "source_id": "N001",
+      "title": "Artificial Intelligence (AI) Policy",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 8 (L014-L020, L021-L022): Approved 12/06/2025 by Senior Executive Team (SET 43/25, Circular Resolution CR 02/25); footer 'November 2025 (admin)'; Review Date 1st April 2026 - 30 June 2026.",
+      "notes": "Operative at 2026-11-12; scheduled annual review window (Apr-Jun 2026) passed with no newer revision recorded in bundle."
+    },
+    {
+      "source_id": "N002",
+      "title": "Assessment and Student Progression Policy and Procedures March 2026 administrative version",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 45 (L016-L017) & viewer_page 119 (L011-L015): P1 Assessment Policy approved 30/05/2025 (AB 53/25, effective 21 July 2025); Procedures approved 01/07/2025 (EM2538, effective 21 July 2025); footer 'March 2026 (admin)'.",
+      "notes": "Operative at 2026-11-12. Note clauses 2.4 in PC1 (p.46) and 2.5 in PC3 (p.52) apply to study periods commencing on or after 1 January 2027."
+    },
+    {
+      "source_id": "N133",
+      "title": "Appropriate use of GenAI technologies",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 10 (L002): 'Official webpage text reading copy | Retrieved 12 November 2026'.",
+      "notes": "Live student-facing webpage retrieved on the policy cut-off date 2026-11-12; no separate effective date stated."
+    },
+    {
+      "source_id": "N134",
+      "title": "GenAI use at Curtin",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 13 (L002, L033-L035): 'Official webpage text reading copy | Retrieved 12 November 2026'; references Turnitin GenAI detection disabled from 1 January 2026.",
+      "notes": "Live webpage retrieved on 2026-11-12."
+    },
+    {
+      "source_id": "N136",
+      "title": "Academic Integrity and Conduct - Student Guide",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 141 (L018): 'Revised for online distribution 2026 (Edited by Lesley Sefcik, Rebekah Harley and Matthew Courtney)'.",
+      "notes": "2026 edition operative at 2026-11-12."
+    },
+    {
+      "source_id": "N141",
+      "title": "Student Misconduct Rules 2026",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 216 (L005-L008): Approved 18/02/2026 by Council (C 08/26 Item 6.1); Promulgated 10/07/2026.",
+      "notes": "Operative at 2026-11-12."
+    },
+    {
+      "source_id": "A005",
+      "title": "Curtin Library GenAI Reference Guide",
+      "operative_at_cutoff": true,
+      "version_evidence": "source_audit / handoff: retrieved 2026-11-05 per archive README; viewer_page 17 (L016-L017) references current 2026 models (ChatGPT 5.0, Claude Sonnet 4.6).",
+      "notes": "Library guidance operative at cut-off; advisory/explanatory status."
+    },
+    {
+      "source_id": "A006",
+      "title": "Curtin Library GenAI Use Guide",
+      "operative_at_cutoff": true,
+      "version_evidence": "source_audit / handoff: retrieved 2026-11-05 per archive README.",
+      "notes": "Library guidance operative at cut-off; advisory/explanatory status."
+    },
+    {
+      "source_id": "N014",
+      "title": "Policy Development Procedures",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 339 (L053-L055): Approved 17/03/2021 (Council C 38/21); footer 'August 2024 (admin)'; Review Date 1st April 2024.",
+      "notes": "Operative at 2026-11-12 (admin version August 2024; scheduled review date passed)."
+    },
+    {
+      "source_id": "N144",
+      "title": "Appeals (current students page)",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 319 (L002): 'Official webpage text reading copy | Retrieved 12 November 2026'.",
+      "notes": "Live webpage retrieved on 2026-11-12."
+    },
+    {
+      "source_id": "N214",
+      "title": "Students with Disability Procedures",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 565 (L018-L022): Approved 17/5/2023 (EM2312); Review Date 1st April 2027.",
+      "notes": "Operative at 2026-11-12."
+    },
+    {
+      "source_id": "N231",
+      "title": "Copyright and GenAI teaching accessibility and protected material",
+      "operative_at_cutoff": true,
+      "version_evidence": "viewer_page 572 (L003): 'Official webpage text reading copy. Retrieved 12 November 2026.'",
+      "notes": "Live webpage retrieved on 2026-11-12."
+    }
+  ],
+  "pdf_visual_inspections": [
+    {
+      "source_id": "N001",
+      "viewer_page": 8,
+      "reason": "ambiguous_table flag on revision history table",
+      "finding": "Confirmed Revision History table columns: New | Approved | 12/06/2025 | Senior Executive Team | SET 43/25 | Circular Resolution CR 02/25; Review Date 1st April 2026 - 30 June 2026*."
+    },
+    {
+      "source_id": "N002",
+      "viewer_page": 119,
+      "reason": "ambiguous_table flag on revision history table",
+      "finding": "Confirmed Procedures Revision History: Approved 01/07/2025 | Deputy Vice-Chancellor, Academic | EM2538 | Effective 21st July 2025."
+    },
+    {
+      "source_id": "N136",
+      "viewer_page": 150,
+      "reason": "ambiguous_table flag on Examples of Appropriate Use of Gen-AI Tools table",
+      "finding": "Text extraction omitted tick/cross icons in the 'Appropriate Use' column. Visual inspection confirms green ticks (appropriate) for summarising a theory/idea and using Curtin Grammarly for spelling/grammar without auto-changing text, and red crosses (inappropriate) for using Gemini to write essay parts without approval/disclosure and using Grammarly (Free)/Quillbot to paraphrase/rewrite without permission."
+    },
+    {
+      "source_id": "N136",
+      "viewer_page": 151,
+      "reason": "ambiguous_table flag on continuation of Examples of Appropriate Use of Gen-AI Tools table",
+      "finding": "Visual inspection confirms green tick (appropriate) for 'Using Gemini to provide feedback on your assessment task before you submit' (with explanation that it becomes academic misconduct if software/another person rewrites the assessment to fix errors), and red cross for using Gemini to write report parts without approval or disclosure."
+    },
+    {
+      "source_id": "N141",
+      "viewer_page": 216,
+      "reason": "ambiguous_table flag on Student Misconduct Rules 2026 revision history",
+      "finding": "Confirmed Common Seal affixed 9 July 2026, Approved 18/02/2026 by Council (C 08/26 Item 6.1), and Promulgated 10/07/2026."
+    }
+  ],
+  "dimensions": {
+    "D1": {
+      "score": 3,
+      "search_terms": [
+        "generative AI assessment",
+        "GenAI",
+        "written permission",
+        "own work",
+        "feedback",
+        "Grammarly"
+      ],
+      "documents_checked": [
+        "N001",
+        "N002",
+        "N133",
+        "N134",
+        "N136",
+        "A005",
+        "A006",
+        "N141"
+      ],
+      "citations": [
+        {
+          "source_id": "N001",
+          "viewer_page": 6,
+          "line_start": "L041",
+          "line_end": "L043",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N133",
+          "viewer_page": 10,
+          "line_start": "L043",
+          "line_end": "L045",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 149,
+          "line_start": "L024",
+          "line_end": "L026",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 151,
+          "line_start": "L021",
+          "line_end": "L029",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 3: N001 explicitly covers students using AI systems in University activities; N133 and N136 explicitly cover student use of GenAI software in any assessment task (prohibited unless written permission is granted by the Unit Coordinator), explicitly define prompting for editing/rewriting as GenAI use (N133 p.11 L044-L045), and explicitly address using GenAI for feedback before submission versus rewriting (N136 p.151 L021-L029).",
+      "negative_search_or_access_note": "None."
+    },
+    "D2": {
+      "score": 2,
+      "search_terms": [
+        "Unit Coordinator",
+        "Authorised Officer",
+        "Student Conduct Panel",
+        "Head of School",
+        "appeal"
+      ],
+      "documents_checked": [
+        "N133",
+        "N134",
+        "N136",
+        "N002",
+        "N141",
+        "N144",
+        "N004",
+        "N214"
+      ],
+      "citations": [
+        {
+          "source_id": "N133",
+          "viewer_page": 10,
+          "line_start": "L044",
+          "line_end": "L045",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N002",
+          "viewer_page": 52,
+          "line_start": "L033",
+          "line_end": "L034",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N141",
+          "viewer_page": 206,
+          "line_start": "L025",
+          "line_end": "L029",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N002",
+          "viewer_page": 120,
+          "line_start": "L015",
+          "line_end": "L018",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 2: Decision-makers, criteria, and processes are documented for misconduct findings/appeals (Authorised Officer, Student Conduct Panel, Appeal Officer/SCAP under N141) and assessment mark appeals (Unit Coordinator, Head of School under N002 PC24). However, while the Unit Coordinator is named as the authority to grant written GenAI permission (N133, N136), the criteria and process for granting or refusing GenAI permission are not documented, and no review/appeal route is explicitly connected to a Unit Coordinator's GenAI permission decision.",
+      "negative_search_or_access_note": "No documented criteria or explicit appeal route found for a Unit Coordinator's decision to permit or refuse GenAI in a unit; general assessment/misconduct appeals and complaints routes (N002 PC24, N141, N144, N004) operate independently."
+    },
+    "D3": {
+      "score": 1,
+      "search_terms": [
+        "declaration",
+        "recommended",
+        "must",
+        "Academic Misconduct Rules",
+        "Student Misconduct Rules"
+      ],
+      "documents_checked": [
+        "N001",
+        "N002",
+        "N133",
+        "N134",
+        "N136",
+        "A005",
+        "A006",
+        "N141"
+      ],
+      "citations": [
+        {
+          "source_id": "N133",
+          "viewer_page": 11,
+          "line_start": "L018",
+          "line_end": "L022",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N134",
+          "viewer_page": 13,
+          "line_start": "L021",
+          "line_end": "L022",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "A005",
+          "viewer_page": 15,
+          "line_start": "L009",
+          "line_end": "L013",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 144,
+          "line_start": "L015",
+          "line_end": "L017",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 1: Ambiguity/tension without a direct unresolved contradiction. N133 and N136 state a GenAI declaration 'must' be included when approved, whereas N134 and A005 frame declaring GenAI use as 'recommended' (unless GenAI-created content is included). Further, N136 p.149 prohibits GenAI without explicit written Unit Coordinator permission, yet N136 p.151 marks 'Using Gemini to provide feedback on your assessment task before you submit' as appropriate (green tick) without stating the Unit Coordinator permission condition, and N002 does not codify student GenAI rules and still cross-references the superseded Academic Misconduct Rules (p.44).",
+      "negative_search_or_access_note": "None."
+    },
+    "D4": {
+      "score": 2,
+      "search_terms": [
+        "assessment procedure",
+        "declaration",
+        "Grammarly Authorship",
+        "Confirmation Check",
+        "appeal"
+      ],
+      "documents_checked": [
+        "N133",
+        "N136",
+        "A005",
+        "A006",
+        "N002",
+        "N141"
+      ],
+      "citations": [
+        {
+          "source_id": "N136",
+          "viewer_page": 149,
+          "line_start": "L023",
+          "line_end": "L027",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 150,
+          "line_start": "L005",
+          "line_end": "L009",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "A006",
+          "viewer_page": 24,
+          "line_start": "L001",
+          "line_end": "L004",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N002",
+          "viewer_page": 49,
+          "line_start": "L025",
+          "line_end": "L027",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 2: Usable sequence for students (check Unit Outline/Blackboard for written Unit Coordinator permission; ask lecturer if unclear; retain drafts/process records/prompts; submit own work via LMS; include declaration after reference list). Material procedural details remain unclear for how a student formally requests permission if the Unit Outline is silent and whether a full prompt declaration is mandatory when AI is used only for formative planning/feedback with no verbatim text retained.",
+      "negative_search_or_access_note": "No formal application procedure or response timeframe found for requesting Unit Coordinator GenAI permission."
+    },
+    "D5": {
+      "score": 2,
+      "search_terms": [
+        "own work",
+        "Grammarly Authorship",
+        "Turnitin Clarity",
+        "Confirmation Check",
+        "equitable",
+        "disability"
+      ],
+      "documents_checked": [
+        "N001",
+        "N002",
+        "N133",
+        "N134",
+        "N136",
+        "N141",
+        "N214",
+        "N231"
+      ],
+      "citations": [
+        {
+          "source_id": "N002",
+          "viewer_page": 46,
+          "line_start": "L017",
+          "line_end": "L021",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 144,
+          "line_start": "L031",
+          "line_end": "L035",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 145,
+          "line_start": "L001",
+          "line_end": "L011",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N136",
+          "viewer_page": 150,
+          "line_start": "L013",
+          "line_end": "L016",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N214",
+          "viewer_page": 560,
+          "line_start": "L023",
+          "line_end": "L027",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N231",
+          "viewer_page": 574,
+          "line_start": "L039",
+          "line_end": "L043",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 2: Substantive protections cover student authorship (N002 own-work & Confirmation Checks; N136 Grammarly Authorship & Turnitin Clarity writing-process tracking), authorisation & disclosure (N133/N136 written Unit Coordinator permission, prompt/tool declaration, N141 misconduct enforcement), and equitable access (free Curtin Grammarly for all students; N002 P1 3.7; N214 reasonable adjustments; N231 disability accessibility GenAI exception). A material gap remains because student GenAI permission/declaration rules sit in webpages/guides rather than binding N002 procedures, N134/A005 soften declaration to 'recommended', and equitable access to non-Curtin persistent AI assistants is unaddressed.",
+      "negative_search_or_access_note": "Turnitin GenAI detection was disabled from 1 January 2026 (N134 p.13 L033-L035), shifting reliance to assessment design, Confirmation Checks, and process records."
+    },
+    "D6": {
+      "score": 3,
+      "search_terms": [
+        "Review Date",
+        "reviewed regularly",
+        "emergent threats",
+        "Policy Development Procedures"
+      ],
+      "documents_checked": [
+        "N001",
+        "N002",
+        "N014",
+        "N134"
+      ],
+      "citations": [
+        {
+          "source_id": "N001",
+          "viewer_page": 5,
+          "line_start": "L012",
+          "line_end": "L015",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N001",
+          "viewer_page": 8,
+          "line_start": "L004",
+          "line_end": "L020",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N002",
+          "viewer_page": 52,
+          "line_start": "L033",
+          "line_end": "L034",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        },
+        {
+          "source_id": "N014",
+          "viewer_page": 338,
+          "line_start": "L001",
+          "line_end": "L012",
+          "kind": "quotation",
+          "paraphrase_text": "",
+          "operative_at_cutoff": true
+        }
+      ],
+      "reason_for_score": "Score 3: N001 establishes both periodic (annual rather than standard 5-year) and event-triggered review ('earlier if significant legislative changes occur', considering technological advances and emerging issues), assigns named ownership (Policy Manager: Provost; Policy Compliance Officer: Deputy Provost; Approval Authority: Senior Executive Team), and connects monitoring to revision via N014 Policy Development Procedures and N002 Unit Coordinator threat monitoring.",
+      "negative_search_or_access_note": "N001's scheduled review window (1 April 2026 - 30 June 2026) passed before the 2026-11-12 cut-off with no updated revision entry in the bundle, though operational updates occurred in 2026 (N134, N141)."
+    }
+  },
+  "case_summary": {
+    "mode": "Prescribing",
+    "review_route": "Yes",
+    "critical_gap": "No",
+    "evidence_status": "Sufficient",
+    "rule_direction": "Conditional",
+    "conflict_basis": "",
+    "conflict_citation_refs": [],
+    "case_note": "Outcome: Indeterminate with an incomplete pathway (Evidence=Sufficient, Critical gap=No, Mode=Prescribing, D1=3, D2=2, D3=1, D4=2, D5=2, D6=3, Review route=Yes). Curtin prohibits GenAI in any assessment task unless explicit written permission is granted by the Unit Coordinator (N133, N136) and requires the final submission to be the student's own work (N002, N133, N136), backed by Grammarly Authorship/Turnitin Clarity process tracking, prompt/tool declarations, Confirmation Checks, and Student Misconduct Rules 2026 (N141). Against Protocol v1.1 S1 ('Attributable student authorship and transparent, authorised AI assessment assistance'), there is no critical gap. Incomplete pathway stems from: (1) missing Unit Coordinator permission criteria/process and no explicit appeal link to GenAI permission decisions (D2=2, D4=2); (2) tension between mandatory declaration in N133/N136 vs 'recommended' in N134/A005 and N136 p.151's unmarked permission condition for pre-submission feedback (D3=1); and (3) student GenAI rules residing in guides/webpages rather than binding N002 procedures (D5=2)."
+  },
+  "human_review_flags": [
+    "Confirm D3=1 vs D3=2 regarding tension between mandatory declaration ('must') in N133/N136 and 'recommended' in N134/A005, plus N136 p.151 green-tick feedback example.",
+    "Confirm D5=2 and Critical gap=No under Protocol v1.1 S1: verify whether placing student GenAI permission/declaration rules in N133/N136 rather than N002 creates a material gap or only an operational gap.",
+    "Verify whether N001 underwent an unbundled post-June 2026 annual review."
+  ]
+}

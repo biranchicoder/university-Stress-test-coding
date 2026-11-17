@@ -1,0 +1,402 @@
+ANTIGRAVITY EVIDENCE-PREPARATION HANDOFF
+Preparation only: candidates are not confirmed evidence; no ratings were assigned.
+University: UWA
+Case ID: UWA-S8
+Scenario: S8 — AI Group Participant
+Policy cut-off: 2026-11-12
+Protocol: v1.1; adopted after preliminary review on 2026-11-15.
+Protocol status: protocol_amendment_adopted_after_preliminary_review
+Retrieval dates do not establish effective dates or operative-at-cutoff status.
+Searches are bounded lexical searches on this university's local full-text index; they are not exhaustive semantic review.
+Table-review task failures: none recorded
+
+FULL SCENARIO (from the supplied Scenarios.docx):
+S8 AI Group Participant
+An AI agent joins the group's shared digital workspace as a member. It remembers past discussions across sessions, completes tasks allocated by human members, and contributes identifiable content directly to the submission — under its own presence, not impersonating a human.
+Boundary: The AI's contribution is identifiable/separable within the submission, not fully merged or undetectable
+Risks to check: Attribution of AI contributions; group responsibility; workspace privacy.
+Critical risks agreed before main coding: __________________________________
+
+SUPPLIED CODEBOOK SCORING DEFINITIONS (extracted from Human_Codebook.docx):
+D1 — Scope
+  0 — No applicable recognition after searching.
+  1 — Generic or analogical recognition only.
+  2 — Activity recognised; a material boundary is unclear.
+  3 — Relevant actor, action, capability and setting explicitly covered.
+D2 — Authority
+  0 — No decision-maker identifiable.
+  1 — A role is named, but its relevant power or decision basis is unclear.
+  2 — Named role, applicable criteria and decision process.
+  3 — All of score 2 plus a review or appeal route explicitly connected to that decision authority.
+D3 — Coherence
+  0 — Direct unresolved contradiction; cite both texts.
+  1 — Ambiguity or tension, without a proven contradiction.
+  2 — Compatible rules, without explicit coordination.
+  3 — Explicit alignment or a clear coordination rule.
+D4 — Procedure
+  0 — No actionable route.
+  1 — Broad instruction; material steps missing.
+  2 — Usable sequence, with a relevant detail unclear.
+  3 — Necessary steps, requirements, decision point and relevant timing.
+D5 — Safeguards
+  0 — None of the relevant safeguards is documented.
+  1 — Generic recognition, without enough operational detail.
+  2 — Substantive protection, but a material gap remains.
+  3 — Relevant risks addressed through specific protections, oversight and response/remedy.
+D6 — Adaptation
+  0 — No relevant mechanism.
+  1 — General or periodic review only.
+  2 — Assigned review plus escalation or learning.
+  3 — Periodic and event-triggered review, ownership and a route from monitoring to revision.
+
+CRITICAL-RISK CRITERION (Protocol v1.1):
+Authorised AI assessment contributions, accountable human group responsibility and protection of group personal information.
+The protocol amendment was adopted after preliminary review; disclose this timing in any proposal.
+
+SEARCH ACTIVITY ACTUALLY EXECUTED:
+- S8-Q01 [actor_and_activity]: group workspace — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q02 [related_roles]: AI contribution — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q03 [permission_authority]: member authorisation — 1 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q04 [restriction_boundary]: workspace privacy — 0 result(s); no_index_hits; origin=executed_in_main_run
+- S8-Q05 [procedure]: group procedure — 3 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q06 [review_route]: peer review — 17 result(s); all_index_hits_returned; origin=executed_in_main_run
+- S8-Q07 [related_risk]: data retention — 4 result(s); all_index_hits_returned; origin=executed_in_main_run
+
+SOURCE-VERSION AUDIT (candidate/search-hit sources):
+Use source_audit.csv for all register entries; unknown values remain unknown.
+- N044 | Academic Integrity Policy and Schedules (pdf, 423 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N050 | Assessment Model Guide 2024 (pdf, 4 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N054 | Appendix 4 Assessment Policy Expectations of Major Coordinator (docx, 71 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N055 | Research Integrity Policy (doc, 272 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N056 | Research Integrity Guideline (docx, 1 MB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N057 | Research Integrity Advisors Guideline (docx, 254 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N048 | Student Complaint Resolution Policy and Appendix (pdf, 178 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N205 | Delegations Framework Policy | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N071 | UP19 1 Acceptable Use of IT (pdf, 218 KB) | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+- N240 | Cyber Security consultation project assessment and incident response | effective_date=unknown/not recorded (unknown_not_recorded) | operative_version=unknown/not recorded (unknown_not_recorded) | authority=unknown/not recorded (unknown_not_recorded) | supersession=not recorded (unknown_not_recorded) | missing_linked_instruments=no_explicit_missing_link_detected; linked-document_completeness_not_established | unresolved_links=none recorded
+Unresolved/missing linked instruments for this university:
+- No confirmed missing instrument or unresolved linked-source reference was recorded; linked-document completeness remains unverified where stated in source_audit.csv.
+
+CANDIDATE PASSAGES (unconfirmed; copy only after checking the original PDF):
+Every passage below carries its own source, title, printed page, viewer page, and existing L-labels.
+Do not replace a missing printed page or line label with a PDF viewer page or invented number.
+Pages flagged ambiguous_table or scrambled_reading_order require visual verification before quotation.
+
+Candidate ID: C-388c8e218d24e1
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L020–L020
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: ix. submission of assessment that is downloaded from an internet source and/or uses
+Candidate passage: Artificial Intelligence generated content without authorisation from the Unit Coordinator.
+Context after: (e) Academic deceit occurring in research activity may also be considered as research misconduct
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-701eccf7ef890e
+Source ID: N044
+Document title: Academic Integrity Policy and Schedules (pdf, 423 KB)
+Printed bundle page: 30
+PDF viewer page (navigation only): 30
+Line numbers: L033–L033
+Search query IDs: S8-Q03
+Search terms: member authorisation
+Extraction/review flags: none recorded
+Context before: non-financial reward), inducing, encouraging or advertising for a student or any other person
+Candidate passage: including University staff member to gain academic advantage in any assessment item within a
+Context after: unit or across several units.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-d66f7b41ed2e52
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 97
+PDF viewer page (navigation only): 97
+Line numbers: L002–L002
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: After initial drafting, all sections progressed through an internal review and detailed editing
+Candidate passage: process, before then progressing to external peer review (see above) and progressing to two
+Context after: comprehensive final editing phases. The cover image for this document was generated by
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e8bd5bcee0780c
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L004–L004
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: prose, poetry, or script form), alongside a statement of intent, which aims to introduce
+Candidate passage: exegetical writing. Exegetical writing helps to frame a creative work’s contribution as research.
+Context after: The workshopping is designed both to provide students with ongoing feedback and support in
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-5b8aac87bf58a5
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 126
+PDF viewer page (navigation only): 126
+Line numbers: L035–L035
+Search query IDs: S8-Q02
+Search terms: AI contribution
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: they have to each other through the community focus of their workshopping groups (that two-
+Candidate passage: way investment), and by giving space to write and space to consider software like AI, the
+Context after: workshop method attempts to tackle academic integrity within the fabric of each workshop.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4870c17b5b4b37
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 141
+PDF viewer page (navigation only): 141
+Line numbers: L012–L012
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: learning facilitates the development of a scaffolded understanding of complex topics, thereby
+Candidate passage: promoting long-term retention of knowledge. The tasks should ideally be self-contained, with
+Context after: clear objectives, procedures, and expected outcomes: in the motivating discipline of
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-41b27b932e0dcf
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 141
+PDF viewer page (navigation only): 141
+Line numbers: L014–L014
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: clear objectives, procedures, and expected outcomes: in the motivating discipline of
+Candidate passage: engineering, the use of tasks that standardize the collection, analysis, and interpretation of data,
+Context after: such that students can receive formative feedback on more general data skills while exploring
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9a1148097faa6d
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 141
+PDF viewer page (navigation only): 141
+Line numbers: L015–L015
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: engineering, the use of tasks that standardize the collection, analysis, and interpretation of data,
+Candidate passage: such that students can receive formative feedback on more general data skills while exploring
+Context after: practice on different aspects of a technical system (e.g., steady-state vs. transient behaviour).
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-926ce1fc824959
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 141
+PDF viewer page (navigation only): 141
+Line numbers: L032–L032
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: involve adjusting the parameters of a hardware module to generate specific signals, collecting
+Candidate passage: data on these signals, and then analysing this data to draw conclusions. The tasks are designed
+Context after: to be completed in sequence, where each task can build on the previous (technical) content:
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-b972f57fc22744
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 155
+PDF viewer page (navigation only): 155
+Line numbers: L033–L033
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: ambiguous_table; scrambled_reading_order
+Context before: definitions and from the focal Provides greater defined using defined using with a well- with a
+Candidate passage: relevant peer- article. Failure incomplete/inaccurat detail / peer review high-quality defined succinct and
+Context after: review literature. to provide e/or flawed clarity. Some sources peer-review explanation eloquent
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence. Visual verification is required before quoting.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4498dbb2aff96f
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 168
+PDF viewer page (navigation only): 168
+Line numbers: L021–L021
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: include: (i) Instructor feedback, which comes in the form of written comments on submitted
+Candidate passage: work; (ii) peer feedback, where students are encouraged to review each other's work and
+Context after: provide feedback through the class Learning Management System; and/or (iii) self-assessment,
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-c8c02547a1e10f
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 169
+PDF viewer page (navigation only): 169
+Line numbers: L001–L001
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: ra layer of complexity and ensures 
+that students cannot simply copy answers from previous assignments. 
+ Varying assessment formats: While the main task is hands-on and project-based, other 
+assessment formats such as quizzes, exams, presentations, or written reports can also be 
+incorporated. This ensures a comprehensive evaluation of the students' understanding and 
+skills. 
+University of Western Australia | N050 | Source page 80
+Bundle page 168 | N050 | source page 80 | line numbers at left
+Candidate passage:  Peer review: Incorporating a peer review element not only promotes a collaborative learning
+Context after: environment but also adds another layer of scrutiny, discouraging academic misconduct.
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9b318516c0a44e
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 170
+PDF viewer page (navigation only): 170
+Line numbers: L003–L003
+Search query IDs: S8-Q06
+Search terms: peer review
+Extraction/review flags: none recorded
+Context before: learn from each other (accessible when students are not working on joint/shared datasets).
+Candidate passage: This can be facilitated through discussion forums, group tasks, or peer review activities.
+Context after: Generative AI and Other Technology Considerations
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-19cc8fa4b6d597
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 262
+PDF viewer page (navigation only): 262
+Line numbers: L007–L007
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: collaborative work, and presentation skills. The assessment encourages a sense of responsibility,
+Candidate passage: as each group is required to prepare and deliver a training program on a given topic. The
+Context after: model also incorporates a feedback mechanism, whereby peers evaluate each group's
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-2cdaae86f927da
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 262
+PDF viewer page (navigation only): 262
+Line numbers: L013–L013
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: • Student prompt: Students are tasked with designing and delivering a training program in
+Candidate passage: collaboration with a small group of peers. This training program will be delivered during class
+Context after: time, in one of the final four seminars. The group will prepare a trainer’s manual and any
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-9755825872c885
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 262
+PDF viewer page (navigation only): 262
+Line numbers: L014–L014
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: collaboration with a small group of peers. This training program will be delivered during class
+Candidate passage: time, in one of the final four seminars. The group will prepare a trainer’s manual and any
+Context after: supporting trainee materials. These materials should be submitted to the Learning
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-1b9b5705789353
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 262
+PDF viewer page (navigation only): 262
+Line numbers: L017–L017
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: Management System (LMS) on the same day as the scheduled training program presentation.
+Candidate passage: The assessment mark contains components for both individual and group performance.
+Context after: • Aims: The assessment aims to help students develop the skills required to design and deliver a
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-4ed8b24f1c78a9
+Source ID: N050
+Document title: Assessment Model Guide 2024 (pdf, 4 MB)
+Printed bundle page: 262
+PDF viewer page (navigation only): 262
+Line numbers: L021–L021
+Search query IDs: S8-Q05
+Search terms: group procedure
+Extraction/review flags: none recorded
+Context before: The training program should incorporate cognitive principles of learning, motivate trainees,
+Candidate passage: address contextual influences on the training process, and incorporate an effective procedure
+Context after: for evaluation. To achieve these aims, the students will need to carry out a training needs
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+Candidate ID: C-e345b7c052af8d
+Source ID: N056
+Document title: Research Integrity Guideline (docx, 1 MB)
+Printed bundle page: 324
+PDF viewer page (navigation only): 324
+Line numbers: L012–L012
+Search query IDs: S8-Q07
+Search terms: data retention
+Extraction/review flags: none recorded
+Context before: (1). conception and design of the project;
+Candidate passage: (2). acquisition of Research data where the acquisition has required significant
+Context after: intellectual judgement, planning, design, or input;
+Candidate status: Unreviewed candidate copied from PDF-verified indexed lines; not confirmed evidence.
+Human verified: No | Rating: blank
+
+ADDITIONAL SEARCH REQUESTS:
+If a gap requires another query, add it to additional_search_requests.json using additional_search_request_schema.json.
+Do not claim an additional search was performed until Python executes it and writes an additional_search_results file.
+Execute requested searches in PowerShell:
+.\.venv\Scripts\python.exe -m policy_coder.main_preparation --root . --additional-search-requests <path-to-json>
+
+WIDER CORPUS:
+- Full page index: main_dataset_v1\policy_index.csv
+- Filter by the exact university value; the index contains all five policy collections.
+- Search log contains every returned index hit for each logged query, including zero-hit queries.
+- Source audit and extraction flags are in the shared CSV files in this handoff folder.
+- PDFs are in data/raw/<University>/; use their original page images to verify quotations and table reading order.
+
+RETURN FORMAT:
+- Return one JSON object per each of the 75 cases in the top-level proposals array.
+- Follow proposal_return_schema.json exactly. Use score null if evidence does not support a proposal.
+- Keep coder_id as the specified AI-proposal label and human_confirmed=false.
+- Cite source ID, exact document title, printed bundle page, original viewer page, and existing L-line range for every passage.
+- Label each passage Exact quotation or Paraphrase. Never present a paraphrase as a quotation.
+- Set operative_at_cutoff=true only when version_evidence and its own source/page/line location are recorded; otherwise set false and leave status unverified.
+- State whether you visually checked table reading order, but do not claim human confirmation.
+- A score of 0 requires the dimension-specific zero_score_basis, actual searches, documents checked, and an explanation; missing evidence alone is not zero.
+- For D3=0, set conflict_confirmed=true only when two distinct operative provisions are incompatible and the conflict remains unresolved.
+- Record actual searches and documents checked; do not call the supplied search set exhaustive.
+- Keep unavailable instruments, unknown dates, extraction warnings, and uncertainty explicit.
+- Do not write to the coding database, populate human ratings, or mark proposals human-approved.

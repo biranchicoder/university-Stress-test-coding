@@ -1,0 +1,11 @@
+Edith Cowan University | One human coder | 15 scenarios | 90 dimension judgments
+
+1. Read Human_Codebook.docx and Scenarios.docx.
+2. Open ECU_Merged_Policies.pdf and find the relevant policies yourself.
+3. In Human_Coder_1_ECU.xlsx, enter scores and your own evidence in Evidence. Complete columns L-R in Cases. Do not overwrite the calculated columns.
+4. Check document eligibility and operative versions in Source_Register_ECU.csv before main coding. Record the agreed policy cut-off date.
+5. Save this workbook separately. The five university workbooks together form this coder's full 75-case record.
+
+No suggested policy passages, scenario-to-policy matches, page/line pointers or example scores are supplied. Find and record your own source IDs and PDF pages/lines. The PDF's contents, bookmarks, page numbers and line labels are navigation features for the complete collection, not scenario-specific evidence selections.
+
+The same codebook and scenario text are included in all five packages. Use the same critical-risk checklist for a scenario across all universities. An access or version problem is not automatically a zero score.

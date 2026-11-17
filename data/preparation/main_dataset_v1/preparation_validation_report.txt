@@ -1,0 +1,80 @@
+MAIN DATASET PREPARATION VALIDATION REPORT
+Run started: 2026-11-15T11:53:43+00:00
+Generated: 2026-11-15T12:08:13+00:00
+Status: complete
+Policy cut-off: 2026-11-12
+No ratings, final policy judgments, or human approvals were created.
+
+TASK COUNTS:
+Total tasks (excluding this report task): 1118
+Completed: 1118
+Failed after up to 3 retries: 0
+Pending: 0
+Running at finalization: 0
+Recorded task attempts: 2439
+
+REUSED PREPARATION:
+Verified PDF page rows reused: 2143
+Source audit rows reused: 221
+Curtin pilot searches reused: 21
+New scenario searches executed: 524
+Original five package ZIPs and extracted package files were hash-verified before and after the run.
+The policy coding database was opened read-only; existing human ratings and exports were not changed.
+
+INDEX AND EXTRACTION WARNINGS:
+Indexed pages: 2143
+Pages with existing visible line labels: 2112
+Pages without visible L-labels: 31
+Pages flagged ambiguous_table: 492
+Pages flagged scrambled_reading_order: 464
+Table-reading-order review tasks failed: 0
+Printed bundle pages and PDF viewer pages remain separate; no L-labels were invented.
+Table warnings are not resolved by an index text match; original PDF visual inspection remains required.
+
+SOURCE AUDIT:
+Source register rows: 221
+Rows with unknown effective date: 221
+Rows with unknown operative version: 221
+Rows with unknown supersession status: 221
+Rows with unresolved linked-source references: 0
+Unknown, blank, duplicate, supersession, and missing-instrument fields were not guessed.
+Retrieval date was not used as an effective date.
+
+SEARCHES AND CANDIDATES:
+Cases prepared: 75 (5 universities x 15 scenarios).
+Actual query tasks: 545
+Search result rows (including zero-hit records): 7258
+Unreviewed candidate passages: 2869
+Searches are reproducible, university-filtered lexical retrieval. A zero-hit query means no exact-token index hits, not proof that no evidence exists.
+No limited or lexical result set is reported as exhaustive semantic review.
+
+PROTOCOL:
+Critical-risk criteria came from Protocol v1.1 and are included in every case packet.
+The protocol file discloses adoption after preliminary review on 2026-11-15.
+Operative-at-cutoff status is not inferred from that amendment; source version evidence remains as recorded in source_audit.csv.
+
+INPUT CHANGES:
+- None.
+
+PERSISTENT FAILURES:
+- None recorded.
+
+PENDING TASKS:
+- None.
+
+PROGRESS REPORT WRITE FAILURES:
+- None recorded.
+
+DELIVERABLES:
+- policy_index.csv (reused index plus targeted table-reading-order flags)
+- source_audit.csv (reused, unchanged source audit)
+- search_log.csv
+- evidence_candidates.csv (all ratings blank)
+- proposal_return_schema.json
+- additional_search_request_schema.json
+- additional_search_requests.json (empty request template)
+- ANTIGRAVITY_START_HERE.txt
+- AI_handoff_<University>_S1-S15.txt (75 case packets)
+- progress.txt and progress.json (refreshed after every task)
+- .main_dataset_checkpoint.sqlite3
+

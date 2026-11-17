@@ -1,0 +1,9 @@
+HCODER 1 VERIFICATION REPORT
+====================================================
+Coder label: HCoder 1
+Human confirmed: True (Human verified)
+Policy cut-off: 2026-11-12 | Protocol: v1.1
+Cases: 75 | Dimensions: 450 | Case summaries: 75
+Undated sources resolved under 2026-11-12 researcher rule: 22/22
+Unavailable external documents: Excluded per policy repository boundary.
+Outcomes: {'Resolved': 4, 'Structured discretion': 5, 'Indeterminate': 66}

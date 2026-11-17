@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 100
+extend-ignore = E203,W503
+exclude = .git,__pycache__,.venv,htmlcov
+filename = generate_version_checklist.py,finalize_proposals.py,proposal_validation.py,test_json_cleanup.py,test_checklist_generation.py,test_finalize_proposals.py,test_proposal_validation.py
