@@ -93,7 +93,7 @@ ECU recognises AI-assisted planning, feedback and revision in student learning (
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - written permission
-N101 is an undated webpage (operative_at_cutoff=false); A014 is a dated framework (02 Jul 2026) rather than a binding policy instrument.
+N101 is an undated webpage (operative_at_cutoff=true (per researcher cut-off instruction)); A014 is a dated framework (02 Jul 2026) rather than a binding policy instrument.
 
 University: ECU
 Case ID: ECU-S1
@@ -325,7 +325,8 @@ advice on how to use gen AI for learning and demonstrating academic integrity
 practical prompt strategies for obtaining meaningful feedback
 guides for correctly attributing AI-assisted work
 Drop-insFor additional support with gen AI tools, students can access the Academic Skills
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N154 sets out unit-level integrity communication and electronic submission, and N225 points to Canvas guides for attributing AI-assisted work, but the operational AI-disclosure steps reside on external Canvas pages not included in the bundle.
@@ -333,7 +334,7 @@ N154 sets out unit-level integrity communication and electronic submission, and 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - written permission
-N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=false for N225. Operative status unverified for N225 (effective date not recorded in bundle).
+N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=true (per researcher cut-off instruction) for N225. Treated as operative at the 2026-11-12 cut-off per researcher instruction for N225 (effective date not recorded in bundle).
 
 University: ECU
 Case ID: ECU-S1
@@ -593,7 +594,7 @@ N225 — Generative AI in Learning student guidance current endpoint, printed bu
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - written permission
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S2
@@ -752,7 +753,7 @@ N090 assigns Teaching Staff responsibility to identify and investigate Academic 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - AI assignment
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S2
@@ -877,7 +878,7 @@ Exact quotation:
 All Staff involved in the detection and response to academic integrity matters will be supported
 through ongoing training to respond in a fair, consistent, transparent and timely manner in
 accordance with the University’s applicable statutes, rules, and procedures, including the
-
+Academic Misconduct Rules (Students), and the Academic Misconduct Procedures.
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Date last modified
 20 October 2026
@@ -892,7 +893,7 @@ N154 requires electronic submission through plagiarism detection software and al
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - AI assignment
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S2
@@ -1148,7 +1149,7 @@ A014 — ECU Developing AI Literacy Framework, printed bundle page 41, lines L01
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - AI assignment
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S3
@@ -1470,7 +1471,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - submission account
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S3
@@ -1733,7 +1734,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - submission account
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S4
@@ -1811,7 +1812,8 @@ alternative format study materials
 access to a range of assistive equipment, software and technology
 provision of note-takers, captions or Auslan interpreters
 Please access the following services if your concerns are related to:
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 ECU has general institutional privacy rules (N094), ICT acceptable-use rules (N093), and disability note-taking/assistive-technology pages (N223, N224), but no relevant provision regulating undisclosed student AI lecture recording or third-party participant consent was identified in the documents and searches checked.
@@ -1823,7 +1825,7 @@ Actual searches with no indexed hits:
 - recording permission
 - lecture procedure
 - copyright recording
-Operative status unverified for N223 (effective date not recorded in bundle).
+Treated as operative at the 2026-11-12 cut-off per researcher instruction for N223 (effective date not recorded in bundle).
 
 University: ECU
 Case ID: ECU-S4
@@ -2301,7 +2303,7 @@ Actual searches with no indexed hits:
 - recording permission
 - lecture procedure
 - copyright recording
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S5
@@ -3777,7 +3779,8 @@ visit “How to Join Online”.
 WorkshopsECU also offers workshops on Understanding MS Copilot and Generative AI Tools.
 Make sure you check the dates and register; if you miss a workshop, recordings are available
 on the ECU Library website.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N154 specifies individual verification for group tasks over 30 percent and N225 points to Canvas AI-attribution guides, though no relevant provision for group-level AI disclosure tracking was identified in the documents and searches checked.
@@ -3786,7 +3789,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - group contribution
 - group appeal
-Operative status unverified for N225 (effective date not recorded in bundle).
+Treated as operative at the 2026-11-12 cut-off per researcher instruction for N225 (effective date not recorded in bundle).
 
 University: ECU
 Case ID: ECU-S7
@@ -4050,7 +4053,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - group contribution
 - group appeal
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S8
@@ -6012,7 +6015,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - research validity
-N099 is undated (operative_at_cutoff=false), though N096 (operative) explicitly incorporates N099.
+N099 is undated (operative_at_cutoff=true (per researcher cut-off instruction)), though N096 (operative) explicitly incorporates N099.
 
 University: ECU
 Case ID: ECU-S11
@@ -6074,7 +6077,8 @@ Exact quotation:
 6.2 Any proposed amendment to an approved research project must be submitted for review and
 approval by the Human Research Ethics Committee or Subcommittee prior to implementing the
 changes.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -6086,7 +6090,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - research validity
-Operative status unverified for N099 (effective date not recorded in bundle).
+Treated as operative at the 2026-11-12 cut-off per researcher instruction for N099 (effective date not recorded in bundle).
 
 University: ECU
 Case ID: ECU-S11
@@ -6250,7 +6254,8 @@ Exact quotation:
 6.2 Any proposed amendment to an approved research project must be submitted for review and
 approval by the Human Research Ethics Committee or Subcommittee prior to implementing the
 changes.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N097
 Document title: Guideline for the Responsible use of Generative AI in Research
@@ -6283,7 +6288,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - research validity
-Operative status unverified for N099 (effective date not recorded in bundle).
+Treated as operative at the 2026-11-12 cut-off per researcher instruction for N099 (effective date not recorded in bundle).
 
 University: ECU
 Case ID: ECU-S11
@@ -6479,7 +6484,8 @@ Exact quotation:
 been recorded REMS, the appropriate ethics review pathway has been determined and official
 notification has been issued to confirmed that all governance requirements have been satisfied or
 formal advice is provided that ethics approval is not required.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N097
 Document title: Guideline for the Responsible use of Generative AI in Research
@@ -6531,7 +6537,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - simulated participant
 - research validity
-N099 is undated on its face (operative_at_cutoff=false) but is explicitly referenced by operative policy N096.
+N099 is undated on its face (operative_at_cutoff=true (per researcher cut-off instruction)) but is explicitly referenced by operative policy N096.
 
 University: ECU
 Case ID: ECU-S12
@@ -7247,7 +7253,7 @@ N094 and N095 cover student personal information collection, purpose limitation,
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S13
@@ -7568,7 +7574,7 @@ N094 specifies collection notice requirements, informal 45-day or FOI access/cor
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S13
@@ -7882,7 +7888,7 @@ N095 — Privacy Impact Assessment Procedure, printed bundle page 96, lines L022
 N094 — Privacy Policy PL090, printed bundle page 92, lines L042–L045.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: ECU
 Case ID: ECU-S14

@@ -10,9 +10,9 @@
 | Metric | Value |
 |---|---|
 | Total cases validated | 75 / 75 |
-| Total dimension cells | 450 / 450 |
+| Total dimension records | 450 (446 numeric scores and 4 unscored judgments in `Murdoch-S5`) |
 | 25% spot-check sample | 113 dimension cells (`Coder2_25pct_SpotCheck_5unis_113cells.csv`) |
-| Inter-coder agreement | 100% (450 / 450 dimension cells after reconciliation) |
+| Final consensus (post-reconciliation) | 100% consensus across all 450 dimension records after joint reconciliation (separate pre-reconciliation ratings were not archived for an independent pre-reconciliation agreement statistic) |
 | Outcome distribution | 3 Resolved, 5 Structured discretion, 66 Indeterminate, 1 Unassessable (`Murdoch-S5`) |
 
 ## Sign-Off

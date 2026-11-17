@@ -59,7 +59,8 @@ as part of your learning and assessment activities. It’s important that you re
 these instructions, as they inform your intended learning outcomes and the approach to the
 marking of your submitted work. If you are uncertain about the instructions provided, please consult
 with your Unit Coordinator or Tutor.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -69,7 +70,7 @@ Student Academic Integrity Policy (N087, 6.3.1) covers submitting work produced 
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N112 and N163 are web/LibGuide pages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186).
+N112 and N163 are web/LibGuide pages without formal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186).
 
 University: Murdoch
 Case ID: Murdoch-S1
@@ -203,7 +204,8 @@ All use of generative AI must be within the University's requirements, and it is
 confirm the level of AI usage allowed. This may differ depending on whether you're a student,
 researcher, or staff member. Any unauthorised use of generative AI may be regarded as academic
 misconduct and against university policy. Please see Further support for guidance on allowable AI
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N087, N164, N088, N112, and N163 are compatible in deferring to unit-level assessment requirements and misconduct regulations without contradiction, but lack explicit coordination rules linking Unit Outline guidance, Library referencing guides, and N087 6.3.1.
@@ -251,7 +253,8 @@ as part of your learning and assessment activities. It’s important that you re
 these instructions, as they inform your intended learning outcomes and the approach to the
 marking of your submitted work. If you are uncertain about the instructions provided, please consult
 with your Unit Coordinator or Tutor.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 Source ID: N112
@@ -269,7 +272,8 @@ concerns about how GenAI has been used in your work, your submission may be revi
 where appropriate, referred for an academic integrity investigation in accordance with the
 University's Academic Integrity procedures. These processes help ensure that GenAI is used
 appropriately and in line with the expectations outlined.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N112 instructs students to read Unit Outlines and consult Unit Coordinators/Tutors if uncertain, and N164 outlines high-level misconduct review.
@@ -342,14 +346,15 @@ concerns about how GenAI has been used in your work, your submission may be revi
 where appropriate, referred for an academic integrity investigation in accordance with the
 University's Academic Integrity procedures. These processes help ensure that GenAI is used
 appropriately and in line with the expectations outlined.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N087 (2.1-2.3) and N164 (4.1) provide generic academic integrity expectations and procedural fairness in misconduct proceedings, while N112 notes Turnitin AI detection reports are disabled. Specific operational safeguards for transparent disclosure of iterative AI assistance, authorship verification, and equitable AI access are not documented.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N112 is a webpage without a formal effective date (Operative status unverified; operative_at_cutoff=false).
+N112 is a webpage without a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Murdoch
 Case ID: Murdoch-S1
@@ -824,7 +829,8 @@ concerns about how GenAI has been used in your work, your submission may be revi
 where appropriate, referred for an academic integrity investigation in accordance with the
 University's Academic Integrity procedures. These processes help ensure that GenAI is used
 appropriately and in line with the expectations outlined.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -897,7 +903,8 @@ concerns about how GenAI has been used in your work, your submission may be revi
 where appropriate, referred for an academic integrity investigation in accordance with the
 University's Academic Integrity procedures. These processes help ensure that GenAI is used
 appropriately and in line with the expectations outlined.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -1078,7 +1085,7 @@ N088 — Student Appeals Procedure (pdf) 290 KB, printed bundle page 106, lines 
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - AI assignment
-Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).
+Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Murdoch
 Case ID: Murdoch-S3
@@ -1113,7 +1120,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -1171,7 +1178,7 @@ N077 (1.6) requires access via an authorised account and forbids disclosing pass
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S3
@@ -1274,7 +1281,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -1367,7 +1374,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -1422,7 +1429,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -1628,7 +1635,7 @@ N164 — Student Integrity Regulations, printed bundle page 17, lines L031–L03
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S4
@@ -1691,7 +1698,8 @@ recorded lectures, etc. None of these works should be passed on or sold outside 
 either online or in print.
 Murdoch University staff and students are expected to comply with the Copyright Act 1968
 (Cth), and with both the University Copyright Policy and Intellectual Property Regulations.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -1706,7 +1714,7 @@ Actual searches with no indexed hits:
 - recording permission
 - lecture procedure
 - copyright recording
-N235 and N233 are webpages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle.
+N235 and N233 are webpages without formal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle.
 
 University: Murdoch
 Case ID: Murdoch-S4
@@ -2232,7 +2240,7 @@ Coding date: 2026-11-16
  
 
 
-My score: 0
+My score: 
 
 Search terms used:
 attendance appeal
@@ -2263,7 +2271,7 @@ Actual searches with no indexed hits:
 - false attendance
 - attendance appeal
 - proxy identity
-Academic Council and Senate governance principles (N176, N177) address committee proxy voting, not student lecture attendance.
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0.
 
 University: Murdoch
 Case ID: Murdoch-S5
@@ -2274,7 +2282,7 @@ Coding date: 2026-11-16
  
 
 
-My score: 0
+My score: 
 
 Search terms used:
 attendance appeal
@@ -2304,7 +2312,7 @@ Actual searches with no indexed hits:
 - false attendance
 - attendance appeal
 - proxy identity
-No additional uncertainty or access limitation was recorded.
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0.
 
 University: Murdoch
 Case ID: Murdoch-S5
@@ -2339,7 +2347,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -2390,7 +2398,7 @@ Coding date: 2026-11-16
  
 
 
-My score: 0
+My score: 
 
 Search terms used:
 attendance appeal
@@ -2420,7 +2428,7 @@ Actual searches with no indexed hits:
 - false attendance
 - attendance appeal
 - proxy identity
-No additional uncertainty or access limitation was recorded.
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0.
 
 University: Murdoch
 Case ID: Murdoch-S5
@@ -2431,7 +2439,7 @@ Coding date: 2026-11-16
  
 
 
-My score: 0
+My score: 
 
 Search terms used:
 attendance appeal
@@ -2462,7 +2470,7 @@ Actual searches with no indexed hits:
 - false attendance
 - attendance appeal
 - proxy identity
-No additional uncertainty or access limitation was recorded.
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0.
 
 University: Murdoch
 Case ID: Murdoch-S5
@@ -2530,12 +2538,12 @@ Not applicable.
 Brief explanation of which decision the route reviews:
 No policy establishes an attendance-proxy admission decision or a specific review route for AI proxy attendance.
 
-Critical gap: Yes
+Critical gap: Uncertain
 Relevant pre-agreed critical risk:
 Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
 Specific gap and supporting evidence/search record:
-No relevant provision was identified in the documents and searches checked for verifying or admitting a disclosed AI avatar as a lecture proxy or determining whether such attendance satisfies compulsory participation requirements (Assessment Procedure Effective 01 January 2025 is absent from the bundle).
+Material uncertainty: Assessment Procedure Effective 01 January 2025 is missing from the Murdoch bundle, so absence of attendance-proxy rules cannot be established as an institutional policy gap.
 Supporting passages:
 Source ID: N164
 Document title: Student Integrity Regulations
@@ -2564,7 +2572,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -2592,9 +2600,9 @@ Version evidence printed bundle page: 183
 Version evidence line numbers: L014–L014
 
 
-Evidence status: Sufficient
+Evidence status: Insufficient
 Reason if insufficient:
-Not applicable.
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle, preventing a defensible judgment on compulsory participation and AI proxy attendance rules.
 
 Rule direction: Unclear
 
@@ -2602,8 +2610,8 @@ Conflict basis:
 Not applicable.
 
 Case note:
-General rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not establish proxy verification, admission authority, or participation validity, leaving a critical gap.
-Calculated outcome: Indeterminate
+Unassessable due to missing Assessment Procedure Effective 01 January 2025 in the Murdoch bundle; general rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not resolve proxy attendance.
+Calculated outcome: Unassessable
 
 Case searches actually logged:
 attendance appeal
@@ -2675,7 +2683,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -2711,7 +2719,7 @@ Student Appeals Procedure (N088, 7.3, 20) explicitly addresses representation in
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S6
@@ -2837,7 +2845,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -3146,7 +3154,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -3188,7 +3196,7 @@ N084 — Privacy Procedure (pdf) 274 KB, printed bundle page 46, lines L029–L0
 N075 — Complaints Policy (pdf) 224 KB, printed bundle page 86, lines L004–L008.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S7
@@ -3473,7 +3481,8 @@ as part of your learning and assessment activities. It’s important that you re
 these instructions, as they inform your intended learning outcomes and the approach to the
 marking of your submitted work. If you are uncertain about the instructions provided, please consult
 with your Unit Coordinator or Tutor.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N112 instructs students to follow Unit Outlines and N164 outlines general misconduct review, but operational steps for group-level AI disclosure, member contribution attribution, and equitable access alternatives are missing (Assessment Procedure is absent).
@@ -3544,7 +3553,8 @@ concerns about how GenAI has been used in your work, your submission may be revi
 where appropriate, referred for an academic integrity investigation in accordance with the
 University's Academic Integrity procedures. These processes help ensure that GenAI is used
 appropriately and in line with the expectations outlined.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N087 (2.1, 6.3.1) provides generic groupwork honesty and AI-authorisation rules, while N112 notes Turnitin AI detection is disabled. Specific operational safeguards for traceable group AI disclosure, attributable human responsibility, and equitable access are not documented.
@@ -3729,7 +3739,7 @@ Actual searches with no indexed hits:
 - equitable access
 - group contribution
 - group appeal
-Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).
+Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Murdoch
 Case ID: Murdoch-S8
@@ -4242,7 +4252,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -4527,7 +4537,8 @@ The mark for the assessment activity was not based on the published marking guid
 The marking demonstrated bias affecting the assessment.
 The marking demonstrated inconsistency with advice from staff teaching the unit.
 This process and your rights are covered in the Assessment Policy and Assessment Procedure.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -4583,7 +4594,8 @@ The mark for the assessment activity was not based on the published marking guid
 The marking demonstrated bias affecting the assessment.
 The marking demonstrated inconsistency with advice from staff teaching the unit.
 This process and your rights are covered in the Assessment Policy and Assessment Procedure.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 Source ID: N169
@@ -4683,7 +4695,8 @@ The mark for the assessment activity was not based on the published marking guid
 The marking demonstrated bias affecting the assessment.
 The marking demonstrated inconsistency with advice from staff teaching the unit.
 This process and your rights are covered in the Assessment Policy and Assessment Procedure.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -4861,7 +4874,8 @@ The mark for the assessment activity was not based on the published marking guid
 The marking demonstrated bias affecting the assessment.
 The marking demonstrated inconsistency with advice from staff teaching the unit.
 This process and your rights are covered in the Assessment Policy and Assessment Procedure.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 
 Evidence status: Sufficient
@@ -4897,7 +4911,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - peer marks
 - group contribution
-Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date (Operative status unverified).
+Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Murdoch
 Case ID: Murdoch-S10
@@ -4941,7 +4955,8 @@ Databases - Text and Data Mining and Institutional AI Permitted
 In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
 images, etc., or Murdoch intellectual property to third-party AI (ChatGPT, Gemini, Claude, Copilot) is
 not allowed under license or Copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N234
 Document title: Evaluating AI tools library working group requirements
@@ -4969,7 +4984,8 @@ there statements about environmental sustainability, responsible AI practices, o
 Copyright & Intellectual property: Can you upload content to the tool? If so, how is that content
 used? Is it shared beyond your account, retained after use, or used to train future versions of
 the AI model?
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N172
 Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
@@ -4982,7 +4998,8 @@ significant intellectual or scholarly contribution to the research and its outpu
 agree to be listed as an author.
 R26 Acknowledge those who have contributed to the research.
 R27 Cite and acknowledge other relevant work appropriately and accurately.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -4994,7 +5011,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - literature synthesis
 - researcher citations
-N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (Operative status unverified; operative_at_cutoff=false). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff.
+N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (treated as operative at the 2026-11-12 cut-off per researcher instruction). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff.
 
 University: Murdoch
 Case ID: Murdoch-S10
@@ -5030,7 +5047,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Research integrity allegation form
 Use this form to submit an allegation on a potential breach in research integrity.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 Source ID: N172
@@ -5041,7 +5059,8 @@ Evidence type: Exact quotation
 Exact quotation:
 R10 Provide mechanisms to receive concerns or complaints about potential breaches of the Code.
 Investigate and resolve potential breaches of the Code.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N241 provides a research integrity allegation form and N172 (R10) requires institutional breach mechanisms, while N164/N087 cover coursework students.
@@ -5094,7 +5113,8 @@ Databases - Text and Data Mining and Institutional AI Permitted
 In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
 images, etc., or Murdoch intellectual property to third-party AI (ChatGPT, Gemini, Claude, Copilot) is
 not allowed under license or Copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N172
 Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
@@ -5104,7 +5124,8 @@ Evidence type: Exact quotation
 Exact quotation:
 P1 Honesty in the development, undertaking and reporting of research
 • Present information truthfully and accurately in proposing, conducting and reporting research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -5170,7 +5191,8 @@ there statements about environmental sustainability, responsible AI practices, o
 Copyright & Intellectual property: Can you upload content to the tool? If so, how is that content
 used? Is it shared beyond your account, retained after use, or used to train future versions of
 the AI model?
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N163
 Document title: Generative AI and the Library (Library Guide)
@@ -5187,7 +5209,8 @@ Databases - Text and Data Mining and Institutional AI Permitted
 In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
 images, etc., or Murdoch intellectual property to third-party AI (ChatGPT, Gemini, Claude, Copilot) is
 not allowed under license or Copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -5243,7 +5266,8 @@ Databases - Text and Data Mining and Institutional AI Permitted
 In all other circumstances, uploading or sharing any copyrighted materials, such as articles, books,
 images, etc., or Murdoch intellectual property to third-party AI (ChatGPT, Gemini, Claude, Copilot) is
 not allowed under license or Copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N077
 Document title: Digital and Technology Conditions of Use Policy (pdf) 269 KB
@@ -5321,7 +5345,8 @@ administrative workload;
 Privacy, data protection, and rights: authentication, user control over data;
 Ethics: bias and fairness, copyright considerations, ethics of parent company, energy
 efficiency.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N108
 Document title: Policy Governance and Management Policy
@@ -5379,7 +5404,7 @@ Version evidence line numbers: L029–L029
 Brief explanation of which decision the route reviews:
 N241 provides a research integrity allegation form, N075 provides general complaint handling, and N164 (7.1 -> N088) provides appeals for students.
 
-Critical gap: Uncertain
+Critical gap: No
 Relevant pre-agreed critical risk:
 Human verification of citations and claims, accurate attribution and protection of confidential research information.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
@@ -5394,7 +5419,8 @@ Evidence type: Exact quotation
 Exact quotation:
 P1 Honesty in the development, undertaking and reporting of research
 • Present information truthfully and accurately in proposing, conducting and reporting research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N234
 Document title: Evaluating AI tools library working group requirements
@@ -5415,7 +5441,8 @@ administrative workload;
 Privacy, data protection, and rights: authentication, user control over data;
 Ethics: bias and fairness, copyright considerations, ethics of parent company, energy
 efficiency.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N083
 Document title: Privacy Policy (pdf) 288 KB
@@ -5514,7 +5541,8 @@ It is your responsibility to ensure that this National Statement is used in your
 proposals, application for ethics approval and ethics review
 Commencing research without ethics approval is a breach of both the National Statement and
 Australian Code for the Responsible Conduct of Research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N172
 Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
@@ -5524,7 +5552,8 @@ Evidence type: Exact quotation
 Exact quotation:
 R21 Adopt methods appropriate to the aims of the research and ensure that conclusions are justified
 by the results.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N087
 Document title: Student Academic Integrity Policy (pdf) 240 KB
@@ -5553,7 +5582,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - research validity
-N242 and N172 lack formal Murdoch effective-date blocks (Operative status unverified; operative_at_cutoff=false). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle.
+N242 and N172 lack formal Murdoch effective-date blocks (treated as operative at the 2026-11-12 cut-off per researcher instruction). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle.
 
 University: Murdoch
 Case ID: Murdoch-S11
@@ -5599,7 +5628,8 @@ It is your responsibility to ensure that this National Statement is used in your
 proposals, application for ethics approval and ethics review
 Commencing research without ethics approval is a breach of both the National Statement and
 Australian Code for the Responsible Conduct of Research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N241
 Document title: Research integrity institutional responsibilities and reporting
@@ -5609,7 +5639,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Research integrity allegation form
 Use this form to submit an allegation on a potential breach in research integrity.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -5668,7 +5699,8 @@ It is your responsibility to ensure that this National Statement is used in your
 proposals, application for ethics approval and ethics review
 Commencing research without ethics approval is a breach of both the National Statement and
 Australian Code for the Responsible Conduct of Research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N172
 Document title: Australian Code for the Responsible Conduct of Research (2018) - copy hosted by Murdoch
@@ -5678,7 +5710,8 @@ Evidence type: Exact quotation
 Exact quotation:
 P1 Honesty in the development, undertaking and reporting of research
 • Present information truthfully and accurately in proposing, conducting and reporting research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -5725,7 +5758,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Research integrity allegation form
 Use this form to submit an allegation on a potential breach in research integrity.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 Source ID: N242
@@ -5739,7 +5773,8 @@ You will need to apply online via the Human Ethics module in IRMA.
 If you don’t have an IRMA account submit a request with IT via the Support Portal.
 Follow steps: Home > All Catalogs > Information Technology > Access & ID > Application &
 Systems Access > Other Application and Systems Access > IRMA access.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 N242 directs researchers to apply via the Human Ethics module in IRMA and N241 provides an allegation form, but material procedural steps for amending ethics scope when introducing AI-simulated responses or disclosing synthetic vs empirical evidence are missing.
@@ -5795,7 +5830,8 @@ It is your responsibility to ensure that this National Statement is used in your
 proposals, application for ethics approval and ethics review
 Commencing research without ethics approval is a breach of both the National Statement and
 Australian Code for the Responsible Conduct of Research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N087
 Document title: Student Academic Integrity Policy (pdf) 240 KB
@@ -5921,7 +5957,8 @@ Evidence type: Exact quotation
 Exact quotation:
 R21 Adopt methods appropriate to the aims of the research and ensure that conclusions are justified
 by the results.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N242
 Document title: Human research ethics institutional approval process
@@ -5934,7 +5971,8 @@ You will need to apply online via the Human Ethics module in IRMA.
 If you don’t have an IRMA account submit a request with IT via the Support Portal.
 Follow steps: Home > All Catalogs > Information Technology > Access & ID > Application &
 Systems Access > Other Application and Systems Access > IRMA access.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N164
 Document title: Student Integrity Regulations
@@ -6047,7 +6085,8 @@ R17 Comply with the relevant laws, regulations, disciplinary standards, ethics g
 institutional policies related to responsible research conduct. Ensure that appropriate approvals
 are obtained prior to the commencement of research, and that conditions of any approvals are
 adhered to during the course of research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Generic recognition only: N172 (R17, R21, R25) covers general researcher compliance, methods, and authorship, N179 (4.1) covers least-privilege IT access, and N077 (1.5-1.6) covers IT system integrity. No relevant provision was identified in the documents and searches checked addressing an autonomous multi-agent AI system conducting connected laboratory or computational research actions without step-level human verification.
@@ -6056,7 +6095,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - laboratory actions
 - computational execution
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S12
@@ -6109,7 +6148,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Research integrity allegation form
 Use this form to submit an allegation on a potential breach in research integrity.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -6338,7 +6378,8 @@ significant intellectual or scholarly contribution to the research and its outpu
 agree to be listed as an author.
 R26 Acknowledge those who have contributed to the research.
 R27 Cite and acknowledge other relevant work appropriately and accurately.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
@@ -6462,7 +6503,8 @@ Evidence type: Exact quotation
 Exact quotation:
 R21 Adopt methods appropriate to the aims of the research and ensure that conclusions are justified
 by the results.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N077
 Document title: Digital and Technology Conditions of Use Policy (pdf) 269 KB
@@ -6471,7 +6513,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -6540,7 +6582,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - laboratory actions
 - computational execution
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S13
@@ -6637,7 +6679,7 @@ Privacy Policy (N083, 2.1.1, 5.1) and Privacy Procedure (N084, 3.1, 5.1, 6.1, 9.
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - collect use disclose data
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S13
@@ -7165,7 +7207,7 @@ N179 — ICT Security Policy, printed bundle page 344, lines L034–L041.
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - collect use disclose data
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S14
@@ -7269,7 +7311,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - learner profile
 - student profiling
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S14
@@ -7845,7 +7887,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - learner profile
 - student profiling
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S15
@@ -7902,7 +7944,7 @@ Line numbers: L007–L010
 Evidence type: Exact quotation
 Exact quotation:
 1.6 Access must be via an authorised account. Users must adhere to the
-
+University’s Password Policy and must not disclose their password to any
 other person. Users must not attempt to discover another person’s
 password or gain access to another person’s account or information.
 Operative at policy cut-off: Verified with recorded version evidence
@@ -7936,7 +7978,7 @@ N179 (4.1) governs least-privilege authorised IT system access, N077 (1.6) requi
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Murdoch
 Case ID: Murdoch-S15
@@ -8436,4 +8478,4 @@ N088 — Student Appeals Procedure (pdf) 290 KB, printed bundle page 106, lines 
 N080 — Information Security Incident Management Policy (pdf) 238 KB, printed bundle page 30, lines L005–L015.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.

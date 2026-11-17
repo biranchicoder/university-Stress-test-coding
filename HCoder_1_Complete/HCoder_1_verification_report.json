@@ -7,13 +7,16 @@
     "universities": 5,
     "cases": 75,
     "dimensions": 450,
+    "numeric_scores": 446,
+    "unscored_judgments": 4,
     "case_summaries": 75
   },
   "undated_sources_resolved_by_researcher_rule": 22,
   "external_unavailable_documents": "Excluded per policy repository boundary (2026-11-17).",
   "outcome_distribution": {
-    "Resolved": 4,
+    "Resolved": 3,
     "Structured discretion": 5,
-    "Indeterminate": 66
+    "Indeterminate": 66,
+    "Unassessable": 1
   }
 }

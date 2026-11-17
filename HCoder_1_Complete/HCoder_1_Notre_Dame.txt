@@ -279,14 +279,15 @@ Unauthorised use of artificial intelligence to produce assessment tasks is a bre
 integrity. In some assessments, the use of artificial intelligence is specifically and explicitly allowed.
 Your course coordinator and course materials will make this clear to you. Like any source, you must
 acknowledge the use of artificial intelligence.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Assessment requirements must state authorised/unauthorised Gen-AI use (N026, 3.4.1.4) and student guidance (N116) instructs students to acknowledge AI use like any source, but no formal procedure specifies how to seek permission or format disclosure for non-retained AI planning/feedback.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N116 (Academic integrity student guidance) has no effective date in the PDF text, so its operative-at-cutoff status is unverified.
+N116 (Academic integrity student guidance) has no effective date in the PDF text, treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Notre Dame
 Case ID: Notre_Dame-S1
@@ -532,7 +533,7 @@ N027 — Procedure: Academic Integrity, printed bundle page 81, lines L015–L02
 N034 — Policy: Student Appeals, printed bundle page 212, lines L023–L028.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-N116 lacks an effective date in the PDF text (Operative status unverified) and is treated as unverified supporting guidance.
+N116 lacks an effective date in the PDF text (treated as operative at the 2026-11-12 cut-off per researcher instruction) and is treated as operative supporting guidance at the 2026-11-12 cut-off per researcher instruction.
 
 University: Notre Dame
 Case ID: Notre_Dame-S2
@@ -4888,7 +4889,7 @@ Actual searches with no indexed hits:
 - literature synthesis
 - researcher citations
 - citation accuracy
-N180 is a Library Guide without a formal policy effective date (Operative status unverified; only webpage Last Updated timestamp).
+N180 is a Library Guide without a formal policy effective date (Treated as operative at the 2026-11-12 cut-off per researcher instruction; only webpage Last Updated timestamp).
 
 University: Notre Dame
 Case ID: Notre_Dame-S10
@@ -5163,7 +5164,8 @@ Exact quotation:
 Confidential research data: Unpublished findings, proprietary information, or data covered by
 non‑disclosure agreements.
 Do not upload sensitive data to Gen‑AI tools.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Substantive safeguards exist via N029 (prohibiting source misrepresentation, plagiarism, and misleading authorship; requiring confidentiality of research content at 4.16), N115 (3.4.4 supervisor consultation and acknowledgement), and N180 (warning against uploading confidential research data), though a material gap remains because N180 is non-binding guidance for grant/manuscript AI uploads.
@@ -5336,7 +5338,7 @@ Actual searches with no indexed hits:
 - literature synthesis
 - researcher citations
 - citation accuracy
-N180 is a Library Guide without a formal policy effective date (Operative status unverified).
+N180 is a Library Guide without a formal policy effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Notre Dame
 Case ID: Notre_Dame-S11
@@ -5459,7 +5461,7 @@ Printed bundle page: 142
 Line numbers: L028–L028
 Evidence type: Exact quotation
 Exact quotation:
-10.2.
+10.2.4 Policy: Ethics Approval for Research Involving Human Participants
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Effective Date: 14 June 2024
 Version evidence source ID: N032
@@ -6597,7 +6599,7 @@ Printed bundle page: 352
 Line numbers: L014–L014
 Evidence type: Exact quotation
 Exact quotation:
-6.
+6.3 Guideline: Retention and Disposal of University Records (RDS)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Effective Date: 1/10/2025
 Version evidence source ID: N185
@@ -6611,7 +6613,7 @@ N042 (4.4-4.5) provides general access/correction and privacy complaint procedur
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Notre Dame
 Case ID: Notre_Dame-S13
@@ -7884,4 +7886,3 @@ N034 — Policy: Student Appeals, printed bundle page 212, lines L023–L030.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
 N194 s.12.1 and s.12.2 supporting instructions are not included in the bundle.
-

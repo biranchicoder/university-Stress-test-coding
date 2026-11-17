@@ -115,7 +115,7 @@ Coding date: 2026-11-16
 
 
 
-My score: 3
+My score: 2
 
 Search terms used:
 academic integrity student
@@ -211,7 +211,7 @@ Version evidence line numbers: L001–L001
 PDF reading order: Verified against original PDF layout.
 
 WHY THE EVIDENCE FITS MY SCORE
-Unit Coordinators are explicitly authorised under N044 clauses 6.8(b)(i) and 6.9(d) and N128 (p. 9) to set AI use tiers and permissions in the Unit Outline, and N044 Table 1 and clause 10.5 assign misconduct decision-makers (Unit Coordinator, SAIO, Head of School, DVCE) with an explicit connected 10-working-day appeal route.
+Unit Coordinators are explicitly authorised under N044 clauses 6.8(b)(i) and 6.9(d) and N128 (p. 9) to set AI use tiers and permissions in the Unit Outline, and N044 Table 1 and clause 10.5 assign misconduct decision-makers and appeals; however, an appeal against a Unit Coordinator's AI permission decision is not explicitly connected (consistent with Curtin-S1 D2=2).
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
@@ -1917,7 +1917,7 @@ Lecture Capture and Student Access Policy (N216) clauses 5.1(b)-(d) and 5.2 expl
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.
+N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.
 
 University: UWA
 Case ID: UWA-S4
@@ -2074,7 +2074,7 @@ N216 (recording prohibition without consent), N067 (privacy protections), and N1
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.
+N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment.
 
 University: UWA
 Case ID: UWA-S4
@@ -2446,7 +2446,7 @@ N067 — Information Privacy Policy (pdf, 220 KB), printed bundle page 343, line
 N197 — AI Assessment Guidelines (Student), printed bundle page 337, lines L011–L013.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N216 and N067.
+N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; supplementary to operative policies N216 and N067.
 
 University: UWA
 Case ID: UWA-S5
@@ -4694,7 +4694,8 @@ Exact quotation:
 remember that AI tools store any data or entry that you put into it, so keep yourself and others safe and do not upload
 any private, personal or identifying information into any AI tool! Unless you have been given permission to do so, you
 should not upload any lecture slides or unit materials. For more information on using AI, check out this page.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 PDF reading order: Verified against original PDF layout.
 
 WHY THE EVIDENCE FITS MY SCORE
@@ -4704,7 +4705,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - group workspace
 - workspace privacy
-N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N044 and N067, so this does not materially change the judgment.
+N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; supplementary to operative policies N044 and N067, so this does not materially change the judgment.
 
 University: UWA
 Case ID: UWA-S8
@@ -7921,7 +7922,7 @@ N067, N071, and N072 are compatible and cross-reference each other on privacy an
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - collect use disclose data
-
+No additional uncertainty or access limitation was recorded.
 
 University: UWA
 Case ID: UWA-S13
@@ -8382,7 +8383,7 @@ N072 — UP19 2 Cyber Security (pdf, 226 KB), printed bundle page 487, lines L03
 Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - collect use disclose data
-
+No additional uncertainty or access limitation was recorded.
 
 University: UWA
 Case ID: UWA-S14

@@ -12691,7 +12691,7 @@
           }
         ],
         "uncertainty_notes": "None; all cited instruments (N002, N001, N014) are verified operative at the 2026-11-12 cut-off.",
-        "calculated_outcome": "Resolved"
+        "calculated_outcome": "Indeterminate"
       }
     },
     {
@@ -43451,7 +43451,7 @@
           }
         ],
         "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle.",
-        "calculated_outcome": "Indeterminate"
+        "calculated_outcome": "Unassessable"
       }
     },
     {

@@ -39,7 +39,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N002
 Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
@@ -103,7 +104,7 @@ Curtin explicitly covers students using GenAI tools in assessment tasks, requiri
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N133 is a webpage retrieved on 2026-11-12 without an internal effective date, so its operative-at-cutoff status is marked unverified while N001, N002, N136, and N141 have verified operative dates.
+N133 is a webpage retrieved on 2026-11-12 without an internal effective date, treated as operative at the 2026-11-12 cut-off per researcher instruction while N001, N002, N136, and N141 have verified operative dates.
 
 University: Curtin
 Case ID: Curtin-S1
@@ -140,7 +141,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N141
 Document title: Student Misconduct Rules 2026
@@ -221,7 +223,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N002
 Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
@@ -303,7 +306,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N141
 Document title: Student Misconduct Rules 2026
@@ -405,7 +409,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Takeaway point: when submitting any assessment, the final product must be your own work, not
 just output copied from GenAI software.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N001
 Document title: Artificial Intelligence (AI) Policy
@@ -470,7 +475,7 @@ S1 risks are specifically addressed: student authorship and 50% Secure Assessmen
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S1
@@ -525,7 +530,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -583,7 +588,8 @@ Evidence type: Exact quotation
 Exact quotation:
 Takeaway point: when submitting any assessment, the final product must be your own work, not
 just output copied from GenAI software.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N136
 Document title: Academic Integrity and Conduct - Student Guide
@@ -653,7 +659,7 @@ N141 — Student Misconduct Rules 2026, printed bundle page 206, lines L025–L0
 N014 — Policy Development Procedures, printed bundle page 337, lines L037–L040.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-N133 is a webpage without an internal effective date (marked unverified); Unit Coordinator permission criteria are not centralised.
+N133 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction); Unit Coordinator permission criteria are not centralised.
 
 University: Curtin
 Case ID: Curtin-S2
@@ -758,7 +764,7 @@ Curtin explicitly covers students submitting AI-drafted assessment work as their
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N133 webpage operative status is marked unverified due to no internal effective date; N136, N002, and N141 are verified operative.
+N133 webpage treated as operative at the 2026-11-12 cut-off per researcher instruction; N136, N002, and N141 are verified operative.
 
 University: Curtin
 Case ID: Curtin-S2
@@ -1188,7 +1194,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -1416,7 +1422,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - submission account
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S3
@@ -1492,7 +1498,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - submission account
 - prohibited impersonation
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S3
@@ -1832,7 +1838,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -1877,7 +1883,7 @@ Version evidence line numbers: L005–L005
 Brief explanation of which decision the route reviews:
 Students may appeal misconduct findings/penalties under N141 Rule 15 (within 7 or 14 days) and assessment marks under N002 PC24.
 
-Critical gap: Uncertain
+Critical gap: Yes
 Relevant pre-agreed critical risk:
 Verified authority for standing account actions, protected student identity and meaningful assessment oversight.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
@@ -2009,7 +2015,8 @@ Exact quotation:
 Students are not permitted to upload work to GenAI tools that does not belong to them. This
 includes, lecture slides, transcription of audio, assessment questions and tutorial questions in which
 Curtin owns the copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N001
 Document title: Artificial Intelligence (AI) Policy
@@ -2061,14 +2068,15 @@ captions or transcripts). Curtin staff can also use this provision to assist stu
 accessibility needs. Ensure that:
 Gen-AI tools used are secure (e.g. they do not train on or share content)
 Outputs are not shared publicly (e.g. posted on the open internet)
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Curtin prohibits uploading lecture slides or audio transcripts to GenAI tools (N133) with a secure-tool disability exception (N231), requires AI transparency and privacy compliance (N001), and defines consent for University data collection (N016/N017), but a student's undisclosed live audio/video capture of identifiable lecture participants is not explicitly bounded.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N133 and N231 are webpages retrieved 2026-11-12 without internal effective dates (marked unverified).
+N133 and N231 are webpages retrieved 2026-11-12 without internal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Curtin
 Case ID: Curtin-S4
@@ -2194,7 +2202,8 @@ Exact quotation:
 Students are not permitted to upload work to GenAI tools that does not belong to them. This
 includes, lecture slides, transcription of audio, assessment questions and tutorial questions in which
 Curtin owns the copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 SUPPORTING EVIDENCE
 Source ID: N231
@@ -2210,7 +2219,8 @@ captions or transcripts). Curtin staff can also use this provision to assist stu
 accessibility needs. Ensure that:
 Gen-AI tools used are secure (e.g. they do not train on or share content)
 Outputs are not shared publicly (e.g. posted on the open internet)
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N001
 Document title: Artificial Intelligence (AI) Policy
@@ -2396,7 +2406,8 @@ Exact quotation:
 Students are not permitted to upload work to GenAI tools that does not belong to them. This
 includes, lecture slides, transcription of audio, assessment questions and tutorial questions in which
 Curtin owns the copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N016
 Document title: Privacy Policy
@@ -2495,7 +2506,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -2552,7 +2563,8 @@ Exact quotation:
 Students are not permitted to upload work to GenAI tools that does not belong to them. This
 includes, lecture slides, transcription of audio, assessment questions and tutorial questions in which
 Curtin owns the copyright.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N001
 Document title: Artificial Intelligence (AI) Policy
@@ -2624,7 +2636,7 @@ N004 — Complaints Procedures, printed bundle page 288, lines L020–L025.
 N014 — Policy Development Procedures, printed bundle page 337, lines L037–L040.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-N133 and N231 are webpages without internal effective dates (marked unverified).
+N133 and N231 are webpages without internal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Curtin
 Case ID: Curtin-S5
@@ -2721,7 +2733,8 @@ the lecture and instead watch the recording via iLecture, as long as recordings 
 and there are no attendance requirements, assessments or other compulsory activities
 scheduled during the lecture time; you may need to wait until the unit outline is published in
 OASIS (approximately one week before teaching starts) to confirm.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Generic or analogical recognition only: N002 states class attendance is not an allowable form of assessment (while N232, operative status unverified, notes some units have compulsory activities), N001 requires human oversight, and N149 governs third-party information proxies; no relevant provision addressing a disclosed AI avatar attending an online lecture as a student proxy was identified in the documents and searches checked ('attendance proxy', 'authorised proxy', 'online attendance', 'attendance procedure', 'proxy identity').
@@ -2730,7 +2743,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - attendance proxy
 - false attendance
-N232 is a webpage without an internal effective date (marked unverified).
+N232 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).
 
 University: Curtin
 Case ID: Curtin-S5
@@ -3141,7 +3154,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -3285,7 +3298,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - attendance proxy
 - false attendance
-N232 webpage is marked unverified for operative-at-cutoff status.
+N232 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S6
@@ -3770,7 +3783,7 @@ Substantive safeguards require identity and authority verification before third-
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S6
@@ -3824,7 +3837,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -3873,7 +3886,7 @@ PDF reading order: Verified against original PDF layout.
 Brief explanation of which decision the route reviews:
 Students have internal appeal rights for extensions and marks (N002 PC7/PC24), misconduct (N141), and complaints (N004), plus external review by the WA Ombudsman or National Student Ombudsman (N002 vp 126).
 
-Critical gap: Uncertain
+Critical gap: Yes
 Relevant pre-agreed critical risk:
 Verifiable authority before binding academic representation and before disclosure of confidential student information.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
@@ -4025,7 +4038,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N001
 Document title: Artificial Intelligence (AI) Policy
@@ -4071,7 +4085,7 @@ Curtin explicitly covers group work contribution declarations (N002 s.2.8.1), ho
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
-N133 webpage operative status is marked unverified; N002, N136, N001, and N141 are verified operative.
+N133 webpage treated as operative at the 2026-11-12 cut-off per researcher instruction; N002, N136, N001, and N141 are verified operative.
 
 University: Curtin
 Case ID: Curtin-S7
@@ -4107,7 +4121,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N002
 Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
@@ -4489,7 +4504,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -4626,7 +4641,7 @@ N141 — Student Misconduct Rules 2026, printed bundle page 206, lines L025–L0
 N014 — Policy Development Procedures, printed bundle page 337, lines L037–L040.
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
-N133 webpage is marked unverified for operative-at-cutoff status.
+N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S8
@@ -4734,7 +4749,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - group workspace
 - workspace privacy
-N133 webpage is marked unverified.
+N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S8
@@ -4770,7 +4785,8 @@ Evidence type: Exact quotation
 Exact quotation:
 You are not permitted to use GenAI software in any assessment task unless written permission is
 explicitly granted by the Unit Coordinator (e.g. within Blackboard or the assessment specifications).
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 Source ID: N017
 Document title: Privacy Procedures
@@ -5152,7 +5168,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -5290,7 +5306,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - group workspace
 - workspace privacy
-N133 webpage is marked unverified for operative-at-cutoff status.
+N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S9
@@ -5301,7 +5317,7 @@ Coding date: 2026-11-16
 
 
 
-My score: 3
+My score: 2
 
 Search terms used:
 appeal marks
@@ -5381,7 +5397,7 @@ SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
 
 WHY THE EVIDENCE FITS MY SCORE
-Curtin explicitly covers GenAI use for grading/feedback (N002 PC2 s.2.4), fair/transparent/defensible group mark allocation (N002 s.2.8), and AI contestability and human accountability (N001 Principles 6-7).
+N002 s.2.8 requires fair, transparent, and defensible group mark allocation and N001 Principles 6-7 establish AI transparency and contestability, while N002 PC2 s.2.4 governs staff AI grading pilots rather than a student-group AI management agent.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
@@ -5396,7 +5412,7 @@ Coding date: 2026-11-16
 
 
 
-My score: 3
+My score: 2
 
 Search terms used:
 appeal marks
@@ -5453,7 +5469,7 @@ SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
 
 WHY THE EVIDENCE FITS MY SCORE
-N002 PC2 s.2.4 names the Dean (Learning and Teaching), Privacy Officer, and CIO/CISO to approve any GenAI grading/feedback pilot, requires staff output verification, and connects directly to human marking on appeal under N002 PC24 (Head of School).
+N002 PC24 vests formal mark-appeal authority in the Head of School and N002 s.2.4 assigns Dean (L&T), Privacy Officer, and CIO/CISO approval for staff AI grading pilots, but no decision-maker is named for authorising a student-group AI management agent.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
@@ -5563,7 +5579,7 @@ Coding date: 2026-11-16
 
 
 
-My score: 3
+My score: 2
 
 Search terms used:
 appeal marks
@@ -5620,7 +5636,7 @@ SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
 
 WHY THE EVIDENCE FITS MY SCORE
-Clear procedural steps require prior Dean/Privacy/CIO approval, mandatory staff verification of all AI grading/feedback outputs, advance declaration to students, human marking in the event of an appeal (N002 PC2 s.2.4), and 10-working-day formal appeal to the Head of School (N002 PC24).
+N002 PC24 provides a 10-working-day formal appeal procedure against assessment marks, but no specific procedure governs a student-group AI management agent outside staff grading pilots (N002 s.2.4).
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
@@ -5635,7 +5651,7 @@ Coding date: 2026-11-16
 
 
 
-My score: 3
+My score: 2
 
 Search terms used:
 appeal marks
@@ -5733,7 +5749,7 @@ SUPPORTING EVIDENCE
 No supporting evidence passage recorded.
 
 WHY THE EVIDENCE FITS MY SCORE
-S9's critical risk is specifically protected: unverified AI evaluations cannot determine binding marks because GenAI grading is restricted to approved staff pilots with mandatory human verification and human re-marking on appeal (N002 PC2 s.2.4), fair group mark allocation (N002 s.2.8), and AI contestability/accountability (N001 Principles 6-7).
+N002 s.2.8 (fair group mark allocation), N002 PC24 (mark appeals), and N001 Principles 6-7 prevent uncontested binding marks, though student-group AI agent management is not directly addressed by the staff-pilot safeguard in N002 s.2.4.
 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 No logged query returned zero index hits.
@@ -5791,7 +5807,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -5840,7 +5856,7 @@ Relevant pre-agreed critical risk:
 An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
 Specific gap and supporting evidence/search record:
-N002 PC2 s.2.4 prohibits unverified AI grading by restricting AI grading/feedback to approved staff pilots with mandatory staff output verification and human marking on appeal, reinforced by N002 s.2.8 and N001 Principles 6-7.
+N002 s.2.8 (fair group mark allocation), N002 PC24 (10-working-day mark appeals to Head of School), and N001 Principles 6-7 prevent unreviewed AI evaluations from determining final binding marks, even though N002 PC2 s.2.4 applies specifically to staff AI grading pilots rather than student-group AI agents.
 Supporting passages:
 Source ID: N002
 Document title: Assessment and Student Progression Policy and Procedures March 2026 administrative version
@@ -5912,8 +5928,8 @@ Conflict basis:
 Not applicable.
 
 Case note:
-Curtin's N002 PC2 s.2.4 restricts GenAI grading or feedback to staff pilots approved by the Dean (Learning and Teaching), Privacy Officer, and CIO/CISO, requiring staff verification of all outputs, advance student declaration, and human marking on appeal. Combined with fair group mark allocation (N002 s.2.8) and AI accountability and contestability (N001), unreviewed AI evaluations cannot determine binding marks (D5=3, Critical gap=No).
-Calculated outcome: Resolved
+Curtin's N002 s.2.8 and PC24 protect group mark fairness and formal mark appeals, and N001 Principles 6-7 require AI contestability; however, N002 PC2 s.2.4 governs staff AI grading pilots rather than a student-group AI agent, yielding D1=2, D2=2, D4=2, D5=2 (Indeterminate under Prescribing mode).
+Calculated outcome: Indeterminate
 
 Case searches actually logged:
 appeal marks
@@ -6023,7 +6039,8 @@ judgement at the centre of their work. AI tools must never substitute for human 
 The guidelines apply to all Curtin researchers, including research students in master and doctoral programs. They cover generative AI tools for text,
 images, audio, code and data, as well as generative AI-driven support platforms. They should be read alongside Curtin’s Artificial Intelligence Policy and
 the policies of publishers, funders and governments relevant to your research.
-Operative at policy cut-off: Unverified
+Operative at policy cut-off: Verified with recorded version evidence
+Recorded version evidence: Treated as operative at 2026-11-12 cut-off per researcher instruction (Source_Register retrieval date: 12 November 2026).
 
 WHY THE EVIDENCE FITS MY SCORE
 Curtin explicitly covers researchers using AI tools (N145 s.3.1.10, A008), requiring verification of AI inputs/outputs (N001 Principle 8), author responsibility for accuracy and attribution (N145 s.3.3.7, N210), and protection of confidential research data (N001 Principle 4, N017 s.2.5).
@@ -6032,7 +6049,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - literature synthesis
 - researcher citations
-A008 is a webpage without an internal effective date (marked unverified); N001, N145, N210, N021, and N017 are verified operative.
+A008 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction); N001, N145, N210, N021, and N017 are verified operative.
 
 University: Curtin
 Case ID: Curtin-S10
@@ -6460,7 +6477,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -6602,7 +6619,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - literature synthesis
 - researcher citations
-A008 webpage is marked unverified for operative-at-cutoff status.
+A008 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S11
@@ -6703,7 +6720,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - human participants
-A008 webpage is marked unverified.
+A008 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.
 
 University: Curtin
 Case ID: Curtin-S11
@@ -6967,7 +6984,7 @@ NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - simulated participant
 - human participants
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S11
@@ -7141,7 +7158,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -7290,7 +7307,7 @@ Negative search / access / uncertainty notes:
 Actual searches with no indexed hits:
 - simulated participant
 - human participants
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S12
@@ -7654,7 +7671,7 @@ Printed bundle page: 263
 Line numbers: L016–L016
 Evidence type: Exact quotation
 Exact quotation:
-
+Health and Safety Policy
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 29/05/2026 Academic Board AB 56/2026 Attachment A to Item 7.3
 Version evidence source ID: N145
@@ -7833,7 +7850,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -7877,7 +7894,7 @@ Version evidence line numbers: L023–L023
 Brief explanation of which decision the route reviews:
 Research integrity complaints and record corrections are handled under N021 (and N004), and student/HDR appeals under N141 Rule 15 and N009.
 
-Critical gap: Uncertain
+Critical gap: Yes
 Relevant pre-agreed critical risk:
 Authorised, safe execution, meaningful human intervention and accountable research responsibility.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
@@ -8354,7 +8371,7 @@ Usable procedures exist for prior consent (N150 PC12, N017), minimisation (N011 
 NEGATIVE SEARCH / ACCESS / UNCERTAINTY NOTES
 Actual searches with no indexed hits:
 - collect use disclose data
-
+No additional uncertainty or access limitation was recorded.
 
 University: Curtin
 Case ID: Curtin-S13
@@ -8524,7 +8541,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -8566,7 +8583,7 @@ Version evidence line numbers: L018–L018
 Brief explanation of which decision the route reviews:
 Individuals may raise privacy concerns with the Privacy Officer or request FOI access/correction under N016 s.3.10, and lodge complaints under N004.
 
-Critical gap: Uncertain
+Critical gap: Yes
 Relevant pre-agreed critical risk:
 Informed, purpose-limited collection and lawful course-end memory restriction/disposal, with access and security protections.
 Protocol v1.1 was adopted after preliminary review on 2026-11-15; it was not a criterion agreed before the original coding.
@@ -9241,7 +9258,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -9959,7 +9976,7 @@ Exact quotation:
 (a) ensuring the review, maintenance and seeking approval for new and changed policies
 and procedures;
 (b) ensuring the monitoring and reporting breaches of compliance with policies and
-procedures.
+procedures. (see Compliance Procedures)
 Operative at policy cut-off: Verified with recorded version evidence
 Recorded version evidence: Approved 17/03/2021 Council C 38/21 Attachment A to Item 8.1
 Version evidence source ID: N014
@@ -10110,4 +10127,3 @@ N014 — Policy Development Procedures, printed bundle page 337, lines L037–L0
 Negative search / access / uncertainty notes:
 No logged query returned zero index hits.
 Missing linked instrument: ICT Appropriate Use Procedures (N005 s.6).
-
