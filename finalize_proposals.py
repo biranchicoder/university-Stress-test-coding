@@ -204,8 +204,10 @@ def _clean_passage(value: dict[str, Any]) -> dict[str, Any]:
         passage["version_evidence_location"] = None
     elif isinstance(location, dict):
         passage["version_evidence_location"] = _allowed_fields(location, VersionEvidenceLocation)
-    passage["visual_reading_order_checked"] = True
-    passage["visual_review_note"] = VISUAL_REVIEW_NOTE
+    # Preserve actual human visual-check records; do not auto-mark unverified passages as True
+    passage["visual_reading_order_checked"] = bool(passage.get("visual_reading_order_checked", False))
+    if not passage["visual_reading_order_checked"]:
+        passage["visual_review_note"] = passage.get("visual_review_note", "")
     return passage
 
 

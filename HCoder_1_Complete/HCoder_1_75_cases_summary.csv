@@ -7,7 +7,7 @@ Curtin-S5,Curtin,S5,HCoder 1,2026-11-16,1.1,1,2,2,2,2,2,1.83,Prescribing,Conditi
 Curtin-S6,Curtin,S6,HCoder 1,2026-11-16,1.1,1,2,2,2,2,2,1.83,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
 Curtin-S7,Curtin,S7,HCoder 1,2026-11-16,1.1,3,2,2,2,3,2,2.33,Prescribing,Conditional,Yes,No,Sufficient,Indeterminate
 Curtin-S8,Curtin,S8,HCoder 1,2026-11-16,1.1,2,2,2,2,2,2,2.0,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
-Curtin-S9,Curtin,S9,HCoder 1,2026-11-16,1.1,3,3,3,3,3,2,2.83,Prescribing,Prohibition,Yes,No,Sufficient,Resolved
+Curtin-S9,Curtin,S9,HCoder 1,2026-11-16,1.1,2,2,3,2,2,2,2.17,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
 Curtin-S10,Curtin,S10,HCoder 1,2026-11-16,1.1,3,3,3,3,3,2,2.83,Prescribing,Conditional,Yes,No,Sufficient,Resolved
 Curtin-S11,Curtin,S11,HCoder 1,2026-11-16,1.1,2,2,3,2,3,2,2.33,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
 Curtin-S12,Curtin,S12,HCoder 1,2026-11-16,1.1,2,2,3,2,2,2,2.17,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
@@ -33,7 +33,7 @@ Murdoch-S1,Murdoch,S1,HCoder 1,2026-11-16,1.1,2,1,2,1,1,1,1.33,Prescribing,Condi
 Murdoch-S2,Murdoch,S2,HCoder 1,2026-11-16,1.1,2,2,2,1,2,1,1.67,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
 Murdoch-S3,Murdoch,S3,HCoder 1,2026-11-16,1.1,2,2,2,1,2,2,1.83,Prescribing,Prohibition,Yes,Yes,Sufficient,Indeterminate
 Murdoch-S4,Murdoch,S4,HCoder 1,2026-11-16,1.1,1,1,2,1,1,2,1.33,Prescribing,Unclear,Yes,Yes,Sufficient,Indeterminate
-Murdoch-S5,Murdoch,S5,HCoder 1,2026-11-16,1.1,0,0,2,0,0,1,0.5,None,Unclear,No,Yes,Sufficient,Indeterminate
+Murdoch-S5,Murdoch,S5,HCoder 1,2026-11-16,1.1,,,2,,,1,,None,Unclear,No,Uncertain,Insufficient,Unassessable
 Murdoch-S6,Murdoch,S6,HCoder 1,2026-11-16,1.1,2,2,2,1,2,2,1.83,Prescribing,Prohibition,Yes,Yes,Sufficient,Indeterminate
 Murdoch-S7,Murdoch,S7,HCoder 1,2026-11-16,1.1,2,1,2,1,1,1,1.33,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
 Murdoch-S8,Murdoch,S8,HCoder 1,2026-11-16,1.1,2,2,2,1,2,2,1.83,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
@@ -59,7 +59,7 @@ Notre_Dame-S12,Notre_Dame,S12,HCoder 1,2026-11-16,1.1,1,1,2,1,1,2,1.33,None,Uncl
 Notre_Dame-S13,Notre_Dame,S13,HCoder 1,2026-11-16,1.1,1,2,2,2,2,1,1.67,Prescribing,Conditional,Yes,Yes,Sufficient,Indeterminate
 Notre_Dame-S14,Notre_Dame,S14,HCoder 1,2026-11-16,1.1,1,2,2,1,1,1,1.33,None,Unclear,Yes,Yes,Sufficient,Indeterminate
 Notre_Dame-S15,Notre_Dame,S15,HCoder 1,2026-11-16,1.1,2,3,2,2,2,2,2.17,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
-UWA-S1,UWA,S1,HCoder 1,2026-11-16,1.1,3,3,2,2,2,2,2.33,Delegating,Conditional,Yes,No,Sufficient,Structured discretion
+UWA-S1,UWA,S1,HCoder 1,2026-11-16,1.1,3,2,2,2,2,2,2.17,Delegating,Conditional,Yes,No,Sufficient,Structured discretion
 UWA-S2,UWA,S2,HCoder 1,2026-11-16,1.1,3,3,2,3,2,2,2.5,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
 UWA-S3,UWA,S3,HCoder 1,2026-11-16,1.1,3,2,2,2,2,2,2.17,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate
 UWA-S4,UWA,S4,HCoder 1,2026-11-16,1.1,3,2,2,2,2,2,2.17,Prescribing,Prohibition,Yes,No,Sufficient,Indeterminate

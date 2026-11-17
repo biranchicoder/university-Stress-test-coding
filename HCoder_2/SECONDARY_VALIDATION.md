@@ -1,30 +1,20 @@
 # SECONDARY VALIDATION LOG
 
-**Project:** University Coding – Policy Proposals
-**Secondary Validator (Coder 2):** ______________________
-**Date:** ______________________
-
-## Sampling Summary
-- Total passages in final JSON: 2,979
-- Sampling fraction: 5 % (≈150 passages)
-- Number of passages sampled: _______
-- Number of passages marked **OK**: _______
-- Number of passages marked **FAIL**: _______
+**Project:** University Coding – Five-University Stress Test (75 Cases, 450 Dimension Cells)
+**Primary Coder (HCoder 1):** Biranchi Poudyal
+**Secondary Validator (HCoder 2):** Pratima Luitel
+**Validation Date:** 2026-11-17
+**Validation Method:** Full print-review verification of all 75 cases and 25% stratified spot-check (113 / 450 dimension cells)
 
 ## Results
-| Outcome | Count |
-|---------|-------|
-| OK (visual flag matches PDF) | |
-| FAIL (mismatch) | |
+| Metric | Value |
+|---|---|
+| Total cases validated | 75 / 75 |
+| Total dimension cells | 450 / 450 |
+| 25% spot-check sample | 113 dimension cells (`Coder2_25pct_SpotCheck_5unis_113cells.csv`) |
+| Inter-coder agreement | 100% (450 / 450 dimension cells after reconciliation) |
+| Outcome distribution | 3 Resolved, 5 Structured discretion, 66 Indeterminate, 1 Unassessable (`Murdoch-S5`) |
 
-**Comments on any failures (if any):**
-```
-<describe mismatches, page numbers, suggested correction>
-```
-
-## Signature
-
-_Validated by:_  ______________________ (Name, role)
-
----
-*This log should be committed to the repository as `SECONDARY_VALIDATION.md` in the `Second Indep Check 22` folder.*
+## Sign-Off
+**Validated by:** Pratima Luitel (Secondary Validator, HCoder 2)
+**Date:** 2026-11-17

@@ -227,7 +227,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N133 is a webpage retrieved on 2026-11-12 without an internal effective date, so its operative-at-cutoff status is marked unverified while N001, N002, N136, and N141 have verified operative dates."
+          "uncertainty_notes": "N133 is a webpage retrieved on 2026-11-12 without an internal effective date, treated as operative at the 2026-11-12 cut-off per researcher instruction while N001, N002, N136, and N141 have verified operative dates."
         },
         {
           "dimension": "D2",
@@ -1369,7 +1369,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N133 is a webpage without an internal effective date (marked unverified); Unit Coordinator permission criteria are not centralised.",
+        "uncertainty_notes": "N133 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction); Unit Coordinator permission criteria are not centralised.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -1614,7 +1614,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N133 webpage operative status is marked unverified due to no internal effective date; N136, N002, and N141 are verified operative."
+          "uncertainty_notes": "N133 webpage treated as operative at the 2026-11-12 cut-off per researcher instruction; N136, N002, and N141 are verified operative."
         },
         {
           "dimension": "D2",
@@ -4461,7 +4461,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N133 and N231 are webpages retrieved 2026-11-12 without internal effective dates (marked unverified)."
+          "uncertainty_notes": "N133 and N231 are webpages retrieved 2026-11-12 without internal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction)."
         },
         {
           "dimension": "D2",
@@ -5675,7 +5675,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N133 and N231 are webpages without internal effective dates (marked unverified).",
+        "uncertainty_notes": "N133 and N231 are webpages without internal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction).",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -5900,7 +5900,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N232 is a webpage without an internal effective date (marked unverified)."
+          "uncertainty_notes": "N232 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction)."
         },
         {
           "dimension": "D2",
@@ -7025,7 +7025,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N232 webpage is marked unverified for operative-at-cutoff status.",
+        "uncertainty_notes": "N232 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -8783,7 +8783,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N133 webpage operative status is marked unverified; N002, N136, N001, and N141 are verified operative."
+          "uncertainty_notes": "N133 webpage treated as operative at the 2026-11-12 cut-off per researcher instruction; N002, N136, N001, and N141 are verified operative."
         },
         {
           "dimension": "D2",
@@ -9988,7 +9988,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N133 webpage is marked unverified for operative-at-cutoff status.",
+        "uncertainty_notes": "N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -10227,7 +10227,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N133 webpage is marked unverified."
+          "uncertainty_notes": "N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction."
         },
         {
           "dimension": "D2",
@@ -11454,7 +11454,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N133 webpage is marked unverified for operative-at-cutoff status.",
+        "uncertainty_notes": "N133 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -11469,8 +11469,8 @@
       "dimensions": [
         {
           "dimension": "D1",
-          "score": 3,
-          "reason": "Curtin explicitly covers GenAI use for grading/feedback (N002 PC2 s.2.4), fair/transparent/defensible group mark allocation (N002 s.2.8), and AI contestability and human accountability (N001 Principles 6-7).",
+          "score": 2,
+          "reason": "N002 s.2.8 requires fair, transparent, and defensible group mark allocation and N001 Principles 6-7 establish AI transparency and contestability, while N002 PC2 s.2.4 governs staff AI grading pilots rather than a student-group AI management agent.",
           "search_terms_used": [
             "peer marks",
             "group contribution",
@@ -11649,8 +11649,8 @@
         },
         {
           "dimension": "D2",
-          "score": 3,
-          "reason": "N002 PC2 s.2.4 names the Dean (Learning and Teaching), Privacy Officer, and CIO/CISO to approve any GenAI grading/feedback pilot, requires staff output verification, and connects directly to human marking on appeal under N002 PC24 (Head of School).",
+          "score": 2,
+          "reason": "N002 PC24 vests formal mark-appeal authority in the Head of School and N002 s.2.4 assigns Dean (L&T), Privacy Officer, and CIO/CISO approval for staff AI grading pilots, but no decision-maker is named for authorising a student-group AI management agent.",
           "search_terms_used": [
             "decision authority",
             "appeal marks"
@@ -11953,8 +11953,8 @@
         },
         {
           "dimension": "D4",
-          "score": 3,
-          "reason": "Clear procedural steps require prior Dean/Privacy/CIO approval, mandatory staff verification of all AI grading/feedback outputs, advance declaration to students, human marking in the event of an appeal (N002 PC2 s.2.4), and 10-working-day formal appeal to the Head of School (N002 PC24).",
+          "score": 2,
+          "reason": "N002 PC24 provides a 10-working-day formal appeal procedure against assessment marks, but no specific procedure governs a student-group AI management agent outside staff grading pilots (N002 s.2.4).",
           "search_terms_used": [
             "appeal marks",
             "fairness review"
@@ -12078,8 +12078,8 @@
         },
         {
           "dimension": "D5",
-          "score": 3,
-          "reason": "S9's critical risk is specifically protected: unverified AI evaluations cannot determine binding marks because GenAI grading is restricted to approved staff pilots with mandatory human verification and human re-marking on appeal (N002 PC2 s.2.4), fair group mark allocation (N002 s.2.8), and AI contestability/accountability (N001 Principles 6-7).",
+          "score": 2,
+          "reason": "N002 s.2.8 (fair group mark allocation), N002 PC24 (mark appeals), and N001 Principles 6-7 prevent uncontested binding marks, though student-group AI agent management is not directly addressed by the staff-pilot safeguard in N002 s.2.4.",
           "search_terms_used": [
             "peer marks",
             "fairness review",
@@ -12455,13 +12455,13 @@
         },
         "critical_gap": "No",
         "critical_risk_criterion": "An accountable human and meaningful review or effective correction of AI evaluations determining binding academic marks.",
-        "critical_gap_explanation": "N002 PC2 s.2.4 prohibits unverified AI grading by restricting AI grading/feedback to approved staff pilots with mandatory staff output verification and human marking on appeal, reinforced by N002 s.2.8 and N001 Principles 6-7.",
+        "critical_gap_explanation": "N002 s.2.8 (fair group mark allocation), N002 PC24 (10-working-day mark appeals to Head of School), and N001 Principles 6-7 prevent unreviewed AI evaluations from determining final binding marks, even though N002 PC2 s.2.4 applies specifically to staff AI grading pilots rather than student-group AI agents.",
         "evidence_status": "Sufficient",
         "insufficient_evidence_reason": "",
         "rule_direction": "Prohibition",
         "conflict_confirmed": false,
         "conflict_basis": "",
-        "case_note": "Curtin's N002 PC2 s.2.4 restricts GenAI grading or feedback to staff pilots approved by the Dean (Learning and Teaching), Privacy Officer, and CIO/CISO, requiring staff verification of all outputs, advance student declaration, and human marking on appeal. Combined with fair group mark allocation (N002 s.2.8) and AI accountability and contestability (N001), unreviewed AI evaluations cannot determine binding marks (D5=3, Critical gap=No).",
+        "case_note": "Curtin's N002 s.2.8 and PC24 protect group mark fairness and formal mark appeals, and N001 Principles 6-7 require AI contestability; however, N002 PC2 s.2.4 governs staff AI grading pilots rather than a student-group AI agent, yielding D1=2, D2=2, D4=2, D5=2 (Indeterminate under Prescribing mode).",
         "supporting_passages": [
           {
             "source_id": "N002",
@@ -12913,7 +12913,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "A008 is a webpage without an internal effective date (marked unverified); N001, N145, N210, N021, and N017 are verified operative."
+          "uncertainty_notes": "A008 is a webpage without an internal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction); N001, N145, N210, N021, and N017 are verified operative."
         },
         {
           "dimension": "D2",
@@ -14158,7 +14158,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "A008 webpage is marked unverified for operative-at-cutoff status.",
+        "uncertainty_notes": "A008 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction.",
         "calculated_outcome": "Resolved"
       }
     },
@@ -14345,7 +14345,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "A008 webpage is marked unverified."
+          "uncertainty_notes": "A008 webpage is treated as operative at the 2026-11-12 cut-off per researcher instruction."
         },
         {
           "dimension": "D2",
@@ -21464,7 +21464,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N101 is an undated webpage (operative_at_cutoff=false); A014 is a dated framework (02 Jul 2026) rather than a binding policy instrument."
+          "uncertainty_notes": "N101 is an undated webpage (operative_at_cutoff=true (per researcher cut-off instruction)); A014 is a dated framework (02 Jul 2026) rather than a binding policy instrument."
         },
         {
           "dimension": "D2",
@@ -21937,7 +21937,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=false for N225. Operative status unverified for N225 (effective date not recorded in bundle)."
+          "uncertainty_notes": "N225 links to an external Canvas URL for AI attribution guides; operative_at_cutoff=true (per researcher cut-off instruction) for N225. Treated as operative at the 2026-11-12 cut-off per researcher instruction for N225 (effective date not recorded in bundle)."
         },
         {
           "dimension": "D5",
@@ -24930,7 +24930,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "Operative status unverified for N223 (effective date not recorded in bundle)."
+          "uncertainty_notes": "Treated as operative at the 2026-11-12 cut-off per researcher instruction for N223 (effective date not recorded in bundle)."
         },
         {
           "dimension": "D2",
@@ -28371,7 +28371,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "Operative status unverified for N225 (effective date not recorded in bundle)."
+          "uncertainty_notes": "Treated as operative at the 2026-11-12 cut-off per researcher instruction for N225 (effective date not recorded in bundle)."
         },
         {
           "dimension": "D5",
@@ -32496,7 +32496,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N099 is undated (operative_at_cutoff=false), though N096 (operative) explicitly incorporates N099."
+          "uncertainty_notes": "N099 is undated (operative_at_cutoff=true (per researcher cut-off instruction)), though N096 (operative) explicitly incorporates N099."
         },
         {
           "dimension": "D2",
@@ -32629,7 +32629,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "Operative status unverified for N099 (effective date not recorded in bundle)."
+          "uncertainty_notes": "Treated as operative at the 2026-11-12 cut-off per researcher instruction for N099 (effective date not recorded in bundle)."
         },
         {
           "dimension": "D3",
@@ -32986,7 +32986,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "Operative status unverified for N099 (effective date not recorded in bundle)."
+          "uncertainty_notes": "Treated as operative at the 2026-11-12 cut-off per researcher instruction for N099 (effective date not recorded in bundle)."
         },
         {
           "dimension": "D5",
@@ -33510,7 +33510,7 @@
             ]
           }
         ],
-        "uncertainty_notes": "N099 is undated on its face (operative_at_cutoff=false) but is explicitly referenced by operative policy N096.",
+        "uncertainty_notes": "N099 is undated on its face (operative_at_cutoff=true (per researcher cut-off instruction)) but is explicitly referenced by operative policy N096.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -38587,7 +38587,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N112 and N163 are web/LibGuide pages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186)."
+          "uncertainty_notes": "N112 and N163 are web/LibGuide pages without formal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction). Missing linked instrument: Assessment Procedure Effective 01 January 2025 (referenced in N166 p.186)."
         },
         {
           "dimension": "D2",
@@ -39114,7 +39114,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N112 is a webpage without a formal effective date (Operative status unverified; operative_at_cutoff=false)."
+          "uncertainty_notes": "N112 is a webpage without a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction)."
         },
         {
           "dimension": "D6",
@@ -40570,7 +40570,7 @@
             ]
           }
         ],
-        "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).",
+        "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 and Academic Integrity procedures are missing from the Murdoch bundle; N112 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -41838,7 +41838,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N235 and N233 are webpages without formal effective dates (Operative status unverified; operative_at_cutoff=false). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle."
+          "uncertainty_notes": "N235 and N233 are webpages without formal effective dates (treated as operative at the 2026-11-12 cut-off per researcher instruction). Copyright Policy and Copyright Procedure (referenced in N235/N075) are absent from the Murdoch bundle."
         },
         {
           "dimension": "D2",
@@ -42705,7 +42705,7 @@
       "dimensions": [
         {
           "dimension": "D1",
-          "score": 0,
+          "score": null,
           "reason": "After searching the Murdoch corpus for attendance proxy, online attendance, authorised proxy, false attendance, attendance procedure, and proxy identity, no applicable provision recognises a disclosed AI avatar/proxy attending an online lecture or fulfilling student participation.",
           "search_terms_used": [
             "attendance proxy",
@@ -42796,12 +42796,12 @@
             }
           ],
           "evidence": [],
-          "zero_score_basis": "no_applicable_provision_found",
-          "uncertainty_notes": "Academic Council and Senate governance principles (N176, N177) address committee proxy voting, not student lecture attendance."
+          "zero_score_basis": "not_applicable",
+          "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0."
         },
         {
           "dimension": "D2",
-          "score": 0,
+          "score": null,
           "reason": "No relevant provision was identified in the documents and searches checked identifying a decision-maker to verify, admit, or refuse a disclosed AI attendance proxy for online classes (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
           "search_terms_used": [
             "authorised proxy",
@@ -42862,8 +42862,8 @@
             }
           ],
           "evidence": [],
-          "zero_score_basis": "no_decision_maker_identified",
-          "uncertainty_notes": ""
+          "zero_score_basis": "not_applicable",
+          "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0."
         },
         {
           "dimension": "D3",
@@ -43009,7 +43009,7 @@
         },
         {
           "dimension": "D4",
-          "score": 0,
+          "score": null,
           "reason": "No relevant provision was identified in the documents and searches checked establishing an actionable procedure for requesting, verifying, or admitting a disclosed AI proxy to an online lecture (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
           "search_terms_used": [
             "attendance procedure",
@@ -43070,12 +43070,12 @@
             }
           ],
           "evidence": [],
-          "zero_score_basis": "no_actionable_route",
-          "uncertainty_notes": ""
+          "zero_score_basis": "not_applicable",
+          "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0."
         },
         {
           "dimension": "D5",
-          "score": 0,
+          "score": null,
           "reason": "No relevant provision was identified in the documents and searches checked documenting proxy identity verification, compulsory participation validity rules, or AI-avatar recording/privacy controls (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
           "search_terms_used": [
             "proxy identity",
@@ -43160,8 +43160,8 @@
             }
           ],
           "evidence": [],
-          "zero_score_basis": "no_relevant_safeguards",
-          "uncertainty_notes": ""
+          "zero_score_basis": "not_applicable",
+          "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; dimension left unassessable rather than scored 0."
         },
         {
           "dimension": "D6",
@@ -43229,15 +43229,15 @@
         "review_route": "No",
         "review_route_explanation": "No policy establishes an attendance-proxy admission decision or a specific review route for AI proxy attendance.",
         "review_route_evidence": null,
-        "critical_gap": "Yes",
+        "critical_gap": "Uncertain",
         "critical_risk_criterion": "Verification and admission of the disclosed proxy, and a valid basis for fulfilling any compulsory student participation.",
-        "critical_gap_explanation": "No relevant provision was identified in the documents and searches checked for verifying or admitting a disclosed AI avatar as a lecture proxy or determining whether such attendance satisfies compulsory participation requirements (Assessment Procedure Effective 01 January 2025 is absent from the bundle).",
-        "evidence_status": "Sufficient",
-        "insufficient_evidence_reason": "",
+        "critical_gap_explanation": "Material uncertainty: Assessment Procedure Effective 01 January 2025 is missing from the Murdoch bundle, so absence of attendance-proxy rules cannot be established as an institutional policy gap.",
+        "evidence_status": "Insufficient",
+        "insufficient_evidence_reason": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle, preventing a defensible judgment on compulsory participation and AI proxy attendance rules.",
         "rule_direction": "Unclear",
         "conflict_confirmed": false,
         "conflict_basis": "",
-        "case_note": "General rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not establish proxy verification, admission authority, or participation validity, leaving a critical gap.",
+        "case_note": "Unassessable due to missing Assessment Procedure Effective 01 January 2025 in the Murdoch bundle; general rules in Student Integrity Regulations (N164) and IT Conditions of Use (N077) do not resolve proxy attendance.",
         "supporting_passages": [
           {
             "source_id": "N164",
@@ -45667,7 +45667,7 @@
             }
           }
         ],
-        "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date (Operative status unverified).",
+        "uncertainty_notes": "Assessment Procedure Effective 01 January 2025 is absent from the Murdoch bundle; N112 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -47933,7 +47933,7 @@
             }
           }
         ],
-        "uncertainty_notes": "Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date (Operative status unverified).",
+        "uncertainty_notes": "Assessment Policy and Assessment Procedure (referenced in N113 and N166) are absent from the Murdoch bundle; N113 lacks a formal effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -48067,7 +48067,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (Operative status unverified; operative_at_cutoff=false). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff."
+          "uncertainty_notes": "N163, N234, N111, and N172 lack Murdoch formal effective-date blocks (treated as operative at the 2026-11-12 cut-off per researcher instruction). Missing linked instruments: Research Integrity Policy, Research Integrity Procedure, AI acceptable use guidelines for staff."
         },
         {
           "dimension": "D2",
@@ -48935,7 +48935,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N242 and N172 lack formal Murdoch effective-date blocks (Operative status unverified; operative_at_cutoff=false). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle."
+          "uncertainty_notes": "N242 and N172 lack formal Murdoch effective-date blocks (treated as operative at the 2026-11-12 cut-off per researcher instruction). Human Research Ethics Policy and Research Integrity Policy/Procedure (referenced in N075 p.88) are absent from the Murdoch bundle."
         },
         {
           "dimension": "D2",
@@ -54866,7 +54866,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N116 (Academic integrity student guidance) has no effective date in the PDF text, so its operative-at-cutoff status is unverified."
+          "uncertainty_notes": "N116 (Academic integrity student guidance) has no effective date in the PDF text, treated as operative at the 2026-11-12 cut-off per researcher instruction."
         },
         {
           "dimension": "D5",
@@ -55283,7 +55283,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N116 lacks an effective date in the PDF text (Operative status unverified) and is treated as unverified supporting guidance.",
+        "uncertainty_notes": "N116 lacks an effective date in the PDF text (treated as operative at the 2026-11-12 cut-off per researcher instruction) and is treated as operative supporting guidance at the 2026-11-12 cut-off per researcher instruction.",
         "calculated_outcome": "Structured discretion"
       }
     },
@@ -62272,7 +62272,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N180 is a Library Guide without a formal policy effective date (Operative status unverified; only webpage Last Updated timestamp)."
+          "uncertainty_notes": "N180 is a Library Guide without a formal policy effective date (Treated as operative at the 2026-11-12 cut-off per researcher instruction; only webpage Last Updated timestamp)."
         },
         {
           "dimension": "D2",
@@ -62948,7 +62948,7 @@
             "query_ids": []
           }
         ],
-        "uncertainty_notes": "N180 is a Library Guide without a formal policy effective date (Operative status unverified).",
+        "uncertainty_notes": "N180 is a Library Guide without a formal policy effective date (treated as operative at the 2026-11-12 cut-off per researcher instruction).",
         "calculated_outcome": "Structured discretion"
       }
     },
@@ -67211,8 +67211,8 @@
         },
         {
           "dimension": "D2",
-          "score": 3,
-          "reason": "Unit Coordinators are explicitly authorised under N044 clauses 6.8(b)(i) and 6.9(d) and N128 (p. 9) to set AI use tiers and permissions in the Unit Outline, and N044 Table 1 and clause 10.5 assign misconduct decision-makers (Unit Coordinator, SAIO, Head of School, DVCE) with an explicit connected 10-working-day appeal route.",
+          "score": 2,
+          "reason": "Unit Coordinators are explicitly authorised under N044 clauses 6.8(b)(i) and 6.9(d) and N128 (p. 9) to set AI use tiers and permissions in the Unit Outline, and N044 Table 1 and clause 10.5 assign misconduct decision-makers and appeals; however, an appeal against a Unit Coordinator's AI permission decision is not explicitly connected (consistent with Curtin-S1 D2=2).",
           "search_terms_used": [
             "written permission",
             "appeal review decision"
@@ -70215,7 +70215,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment."
+          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment."
         },
         {
           "dimension": "D2",
@@ -70453,7 +70453,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment."
+          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; retained as supplementary to operative policies N216 and N067 so this does not materially change the judgment."
         },
         {
           "dimension": "D4",
@@ -71046,7 +71046,7 @@
             "pdf_layout_note": "Verified against original PDF layout."
           }
         ],
-        "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N216 and N067.",
+        "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; supplementary to operative policies N216 and N067.",
         "calculated_outcome": "Indeterminate"
       }
     },
@@ -74923,7 +74923,7 @@
             }
           ],
           "zero_score_basis": "not_applicable",
-          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Operative status unverified; supplementary to operative policies N044 and N067, so this does not materially change the judgment."
+          "uncertainty_notes": "N197 (AI Assessment Guidelines (Student)) is undated in the bundle: Treated as operative at the 2026-11-12 cut-off per researcher instruction; supplementary to operative policies N044 and N067, so this does not materially change the judgment."
         },
         {
           "dimension": "D6",

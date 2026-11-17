@@ -160,8 +160,12 @@ class CaseProposal(StrictModel):
     scenario_id: str
     coding_date: date
     protocol_version: Literal["1.1"]
-    coder_id: Literal["Antigravity AI proposal — awaiting human verification"]
-    human_confirmed: Literal[False]
+    coder_id: Literal[
+        "Antigravity AI proposal — awaiting human verification",
+        "HCoder 1",
+        "HCoder 2",
+    ]
+    human_confirmed: bool
     dimensions: list[DimensionProposal] = Field(min_length=6, max_length=6)
     case_summary: CaseSummary
     additional_search_requests: list[AdditionalSearchRequest]
