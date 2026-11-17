@@ -6,7 +6,7 @@ target-version = ["py311"]
 python_version = "3.11"
 strict = true
 follow_imports = "skip"
-exclude = '^(app\.py|build_coder2_json\.py|convert_to_proposalbatch\.py|fix_proposals\.py|generate_coder2\.py|policy_coder/|tests/(test_core|test_main_preparation|test_preparation)\.py$)'
+exclude = '^(app\.py|policy_coder/|tests/(test_core|test_main_preparation|test_preparation)\.py$)'
 files = [
     "generate_version_checklist.py",
     "finalize_proposals.py",

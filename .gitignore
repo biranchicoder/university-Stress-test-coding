@@ -22,3 +22,10 @@ build/
 # OS files
 Thumbs.db
 .DS_Store
+desktop.ini
+
+# Coverage & Test Caches
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
